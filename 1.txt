@@ -1,0 +1,72 @@
+# 1.0
+notations: 記號
+depend on: 取決於
+written: write p.p.
+form: 形式、表格、組成
+execute: 執行
+executed: 處決
+design: 設計
+implement: 執行(= do)
+shall: 應該
+discover: 探索
+construct: 建構
+variety: many kinds
+a variety of: 各式各樣的(= various)
+principle: 原則
+technique: 技術
+technology: 科技
+applicable: 適用於
+carrer: 職業、職涯
+scientist: 科學家
+in the future: 在未來
+feature: 特性
+study: 研究
+touches: 觸及
+upon: 在...上
+architecture: 建築、建構、工程、架構
+al-go-ri-thm: 演算法
+engireering: 工程學
+preliminary: 初步的、開端的
+chapter: 章節、篇章
+introduce: 介紹
+overview: 概述
+stucture: 結構、構造
+typical: 典型的
+type: 打(打字)
+typo: 打錯字
+discuss: 討論
+trends: 趨勢
+fashionable: 時尚的、流行的、時髦的
+shape: 形狀、型塑
+include: 包含
+exclude: 不包含
+conclude: 總結
+observe: 觀察
+relationship: 關係
+outline: 概述 (= summary = overview)
+applications: 應用
+go beyond: 超越
+beyond: 超越、在...之外
+brief: 簡短的
+concepts: 概念
+
+# 1.1
+processor: 處理器
+process: 處理、過程
+simply: 簡單地
+state: 陳述、長期狀態、州
+status: 狀態
+figure: 圖、樣貌、範例(= example)
+equivalent: 等價的(= same)
+role: 角色
+detect: 偵測
+during: 在...期間
+produce: 產生
+interpreter: 直譯器、轉譯者
+common: 普通的、常見的
+instead: 反而
+appears: 出現
+directly: 直接地
+operate: 操作、運行
+specify: 指定
+supplied: 提供、供應
