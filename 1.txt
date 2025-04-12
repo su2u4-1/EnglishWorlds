@@ -16,7 +16,7 @@ principle: 原則
 technique: 技術
 technology: 科技
 applicable: 適用於
-carrer: 職業、職涯
+career: 職業、職涯
 scientist: 科學家
 in the future: 在未來
 feature: 特性
@@ -25,12 +25,12 @@ touches: 觸及
 upon: 在...上
 architecture: 建築、建構、工程、架構
 al-go-ri-thm: 演算法
-engireering: 工程學
+engineering: 工程學
 preliminary: 初步的、開端的
 chapter: 章節、篇章
 introduce: 介紹
 overview: 概述
-stucture: 結構、構造
+structure: 結構、構造
 typical: 典型的
 type: 打(打字)
 typo: 打錯字
