@@ -1,0 +1,59 @@
+# 1.1
+produced: 產生
+usually: 通常
+much: 很多
+however: 然而
+diagnose: 診斷
+diagnostic: 診斷的
+statement: 陳述 (通常比單一句子長)
+processor: 處理器
+combine: 結合
+compilation: 編譯、彙總
+interpretation: 解釋
+shown: 顯示 (被動)
+intermediate: 中間的
+inter- : 中間、之間
+internet: 網際網路
+international: 國際的
+interpreted: 直譯的
+virtual: 虛擬的
+visual: 視覺的
+benefit: 利益、好處 (= advantage = pros)
+arrange: 安排、整理、佈置
+perhaps: 也許、可能
+across: 橫過、穿越
+in order to: 為了
+achieve: 達成、實現
+immediate: 立即的、即時的
+hybrid: 混合的
+addition to: 除此之外
+several: 幾個、數個 (= some)
+require: 要求
+divide: 拆分、分開
+modules: 模組
+separate: 分開的
+task: 任務
+collecting: 收集
+entrust: 委託、信任
+expand: 擴展
+shorthand: 速記、簡寫
+macro: 巨集、指令、大量
+micro- : 微小的
+produce: 製造
+modified: 修改的
+fed: 餵養(過去式)
+feed: 餵養
+assembly: 組裝
+easier: 更容易的
+easy: 容易的
+relocatable: 可重定位的
+relocate: 重新定位
+locate: 定位、放置
+large: 大的
+piece: 塊、片
+actually: 實際上
+resolve: 解決 (= solve)
+external: 外部的
+expand: 擴展
+refer: 提及、參考
+reference: 參考
