@@ -1,4 +1,3 @@
-# 1.0
 notations: 記號
 depend on: 取決於
 written: write p.p.
@@ -49,24 +48,3 @@ go beyond: 超越
 beyond: 超越、在...之外
 brief: 簡短的
 concepts: 概念
-
-# 1.1
-processor: 處理器
-process: 處理、過程
-simply: 簡單地
-state: 陳述、長期狀態、州
-status: 狀態
-figure: 圖、樣貌、範例 (= example)
-equivalent: 等價的 (= same)
-role: 角色
-detect: 偵測
-during: 在...期間
-produce: 產生
-interpreter: 直譯器、轉譯者
-common: 普通的、常見的
-instead: 反而
-appears: 出現
-directly: 直接地
-operate: 操作、運行
-specify: 指定
-supplied: 提供、供應
