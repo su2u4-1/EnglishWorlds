@@ -75,3 +75,17 @@ external: 外部的
 expand: 擴展
 refer: 提及、參考
 reference: 參考
+exercises: 練習、運動
+section: 部分、章節 (= part)
+mission: 任務
+advantage: 優勢
+rather: 寧可、相當
+perform: 執行、表現
+
+Exercises
+    1.
+    2-a.
+    a-b.
+    3.
+    4.
+    5.

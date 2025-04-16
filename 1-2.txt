@@ -1,0 +1,29 @@
+up to this point: 到目前為止
+treat: 對待
+single: 單一的
+semantically: 語義上、字面上
+equivalent: 等價的
+equal: 相等的
+analysis: 分析
+synthesis: 合成
+analyze: 分析
+synthesize: 合成
+break: 拆開
+constituent: 成分、組成
+imposes: 施加、執行
+grammatical: 語法的
+representation: 表示、表徵 (= show)
+either: 兩者之一
+syntactically: 句法上的
+ill: 不好的、壞的
+semantically: 語法上
+unsound: 不正確的、無效的
+provide: 提供
+informative: 提供資訊的
+corrective: 糾正的、正確的
+along: 沿著、隨著
+desired: 理想的、想要的
+front end: 前端
+back end: 後端
+examine: 檢查、審查 (= check)
+detail: 細節
