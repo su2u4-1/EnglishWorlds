@@ -83,9 +83,17 @@ rather: 寧可、相當
 perform: 執行、表現
 
 Exercises
-    1.
-    2-a.
-    a-b.
-    3.
-    4.
-    5.
+    1. What is the difference between a compiler and an interpreter?
+        Compiler is compile source code to one executable file.
+        Interpreter is read one line code, execute, read next, 直到 file end.
+    2-a. What are the advantages of a compiler over an interpreter?
+        Executable file execute faster than interpreter.
+    2-b. What are the advantages of an interpreter over a compiler?
+        No compile, so faster to run.
+        更詳細的 debug information, 方便 debug.
+    3. What advantages are there to a language-processing system in which the compiler produces assembly language rather than machine language?
+        asm is easy read 比起 machine code, and asm is easier to 移植.
+    4. A compiler that translates a hgh-level language into another high-level language is called a source-to-source translator. What advantages are there to using C as a target language for a compiler?
+        Compile to C can 借用 other compiler 的優化, can easy use C lib.
+    5. Describe some of the tasks that an assembler needs to perform.
+        Assembler needs translate assembly code to machine code.
