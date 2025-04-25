@@ -27,3 +27,44 @@ front end: 前端
 back end: 後端
 examine: 檢查、審查 (= check)
 detail: 細節
+fed: 餵給
+feed: 餵食、給
+easier: 更容易的
+may: 可能
+might: 可能 (可能性較小)
+examine: 檢查 (= check)
+operate: 操作、運行
+phase: 階段、時期 (ph = f)
+representation: 呈現方式
+typical: 典型的
+decomposition: 分解、分拆
+practice: 實際上
+several: 幾個、數個
+grouped: 分組的
+construct: 構造、建造
+explicitly: 明確地
+entire: 整個的
+lexical: 詞彙的
+syntax: 語法、句法
+semantic: 語意的
+independent: 獨立的
+optimizer: 優化器
+dependent: 依賴的
+purpose: 目的 (= target)
+perform: 執行 (= do)
+otherwise: 否則
+since: 自從、因為
+scanning: 掃描
+analysis: 分析
+meaningful: 有意義的
+lexeme: 詞素、詞根、詞位
+subsequent: 隨後的、後續的
+abstract: 抽象的
+absolute: 絕對的
+during: 在...期間
+component: 組件、元件
+entry: 進入
+suppose: 認為、假設
+assignment: 作業、指派
+statement: 陳述、聲明
+following: 以下的

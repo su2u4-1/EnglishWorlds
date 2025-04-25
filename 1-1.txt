@@ -97,3 +97,15 @@ Exercises
         Compile to C can 借用 other compiler 的優化, can easy use C lib.
     5. Describe some of the tasks that an assembler needs to perform.
         Assembler needs translate assembly code to machine code.
+
+直到 until 
+更詳細的 detailed 
+方便 easily (從形容詞變成副詞，因為搭配動詞debug 要加動詞)
+比起 compare 
+移植 migrate 
+借用 borrow 
+優化 optimization (原動詞 optimize)
+
+可以補充：編譯器產生的通常是機器碼或目標碼，不一定是單一「可執行檔」，也可能是中間碼(如 Java 的 bytecode)
+2 建議改為：「不需預先編譯，修改後可立即執行，適合開發和測試。錯誤回饋即時，方便除錯。」
+not need pre-compile, can run after modify, 適合 develop and test. error feedback 及時, easily debug.
