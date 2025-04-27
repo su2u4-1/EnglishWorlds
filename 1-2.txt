@@ -34,7 +34,7 @@ may: 可能
 might: 可能 (可能性較小)
 examine: 檢查 (= check)
 operate: 操作、運行
-phase: 階段、時期 (ph = f)
+phase: 階段、時期 (ph = f) (= stage)
 representation: 呈現方式
 typical: 典型的
 decomposition: 分解、分拆
@@ -68,3 +68,31 @@ suppose: 認為、假設
 assignment: 作業、指派
 statement: 陳述、聲明
 following: 以下的
+multiply: 乘以
+stand for: 代表
+identify: 辨認
+omit: 省略
+such as: 例如
+notational: 做記號的
+convenience: 方便、便利
+chosen: 選擇的 (choose - chose - chosen)
+initial: 初始的
+initialize: 最初的、前面的、簽名的、名字開頭的
+blank: 空白
+separate: 分開的
+discarded: 丟棄的
+multiplication: 乘法
+respectively: 相對的
+respect: 尊重
+technically: 技術上
+internal: 內部的
+defer: 尊崇、推遲
+discuss: 討論
+phrase: 短語、片語
+depict: 描述
+interior: 內部的
+indicate: 指出
+consistent: 持續的
+usual: 通常的
+convention: 習俗、慣例
+precedence: 優先權、優先
