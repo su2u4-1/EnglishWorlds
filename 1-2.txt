@@ -134,3 +134,45 @@ property: 屬性
 consider: 考慮、視為
 per: 每個
 act: 表現
+several: 幾個
+worth: 值得
+noting: 記住 (note)
+at most: 最多
+thus: 因此
+fix: 固定
+precedes: 優先於、在...之前
+temporary: 暫時的
+temperature: 溫度
+compute: 計算
+above: 以上
+fewer: 更少的
+principal: 主要的
+technique: 技術
+procedure: 流程
+optimization: 優化
+attempt: 嘗試 (= try)
+objective: 目標、客觀
+desire: 可望
+consume: 消耗
+straightforward: 直接的
+straight: 直
+follow: 跟隨
+reasonable: 合理的
+deduce: 推斷
+once and for all: 一勞永逸
+eliminate: 剔除
+moreover: 此外
+transmit: 傳送、傳輸
+variation: 變化、不同
+amount: 數量
+perform: 表現
+significant: 大的、明顯的、重要的
+spent: 花費的 (spend - spent - spent)
+immediate: 立即的
+perform: 執行 (= show, run)
+crucial: 關鍵的
+aspect: 方面
+judicious: 神聖的、明智的
+might: (小)可能
+may: (大)可能
+might: 可能(may - might - might)
