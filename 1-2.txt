@@ -1,7 +1,7 @@
 up to this point: 到目前為止
 treat: 對待
 single: 單一的
-semantically: 語義上、字面上
+semantically: 語義上、字面上、語法上
 equivalent: 等價的
 equal: 相等的
 analysis: 分析
@@ -12,11 +12,10 @@ break: 拆開
 constituent: 成分、組成
 imposes: 施加、執行
 grammatical: 語法的
-representation: 表示、表徵 (= show)
+representation: 表示、表徵、呈現方式 (= show)
 either: 兩者之一
 syntactically: 句法上的
 ill: 不好的、壞的
-semantically: 語法上
 unsound: 不正確的、無效的
 provide: 提供
 informative: 提供資訊的
@@ -30,12 +29,11 @@ detail: 細節
 fed: 餵給
 feed: 餵食、給
 easier: 更容易的
-may: 可能
+may: 可能 (可能性較大)
 might: 可能 (可能性較小)
-examine: 檢查 (= check)
+might: 可能(may - might - might)
 operate: 操作、運行
 phase: 階段、時期 (ph = f) (= stage)
-representation: 呈現方式
 typical: 典型的
 decomposition: 分解、分拆
 practice: 實際上
@@ -51,11 +49,10 @@ independent: 獨立的
 optimizer: 優化器
 dependent: 依賴的
 purpose: 目的 (= target)
-perform: 執行 (= do)
+perform: 表現、執行 (= do)
 otherwise: 否則
 since: 自從、因為
 scanning: 掃描
-analysis: 分析
 meaningful: 有意義的
 lexeme: 詞素、詞根、詞位
 subsequent: 隨後的、後續的
@@ -96,11 +93,9 @@ consistent: 持續的
 usual: 通常的
 convention: 習俗、慣例
 precedence: 優先權、優先
-grammatical: 語法的
 chapter: 章節
 specify: 指定、特定
 spec: 規格
-discuss: 討論
 algorithm: 演算法
 efficient: 高效的
 automatically: 自動地
@@ -108,13 +103,11 @@ certain: 特定的
 directed: 指向的、導向的
 consistency: 一致性
 gather: 集結
-either: 兩者之一
 both: 兩者皆可
 neither: 兩者皆不
-during: 在...期間
 important: 重要的
 import: 匯入
-operands: 操作數
+operand: 操作數
 require: 需要
 specification: 規範
 permit: 允許
@@ -123,10 +116,8 @@ convert: 轉換
 coercions: 控制、強制
 arithmetic: 算術的
 applied: 應用的
-suppose: 假設
 form: 形成、格式
 extra: 額外的
-explicitly: 明確地
 a variety of: 多種的
 commonly: 常見的
 think of as: 視為
@@ -134,7 +125,6 @@ property: 屬性
 consider: 考慮、視為
 per: 每個
 act: 表現
-several: 幾個
 worth: 值得
 noting: 記住 (note)
 at most: 最多
@@ -165,14 +155,9 @@ moreover: 此外
 transmit: 傳送、傳輸
 variation: 變化、不同
 amount: 數量
-perform: 表現
 significant: 大的、明顯的、重要的
 spent: 花費的 (spend - spent - spent)
 immediate: 立即的
-perform: 執行 (= show, run)
 crucial: 關鍵的
 aspect: 方面
 judicious: 神聖的、明智的
-might: (小)可能
-may: (大)可能
-might: 可能(may - might - might)
