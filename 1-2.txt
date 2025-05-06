@@ -161,3 +161,36 @@ immediate: 立即的
 crucial: 關鍵的
 aspect: 方面
 judicious: 神聖的、明智的
+specifies: 指定
+destination: 目的地、終點
+pound sign: #
+hash: #
+signifies: 表示、意義
+treat: 對待、看待
+treated: 被視為
+previous: 先前的
+correct: 正確的
+implement: 實作、實現
+cover: 覆蓋、涵蓋
+allocation: 分配、安排
+discussion: 討論
+depend on: 依賴於
+organization: 組織
+decision: 決定、決策
+essential: 必要的、基本的
+record: 記錄
+various: 各種的
+attribute: 屬性、特徵
+allocate: 分配
+designed: 設計的
+retrieve: 恢復
+passes: 通過、傳遞
+deal with: 處理、應對
+deal: 處理
+activities: 活動
+particular: 特定的
+goal: 目標、目的
+consisting: 組成的
+careful: 小心的
+collection: 收集、集合、版本
+combine: 結合
