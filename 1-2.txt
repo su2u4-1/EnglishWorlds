@@ -194,3 +194,46 @@ consisting: 組成的
 careful: 小心的
 collection: 收集、集合、版本
 combine: 結合
+similarly: 類似地
+profitably: 有利地、獲利地
+contain: 包含、容納
+profiler: 分析器
+harnesses: 套索、利用、套(馬鞍、背心、護甲)
+so on: 等等
+in addition to: 除了...之外
+specialized: 專業的、專門的
+various: 各種的、不同的
+specifying: 指定
+quite: 相當、非常
+sophisticated: 複雜的、精密的
+integrated: 整合的
+remainder: 剩餘物、餘數
+commonly: 普遍的
+automatically: 自動地 (= auto)
+grammatical: 語法的
+regular: 規則的、常規的
+scanner: 掃描器
+lexical: 詞彙的
+directed: 導向的
+routines: 例行公事、常規
+operation: 操作、運行
+facilitate: 配合、促進
+gathering: 收集、聚集
+transmitted: 傳送的、傳遞的
+toolkit: 工具包
+evolution: 演變、演化
+appear: 出現、顯示
+explicitly: 明確地
+talk - talked - talked: 說
+tell - told - told: 告訴
+Needless: 不必要的
+tedious: 冗長的、乏味的
+prone: 易於...的、傾向於...的
+towards: 向、朝向
+mnemonic: 助記的
+initially: 最初地
+macro: 巨集
+parameterized: 參數化的
+-ized: 使...化
+shorthand: 簡寫、速記
+frequently: 頻繁地
