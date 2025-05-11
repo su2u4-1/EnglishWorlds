@@ -237,3 +237,46 @@ parameterized: 參數化的
 -ized: 使...化
 shorthand: 簡寫、速記
 frequently: 頻繁地
+major: 主要的、大的
+latter: 後者、後期
+scientific: 科學的
+philosophy: 哲學
+numerical: 數字的、數值的
+decades: 幾十年
+innovative: 創新的
+natural: 自然的
+robust: 強健的、堅固的
+classified: 分類的
+classification: 分類
+specific: 特定的
+queries: 查詢
+postscript: 後記
+term: 術語
+constraint: 約束、限制
+imperative: 命令的、必要的
+declarative: 陳述的、聲明的
+notion: 概念
+considered: 考慮、視為
+oriented: 取向的
+consist: 組成
+interact: 互動
+gluing: 黏合
+originally: 原本地
+popular: 流行的
+impacts: 影響
+intimately: 密切地
+related: 相關的
+demand: 需求
+devise: 設計、發明
+evolve: 演變、發展
+track: 追蹤
+maximal: 最大的
+capabilities: 能力
+promote: 促進
+minimizing: 最小化
+overhead: 開銷
+critical: 關鍵的 (= important)
+in fact: 事實上
+evaluate: 評估
+concepts: 概念
+built: 建造的 (build - built - built)
