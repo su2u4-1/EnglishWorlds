@@ -1,0 +1,112 @@
+evolution: 演變、演化
+appear: 出現、顯示
+explicitly: 明確地
+talk - talked - talked: 說
+tell - told - told: 告訴
+Needless: 不必要的
+tedious: 冗長的、乏味的
+prone: 易於...的、傾向於...的
+towards: 向、朝向
+mnemonic: 助記的
+initially: 最初地
+macro: 巨集
+parameterized: 參數化的
+-ized: 使...化
+shorthand: 簡寫、速記
+frequently: 頻繁地
+major: 主要的、大的
+latter: 後者、後期
+scientific: 科學的
+philosophy: 哲學
+numerical: 數字的、數值的
+decades: 幾十年
+innovative: 創新的
+natural: 自然的
+robust: 強健的、堅固的
+classified: 分類的
+classification: 分類
+specific: 特定的
+queries: 查詢
+postscript: 後記
+term: 術語
+constraint: 約束、限制
+imperative: 命令的、必要的
+declarative: 陳述的、聲明的
+notion: 概念
+considered: 考慮、視為
+oriented: 取向的
+consist: 組成
+interact: 互動
+gluing: 黏合
+originally: 原本地
+popular: 流行的
+impacts: 影響
+intimately: 密切地
+related: 相關的
+demand: 需求
+devise: 設計、發明
+evolve: 演變、發展
+track: 追蹤
+maximal: 最大的
+capabilities: 能力
+promote: 促進
+minimizing: 最小化
+overhead: 開銷
+critical: 關鍵的 (= important)
+in fact: 事實上
+evaluate: 評估
+concepts: 概念
+built: 建造的 (build - built - built)
+challenging: 挑戰的
+moreover: 此外
+several: 幾個
+within: 在...之內
+that is: 也就是說
+possibly: 可能地
+consisting: 組成的
+consequently: 因此
+technique: 技術
+essential: 必要的
+evolving: 演變的
+correctly: 正確地
+potentially: 潛在地
+infinite: 無限的
+optimal: 最佳的
+undecidable: 無法決定的
+thus: 因此
+evaluate: 評估
+tradeoffs: 折衷
+tackle: 處理
+heuristic: 啟發式的
+approach: 方法
+efficient: 高效的
+practice: 實踐
+purpose: 目的
+methodology: 方法論
+fundamental: 基本的
+intention: 意圖
+acquire: 獲得
+relatively: 相對地
+indicate: 指示
+
+Exercises:
+    Indicate which of the following terms:
+        (a) imperative
+        (b) declarative
+        (c) von Neumann
+        (d) object-oriented
+        (e) functional
+        (f) third-generation
+        (g) fourth-generation
+        (h) scripting
+    apply to which of the following languages:
+        (1) C       : (a)、(c)、(f)
+        (2) C++     : (a)、(c)、(d)、(f)
+        (3) Cobol   : (a)、(c)、(f)
+        (4) Fortran : (c)、(f)
+        (5) Java    : (a)、(d)、(c)、(f)
+        (6) Lisp    : (b)、(c)、(e)、(f)
+        (7) ML      : (b)、(c)、(e)、(f)
+        (8) Perl    : (a)、(c)、(f)、(h)
+        (9) Python  : (a)、(c)、(d)、(f)、(h)
+        (10) VB.    : (a)、(c)、(d)、(g)、(h)

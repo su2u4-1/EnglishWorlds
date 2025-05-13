@@ -1,0 +1,25 @@
+complicated: 複雜的
+essence: 本質
+mathematically: 數學上
+serve: 服務
+excellent: 優秀的 (= good)
+illustration: 插圖、舉證
+formulate: 公式化
+capture: 捕捉
+characteristic: 特徵
+formulation: 公式化
+grounded: 基於
+solid: 堅固的
+understanding: 理解
+validate: 驗證
+refine: 定義
+empirically: 實證地、經驗上的
+accept: 接受
+conform: 符合
+specification: 規範
+performed: 執行
+preserve: 保存
+influence: 影響
+leverage: 槓桿
+particular: 特定的
+challenging: 挑戰
