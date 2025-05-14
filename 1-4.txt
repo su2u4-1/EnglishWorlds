@@ -22,4 +22,3 @@ preserve: 保存
 influence: 影響
 leverage: 槓桿
 particular: 特定的
-challenging: 挑戰

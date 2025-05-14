@@ -1,5 +1,4 @@
 evolution: 演變、演化
-appear: 出現、顯示
 explicitly: 明確地
 talk - talked - talked: 說
 tell - told - told: 告訴
@@ -55,7 +54,6 @@ overhead: 開銷
 critical: 關鍵的 (= important)
 in fact: 事實上
 evaluate: 評估
-concepts: 概念
 built: 建造的 (build - built - built)
 challenging: 挑戰的
 moreover: 此外
@@ -63,10 +61,8 @@ several: 幾個
 within: 在...之內
 that is: 也就是說
 possibly: 可能地
-consisting: 組成的
 consequently: 因此
 technique: 技術
-essential: 必要的
 evolving: 演變的
 correctly: 正確地
 potentially: 潛在地
@@ -79,7 +75,6 @@ tradeoffs: 折衷
 tackle: 處理
 heuristic: 啟發式的
 approach: 方法
-efficient: 高效的
 practice: 實踐
 purpose: 目的
 methodology: 方法論

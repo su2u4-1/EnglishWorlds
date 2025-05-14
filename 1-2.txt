@@ -2,7 +2,6 @@ up to this point: 到目前為止
 treat: 對待
 single: 單一的
 semantically: 語義上、字面上、語法上
-equivalent: 等價的
 equal: 相等的
 analysis: 分析
 synthesis: 合成
@@ -39,7 +38,6 @@ decomposition: 分解、分拆
 practice: 實際上
 several: 幾個、數個
 grouped: 分組的
-construct: 構造、建造
 explicitly: 明確地
 entire: 整個的
 lexical: 詞彙的
@@ -58,7 +56,6 @@ lexeme: 詞素、詞根、詞位
 subsequent: 隨後的、後續的
 abstract: 抽象的
 absolute: 絕對的
-during: 在...期間
 component: 組件、元件
 entry: 進入
 suppose: 認為、假設
@@ -84,7 +81,6 @@ respect: 尊重
 technically: 技術上
 internal: 內部的
 defer: 尊崇、推遲
-discuss: 討論
 phrase: 短語、片語
 depict: 描述
 interior: 內部的
@@ -93,12 +89,10 @@ consistent: 持續的
 usual: 通常的
 convention: 習俗、慣例
 precedence: 優先權、優先
-chapter: 章節
 specify: 指定、特定
 spec: 規格
-algorithm: 演算法
 efficient: 高效的
-automatically: 自動地
+automatically: 自動地 (= auto)
 certain: 特定的
 directed: 指向的、導向的
 consistency: 一致性
@@ -118,8 +112,7 @@ arithmetic: 算術的
 applied: 應用的
 form: 形成、格式
 extra: 額外的
-a variety of: 多種的
-commonly: 常見的
+commonly: 常見的、普遍的
 think of as: 視為
 property: 屬性
 consider: 考慮、視為
@@ -174,7 +167,7 @@ implement: 實作、實現
 cover: 覆蓋、涵蓋
 allocation: 分配、安排
 discussion: 討論
-depend on: 依賴於
+depend on: 依賴於、取決於
 organization: 組織
 decision: 決定、決策
 essential: 必要的、基本的
@@ -193,7 +186,6 @@ goal: 目標、目的
 consisting: 組成的
 careful: 小心的
 collection: 收集、集合、版本
-combine: 結合
 similarly: 類似地
 profitably: 有利地、獲利地
 contain: 包含、容納
@@ -208,13 +200,10 @@ quite: 相當、非常
 sophisticated: 複雜的、精密的
 integrated: 整合的
 remainder: 剩餘物、餘數
-commonly: 普遍的
-automatically: 自動地 (= auto)
 grammatical: 語法的
 regular: 規則的、常規的
 scanner: 掃描器
 lexical: 詞彙的
-directed: 導向的
 routines: 例行公事、常規
 operation: 操作、運行
 facilitate: 配合、促進
