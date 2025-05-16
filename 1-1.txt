@@ -8,23 +8,21 @@ equivalent: 等價的 (= same)
 role: 角色
 detect: 偵測
 during: 在...期間
-produce: 產生
+produce: 產生、製造
 interpreter: 直譯器、轉譯者
 common: 普通的、常見的
 instead: 反而
 appear: 出現、顯示
 directly: 直接地
 operate: 操作、運行
-specify: 指定
+specify: 指定、特定
 supplied: 提供、供應
-produced: 產生
 usually: 通常
 much: 很多
 however: 然而
 diagnose: 診斷
 diagnostic: 診斷的
-statement: 陳述 (通常比單一句子長)
-processor: 處理器
+statement: 陳述、聲明 (通常比單一句子長)
 combine: 結合
 compilation: 編譯、彙總
 interpretation: 解釋
@@ -57,10 +55,9 @@ expand: 擴展
 shorthand: 速記、簡寫
 macro: 巨集、指令、大量
 micro- : 微小的
-produce: 製造
 modified: 修改的
-fed: 餵養(過去式)
-feed: 餵養
+fed: 餵給、餵養(過去式)
+feed: 餵養、餵食、給
 assembly: 組裝
 easier: 更容易的
 easy: 容易的
@@ -72,7 +69,6 @@ piece: 塊、片
 actually: 實際上
 resolve: 解決 (= solve)
 external: 外部的
-expand: 擴展
 refer: 提及、參考
 reference: 參考
 exercises: 練習、運動
@@ -80,7 +76,7 @@ section: 部分、章節 (= part)
 mission: 任務
 advantage: 優勢
 rather: 寧可、相當
-perform: 執行、表現
+perform: 執行、表現 (= do)
 
 Exercises
     1. What is the difference between a compiler and an interpreter?

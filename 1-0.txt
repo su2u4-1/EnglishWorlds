@@ -1,11 +1,11 @@
 notations: 記號
 depend on: 依賴於、取決於
 written: write p.p.
-form: 形式、表格、組成
+form: 形式、格式、表格、組成
 execute: 執行
 executed: 處決
 design: 設計
-implement: 執行 (= do)
+implement: 實作、實現、執行 (= do)
 shall: 應該
 discover: 探索
 construct: 建構、構造、建造

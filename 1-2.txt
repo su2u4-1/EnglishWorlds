@@ -1,5 +1,5 @@
 up to this point: 到目前為止
-treat: 對待
+treat: 對待、看待
 single: 單一的
 semantically: 語義上、字面上、語法上
 equal: 相等的
@@ -25,18 +25,12 @@ front end: 前端
 back end: 後端
 examine: 檢查、審查 (= check)
 detail: 細節
-fed: 餵給
-feed: 餵食、給
-easier: 更容易的
 may: 可能 (可能性較大)
 might: 可能 (可能性較小)
 might: 可能(may - might - might)
-operate: 操作、運行
 phase: 階段、時期 (ph = f) (= stage)
-typical: 典型的
 decomposition: 分解、分拆
-practice: 實際上
-several: 幾個、數個
+practice: 實際上、實踐
 grouped: 分組的
 explicitly: 明確地
 entire: 整個的
@@ -47,7 +41,6 @@ independent: 獨立的
 optimizer: 優化器
 dependent: 依賴的
 purpose: 目的 (= target)
-perform: 表現、執行 (= do)
 otherwise: 否則
 since: 自從、因為
 scanning: 掃描
@@ -60,7 +53,6 @@ component: 組件、元件
 entry: 進入
 suppose: 認為、假設
 assignment: 作業、指派
-statement: 陳述、聲明
 following: 以下的
 multiply: 乘以
 stand for: 代表
@@ -73,7 +65,6 @@ chosen: 選擇的 (choose - chose - chosen)
 initial: 初始的
 initialize: 最初的、前面的、簽名的、名字開頭的
 blank: 空白
-separate: 分開的
 discarded: 丟棄的
 multiplication: 乘法
 respectively: 相對的
@@ -84,12 +75,11 @@ defer: 尊崇、推遲
 phrase: 短語、片語
 depict: 描述
 interior: 內部的
-indicate: 指出
+indicate: 指出、指示
 consistent: 持續的
 usual: 通常的
 convention: 習俗、慣例
 precedence: 優先權、優先
-specify: 指定、特定
 spec: 規格
 efficient: 高效的
 automatically: 自動地 (= auto)
@@ -102,7 +92,6 @@ neither: 兩者皆不
 important: 重要的
 import: 匯入
 operand: 操作數
-require: 需要
 specification: 規範
 permit: 允許
 conversion: 轉換
@@ -110,7 +99,6 @@ convert: 轉換
 coercions: 控制、強制
 arithmetic: 算術的
 applied: 應用的
-form: 形成、格式
 extra: 額外的
 commonly: 常見的、普遍的
 think of as: 視為
@@ -130,7 +118,6 @@ compute: 計算
 above: 以上
 fewer: 更少的
 principal: 主要的
-technique: 技術
 procedure: 流程
 optimization: 優化
 attempt: 嘗試 (= try)
@@ -150,7 +137,6 @@ variation: 變化、不同
 amount: 數量
 significant: 大的、明顯的、重要的
 spent: 花費的 (spend - spent - spent)
-immediate: 立即的
 crucial: 關鍵的
 aspect: 方面
 judicious: 神聖的、明智的
@@ -159,20 +145,17 @@ destination: 目的地、終點
 pound sign: #
 hash: #
 signifies: 表示、意義
-treat: 對待、看待
 treated: 被視為
 previous: 先前的
 correct: 正確的
-implement: 實作、實現
 cover: 覆蓋、涵蓋
 allocation: 分配、安排
 discussion: 討論
-depend on: 依賴於、取決於
 organization: 組織
 decision: 決定、決策
 essential: 必要的、基本的
 record: 記錄
-various: 各種的
+various: 各種的、不同的
 attribute: 屬性、特徵
 allocate: 分配
 designed: 設計的
@@ -194,16 +177,13 @@ harnesses: 套索、利用、套(馬鞍、背心、護甲)
 so on: 等等
 in addition to: 除了...之外
 specialized: 專業的、專門的
-various: 各種的、不同的
 specifying: 指定
 quite: 相當、非常
 sophisticated: 複雜的、精密的
 integrated: 整合的
 remainder: 剩餘物、餘數
-grammatical: 語法的
 regular: 規則的、常規的
 scanner: 掃描器
-lexical: 詞彙的
 routines: 例行公事、常規
 operation: 操作、運行
 facilitate: 配合、促進

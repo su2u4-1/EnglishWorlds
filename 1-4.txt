@@ -16,9 +16,7 @@ refine: 定義
 empirically: 實證地、經驗上的
 accept: 接受
 conform: 符合
-specification: 規範
 performed: 執行
 preserve: 保存
 influence: 影響
 leverage: 槓桿
-particular: 特定的
