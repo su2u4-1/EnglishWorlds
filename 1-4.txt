@@ -87,3 +87,16 @@ obscure: 模糊的
 expose: 暴露
 deters: 威脅、阻止
 turning: 轉折
+assure: 確保
+maintenance: 維護
+cost: 成本
+could: 可以 (can - could)
+nontrivial: 非凡的
+prioritize: 優先考慮
+implementing: 實施
+greatest: 最大的
+encounter: 遇到
+open-ended: 開放式的
+involves: 涉及
+experimentation: 實驗
+formulating: 公式化
