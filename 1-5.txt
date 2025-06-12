@@ -105,3 +105,41 @@ synchronization: 同步
 among: 在...之間
 intensive: 密集的
 greatly: 大大地
+consists: 包含
+hierarchy: 階層
+closest: 最近的
+close: 接近的、關閉的
+average: 平均
+satisfied: 滿意的
+existence: 存在
+potential: 潛在的
+harnessed: 利用
+deliver: 傳遞
+hundreds: 數百
+kilobytes: 千字節 (KB)
+megabytes: 兆字節 (MB)
+gigabytes: 千兆字節 (GB)
+physical: 實體的
+secondary: 次要的
+correspondingly: 相應地
+adjacent: 相鄰的
+emphasis: 強調
+probably: 可能
+unlike: 不像
+managed: 管理的
+policies: 政策
+implemented: 實施
+layout: 佈局
+effectiveness: 有效性
+norm: 標準
+determined: 確定、決定
+raw: 原始的
+proposed: 提出的
+influenced: 影響
+prior: 先前的
+invention: 發明
+progressive: 進步的
+parameter: 參數
+simpler: 更簡單
+concept: 概念
+although: 雖然
