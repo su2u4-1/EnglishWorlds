@@ -143,3 +143,51 @@ parameter: 參數
 simpler: 更簡單
 concept: 概念
 although: 雖然
+decade: 十年
+propose: 提出
+systolic: 收縮的、脈動的
+systolic array: 脈動陣列
+distribute: 分布
+distributed memory: 分布式存儲
+accompanied: 陪伴的
+corresponding: 相應的
+embed: 嵌入
+fit: 適合
+fit on: 適合於
+prepackaged: 預先打包的
+commodity: 商品
+tailored: 定制的
+contrast: 對比
+economic: 經濟的
+scale: 規模
+converge: 匯聚
+exhibit: 展示
+diversity: 多樣性
+compiling: 編譯
+companies: 公司
+availability: 可用性
+domination: 支配
+incorporation: 企業 (Inc.)
+implementation: 實施
+executing: 執行
+relies: 依賴
+backward: 向後的
+compatibility: 兼容性
+Macintosh: 麥金塔
+motorola: 摩托羅拉
+legacy: 遺產、初期
+mostly: 大多數
+circuit: 電路
+integrated circuit: 集成電路、積體電路
+transfer: 傳輸
+represent: 代表
+combination: 組合
+transistor: 晶體管
+eventually: 最終
+exist: 存在
+query: 查詢
+structured: 結構化的
+predicate: 謂詞
+containing: 包含
+relational: 關聯的
+satisfying: 滿足
