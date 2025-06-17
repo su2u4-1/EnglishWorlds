@@ -1,0 +1,16 @@
+basic: 基礎
+cover: 封面、涵蓋
+terminology: 術語
+terminal: 終端
+terminate: 終止、終結
+distinction: 區別、區分
+appear: 出現、似乎
+purpose: 目的、用途
+concept: 概念、觀念
+popular: 流行的、受歡迎的
+assume: 假設、認為
+reader: 讀者、閱讀器
+familiar: 熟悉的、親切的
+family: 家族、系列
+least: 最少、至少
+encounter: 遇到、遭遇 (= face)
