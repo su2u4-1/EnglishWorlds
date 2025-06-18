@@ -1,4 +1,4 @@
-files = ["./1-0.txt", "./1-1.txt", "./1-2.txt", "./1-3.txt", "./1-4.txt", "./1-5.txt"]
+files = ["./1-0.txt", "./1-1.txt", "./1-2.txt", "./1-3.txt", "./1-4.txt", "./1-5.txt", "./1-6.txt"]
 
 words: list[tuple[str, str, str]] = []
 for file in files:
