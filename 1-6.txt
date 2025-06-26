@@ -30,3 +30,18 @@ according to: 根據
 fragment: 片段
 reserved: 保留的
 adjust: 調整
+whenever: 無論何時
+presumably: 大概、可能
+precede: 在...之前、先於
+versus: 對比、對抗
+binding: 綁定、約束
+throughout: 在整個過程中、貫穿
+one and for all: 永久地、徹底地
+impossible: 不可能的、無法實現的
+definition: 定義、解釋
+distinguish: 區分、辨別
+denote: 表示、指示
+letter: 字母、信件
+entity: 實體、存在
+qualify: 資格、限定
+qualifier: 限定詞、修飾語
