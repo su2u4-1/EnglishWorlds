@@ -68,3 +68,25 @@ nested: 嵌套的、內含的
 referred: 提及、參考
 belong: 屬於、歸屬
 closely: 緊密地、密切地
+express: 表達、表示
+smallest: 最小的、最少的
+largest: 最大的、最多的
+belonging: 屬於、歸屬
+subtraction: 減法、減去
+minus: 減去、負號
+etcetera: 等等、其他
+continuously to: 持續地、不斷地
+alternatively: 交替地、或者
+aid: 幫助、援助
+summarize: 總結、概括
+immune: 免疫的、免除的
+increasing: 增加的、增長的
+fortunately: 幸運地、幸好
+erroneous: 錯誤的、不正確的
+analogy: 類比、類似
+extend: 擴展、延伸
+angle: 角度、角
+encapsulation: 封裝、包裝
+restricting: 限制、約束
+purposely: 有目的地、故意地
+associated: 關聯的、聯繫的
