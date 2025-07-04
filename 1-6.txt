@@ -90,3 +90,10 @@ encapsulation: 封裝、包裝
 restricting: 限制、約束
 purposely: 有目的地、故意地
 associated: 關聯的、聯繫的
+region: 區域、範圍
+alternate: 交替、輪流
+until: 直到、直至
+recently: 最近、近來
+situation: 情況、情境
+expansion: 擴展、膨脹
+apparently: 顯然地、明顯地
