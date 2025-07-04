@@ -45,12 +45,14 @@ practically: 實際上
 aggregate: 聚合、總計
 invocation: 調用
 access: 訪問
+accesses: 訪問
+accessible: 可訪問的
+accessed: 訪問
 developed: 開發的
 redundancies: 冗餘
 inheritance: 繼承
 properties: 屬性
 previously: 先前
-accesses: 訪問
 ensure: 確保
 lie: 躺、謊言
 bound: 有界的
@@ -62,7 +64,6 @@ reduce: 減少
 eliminating: 消除 (= delete)
 unnecessary: 不必要的
 allocating: 分配
-accessible: 可訪問的
 distributed: 分布式
 native: 本地的
 dynamically: 動態地
@@ -248,7 +249,6 @@ mistake: 錯誤
 breach: 破壞、違反
 caused: 引起
 fail: 失敗
-accessed: 訪問
 tricked: 欺騙
 trick: 欺騙
 manipulate: 操縱
