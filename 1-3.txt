@@ -48,10 +48,10 @@ capabilities: 能力
 promote: 促進
 minimizing: 最小化
 overhead: 開銷
-critical: 關鍵的 (= important)
+critical: 關鍵的、(= important)
 in fact: 事實上
 evaluate: 評估
-built: 建造的 (build - built - built)
+built: 建造的、(build - built - built)
 challenging: 挑戰的
 within: 在...之內
 that is: 也就是說
@@ -72,25 +72,3 @@ fundamental: 基本的
 intention: 意圖
 acquire: 獲得
 relatively: 相對地
-
-Exercises:
-    Indicate which of the following terms:
-        (a) imperative          : 1, 2, 3, 5, 8, 9, 10
-        (b) declarative         : 6, 7
-        (c) von Neumann         : 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-        (d) object-oriented     : 2, 5, 8, 9, 10
-        (e) functional          : 6, 7, 9
-        (f) third-generation    : 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-        (g) fourth-generation   : none
-        (h) scripting           : 8, 9
-    apply to which of the following languages:
-        (1) C       : (a)、(c)、(f)
-        (2) C++     : (a)、(c)、(d)、(f)
-        (3) Cobol   : (a)、(c)、(f)
-        (4) Fortran : (c)、(f)
-        (5) Java    : (a)、(d)、(c)、(f)
-        (6) Lisp    : (b)、(c)、(e)、(f)
-        (7) ML      : (b)、(c)、(e)、(f)
-        (8) Perl    : (a)、(c)、(d)、(f)、(h)
-        (9) Python  : (a)、(c)、(d)、(e)、(f)、(h)
-        (10) VB     : (a)、(c)、(d)、(f)

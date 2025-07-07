@@ -1,888 +1,888 @@
--ized: 使...化 [in ./1-3.txt line 11]
-a variety of: 各式各樣的 (= various) [in ./1-0.txt line 13]
-ability: 能力 [in ./1-4.txt line 55]
-above: 以上 [in ./1-2.txt line 118]
-absolute: 絕對的 [in ./1-2.txt line 51]
-abstract: 抽象的 [in ./1-2.txt line 50]
-accept: 接受 [in ./1-4.txt line 15]
-access: 訪問 [in ./1-5.txt line 47]
-accessed: 訪問 [in ./1-5.txt line 50]
-accesses: 訪問 [in ./1-5.txt line 48]
-accessible: 可訪問的 [in ./1-5.txt line 49]
-accompanied: 陪伴的 [in ./1-5.txt line 153]
-according to: 根據 [in ./1-6.txt line 29]
-achieve: 達成、實現 [in ./1-1.txt line 42]
-acquire: 獲得 [in ./1-3.txt line 73]
-across: 橫過、穿越 [in ./1-1.txt line 40]
-act: 表現 [in ./1-2.txt line 108]
-activities: 活動 [in ./1-2.txt line 166]
-actual: 實際的、真實的 [in ./1-6.txt line 113]
-actually: 實際上 [in ./1-1.txt line 69]
-addition to: 除此之外 [in ./1-1.txt line 45]
-additionally: 除此之外 [in ./1-5.txt line 4]
-adequate: 足夠的 [in ./1-5.txt line 261]
-adjacent: 相鄰的 [in ./1-5.txt line 126]
-adjust: 調整 [in ./1-6.txt line 32]
-advance: 進步 [in ./1-5.txt line 43]
-advantage: 優勢 [in ./1-1.txt line 77]
-affect: 影響 [in ./1-6.txt line 23]
-against: 反對、對抗 [in ./1-4.txt line 22]
-aggregate: 聚合、總計 [in ./1-5.txt line 45]
-aid: 幫助、援助 [in ./1-6.txt line 80]
-al-go-ri-thm: 演算法 [in ./1-0.txt line 26]
-alarms: 警報 [in ./1-5.txt line 222]
-allocate: 分配 [in ./1-2.txt line 160]
-allocating: 分配 [in ./1-5.txt line 66]
-allocation: 分配、安排 [in ./1-2.txt line 152]
-almost: 幾乎 [in ./1-5.txt line 77]
-along: 沿著、隨著 [in ./1-2.txt line 22]
-alter: 改變 (= change) [in ./1-5.txt line 200]
-alternate: 交替、輪流 [in ./1-6.txt line 94]
-alternative: 替代的 [in ./1-5.txt line 199]
-alternatively: 交替地、或者 [in ./1-6.txt line 79]
-although: 雖然 [in ./1-5.txt line 146]
-among: 在...之間 [in ./1-5.txt line 106]
-amount: 數量 [in ./1-2.txt line 137]
-analogy: 類比、類似 [in ./1-6.txt line 86]
-analysis: 分析 [in ./1-2.txt line 6]
-analyze: 分析 [in ./1-2.txt line 8]
-and can: 並且可以 [in ./1-5.txt line 9]
-angle: 角度、角 [in ./1-6.txt line 88]
-apparently: 顯然地、明顯地 [in ./1-6.txt line 99]
-appear: 出現、顯示 [in ./1-1.txt line 15]
-applicable: 適用於 [in ./1-0.txt line 17]
-application: 應用 [in ./1-4.txt line 76]
-applications: 應用 [in ./1-0.txt line 46]
-applied: 應用的 [in ./1-2.txt line 101]
-applies: 應用、適用 [in ./1-6.txt line 19]
-approach: 方法 [in ./1-3.txt line 69]
-appropriate: 適當的、合適的 [in ./1-6.txt line 107]
-approximation: 近似、估計 [in ./1-6.txt line 55]
-architecture: 建築、建構、工程、架構 [in ./1-0.txt line 25]
-areas: 領域 [in ./1-5.txt line 6]
-arguably: 可以說 [in ./1-5.txt line 206]
-arithmetic: 算術的 [in ./1-2.txt line 100]
-arrange: 安排、整理、佈置 [in ./1-1.txt line 38]
-array: 陣列 [in ./1-5.txt line 59]
-artifact: 人造 [in ./1-5.txt line 207]
-asks: 詢問、要求 [in ./1-6.txt line 104]
-aspect: 方面 [in ./1-2.txt line 141]
-assembly: 組裝 [in ./1-1.txt line 61]
-assignment: 作業、指派 [in ./1-2.txt line 55]
-assist: 協助 [in ./1-5.txt line 219]
-associate: 聯繫、關聯 [in ./1-6.txt line 63]
-associated: 關聯的、聯繫的 [in ./1-6.txt line 92]
-association: 聯繫 [in ./1-6.txt line 28]
-assume: 假設、認為 [in ./1-6.txt line 6]
-assure: 確保 [in ./1-4.txt line 90]
-at most: 最多 [in ./1-2.txt line 111]
-attempt: 嘗試 (= try) [in ./1-2.txt line 123]
-attribute: 屬性、特徵 [in ./1-2.txt line 159]
-automatically: 自動地 (= auto) [in ./1-2.txt line 85]
-availability: 可用性 [in ./1-5.txt line 169]
-average: 平均 [in ./1-5.txt line 113]
-avoid: 避免、防止 [in ./1-6.txt line 57]
-back end: 後端 [in ./1-2.txt line 25]
-backward: 向後的 [in ./1-5.txt line 175]
-balance: 平衡 [in ./1-5.txt line 234]
-balancing: 平衡 [in ./1-4.txt line 20]
-basic: 基礎 [in ./1-6.txt line 1]
-behave: 行為、舉止 [in ./1-6.txt line 62]
-behavior: 行為 [in ./1-4.txt line 58]
-belong: 屬於、歸屬 [in ./1-6.txt line 69]
-belonging: 屬於、歸屬 [in ./1-6.txt line 74]
-benefit: 利益、好處 (= advantage = pros) [in ./1-1.txt line 37]
-better: 更好 [in ./1-5.txt line 73]
-beyond: 超越、在...之外 [in ./1-0.txt line 48]
-binding: 綁定、約束 [in ./1-6.txt line 37]
-blank: 空白 [in ./1-2.txt line 67]
-both: 兩者皆可 [in ./1-2.txt line 90]
-bound: 有界的 [in ./1-5.txt line 58]
-breach: 破壞、違反 [in ./1-5.txt line 249]
-break: 拆開 [in ./1-2.txt line 10]
-brief: 簡短的 [in ./1-0.txt line 49]
-built: 建造的 (build - built - built) [in ./1-3.txt line 54]
-callee: 被調用者、被呼叫者 [in ./1-6.txt line 123]
-capabilities: 能力 [in ./1-3.txt line 47]
-capture: 捕捉 [in ./1-4.txt line 7]
-career: 職業、職涯 [in ./1-0.txt line 18]
-careful: 小心的 [in ./1-2.txt line 170]
-careless: 粗心的 [in ./1-5.txt line 244]
-catastrophic: 災難性的 [in ./1-5.txt line 212]
-category: 類別 [in ./1-5.txt line 221]
-caused: 引起 [in ./1-5.txt line 250]
-certain: 特定的 [in ./1-2.txt line 86]
-challenging: 挑戰的 [in ./1-3.txt line 55]
-chapter: 章節、篇章 [in ./1-0.txt line 29]
-characteristic: 特徵 [in ./1-4.txt line 8]
-chosen: 選擇的 (choose - chose - chosen) [in ./1-2.txt line 64]
-circuit: 電路 [in ./1-5.txt line 181]
-circumstance: 情況 [in ./1-5.txt line 232]
-classification: 分類 [in ./1-3.txt line 23]
-classified: 分類的 [in ./1-3.txt line 22]
-clearly: 明確地 [in ./1-5.txt line 240]
-close: 接近的、關閉的 [in ./1-5.txt line 112]
-closely: 緊密地、密切地 [in ./1-6.txt line 70]
-closest: 最近的 [in ./1-5.txt line 111]
-coercions: 控制、強制 [in ./1-2.txt line 99]
-collecting: 收集 [in ./1-1.txt line 52]
-collection: 收集、集合、版本 [in ./1-2.txt line 171]
-combination: 組合 [in ./1-5.txt line 185]
-combine: 結合 [in ./1-1.txt line 26]
-commodity: 商品 [in ./1-5.txt line 159]
-common: 普通的、常見的 [in ./1-1.txt line 13]
-commonly: 常見的、普遍的 [in ./1-2.txt line 103]
-companies: 公司 [in ./1-5.txt line 168]
-compatibility: 兼容性 [in ./1-5.txt line 176]
-compilation: 編譯、彙總 [in ./1-1.txt line 27]
-compiling: 編譯 [in ./1-5.txt line 167]
-complementary: 補充的、互補的 [in ./1-5.txt line 216]
-complete: 完成 [in ./1-5.txt line 201]
-completely: 完全地 [in ./1-4.txt line 74]
-complex: 複雜的 [in ./1-4.txt line 33]
-complicated: 複雜的 [in ./1-4.txt line 1]
-component: 組件、元件 [in ./1-2.txt line 52]
-compromise: 妥協、危害 [in ./1-5.txt line 256]
-compute: 計算 [in ./1-2.txt line 117]
-concentrate: 集中、專注 [in ./1-6.txt line 15]
-concept: 概念 [in ./1-5.txt line 145]
-concepts: 概念 [in ./1-0.txt line 50]
-conclude: 總結 [in ./1-0.txt line 42]
-conform: 符合 [in ./1-4.txt line 16]
-consequently: 因此 [in ./1-3.txt line 59]
-conservative: 保守的 [in ./1-5.txt line 230]
-conserve: 節省 [in ./1-4.txt line 83]
-consider: 考慮、視為 [in ./1-2.txt line 106]
-considered: 考慮、視為 [in ./1-3.txt line 32]
-consist: 組成 [in ./1-3.txt line 34]
-consistency: 一致性 [in ./1-2.txt line 88]
-consistent: 持續的 [in ./1-2.txt line 79]
-consisting: 組成的 [in ./1-2.txt line 169]
-consists: 包含 [in ./1-5.txt line 109]
-constituent: 成分、組成 [in ./1-2.txt line 11]
-constraint: 約束、限制 [in ./1-3.txt line 28]
-construct: 建構、構造、建造 [in ./1-0.txt line 11]
-consume: 消耗 [in ./1-2.txt line 126]
-consumption: 消耗 [in ./1-4.txt line 81]
-contain: 包含、容納 [in ./1-2.txt line 174]
-containing: 包含 [in ./1-5.txt line 192]
-continuously to: 持續地、不斷地 [in ./1-6.txt line 78]
-contrast: 對比 [in ./1-5.txt line 161]
-convenience: 方便、便利 [in ./1-2.txt line 63]
-convention: 習俗、慣例 [in ./1-2.txt line 81]
-conventional: 傳統的、常規的 [in ./1-5.txt line 101]
-converge: 匯聚 [in ./1-5.txt line 164]
-conversion: 轉換 [in ./1-2.txt line 97]
-convert: 轉換 [in ./1-2.txt line 98]
-copied: 複製的、抄襲的 (copy) [in ./1-6.txt line 119]
-correct: 正確的 [in ./1-2.txt line 150]
-corrective: 糾正的、正確的 [in ./1-2.txt line 21]
-correctly: 正確地 [in ./1-3.txt line 61]
-correctness: 正確性 [in ./1-4.txt line 70]
-corresponding: 相應的 [in ./1-5.txt line 154]
-correspondingly: 相應地 [in ./1-5.txt line 125]
-cost: 成本 [in ./1-4.txt line 92]
-could: 可以 (can - could) [in ./1-4.txt line 93]
-cover: 覆蓋、涵蓋 [in ./1-2.txt line 151]
-critical: 關鍵的 (= important) [in ./1-3.txt line 51]
-crucial: 關鍵的 [in ./1-2.txt line 140]
-dare: 敢於 [in ./1-4.txt line 73]
-deal with: 處理、應對 [in ./1-2.txt line 164]
-deal: 處理 [in ./1-2.txt line 165]
-decade: 十年 [in ./1-5.txt line 147]
-decades: 幾十年 [in ./1-3.txt line 18]
-decide: 決定、決策 [in ./1-6.txt line 14]
-decided: 決定的、已決定的 [in ./1-6.txt line 109]
-decision: 決定、決策 [in ./1-2.txt line 155]
-declaration: 聲明、宣告 [in ./1-6.txt line 49]
-declarative: 陳述的、聲明的 [in ./1-3.txt line 30]
-decomposition: 分解、分拆 [in ./1-2.txt line 32]
-deduce: 推斷 [in ./1-2.txt line 131]
-defer: 尊崇、推遲 [in ./1-2.txt line 74]
-definition: 定義、解釋 [in ./1-6.txt line 41]
-delimit: 劃定、界定 [in ./1-6.txt line 54]
-deliver: 傳遞 [in ./1-5.txt line 118]
-demand: 需求 [in ./1-3.txt line 42]
-denote: 表示、指示 [in ./1-6.txt line 43]
-denoted: 表示 [in ./1-6.txt line 25]
-depend on: 依賴於、取決於 [in ./1-0.txt line 2]
-dependencies: 依賴關係 [in ./1-5.txt line 88]
-dependent: 依賴的 [in ./1-2.txt line 42]
-depending: 取決於 [in ./1-6.txt line 27]
-depends: 取決於 [in ./1-5.txt line 27]
-depict: 描述 [in ./1-2.txt line 76]
-dereference: 解引用 [in ./1-5.txt line 239]
-dereferencing: 解引用 [in ./1-5.txt line 227]
-design: 設計 [in ./1-0.txt line 7]
-designed: 設計的 [in ./1-2.txt line 161]
-designing: 設計、設計過程 [in ./1-6.txt line 12]
-desirable: 令人滿意的、可望的 [in ./1-4.txt line 47]
-desire: 可望 [in ./1-2.txt line 125]
-desired: 理想的、想要的 [in ./1-2.txt line 23]
-destination: 目的地、終點 [in ./1-2.txt line 144]
-detail: 細節 [in ./1-2.txt line 27]
-detect: 偵測 [in ./1-1.txt line 9]
-detector: 偵測器 [in ./1-5.txt line 223]
-determination: 確定、決心 [in ./1-6.txt line 101]
-determine: 確定、決定 [in ./1-6.txt line 17]
-determined: 確定、決定 [in ./1-5.txt line 136]
-deters: 威脅、阻止 [in ./1-4.txt line 88]
-develop: 開發 [in ./1-5.txt line 23]
-developed: 開發的 [in ./1-5.txt line 51]
-device: 裝置 [in ./1-4.txt line 78]
-devise: 設計、發明 [in ./1-3.txt line 43]
-diagnose: 診斷 [in ./1-1.txt line 23]
-diagnostic: 診斷的 [in ./1-1.txt line 24]
-differ: 不同、差異 [in ./1-6.txt line 112]
-difficult: 困難的 [in ./1-4.txt line 72]
-directed: 指向的、導向的 [in ./1-2.txt line 87]
-direction: 方向 [in ./1-5.txt line 34]
-directly: 直接地 [in ./1-1.txt line 16]
-discarded: 丟棄的 [in ./1-2.txt line 68]
-discipline: 學科、原則 [in ./1-5.txt line 195]
-discover: 探索 [in ./1-0.txt line 10]
-discuss: 討論 [in ./1-0.txt line 36]
-discussing: 討論、商討 [in ./1-6.txt line 58]
-discussion: 討論 [in ./1-2.txt line 153]
-distinction: 區別、區分 [in ./1-6.txt line 5]
-distinguish: 區分、辨別 [in ./1-6.txt line 42]
-distinguishing: 區分、辨別 [in ./1-6.txt line 105]
-distribute: 分布 [in ./1-5.txt line 151]
-distributed memory: 分布式存儲 [in ./1-5.txt line 152]
-distributed: 分布式 [in ./1-5.txt line 67]
-distributing: 分發 [in ./1-5.txt line 104]
-diversity: 多樣性 [in ./1-5.txt line 166]
-divide: 拆分、分開 [in ./1-1.txt line 48]
-domination: 支配 [in ./1-5.txt line 170]
-done: 完成的、做好的 [in ./1-6.txt line 122]
-during: 在...期間 [in ./1-1.txt line 10]
-dynamic: 動態的 [in ./1-5.txt line 70]
-dynamically: 動態地 [in ./1-5.txt line 69]
-easier: 更容易的 [in ./1-1.txt line 62]
-easy: 容易的 [in ./1-1.txt line 63]
-economic: 經濟的 [in ./1-5.txt line 162]
-effect: 效果、影響 [in ./1-6.txt line 120]
-effectiveness: 有效性 [in ./1-5.txt line 134]
-efficiency: 效率 [in ./1-4.txt line 24]
-efficient: 高效的 [in ./1-2.txt line 84]
-effort: 努力、效益 [in ./1-4.txt line 65]
-either: 兩者之一 [in ./1-2.txt line 15]
-element: 元素 [in ./1-6.txt line 24]
-eliminate: 剔除 [in ./1-2.txt line 133]
-eliminating: 消除 (= delete) [in ./1-5.txt line 64]
-embed: 嵌入 [in ./1-5.txt line 155]
-embedded: 嵌入的 [in ./1-4.txt line 75]
-emphasis: 強調 [in ./1-5.txt line 127]
-emphasize: 強調 [in ./1-4.txt line 69]
-empirically: 實證地、經驗上的 [in ./1-4.txt line 14]
-encapsulation: 封裝、包裝 [in ./1-6.txt line 89]
-encounter: 遇到 [in ./1-4.txt line 98]
-engineering: 工程學 [in ./1-0.txt line 27]
-ensure: 確保 [in ./1-5.txt line 56]
-entire: 整個的 [in ./1-2.txt line 36]
-entity: 實體、存在 [in ./1-6.txt line 45]
-entrust: 委託、信任 [in ./1-1.txt line 53]
-entry: 進入 [in ./1-2.txt line 53]
-equal: 相等的 [in ./1-2.txt line 5]
-equivalent: 等價的 (= same) [in ./1-1.txt line 7]
-erroneous: 錯誤的、不正確的 [in ./1-6.txt line 85]
-especially: 特別是 [in ./1-5.txt line 32]
-essence: 本質 [in ./1-4.txt line 2]
-essential: 必要的、基本的 [in ./1-2.txt line 156]
-established: 已建立的 [in ./1-5.txt line 235]
-etcetera: 等等、其他 [in ./1-6.txt line 77]
-evaluate: 評估 [in ./1-3.txt line 53]
-evaluation: 評估 [in ./1-4.txt line 61]
-eventually: 最終 [in ./1-5.txt line 187]
-evolution: 演變、演化 [in ./1-3.txt line 1]
-evolve: 演變、發展 [in ./1-3.txt line 44]
-evolving: 演變的 [in ./1-3.txt line 60]
-examine: 檢查、審查 (= check) [in ./1-2.txt line 26]
-excellent: 優秀的 (= good) [in ./1-4.txt line 5]
-exclude: 不包含 [in ./1-0.txt line 41]
-execute: 執行 [in ./1-0.txt line 5]
-executed: 處決 [in ./1-0.txt line 6]
-executing: 執行 [in ./1-5.txt line 173]
-exercise: 練習 [in ./1-5.txt line 218]
-exercises: 練習、運動 [in ./1-1.txt line 74]
-exhibit: 展示 [in ./1-5.txt line 165]
-exist: 存在 [in ./1-5.txt line 188]
-existence: 存在 [in ./1-5.txt line 115]
-expand: 擴展 [in ./1-1.txt line 54]
-expansion: 擴展、膨脹 [in ./1-6.txt line 98]
-expensive: 昂貴的 [in ./1-5.txt line 198]
-experiment: 實驗 [in ./1-4.txt line 60]
-experimentation: 實驗 [in ./1-4.txt line 101]
-explain: 解釋、說明 [in ./1-6.txt line 116]
-explicit: 明確的、清楚的 [in ./1-6.txt line 51]
-explicitly: 明確地 [in ./1-2.txt line 35]
-exploit: 利用、解釋 [in ./1-5.txt line 86]
-expose: 暴露 [in ./1-4.txt line 87]
-express: 表達、表示 [in ./1-6.txt line 71]
-expresses: 表達 [in ./1-5.txt line 8]
-extend: 擴展、延伸 [in ./1-6.txt line 87]
-extensive: 廣泛的、延展性 [in ./1-4.txt line 44]
-external: 外部的 [in ./1-1.txt line 71]
-extra: 額外的 [in ./1-2.txt line 102]
-extracted: 提取 [in ./1-5.txt line 72]
-facilitate: 配合、促進 [in ./1-2.txt line 189]
-facility: 設施 [in ./1-5.txt line 60]
-factory: 工廠 [in ./1-5.txt line 61]
-fail: 失敗 [in ./1-5.txt line 251]
-familiar: 熟悉的、親切的 [in ./1-6.txt line 8]
-family: 家族、系列 [in ./1-6.txt line 9]
-fashionable: 時尚的、流行的、時髦的 [in ./1-0.txt line 38]
-feature: 特性 [in ./1-0.txt line 21]
-fed: 餵給、餵養(過去式) [in ./1-1.txt line 59]
-feed: 餵養、餵食、給 [in ./1-1.txt line 60]
-fewer: 更少的 [in ./1-2.txt line 119]
-figure: 圖、樣貌、範例 (= example) [in ./1-1.txt line 6]
-finding: 發現 [in ./1-5.txt line 103]
-fit on: 適合於 [in ./1-5.txt line 157]
-fit: 適合 [in ./1-5.txt line 156]
-fix: 固定 [in ./1-2.txt line 113]
-flaw: 缺陷 [in ./1-5.txt line 247]
-follow: 跟隨 [in ./1-2.txt line 129]
-following: 以下的 [in ./1-2.txt line 56]
-form: 形式、格式、表格、組成 [in ./1-0.txt line 4]
-formal: 正式的、規範的 [in ./1-6.txt line 114]
-formulate: 公式化 [in ./1-4.txt line 56]
-formulating: 公式化 [in ./1-4.txt line 102]
-formulation: 公式化 [in ./1-4.txt line 9]
-fortunately: 幸運地、幸好 [in ./1-6.txt line 84]
-foundation: 基礎 [in ./1-4.txt line 46]
-fragment: 片段 [in ./1-6.txt line 30]
-freed: 釋放 [in ./1-5.txt line 228]
-frequently: 頻繁地 [in ./1-3.txt line 12]
-front end: 前端 [in ./1-2.txt line 24]
-fundamental: 基本的 [in ./1-3.txt line 71]
-gather: 集結 [in ./1-2.txt line 89]
-gathering: 收集、聚集 [in ./1-2.txt line 190]
-generality: 一般性 [in ./1-4.txt line 21]
-gigabytes: 千兆字節 (GB) [in ./1-5.txt line 122]
-gluing: 黏合 [in ./1-3.txt line 36]
-go beyond: 超越 [in ./1-0.txt line 47]
-goal: 目標、目的 [in ./1-2.txt line 168]
-grammatical: 語法的 [in ./1-2.txt line 13]
-greatest: 最大的 [in ./1-4.txt line 97]
-greatly: 大大地 [in ./1-5.txt line 108]
-grounded: 基於 [in ./1-4.txt line 10]
-grouped: 分組的 [in ./1-2.txt line 34]
-guarantee: 保證 [in ./1-4.txt line 32]
-guaranteed: 保證 [in ./1-5.txt line 225]
-had: 有 (have的過去式) [in ./1-5.txt line 259]
-handwriting: 硬連線 [in ./1-5.txt line 28]
-harnessed: 利用 [in ./1-5.txt line 117]
-harnesses: 套索、利用、套(馬鞍、背心、護甲) [in ./1-2.txt line 176]
-hash: # [in ./1-2.txt line 146]
-held: 握住、舉行 [in ./1-6.txt line 20]
-heuristic: 啟發式的 [in ./1-3.txt line 68]
-hidden: 隱藏的 [in ./1-5.txt line 87]
-hides: 隱藏 [in ./1-5.txt line 102]
-hierarchies: 階層 [in ./1-5.txt line 79]
-hierarchy: 階層 [in ./1-5.txt line 110]
-historical: 歷史的、歷史性的 [in ./1-6.txt line 118]
-however: 然而 [in ./1-1.txt line 22]
-hundreds: 數百 [in ./1-5.txt line 119]
-hurt: 傷害 [in ./1-5.txt line 31]
-hybrid: 混合的 [in ./1-1.txt line 44]
-identify: 辨認 [in ./1-2.txt line 59]
-ill: 不好的、壞的 [in ./1-2.txt line 17]
-illustration: 插圖、舉證 [in ./1-4.txt line 6]
-immediate: 立即的、即時的 [in ./1-1.txt line 43]
-immediately: 立即 [in ./1-5.txt line 238]
-immune: 免疫的、免除的 [in ./1-6.txt line 82]
-impact: 影響 [in ./1-5.txt line 5]
-impacts: 影響 [in ./1-3.txt line 39]
-imperative: 命令的、必要的 [in ./1-3.txt line 29]
-implement: 實作、實現、執行 (= do) [in ./1-0.txt line 8]
-implementation: 實施 [in ./1-5.txt line 172]
-implemented: 實施 [in ./1-5.txt line 132]
-implementing: 實施 [in ./1-4.txt line 96]
-implicit: 隱含的、暗示的 [in ./1-6.txt line 50]
-import: 匯入 [in ./1-2.txt line 93]
-important: 重要的 [in ./1-2.txt line 92]
-imposes: 施加、執行 [in ./1-2.txt line 12]
-impossible: 不可能的、無法實現的 [in ./1-6.txt line 40]
-improve: 改善 [in ./1-4.txt line 36]
-in addition to: 除了...之外 [in ./1-2.txt line 178]
-in fact: 事實上 [in ./1-3.txt line 52]
-in order to: 為了 [in ./1-1.txt line 41]
-in principle: 原則上 [in ./1-5.txt line 10]
-in the future: 在未來 [in ./1-0.txt line 20]
-include: 包含 [in ./1-0.txt line 40]
-inconsistencies: 不一致 [in ./1-5.txt line 236]
-incorporation: 企業 (Inc.) [in ./1-5.txt line 171]
-increase: 增加 [in ./1-5.txt line 35]
-increasing: 增加的、增長的 [in ./1-6.txt line 83]
-incur: 招致 [in ./1-5.txt line 62]
-independent: 獨立的 [in ./1-2.txt line 40]
-indicate: 指出、指示 [in ./1-2.txt line 78]
-inefficiency: 低效率 [in ./1-5.txt line 18]
-infinite: 無限的 [in ./1-3.txt line 63]
-influence: 影響 [in ./1-4.txt line 18]
-influenced: 影響 [in ./1-5.txt line 139]
-informative: 提供資訊的 [in ./1-2.txt line 20]
-inheritance: 繼承 [in ./1-5.txt line 53]
-initial: 初始的 [in ./1-2.txt line 65]
-initialize: 最初的、前面的、簽名的、名字開頭的 [in ./1-2.txt line 66]
-initially: 最初地 [in ./1-3.txt line 9]
-innovative: 創新的 [in ./1-3.txt line 19]
-insatiable: 無法滿足的 [in ./1-5.txt line 76]
-instance: 實例 [in ./1-6.txt line 26]
-instead: 反而 [in ./1-1.txt line 14]
-instruction: 指令 [in ./1-5.txt line 80]
-insufficient: 不足的 [in ./1-4.txt line 53]
-integrated circuit: 集成電路、積體電路 [in ./1-5.txt line 182]
-integrated: 整合的 [in ./1-2.txt line 183]
-intensive: 密集的 [in ./1-5.txt line 107]
-intention: 意圖 [in ./1-3.txt line 72]
-inter-: 中間、之間 [in ./1-1.txt line 31]
-interact: 互動 [in ./1-3.txt line 35]
-interaction: 互動 [in ./1-5.txt line 7]
-interest: 興趣 [in ./1-5.txt line 214]
-interesting: 有趣的、引人入勝的 [in ./1-6.txt line 102]
-interior: 內部的 [in ./1-2.txt line 77]
-intermediate: 中間的 [in ./1-1.txt line 30]
-internal: 內部的 [in ./1-2.txt line 73]
-international: 國際的 [in ./1-1.txt line 33]
-internet: 網際網路 [in ./1-1.txt line 32]
-interpret: 解釋、翻譯 [in ./1-5.txt line 202]
-interpretation: 解釋 [in ./1-1.txt line 28]
-interpreted: 直譯的 [in ./1-1.txt line 34]
-interpreter: 直譯器、轉譯者 [in ./1-1.txt line 12]
-intimately: 密切地 [in ./1-3.txt line 40]
-introduce: 介紹 [in ./1-0.txt line 30]
-introduced: 引入 [in ./1-5.txt line 19]
-intuition: 直覺 [in ./1-4.txt line 62]
-invention: 發明 [in ./1-5.txt line 141]
-invocation: 調用 [in ./1-5.txt line 46]
-invoke: 調用、引起 [in ./1-6.txt line 106]
-involves: 涉及 [in ./1-4.txt line 100]
-involving: 涉及、包含 [in ./1-6.txt line 121]
-issue: 問題、執行、期(期刊雜誌單位) [in ./1-5.txt line 95]
-judge: 判斷 [in ./1-5.txt line 25]
-judicious: 神聖的、明智的 [in ./1-2.txt line 142]
-kept: 保持 [in ./1-4.txt line 64]
-kilobytes: 千字節 (KB) [in ./1-5.txt line 120]
-large: 大的 [in ./1-1.txt line 67]
-largest: 最大的、最多的 [in ./1-6.txt line 73]
-latter: 後者、後期 [in ./1-3.txt line 14]
-layout: 佈局 [in ./1-5.txt line 133]
-least: 最少、至少 [in ./1-6.txt line 10]
-led: 導致 [in ./1-5.txt line 75]
-legacy: 遺產、初期 [in ./1-5.txt line 179]
-letter: 字母、信件 [in ./1-6.txt line 44]
-leverage: 槓桿 [in ./1-4.txt line 19]
-lexeme: 詞素、詞根、詞位 [in ./1-2.txt line 48]
-lexical: 詞彙的 [in ./1-2.txt line 37]
-lie: 躺、謊言 [in ./1-5.txt line 57]
-likely: 可能的、很可能 [in ./1-6.txt line 108]
-likewise: 同樣地、也 [in ./1-6.txt line 124]
-limitation: 限制 [in ./1-5.txt line 84]
-linear: 線性的 [in ./1-4.txt line 49]
-locate: 定位、放置 [in ./1-1.txt line 66]
-machine: 機器 [in ./1-5.txt line 90]
-Macintosh: 麥金塔 [in ./1-5.txt line 177]
-macro: 巨集、指令、大量 [in ./1-1.txt line 56]
-magnitude: 大小、數量、規模 [in ./1-4.txt line 41]
-maintain: 維護 [in ./1-5.txt line 16]
-maintenance: 維護 [in ./1-4.txt line 91]
-major: 主要的、大的 [in ./1-3.txt line 13]
-majority: 大多數、主要部分 [in ./1-6.txt line 115]
-manageable: 可管理的 [in ./1-4.txt line 67]
-managed: 管理的 [in ./1-5.txt line 130]
-management: 管理 [in ./1-5.txt line 30]
-manipulate: 操縱 [in ./1-5.txt line 254]
-massively: 大量地 [in ./1-4.txt line 37]
-mathematically: 數學上 [in ./1-4.txt line 3]
-matrices: 矩陣 [in ./1-4.txt line 48]
-matter: 事情 [in ./1-5.txt line 26]
-maximal: 最大的 [in ./1-3.txt line 46]
-may: 可能 (可能性較大) [in ./1-2.txt line 28]
-meaningful: 有意義的 [in ./1-2.txt line 47]
-mechanical: 機械的、機械性的 [in ./1-6.txt line 111]
-mechanism: 機制、機理 [in ./1-6.txt line 110]
-megabytes: 兆字節 (MB) [in ./1-5.txt line 121]
-methodology: 方法論 [in ./1-3.txt line 70]
-micro-: 微小的 [in ./1-1.txt line 57]
-mid: 中 [in ./1-5.txt line 21]
-might: 可能 (可能性較小) (may - might - might) [in ./1-2.txt line 30]
-minimize: 最小化 [in ./1-4.txt line 80]
-minimizing: 最小化 [in ./1-3.txt line 49]
-minus: 減去、負號 [in ./1-6.txt line 76]
-misbehave: 行為不當 [in ./1-5.txt line 255]
-misnomer: 誤稱 [in ./1-4.txt line 31]
-mission: 任務 [in ./1-1.txt line 76]
-mistake: 錯誤 [in ./1-5.txt line 248]
-mnemonic: 助記的 [in ./1-3.txt line 8]
-mobile: 行動的 [in ./1-4.txt line 77]
-modified: 修改的 [in ./1-1.txt line 58]
-modules: 模組 [in ./1-1.txt line 49]
-moreover: 此外 [in ./1-2.txt line 134]
-mostly: 大多數 [in ./1-5.txt line 180]
-motorola: 摩托羅拉 [in ./1-5.txt line 178]
-much: 很多 [in ./1-1.txt line 21]
-multiple: 多個 [in ./1-5.txt line 81]
-multiplication: 乘法 [in ./1-2.txt line 69]
-multiply: 乘以 [in ./1-2.txt line 57]
-multiprocessor: 多處理器 [in ./1-5.txt line 97]
-multithreaded: 多線程的 [in ./1-5.txt line 100]
-native: 本地的 [in ./1-5.txt line 68]
-natively: 本地地 [in ./1-5.txt line 203]
-natural: 自然的 [in ./1-3.txt line 20]
-necessary: 必要的 [in ./1-4.txt line 50]
-Needless: 不必要的 [in ./1-3.txt line 4]
-neither: 兩者皆不 [in ./1-2.txt line 91]
-nested: 嵌套的、內含的 [in ./1-6.txt line 67]
-nesting: 嵌套 [in ./1-4.txt line 26]
-no longer: 不再 [in ./1-5.txt line 24]
-nonetheless: 儘管如此 [in ./1-5.txt line 226]
-nontrivial: 非凡的 [in ./1-4.txt line 94]
-norm: 標準 [in ./1-5.txt line 135]
-notational: 做記號的 [in ./1-2.txt line 62]
-notations: 記號 [in ./1-0.txt line 1]
-note: 注意、筆記 [in ./1-6.txt line 66]
-noting: 記住 (note) [in ./1-2.txt line 110]
-notion: 概念 [in ./1-3.txt line 31]
-numerical: 數字的、數值的 [in ./1-3.txt line 17]
-object: 目標 [in ./1-4.txt line 28]
-objective: 目標、客觀 [in ./1-2.txt line 124]
-obliterate: 消除 [in ./1-5.txt line 266]
-obscure: 模糊的 [in ./1-4.txt line 86]
-observe: 觀察 [in ./1-0.txt line 43]
-obvious: 明顯的 [in ./1-4.txt line 30]
-occur: 發生 [in ./1-5.txt line 258]
-occurred: 發生 [in ./1-5.txt line 257]
-occurring: 發生 [in ./1-6.txt line 22]
-offsetting: 抵消 [in ./1-5.txt line 17]
-omit: 省略 [in ./1-2.txt line 60]
-omitted: 被省略的、被忽略的 [in ./1-6.txt line 21]
-on the other hand: 另一方面 [in ./1-4.txt line 51]
-once and for all: 一勞永逸 [in ./1-2.txt line 132]
-one and for all: 永久地、徹底地 [in ./1-6.txt line 39]
-open-ended: 開放式的 [in ./1-4.txt line 99]
-operand: 操作數 [in ./1-2.txt line 94]
-operate: 操作、運行 [in ./1-1.txt line 17]
-operation: 操作、運行 [in ./1-2.txt line 188]
-opportunity: 機會 [in ./1-4.txt line 35]
-optimal: 最佳的 [in ./1-3.txt line 64]
-optimization: 優化 [in ./1-2.txt line 122]
-optimize: 優化 [in ./1-5.txt line 74]
-optimizer: 優化器 [in ./1-2.txt line 41]
-organization: 組織 [in ./1-2.txt line 154]
-oriented: 取向的 [in ./1-3.txt line 33]
-originally: 原本地 [in ./1-3.txt line 37]
-otherwise: 否則 [in ./1-2.txt line 44]
-out of: 由於、出自於、源於、沒有、缺少 [in ./1-4.txt line 43]
-outline: 概述 (= summary = overview) [in ./1-0.txt line 45]
-overemphasize: 過度強調 [in ./1-4.txt line 68]
-overhead: 開銷 [in ./1-3.txt line 50]
-overview: 概述 [in ./1-0.txt line 31]
-overwise: 過度地、過分地 [in ./1-6.txt line 18]
-parallel: 平行的 [in ./1-4.txt line 38]
-parallelism: 並行性 [in ./1-5.txt line 78]
-parameter: 參數 [in ./1-5.txt line 143]
-parameterized: 參數化的 [in ./1-3.txt line 10]
-parentheses: 括號 [in ./1-4.txt line 27]
-particular: 特定的 [in ./1-2.txt line 167]
-passes: 通過、傳遞 [in ./1-2.txt line 163]
-per: 每個 [in ./1-2.txt line 107]
-perform: 執行、表現 (= do) [in ./1-1.txt line 79]
-performance: 表現 [in ./1-4.txt line 63]
-performed: 執行 [in ./1-4.txt line 17]
-perhaps: 也許、可能 [in ./1-1.txt line 39]
-permit: 允許 [in ./1-2.txt line 96]
-personal: 個人的 [in ./1-5.txt line 99]
-phase: 階段、時期 (ph = f) (= stage) [in ./1-2.txt line 31]
-phenomenon: 現象 [in ./1-5.txt line 196]
-philosophy: 哲學 [in ./1-3.txt line 16]
-phrase: 短語、片語 [in ./1-2.txt line 75]
-physical: 實體的 [in ./1-5.txt line 123]
-piece: 塊、片 [in ./1-1.txt line 68]
-policies: 政策 [in ./1-5.txt line 131]
-policy: 政策、規則 [in ./1-6.txt line 13]
-polymorphic: 多態的、多形的 [in ./1-6.txt line 100]
-popular: 流行的 [in ./1-3.txt line 38]
-popularity: 受歡迎 [in ./1-5.txt line 37]
-portable: 可攜帶的 [in ./1-5.txt line 15]
-possibly: 可能地 [in ./1-3.txt line 58]
-postscript: 後記 [in ./1-3.txt line 26]
-potential: 潛在的 [in ./1-5.txt line 116]
-potentially: 潛在地 [in ./1-3.txt line 62]
-pound sign: # [in ./1-2.txt line 145]
-practically: 實際上 [in ./1-5.txt line 44]
-practice: 實際上、實踐 [in ./1-2.txt line 33]
-precede: 在...之前、先於 [in ./1-6.txt line 35]
-precedence: 優先權、優先 [in ./1-2.txt line 82]
-precedes: 優先於、在...之前 [in ./1-2.txt line 114]
-predicate: 謂詞 [in ./1-5.txt line 191]
-predominant: 優勢的 [in ./1-5.txt line 36]
-preliminary: 初步的、開端的 [in ./1-0.txt line 28]
-prepackaged: 預先打包的 [in ./1-5.txt line 158]
-presumably: 大概、可能 [in ./1-6.txt line 34]
-prevalence: 流行 [in ./1-4.txt line 42]
-prevalent: 流行的 [in ./1-5.txt line 98]
-previous: 先前的 [in ./1-2.txt line 149]
-previously: 先前 [in ./1-5.txt line 55]
-primarily: 主要地、首要地 [in ./1-6.txt line 117]
-primary: 主要的 [in ./1-5.txt line 213]
-principal: 主要的 [in ./1-2.txt line 120]
-principle: 原則 [in ./1-0.txt line 14]
-prior: 先前的 [in ./1-5.txt line 140]
-prioritize: 優先考慮 [in ./1-4.txt line 95]
-probably: 可能 [in ./1-5.txt line 128]
-procedure: 流程 [in ./1-2.txt line 121]
-process: 處理、過程 [in ./1-1.txt line 2]
-processor: 處理器 [in ./1-1.txt line 1]
-produce: 產生、製造 [in ./1-1.txt line 11]
-productivity: 生產力 [in ./1-5.txt line 205]
-profiler: 分析器 [in ./1-2.txt line 175]
-profitably: 有利地、獲利地 [in ./1-2.txt line 173]
-progressive: 進步的 [in ./1-5.txt line 142]
-promising: 有前途的 [in ./1-5.txt line 215]
-promote: 促進 [in ./1-3.txt line 48]
-prone: 易於...的、傾向於...的 [in ./1-3.txt line 6]
-proper: 適當的 [in ./1-5.txt line 245]
-properties: 屬性 [in ./1-5.txt line 54]
-property: 屬性 [in ./1-2.txt line 105]
-propose: 提出 [in ./1-5.txt line 148]
-proposed: 提出的 [in ./1-5.txt line 138]
-protected: 受保護的、保護的 [in ./1-6.txt line 53]
-provide: 提供 [in ./1-2.txt line 19]
-pure: 純粹的 [in ./1-4.txt line 52]
-purify: 淨化 [in ./1-5.txt line 267]
-purpose: 目的 (= target) [in ./1-2.txt line 43]
-purposely: 有目的地、故意地 [in ./1-6.txt line 91]
-qualifier: 限定詞、修飾語 [in ./1-6.txt line 47]
-qualify: 資格、限定 [in ./1-6.txt line 46]
-queries: 查詢 [in ./1-3.txt line 25]
-query: 查詢 [in ./1-5.txt line 189]
-quickly: 快速地 [in ./1-5.txt line 38]
-quite: 相當、非常 [in ./1-2.txt line 181]
-rampant: 猖獗的 [in ./1-5.txt line 208]
-rapid: 快速的 [in ./1-4.txt line 85]
-rather: 寧可、相當 [in ./1-1.txt line 78]
-raw: 原始的 [in ./1-5.txt line 137]
-reader: 讀者、閱讀器 [in ./1-6.txt line 7]
-rearrange: 重新排列 [in ./1-5.txt line 94]
-reason: 理由、原因 [in ./1-6.txt line 125]
-reasonable: 合理的 [in ./1-2.txt line 130]
-recently: 最近、近來 [in ./1-6.txt line 96]
-recognize: 認識 [in ./1-4.txt line 25]
-record: 記錄 [in ./1-2.txt line 157]
-recursive: 遞歸的、循環的 [in ./1-6.txt line 48]
-reduce: 減少 [in ./1-5.txt line 63]
-redundancies: 冗餘 [in ./1-5.txt line 52]
-redundant: 冗餘的 [in ./1-5.txt line 260]
-refer: 提及、參考 [in ./1-1.txt line 72]
-reference: 參考 [in ./1-1.txt line 73]
-referred: 提及、參考 [in ./1-6.txt line 68]
-refers: 指 [in ./1-4.txt line 29]
-refine: 定義 [in ./1-4.txt line 13]
-regarding: 關於、涉及 [in ./1-6.txt line 64]
-regin: 區域、範圍 [in ./1-6.txt line 16]
-region: 區域、範圍 [in ./1-6.txt line 93]
-register: 註冊 [in ./1-5.txt line 20]
-regular: 規則的、常規的 [in ./1-2.txt line 185]
-related: 相關的 [in ./1-3.txt line 41]
-relational: 關聯的 [in ./1-5.txt line 193]
-relationship: 關係 [in ./1-0.txt line 44]
-relatively: 相對地 [in ./1-3.txt line 74]
-reliability: 可靠性 [in ./1-5.txt line 265]
-relies: 依賴 [in ./1-5.txt line 174]
-relocatable: 可重定位的 [in ./1-1.txt line 64]
-relocate: 重新定位 [in ./1-1.txt line 65]
-remain: 保持 [in ./1-5.txt line 246]
-remainder: 剩餘物、餘數 [in ./1-2.txt line 184]
-render: 使得、渲染 [in ./1-5.txt line 209]
-reorders: 重新排序 [in ./1-5.txt line 93]
-report: 報告 [in ./1-5.txt line 224]
-represent: 代表 [in ./1-5.txt line 184]
-representation: 表示、表徵、呈現方式 (= show) [in ./1-2.txt line 14]
-require: 要求 [in ./1-1.txt line 47]
-required: 需要的 [in ./1-4.txt line 66]
-research: 研究 [in ./1-5.txt line 40]
-reserved: 保留的 [in ./1-6.txt line 31]
-reside: 居住 [in ./1-5.txt line 22]
-resolve: 解決 (= solve) [in ./1-1.txt line 70]
-resource: 資源 [in ./1-5.txt line 29]
-respect: 尊重 [in ./1-2.txt line 71]
-respectively: 相對的 [in ./1-2.txt line 70]
-response: 響應 [in ./1-5.txt line 83]
-restrict: 限制、約束 [in ./1-6.txt line 56]
-restricting: 限制、約束 [in ./1-6.txt line 90]
-retrieve: 恢復 [in ./1-2.txt line 162]
-rigorous: 嚴謹的 [in ./1-4.txt line 45]
-robust: 強健的、堅固的 [in ./1-3.txt line 21]
-role: 角色 [in ./1-1.txt line 8]
-routines: 例行公事、常規 [in ./1-2.txt line 187]
-satisfied: 滿意的 [in ./1-5.txt line 114]
-satisfying: 滿足 [in ./1-5.txt line 194]
-scale: 規模 [in ./1-5.txt line 163]
-scanner: 掃描器 [in ./1-2.txt line 186]
-scanning: 掃描 [in ./1-2.txt line 46]
-scheduler: 調度器 [in ./1-5.txt line 91]
-scheduling: 調度 [in ./1-5.txt line 96]
-scientific: 科學的 [in ./1-3.txt line 15]
-scientist: 科學家 [in ./1-0.txt line 19]
-secondary: 次要的 [in ./1-5.txt line 124]
-section: 部分、章節 (= part) [in ./1-1.txt line 75]
-secure: 留住、安全的 [in ./1-5.txt line 241]
-security: 安全 [in ./1-5.txt line 211]
-semantic: 語意的 [in ./1-2.txt line 39]
-semantically: 語義上、字面上、語法上 [in ./1-2.txt line 4]
-semantics: 語義 [in ./1-5.txt line 231]
-sense: 感覺、意義 [in ./1-6.txt line 103]
-separate: 分開的 [in ./1-1.txt line 50]
-sequential: 順序的 [in ./1-5.txt line 89]
-serve: 服務 [in ./1-4.txt line 4]
-several: 幾個、數個 (= some) [in ./1-1.txt line 46]
-shall: 應該 [in ./1-0.txt line 9]
-shape: 形狀、型塑 [in ./1-0.txt line 39]
-shifts: 轉移、變化 [in ./1-5.txt line 33]
-shorthand: 速記、簡寫 [in ./1-1.txt line 55]
-shown: 顯示 (被動) [in ./1-1.txt line 29]
-signature: 簽名 [in ./1-5.txt line 237]
-significant: 大的、明顯的、重要的 [in ./1-2.txt line 138]
-significantly: 顯著地 [in ./1-5.txt line 229]
-signifies: 表示、意義 [in ./1-2.txt line 147]
-signify: 表示、意味著 [in ./1-6.txt line 61]
-similar: 相似的、類似的 [in ./1-6.txt line 59]
-similarly: 類似地 [in ./1-2.txt line 172]
-simpler: 更簡單 [in ./1-5.txt line 144]
-simplicity: 簡單性 [in ./1-4.txt line 23]
-simply: 簡單地 [in ./1-1.txt line 3]
-simulated: 模擬 [in ./1-5.txt line 42]
-simultaneously: 同時地 [in ./1-5.txt line 82]
-since: 自從、因為 [in ./1-2.txt line 45]
-single: 單一的 [in ./1-2.txt line 3]
-situation: 情況、情境 [in ./1-6.txt line 97]
-smallest: 最小的、最少的 [in ./1-6.txt line 72]
-so on: 等等 [in ./1-2.txt line 177]
-solid: 堅固的 [in ./1-4.txt line 11]
-sophisticate: 複雜的 [in ./1-5.txt line 262]
-sophisticated: 複雜的、精密的 [in ./1-2.txt line 182]
-speaking: 說 [in ./1-5.txt line 3]
-spec: 規格 [in ./1-2.txt line 83]
-special: 特殊的、專門的 [in ./1-6.txt line 60]
-specialized: 專業的、專門的 [in ./1-2.txt line 179]
-specific: 特定的 [in ./1-3.txt line 24]
-specification: 規範 [in ./1-2.txt line 95]
-specifies: 指定 [in ./1-2.txt line 143]
-specify: 指定、特定 [in ./1-1.txt line 18]
-specifying: 指定 [in ./1-2.txt line 180]
-spent: 花費的 (spend - spent - spent) [in ./1-2.txt line 139]
-spurred: 刺激、促進 [in ./1-5.txt line 39]
-stand for: 代表 [in ./1-2.txt line 58]
-state-of-the-art: 最先進的 [in ./1-5.txt line 204]
-state: 陳述、長期狀態、州 [in ./1-1.txt line 4]
-statement: 陳述、聲明 (通常比單一句子長) [in ./1-1.txt line 25]
-static: 靜態的、不變的 [in ./1-6.txt line 11]
-statically: 靜態地 [in ./1-5.txt line 217]
-status: 狀態 [in ./1-1.txt line 5]
-still: 仍然 [in ./1-5.txt line 13]
-stimulated: 刺激 [in ./1-5.txt line 41]
-storage: 存儲 [in ./1-5.txt line 85]
-straight: 直 [in ./1-2.txt line 128]
-straightforward: 直接的 [in ./1-2.txt line 127]
-strictly: 嚴格地 [in ./1-5.txt line 2]
-structure: 結構、構造 [in ./1-0.txt line 32]
-structured: 結構化的 [in ./1-5.txt line 190]
-studied: 研究 [in ./1-5.txt line 71]
-study: 研究 [in ./1-0.txt line 22]
-subsequent: 隨後的、後續的 [in ./1-2.txt line 49]
-substantial: 大量的 [in ./1-4.txt line 39]
-subtraction: 減法、減去 [in ./1-6.txt line 75]
-such as: 例如 [in ./1-2.txt line 61]
-suffer: 遭受 [in ./1-4.txt line 40]
-sufficient: 足夠的 [in ./1-4.txt line 54]
-summarize: 總結、概括 [in ./1-6.txt line 81]
-supplied: 提供、供應 [in ./1-1.txt line 19]
-supplies: 供應 [in ./1-5.txt line 242]
-supply: 供應 [in ./1-5.txt line 243]
-suppose: 認為、假設 [in ./1-2.txt line 54]
-surround: 圍繞、環繞 [in ./1-6.txt line 65]
-synchronization: 同步 [in ./1-5.txt line 105]
-syntactically: 句法上的 [in ./1-2.txt line 16]
-syntax: 語法、句法 [in ./1-2.txt line 38]
-synthesis: 合成 [in ./1-2.txt line 7]
-synthesize: 合成 [in ./1-2.txt line 9]
-systolic array: 脈動陣列 [in ./1-5.txt line 150]
-systolic: 收縮的、脈動的 [in ./1-5.txt line 149]
-tackle: 處理 [in ./1-3.txt line 67]
-tailored: 定制的 [in ./1-5.txt line 160]
-talk - talked - talked: 說 [in ./1-3.txt line 2]
-task: 任務 [in ./1-1.txt line 51]
-technically: 技術上 [in ./1-2.txt line 72]
-technique: 技術 [in ./1-0.txt line 15]
-technology: 科技 [in ./1-0.txt line 16]
-tedious: 冗長的、乏味的 [in ./1-3.txt line 5]
-tell - told - told: 告訴 [in ./1-3.txt line 3]
-temperature: 溫度 [in ./1-2.txt line 116]
-temporary: 暫時的 [in ./1-2.txt line 115]
-term: 術語 [in ./1-3.txt line 27]
-terminal: 終端 [in ./1-6.txt line 3]
-terminate: 終止、終結 [in ./1-6.txt line 4]
-terminology: 術語 [in ./1-6.txt line 2]
-that is: 也就是說 [in ./1-3.txt line 57]
-think of as: 視為 [in ./1-2.txt line 104]
-thorough: 徹底的 [in ./1-4.txt line 59]
-through: 通過、穿過 [in ./1-6.txt line 52]
-throughout: 在整個過程中、貫穿 [in ./1-6.txt line 38]
-thus: 因此 [in ./1-2.txt line 112]
-toolkit: 工具包 [in ./1-2.txt line 192]
-touches: 觸及 [in ./1-0.txt line 23]
-towards: 向、朝向 [in ./1-3.txt line 7]
-track: 追蹤 [in ./1-3.txt line 45]
-tracking: 跟踪 [in ./1-5.txt line 263]
-tradeoff: 折衷 [in ./1-5.txt line 264]
-tradeoffs: 折衷 [in ./1-3.txt line 66]
-transfer: 傳輸 [in ./1-5.txt line 183]
-transistor: 晶體管 [in ./1-5.txt line 186]
-transmit: 傳送、傳輸 [in ./1-2.txt line 135]
-transmitted: 傳送的、傳遞的 [in ./1-2.txt line 191]
-treat: 對待、看待 [in ./1-2.txt line 2]
-treated: 被視為 [in ./1-2.txt line 148]
-trends: 趨勢 [in ./1-0.txt line 37]
-trick: 欺騙 [in ./1-5.txt line 253]
-tricked: 欺騙 [in ./1-5.txt line 252]
-trivial: 瑣碎的 [in ./1-4.txt line 71]
-turning: 轉折 [in ./1-4.txt line 89]
-type: 打 (打字) [in ./1-0.txt line 34]
-typical: 典型的 [in ./1-0.txt line 33]
-typically: 通常 [in ./1-4.txt line 82]
-typo: 打錯字 [in ./1-0.txt line 35]
-undecidable: 無法決定的 [in ./1-3.txt line 65]
-understand: 理解 [in ./1-4.txt line 57]
-understanding: 理解 [in ./1-4.txt line 12]
-unfortunately: 不幸的是 [in ./1-5.txt line 11]
-unlike: 不像 [in ./1-5.txt line 129]
-unnecessary: 不必要的 [in ./1-5.txt line 65]
-unsound: 不正確的、無效的 [in ./1-2.txt line 18]
-until: 直到、直至 [in ./1-6.txt line 95]
-up to this point: 到目前為止 [in ./1-2.txt line 1]
-upon: 在...上 [in ./1-0.txt line 24]
-usability: 可用性 [in ./1-4.txt line 84]
-usual: 通常的 [in ./1-2.txt line 80]
-usually: 通常 [in ./1-1.txt line 20]
-validate: 驗證 [in ./1-5.txt line 197]
-variation: 變化、不同 [in ./1-2.txt line 136]
-variety: many kinds [in ./1-0.txt line 12]
-various: 各種的、不同的 [in ./1-2.txt line 158]
-versus: 對比、對抗 [in ./1-6.txt line 36]
-violating: 違反 [in ./1-5.txt line 220]
-virtual: 虛擬的 [in ./1-1.txt line 35]
-visual: 視覺的 [in ./1-1.txt line 36]
-vulnerability: 易受攻擊 [in ./1-5.txt line 233]
-vulnerable: 易受攻擊的 [in ./1-5.txt line 210]
-whenever: 無論何時 [in ./1-6.txt line 33]
-whether: 是否 [in ./1-5.txt line 92]
-wish: 希望 [in ./1-4.txt line 79]
-within: 在...之內 [in ./1-3.txt line 56]
-worse still: 更糟 [in ./1-5.txt line 14]
-worse: 更糟 [in ./1-5.txt line 12]
-worth: 值得 [in ./1-2.txt line 109]
-written: write p.p. [in ./1-0.txt line 3]
-yet have never: 但從沒講過的是 [in ./1-5.txt line 1]
-yield: 產生、放棄、良率 [in ./1-4.txt line 34]
+-ized: 使...化
+a variety of: 各式各樣的、(= various)
+ability: 能力
+above: 以上
+absolute: 絕對的
+abstract: 抽象的
+accept: 接受
+access: 訪問
+accessed: 訪問
+accesses: 訪問
+accessible: 可訪問的
+accompanied: 陪伴的
+according to: 根據
+achieve: 達成、實現
+acquire: 獲得
+across: 橫過、穿越
+act: 表現
+activities: 活動
+actual: 實際的、真實的
+actually: 實際上
+addition to: 除此之外
+additionally: 除此之外
+adequate: 足夠的
+adjacent: 相鄰的
+adjust: 調整
+advance: 進步
+advantage: 優勢
+affect: 影響
+against: 反對、對抗
+aggregate: 聚合、總計
+aid: 幫助、援助
+al-go-ri-thm: 演算法
+alarms: 警報
+allocate: 分配
+allocating: 分配
+allocation: 分配、安排
+almost: 幾乎
+along: 沿著、隨著
+alter: 改變、(= change)
+alternate: 交替、輪流
+alternative: 替代的
+alternatively: 交替地、或者
+although: 雖然
+among: 在...之間
+amount: 數量
+analogy: 類比、類似
+analysis: 分析
+analyze: 分析
+and can: 並且可以
+angle: 角度、角
+apparently: 顯然地、明顯地
+appear: 出現、顯示
+applicable: 適用於
+application: 應用
+applications: 應用
+applied: 應用的
+applies: 應用、適用
+approach: 方法
+appropriate: 適當的、合適的
+approximation: 近似、估計
+architecture: 建築、建構、工程、架構
+areas: 領域
+arguably: 可以說
+arithmetic: 算術的
+arrange: 安排、整理、佈置
+array: 陣列
+artifact: 人造
+asks: 詢問、要求
+aspect: 方面
+assembly: 組裝
+assignment: 作業、指派
+assist: 協助
+associate: 聯繫、關聯
+associated: 關聯的、聯繫的
+association: 聯繫
+assume: 假設、認為
+assure: 確保
+at most: 最多
+attempt: 嘗試、(= try)
+attribute: 屬性、特徵
+automatically: 自動地、(= auto)
+availability: 可用性
+average: 平均
+avoid: 避免、防止
+back end: 後端
+backward: 向後的
+balance: 平衡
+balancing: 平衡
+basic: 基礎
+behave: 行為、舉止
+behavior: 行為
+belong: 屬於、歸屬
+belonging: 屬於、歸屬
+benefit: 利益、好處、(= advantage)、(= pros)
+better: 更好
+beyond: 超越、在...之外
+binding: 綁定、約束
+blank: 空白
+both: 兩者皆可
+bound: 有界的
+breach: 破壞、違反
+break: 拆開
+brief: 簡短的
+built: 建造的、(build - built - built)
+callee: 被調用者、被呼叫者
+capabilities: 能力
+capture: 捕捉
+career: 職業、職涯
+careful: 小心的
+careless: 粗心的
+catastrophic: 災難性的
+category: 類別
+caused: 引起
+certain: 特定的
+challenging: 挑戰的
+chapter: 章節、篇章
+characteristic: 特徵
+chosen: 選擇的、(choose - chose - chosen)
+circuit: 電路
+circumstance: 情況
+classification: 分類
+classified: 分類的
+clearly: 明確地
+close: 接近的、關閉的
+closely: 緊密地、密切地
+closest: 最近的
+coercions: 控制、強制
+collecting: 收集
+collection: 收集、集合、版本
+combination: 組合
+combine: 結合
+commodity: 商品
+common: 普通的、常見的
+commonly: 常見的、普遍的
+companies: 公司
+compatibility: 兼容性
+compilation: 編譯、彙總
+compiling: 編譯
+complementary: 補充的、互補的
+complete: 完成
+completely: 完全地
+complex: 複雜的
+complicated: 複雜的
+component: 組件、元件
+compromise: 妥協、危害
+compute: 計算
+concentrate: 集中、專注
+concept: 概念
+concepts: 概念
+conclude: 總結
+conform: 符合
+consequently: 因此
+conservative: 保守的
+conserve: 節省
+consider: 考慮、視為
+considered: 考慮、視為
+consist: 組成
+consistency: 一致性
+consistent: 持續的
+consisting: 組成的
+consists: 包含
+constituent: 成分、組成
+constraint: 約束、限制
+construct: 建構、構造、建造
+consume: 消耗
+consumption: 消耗
+contain: 包含、容納
+containing: 包含
+continuously to: 持續地、不斷地
+contrast: 對比
+convenience: 方便、便利
+convention: 習俗、慣例
+conventional: 傳統的、常規的
+converge: 匯聚
+conversion: 轉換
+convert: 轉換
+copied: 複製的、抄襲的、copy p.p.
+correct: 正確的
+corrective: 糾正的、正確的
+correctly: 正確地
+correctness: 正確性
+corresponding: 相應的
+correspondingly: 相應地
+cost: 成本
+could: 可以、(can - could)
+cover: 覆蓋、涵蓋
+critical: 關鍵的、(= important)
+crucial: 關鍵的
+dare: 敢於
+deal with: 處理、應對
+deal: 處理
+decade: 十年
+decades: 幾十年
+decide: 決定、決策
+decided: 決定的、已決定的
+decision: 決定、決策
+declaration: 聲明、宣告
+declarative: 陳述的、聲明的
+decomposition: 分解、分拆
+deduce: 推斷
+defer: 尊崇、推遲
+definition: 定義、解釋
+delimit: 劃定、界定
+deliver: 傳遞
+demand: 需求
+denote: 表示、指示
+denoted: 表示
+depend on: 依賴於、取決於
+dependencies: 依賴關係
+dependent: 依賴的
+depending: 取決於
+depends: 取決於
+depict: 描述
+dereference: 解引用
+dereferencing: 解引用
+design: 設計
+designed: 設計的
+designing: 設計、設計過程
+desirable: 令人滿意的、可望的
+desire: 可望
+desired: 理想的、想要的
+destination: 目的地、終點
+detail: 細節
+detect: 偵測
+detector: 偵測器
+determination: 確定、決心
+determine: 確定、決定
+determined: 確定、決定
+deters: 威脅、阻止
+develop: 開發
+developed: 開發的
+device: 裝置
+devise: 設計、發明
+diagnose: 診斷
+diagnostic: 診斷的
+differ: 不同、差異
+difficult: 困難的
+directed: 指向的、導向的
+direction: 方向
+directly: 直接地
+discarded: 丟棄的
+discipline: 學科、原則
+discover: 探索
+discuss: 討論
+discussing: 討論、商討
+discussion: 討論
+distinction: 區別、區分
+distinguish: 區分、辨別
+distinguishing: 區分、辨別
+distribute: 分布
+distributed memory: 分布式存儲
+distributed: 分布式
+distributing: 分發
+diversity: 多樣性
+divide: 拆分、分開
+domination: 支配
+done: 完成的、做好的
+during: 在...期間
+dynamic: 動態的
+dynamically: 動態地
+easier: 更容易的
+easy: 容易的
+economic: 經濟的
+effect: 效果、影響
+effectiveness: 有效性
+efficiency: 效率
+efficient: 高效的
+effort: 努力、效益
+either: 兩者之一
+element: 元素
+eliminate: 剔除
+eliminating: 消除、(= delete)
+embed: 嵌入
+embedded: 嵌入的
+emphasis: 強調
+emphasize: 強調
+empirically: 實證地、經驗上的
+encapsulation: 封裝、包裝
+encounter: 遇到
+engineering: 工程學
+ensure: 確保
+entire: 整個的
+entity: 實體、存在
+entrust: 委託、信任
+entry: 進入
+equal: 相等的
+equivalent: 等價的、(= same)
+erroneous: 錯誤的、不正確的
+especially: 特別是
+essence: 本質
+essential: 必要的、基本的
+established: 已建立的
+etcetera: 等等、其他
+evaluate: 評估
+evaluation: 評估
+eventually: 最終
+evolution: 演變、演化
+evolve: 演變、發展
+evolving: 演變的
+examine: 檢查、審查、(= check)
+excellent: 優秀的、(= good)
+exclude: 不包含
+execute: 執行
+executed: 處決
+executing: 執行
+exercise: 練習
+exercises: 練習、運動
+exhibit: 展示
+exist: 存在
+existence: 存在
+expand: 擴展
+expansion: 擴展、膨脹
+expensive: 昂貴的
+experiment: 實驗
+experimentation: 實驗
+explain: 解釋、說明
+explicit: 明確的、清楚的
+explicitly: 明確地
+exploit: 利用、解釋
+expose: 暴露
+express: 表達、表示
+expresses: 表達
+extend: 擴展、延伸
+extensive: 廣泛的、延展性
+external: 外部的
+extra: 額外的
+extracted: 提取
+facilitate: 配合、促進
+facility: 設施
+factory: 工廠
+fail: 失敗
+familiar: 熟悉的、親切的
+family: 家族、系列
+fashionable: 時尚的、流行的、時髦的
+feature: 特性
+fed: 餵給、餵養(過去式)
+feed: 餵養、餵食、給
+fewer: 更少的
+figure: 圖、樣貌、範例、(= example)
+finding: 發現
+fit on: 適合於
+fit: 適合
+fix: 固定
+flaw: 缺陷
+follow: 跟隨
+following: 以下的
+form: 形式、格式、表格、組成
+formal: 正式的、規範的
+formulate: 公式化
+formulating: 公式化
+formulation: 公式化
+fortunately: 幸運地、幸好
+foundation: 基礎
+fragment: 片段
+freed: 釋放
+frequently: 頻繁地
+front end: 前端
+fundamental: 基本的
+gather: 集結
+gathering: 收集、聚集
+generality: 一般性
+gigabytes: 千兆字節、GB
+gluing: 黏合
+go beyond: 超越
+goal: 目標、目的
+grammatical: 語法的
+greatest: 最大的
+greatly: 大大地
+grounded: 基於
+grouped: 分組的
+guarantee: 保證
+guaranteed: 保證
+had: 有、have p.p.
+handwriting: 硬連線
+harnessed: 利用
+harnesses: 套索、利用、套、馬鞍、背心、護甲
+hash: 哈希、雜湊、井號、#、(= pound sign)
+held: 握住、舉行
+heuristic: 啟發式的
+hidden: 隱藏的
+hides: 隱藏
+hierarchies: 階層
+hierarchy: 階層
+historical: 歷史的、歷史性的
+however: 然而
+hundreds: 數百
+hurt: 傷害
+hybrid: 混合的
+identify: 辨認
+ill: 不好的、壞的
+illustration: 插圖、舉證
+immediate: 立即的、即時的
+immediately: 立即
+immune: 免疫的、免除的
+impact: 影響
+impacts: 影響
+imperative: 命令的、必要的
+implement: 實作、實現、執行、(= do)
+implementation: 實施
+implemented: 實施
+implementing: 實施
+implicit: 隱含的、暗示的
+import: 匯入
+important: 重要的
+imposes: 施加、執行
+impossible: 不可能的、無法實現的
+improve: 改善
+in addition to: 除了...之外
+in fact: 事實上
+in order to: 為了
+in principle: 原則上
+in the future: 在未來
+include: 包含
+inconsistencies: 不一致
+incorporation: 企業、Inc.
+increase: 增加
+increasing: 增加的、增長的
+incur: 招致
+independent: 獨立的
+indicate: 指出、指示
+inefficiency: 低效率
+infinite: 無限的
+influence: 影響
+influenced: 影響
+informative: 提供資訊的
+inheritance: 繼承
+initial: 初始的
+initialize: 最初的、前面的、簽名的、名字開頭的
+initially: 最初地
+innovative: 創新的
+insatiable: 無法滿足的
+instance: 實例
+instead: 反而
+instruction: 指令
+insufficient: 不足的
+integrated circuit: 集成電路、積體電路
+integrated: 整合的
+intensive: 密集的
+intention: 意圖
+inter-: 中間、之間
+interact: 互動
+interaction: 互動
+interest: 興趣
+interesting: 有趣的、引人入勝的
+interior: 內部的
+intermediate: 中間的
+internal: 內部的
+international: 國際的
+internet: 網際網路
+interpret: 解釋、翻譯
+interpretation: 解釋
+interpreted: 直譯的
+interpreter: 直譯器、轉譯者
+intimately: 密切地
+introduce: 介紹
+introduced: 引入
+intuition: 直覺
+invention: 發明
+invocation: 調用
+invoke: 調用、引起
+involves: 涉及
+involving: 涉及、包含
+issue: 問題、執行、期、(期刊雜誌單位)
+judge: 判斷
+judicious: 神聖的、明智的
+kept: 保持
+kilobytes: 千字節、KB
+large: 大的
+largest: 最大的、最多的
+latter: 後者、後期
+layout: 佈局
+least: 最少、至少
+led: 導致
+legacy: 遺產、初期
+letter: 字母、信件
+leverage: 槓桿
+lexeme: 詞素、詞根、詞位
+lexical: 詞彙的
+lie: 躺、謊言
+likely: 可能的、很可能
+likewise: 同樣地、也
+limitation: 限制
+linear: 線性的
+locate: 定位、放置
+machine: 機器
+Macintosh: 麥金塔
+macro: 巨集、指令、大量
+magnitude: 大小、數量、規模
+maintain: 維護
+maintenance: 維護
+major: 主要的、大的
+majority: 大多數、主要部分
+manageable: 可管理的
+managed: 管理的
+management: 管理
+manipulate: 操縱
+massively: 大量地
+mathematically: 數學上
+matrices: 矩陣
+matter: 事情
+maximal: 最大的
+may: 可能、(可能性較大)
+meaningful: 有意義的
+mechanical: 機械的、機械性的
+mechanism: 機制、機理
+megabytes: 兆字節、MB
+methodology: 方法論
+micro-: 微小的
+mid: 中
+might: 可能、(可能性較小)、(may - might - might)
+minimize: 最小化
+minimizing: 最小化
+minus: 減去、負號
+misbehave: 行為不當
+misnomer: 誤稱
+mission: 任務
+mistake: 錯誤
+mnemonic: 助記的
+mobile: 行動的
+modified: 修改的
+modules: 模組
+moreover: 此外
+mostly: 大多數
+motorola: 摩托羅拉
+much: 很多
+multiple: 多個
+multiplication: 乘法
+multiply: 乘以
+multiprocessor: 多處理器
+multithreaded: 多線程的
+native: 本地的
+natively: 本地地
+natural: 自然的
+necessary: 必要的
+Needless: 不必要的
+neither: 兩者皆不
+nested: 嵌套的、內含的
+nesting: 嵌套
+no longer: 不再
+nonetheless: 儘管如此
+nontrivial: 非凡的
+norm: 標準
+notational: 做記號的
+notations: 記號
+note: 注意、筆記
+noting: 記住、(note)
+notion: 概念
+numerical: 數字的、數值的
+object: 目標
+objective: 目標、客觀
+obliterate: 消除
+obscure: 模糊的
+observe: 觀察
+obvious: 明顯的
+occur: 發生
+occurred: 發生
+occurring: 發生
+offsetting: 抵消
+omit: 省略
+omitted: 被省略的、被忽略的
+on the other hand: 另一方面
+once and for all: 一勞永逸
+one and for all: 永久地、徹底地
+open-ended: 開放式的
+operand: 操作數
+operate: 操作、運行
+operation: 操作、運行
+opportunity: 機會
+optimal: 最佳的
+optimization: 優化
+optimize: 優化
+optimizer: 優化器
+organization: 組織
+oriented: 取向的
+originally: 原本地
+otherwise: 否則
+out of: 由於、出自於、源於、沒有、缺少
+outline: 概述、(= summary)、(= overview)
+overemphasize: 過度強調
+overhead: 開銷
+overview: 概述
+overwise: 過度地、過分地
+parallel: 平行的
+parallelism: 並行性
+parameter: 參數
+parameterized: 參數化的
+parentheses: 括號
+particular: 特定的
+passes: 通過、傳遞
+per: 每個
+perform: 執行、表現、(= do)
+performance: 表現
+performed: 執行
+perhaps: 也許、可能
+permit: 允許
+personal: 個人的
+phase: 階段、時期、(ph = f)、(= stage)
+phenomenon: 現象
+philosophy: 哲學
+phrase: 短語、片語
+physical: 實體的
+piece: 塊、片
+policies: 政策
+policy: 政策、規則
+polymorphic: 多態的、多形的
+popular: 流行的
+popularity: 受歡迎
+portable: 可攜帶的
+possibly: 可能地
+postscript: 後記
+potential: 潛在的
+potentially: 潛在地
+pound sign: 磅號、井號、#、(= hash)
+practically: 實際上
+practice: 實際上、實踐
+precede: 在...之前、先於
+precedence: 優先權、優先
+precedes: 優先於、在...之前
+predicate: 謂詞
+predominant: 優勢的
+preliminary: 初步的、開端的
+prepackaged: 預先打包的
+presumably: 大概、可能
+prevalence: 流行
+prevalent: 流行的
+previous: 先前的
+previously: 先前
+primarily: 主要地、首要地
+primary: 主要的
+principal: 主要的
+principle: 原則
+prior: 先前的
+prioritize: 優先考慮
+probably: 可能
+procedure: 流程
+process: 處理、過程
+processor: 處理器
+produce: 產生、製造
+productivity: 生產力
+profiler: 分析器
+profitably: 有利地、獲利地
+progressive: 進步的
+promising: 有前途的
+promote: 促進
+prone: 易於...的、傾向於...的
+proper: 適當的
+properties: 屬性
+property: 屬性
+propose: 提出
+proposed: 提出的
+protected: 受保護的、保護的
+provide: 提供
+pure: 純粹的
+purify: 淨化
+purpose: 目的、(= target)
+purposely: 有目的地、故意地
+qualifier: 限定詞、修飾語
+qualify: 資格、限定
+queries: 查詢
+query: 查詢
+quickly: 快速地
+quite: 相當、非常
+rampant: 猖獗的
+rapid: 快速的
+rather: 寧可、相當
+raw: 原始的
+reader: 讀者、閱讀器
+rearrange: 重新排列
+reason: 理由、原因
+reasonable: 合理的
+recently: 最近、近來
+recognize: 認識
+record: 記錄
+recursive: 遞歸的、循環的
+reduce: 減少
+redundancies: 冗餘
+redundant: 冗餘的
+refer: 提及、參考
+reference: 參考
+referred: 提及、參考
+refers: 指
+refine: 定義
+regarding: 關於、涉及
+regin: 區域、範圍
+region: 區域、範圍
+register: 註冊
+regular: 規則的、常規的
+related: 相關的
+relational: 關聯的
+relationship: 關係
+relatively: 相對地
+reliability: 可靠性
+relies: 依賴
+relocatable: 可重定位的
+relocate: 重新定位
+remain: 保持
+remainder: 剩餘物、餘數
+render: 使得、渲染
+reorders: 重新排序
+report: 報告
+represent: 代表
+representation: 表示、表徵、呈現方式、(= show)
+require: 要求
+required: 需要的
+research: 研究
+reserved: 保留的
+reside: 居住
+resolve: 解決、(= solve)
+resource: 資源
+respect: 尊重
+respectively: 相對的
+response: 響應
+restrict: 限制、約束
+restricting: 限制、約束
+retrieve: 恢復
+rigorous: 嚴謹的
+robust: 強健的、堅固的
+role: 角色
+routines: 例行公事、常規
+satisfied: 滿意的
+satisfying: 滿足
+scale: 規模
+scanner: 掃描器
+scanning: 掃描
+scheduler: 調度器
+scheduling: 調度
+scientific: 科學的
+scientist: 科學家
+secondary: 次要的
+section: 部分、章節、(= part)
+secure: 留住、安全的
+security: 安全
+semantic: 語意的
+semantically: 語義上、字面上、語法上
+semantics: 語義
+sense: 感覺、意義
+separate: 分開的
+sequential: 順序的
+serve: 服務
+several: 幾個、數個、(= some)
+shall: 應該
+shape: 形狀、型塑
+shifts: 轉移、變化
+shorthand: 速記、簡寫
+shown: 顯示、(被動)
+signature: 簽名
+significant: 大的、明顯的、重要的
+significantly: 顯著地
+signifies: 表示、意義
+signify: 表示、意味著
+similar: 相似的、類似的
+similarly: 類似地
+simpler: 更簡單
+simplicity: 簡單性
+simply: 簡單地
+simulated: 模擬
+simultaneously: 同時地
+since: 自從、因為
+single: 單一的
+situation: 情況、情境
+smallest: 最小的、最少的
+so on: 等等
+solid: 堅固的
+sophisticate: 複雜的
+sophisticated: 複雜的、精密的
+speaking: 說
+spec: 規格
+special: 特殊的、專門的
+specialized: 專業的、專門的
+specific: 特定的
+specification: 規範
+specifies: 指定
+specify: 指定、特定
+specifying: 指定
+spent: 花費的、(spend - spent - spent)
+spurred: 刺激、促進
+stand for: 代表
+state-of-the-art: 最先進的
+state: 陳述、長期狀態、州
+statement: 陳述、聲明、(通常比單一句子長)
+static: 靜態的、不變的
+statically: 靜態地
+status: 狀態
+still: 仍然
+stimulated: 刺激
+storage: 存儲
+straight: 直
+straightforward: 直接的
+strictly: 嚴格地
+structure: 結構、構造
+structured: 結構化的
+studied: 研究
+study: 研究
+subsequent: 隨後的、後續的
+substantial: 大量的
+subtraction: 減法、減去
+such as: 例如
+suffer: 遭受
+sufficient: 足夠的
+summarize: 總結、概括
+supplied: 提供、供應
+supplies: 供應
+supply: 供應
+suppose: 認為、假設
+surround: 圍繞、環繞
+synchronization: 同步
+syntactically: 句法上的
+syntax: 語法、句法
+synthesis: 合成
+synthesize: 合成
+systolic array: 脈動陣列
+systolic: 收縮的、脈動的
+tackle: 處理
+tailored: 定制的
+talk - talked - talked: 說
+task: 任務
+technically: 技術上
+technique: 技術
+technology: 科技
+tedious: 冗長的、乏味的
+tell - told - told: 告訴
+temperature: 溫度
+temporary: 暫時的
+term: 術語
+terminal: 終端
+terminate: 終止、終結
+terminology: 術語
+that is: 也就是說
+think of as: 視為
+thorough: 徹底的
+through: 通過、穿過
+throughout: 在整個過程中、貫穿
+thus: 因此
+toolkit: 工具包
+touches: 觸及
+towards: 向、朝向
+track: 追蹤
+tracking: 跟踪
+tradeoff: 折衷
+tradeoffs: 折衷
+transfer: 傳輸
+transistor: 晶體管
+transmit: 傳送、傳輸
+transmitted: 傳送的、傳遞的
+treat: 對待、看待
+treated: 被視為
+trends: 趨勢
+trick: 欺騙
+tricked: 欺騙
+trivial: 瑣碎的
+turning: 轉折
+type: 打、(打字)
+typical: 典型的
+typically: 通常
+typo: 打錯字
+undecidable: 無法決定的
+understand: 理解
+understanding: 理解
+unfortunately: 不幸的是
+unlike: 不像
+unnecessary: 不必要的
+unsound: 不正確的、無效的
+until: 直到、直至
+up to this point: 到目前為止
+upon: 在...上
+usability: 可用性
+usual: 通常的
+usually: 通常
+validate: 驗證
+variation: 變化、不同
+variety: many kinds
+various: 各種的、不同的
+versus: 對比、對抗
+violating: 違反
+virtual: 虛擬的
+visual: 視覺的
+vulnerability: 易受攻擊
+vulnerable: 易受攻擊的
+whenever: 無論何時
+whether: 是否
+wish: 希望
+within: 在...之內
+worse still: 更糟
+worse: 更糟
+worth: 值得
+written: write p.p.
+yet have never: 但從沒講過的是
+yield: 產生、放棄、良率

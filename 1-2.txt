@@ -11,7 +11,7 @@ break: 拆開
 constituent: 成分、組成
 imposes: 施加、執行
 grammatical: 語法的
-representation: 表示、表徵、呈現方式 (= show)
+representation: 表示、表徵、呈現方式、(= show)
 either: 兩者之一
 syntactically: 句法上的
 ill: 不好的、壞的
@@ -23,12 +23,11 @@ along: 沿著、隨著
 desired: 理想的、想要的
 front end: 前端
 back end: 後端
-examine: 檢查、審查 (= check)
+examine: 檢查、審查、(= check)
 detail: 細節
-may: 可能 (可能性較大)
-might: 可能 (可能性較小)
-might: 可能(may - might - might)
-phase: 階段、時期 (ph = f) (= stage)
+may: 可能、(可能性較大)
+might: 可能、(可能性較小)、(may - might - might)
+phase: 階段、時期、(ph = f)、(= stage)
 decomposition: 分解、分拆
 practice: 實際上、實踐
 grouped: 分組的
@@ -40,7 +39,7 @@ semantic: 語意的
 independent: 獨立的
 optimizer: 優化器
 dependent: 依賴的
-purpose: 目的 (= target)
+purpose: 目的、(= target)
 otherwise: 否則
 since: 自從、因為
 scanning: 掃描
@@ -61,7 +60,7 @@ omit: 省略
 such as: 例如
 notational: 做記號的
 convenience: 方便、便利
-chosen: 選擇的 (choose - chose - chosen)
+chosen: 選擇的、(choose - chose - chosen)
 initial: 初始的
 initialize: 最初的、前面的、簽名的、名字開頭的
 blank: 空白
@@ -82,7 +81,7 @@ convention: 習俗、慣例
 precedence: 優先權、優先
 spec: 規格
 efficient: 高效的
-automatically: 自動地 (= auto)
+automatically: 自動地、(= auto)
 certain: 特定的
 directed: 指向的、導向的
 consistency: 一致性
@@ -107,7 +106,7 @@ consider: 考慮、視為
 per: 每個
 act: 表現
 worth: 值得
-noting: 記住 (note)
+noting: 記住、(note)
 at most: 最多
 thus: 因此
 fix: 固定
@@ -120,7 +119,7 @@ fewer: 更少的
 principal: 主要的
 procedure: 流程
 optimization: 優化
-attempt: 嘗試 (= try)
+attempt: 嘗試、(= try)
 objective: 目標、客觀
 desire: 可望
 consume: 消耗
@@ -136,14 +135,14 @@ transmit: 傳送、傳輸
 variation: 變化、不同
 amount: 數量
 significant: 大的、明顯的、重要的
-spent: 花費的 (spend - spent - spent)
+spent: 花費的、(spend - spent - spent)
 crucial: 關鍵的
 aspect: 方面
 judicious: 神聖的、明智的
 specifies: 指定
 destination: 目的地、終點
-pound sign: #
-hash: #
+pound sign: 磅號、井號、#、(= hash)
+hash: 哈希、雜湊、井號、#、(= pound sign)
 signifies: 表示、意義
 treated: 被視為
 previous: 先前的
@@ -173,7 +172,7 @@ similarly: 類似地
 profitably: 有利地、獲利地
 contain: 包含、容納
 profiler: 分析器
-harnesses: 套索、利用、套(馬鞍、背心、護甲)
+harnesses: 套索、利用、套、馬鞍、背心、護甲
 so on: 等等
 in addition to: 除了...之外
 specialized: 專業的、專門的

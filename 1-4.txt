@@ -2,7 +2,7 @@ complicated: 複雜的
 essence: 本質
 mathematically: 數學上
 serve: 服務
-excellent: 優秀的 (= good)
+excellent: 優秀的、(= good)
 illustration: 插圖、舉證
 capture: 捕捉
 characteristic: 特徵
@@ -90,7 +90,7 @@ turning: 轉折
 assure: 確保
 maintenance: 維護
 cost: 成本
-could: 可以 (can - could)
+could: 可以、(can - could)
 nontrivial: 非凡的
 prioritize: 優先考慮
 implementing: 實施

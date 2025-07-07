@@ -116,7 +116,7 @@ majority: 大多數、主要部分
 explain: 解釋、說明
 primarily: 主要地、首要地
 historical: 歷史的、歷史性的
-copied: 複製的、抄襲的 (copy)
+copied: 複製的、抄襲的、copy p.p.
 effect: 效果、影響
 involving: 涉及、包含
 done: 完成的、做好的

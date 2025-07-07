@@ -61,7 +61,7 @@ facility: 設施
 factory: 工廠
 incur: 招致
 reduce: 減少
-eliminating: 消除 (= delete)
+eliminating: 消除、(= delete)
 unnecessary: 不必要的
 allocating: 分配
 distributed: 分布式
@@ -92,7 +92,7 @@ scheduler: 調度器
 whether: 是否
 reorders: 重新排序
 rearrange: 重新排列
-issue: 問題、執行、期(期刊雜誌單位)
+issue: 問題、執行、期、(期刊雜誌單位)
 scheduling: 調度
 multiprocessor: 多處理器
 prevalent: 流行的
@@ -117,9 +117,9 @@ potential: 潛在的
 harnessed: 利用
 deliver: 傳遞
 hundreds: 數百
-kilobytes: 千字節 (KB)
-megabytes: 兆字節 (MB)
-gigabytes: 千兆字節 (GB)
+kilobytes: 千字節、KB
+megabytes: 兆字節、MB
+gigabytes: 千兆字節、GB
 physical: 實體的
 secondary: 次要的
 correspondingly: 相應地
@@ -168,7 +168,7 @@ compiling: 編譯
 companies: 公司
 availability: 可用性
 domination: 支配
-incorporation: 企業 (Inc.)
+incorporation: 企業、Inc.
 implementation: 實施
 executing: 執行
 relies: 依賴
@@ -197,7 +197,7 @@ phenomenon: 現象
 validate: 驗證
 expensive: 昂貴的
 alternative: 替代的
-alter: 改變 (= change)
+alter: 改變、(= change)
 complete: 完成
 interpret: 解釋、翻譯
 natively: 本地地
@@ -256,7 +256,7 @@ misbehave: 行為不當
 compromise: 妥協、危害
 occurred: 發生
 occur: 發生
-had: 有 (have的過去式)
+had: 有、have p.p.
 redundant: 冗餘的
 adequate: 足夠的
 sophisticate: 複雜的

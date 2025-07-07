@@ -5,8 +5,6 @@ for file in files:
     with open(file, "r") as f:
         lines = f.readlines()
         for i, line in enumerate(lines):
-            if line.startswith("Exercises"):
-                break
             t = line.split(":")
             if len(t) == 2:
                 words.append((t[0].strip(), t[1].strip(), file + " line " + str(i + 1)))
@@ -20,4 +18,4 @@ for i in words:
             break
 with open("worlds.txt", "w") as f:
     for world in words:
-        f.write(f"{world[0]}: {world[1]} [in {world[2]}]\n")
+        f.write(f"{world[0]}: {world[1]}\n")

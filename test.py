@@ -1,4 +1,7 @@
-from random import choice
+from json import dump, load
+import pickle
+from random import choices
+from typing import Literal
 
 
 class VocabularyTester:
@@ -7,6 +10,8 @@ class VocabularyTester:
     def __init__(self, vocabulary_file: str = "worlds.txt"):
         self.vocabulary_file = vocabulary_file
         self.vocabulary = self.load_vocabulary()
+        self.log_mode: Literal["pickle", "json"] = "json"  # 默認使用 JSON 格式
+        self.log = self.load_log(self.log_mode)
 
     def load_vocabulary(self) -> dict[str, str]:
         """載入詞彙表"""
@@ -18,9 +23,7 @@ class VocabularyTester:
                     if ": " in line:
                         # 分割單詞和定義，忽略來源信息
                         parts = line.split(": ", 1)
-                        word = parts[0]
-                        definition = parts[1].split(" [")[0]  # 去除來源信息
-                        vocabulary[word] = definition
+                        vocabulary[parts[0]] = parts[1]
                 return vocabulary
         except FileNotFoundError:
             print(f"錯誤：找不到詞彙文件 '{self.vocabulary_file}'")
@@ -50,11 +53,9 @@ class VocabularyTester:
     def conduct_test(self, test_count: int) -> tuple[list[str], list[str], list[bool]]:
         """進行測試"""
         # 隨機選擇單詞
-        selected_words: list[str] = []
-        while len(selected_words) < test_count:
-            t = choice(tuple(self.vocabulary.keys()))
-            if t not in selected_words:
-                selected_words.append(t)
+        max_accuracy = max(self.log.get(word, 0) for word in self.vocabulary.keys())
+        weights: tuple[int, ...] = tuple(max_accuracy - self.log.get(word, 0) + 1 for word in self.vocabulary.keys())
+        selected_words = choices(tuple(self.vocabulary.keys()), weights, k=test_count)
         user_answers: list[str] = []
 
         print(f"\n開始測試！共 {test_count} 題\n")
@@ -70,7 +71,7 @@ class VocabularyTester:
         corrections: list[bool] = []
         for i, (word, user_answer) in enumerate(zip(selected_words, user_answers), 1):
             correct_answer = self.vocabulary[word]
-            if user_answer.strip() == correct_answer.strip() or any(ans in correct_answer.strip().split("、") for ans in user_answer.strip().split("、")):
+            if user_answer.strip() == correct_answer.strip() or any(ans.lower() in map(str.lower, correct_answer.strip().split("、")) for ans in user_answer.strip().split("、")):
                 corrections.append(True)
             elif user_answer.strip() in ("N", "", " "):
                 corrections.append(False)
@@ -102,24 +103,76 @@ class VocabularyTester:
         print(f"{'='*50}")
 
         for i, (word, is_correct) in enumerate(zip(words, corrections), 1):
-            status = "✓ 正確" if is_correct else "✗ 錯誤"
             answer = self.vocabulary[word]
-            if not is_correct:
-                status += f" (正確答案: {answer})"
-            else:
-                status += f" (答案正確: {answer})"
+            status = f"✓ 正確 (正確答案: {answer})" if is_correct else f"✗ 錯誤 (答案正確: {answer})"
             print(f"{i:2d}. {word:<20} {status}")
 
         print(f"\n總分：{correct_count}/{total_count} ({score:.1f}%)")
+
+        for word, is_correct in zip(words, corrections):
+            if is_correct:
+                self.log[word] = self.log.get(word, 0) + 1
 
     def run(self) -> None:
         """運行測試程序"""
         print("歡迎使用英語詞彙測試工具！")
         print(f"詞彙庫包含 {len(self.vocabulary)} 個單詞。")
+        print(f"當前紀錄模式：{self.log_mode}")
 
-        test_count = self.get_test_count()
-        words, _, corrections = self.conduct_test(test_count)
-        self.show_results(words, corrections)
+        while True:
+            match input("\n[1. 開始測試][2. 查看歷史記錄][3. 切換紀錄來源][4. 讀取紀錄][5. 保存紀錄][6. 退出]: "):
+                case "1":
+                    test_count = self.get_test_count()
+                    words, _, corrections = self.conduct_test(test_count)
+                    self.show_results(words, corrections)
+                    self.save_log(self.log, self.log_mode)
+                case "2":
+                    print("歷史記錄（答對次數）：")
+                    for word, count in self.log.items():
+                        if count > 0:
+                            print(f"{word}: {count} 次")
+                case "3":
+                    if self.log_mode == "json":
+                        self.log_mode = "pickle"
+                    else:
+                        self.log_mode = "json"
+                    print(f"已切換到 {self.log_mode} 紀錄模式。")
+                case "4":
+                    self.log = self.load_log(self.log_mode)
+                case "5":
+                    self.save_log(self.log, self.log_mode)
+                case "6":
+                    print("謝謝使用，再見！")
+                    return
+                case _:
+                    print("無效選擇，請重新輸入。")
+
+    def load_log(self, mod: Literal["pickle", "json"]) -> dict[str, int]:
+        try:
+            if mod == "pickle":
+                with open("log.pkl", "br") as log_file:
+                    log = pickle.load(log_file)
+            elif mod == "json":
+                with open("log.json", "r") as log_file:
+                    log = load(log_file)
+        except Exception as e:
+            print(f"讀取歷史記錄時發生錯誤：{e}")
+            return {}
+        print(f"歷史記錄已讀取。")
+        return log
+
+    def save_log(self, log: dict[str, int], mod: Literal["pickle", "json"]) -> None:
+        try:
+            if mod == "pickle":
+                with open("log.pkl", "bw") as log_file:
+                    pickle.dump(log, log_file)
+            elif mod == "json":
+                with open("log.json", "w") as log_file:
+                    dump(log, log_file)
+        except Exception as e:
+            print(f"保存歷史記錄時發生錯誤：{e}")
+            return
+        print(f"歷史記錄已保存。")
 
 
 if __name__ == "__main__":
