@@ -112,6 +112,8 @@ class VocabularyTester:
         for word, is_correct in zip(words, corrections):
             if is_correct:
                 self.log[word] = self.log.get(word, 0) + 1
+            else:
+                self.log[word] = self.log.get(word, 0) - 1
 
     def run(self) -> None:
         """運行測試程序"""
