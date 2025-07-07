@@ -129,25 +129,25 @@ class VocabularyTester:
                     self.show_results(words, corrections)
                     self.save_log(self.log, self.log_mode)
                 case "2":
-                    print("歷史記錄（答對次數）：")
+                    print("\n歷史記錄（答對次數）：")
                     for word, count in self.log.items():
-                        if count > 0:
+                        if count != 0:
                             print(f"{word}: {count} 次")
                 case "3":
                     if self.log_mode == "json":
                         self.log_mode = "pickle"
                     else:
                         self.log_mode = "json"
-                    print(f"已切換到 {self.log_mode} 紀錄模式。")
+                    print(f"\n已切換到 {self.log_mode} 紀錄模式。")
                 case "4":
                     self.log = self.load_log(self.log_mode)
                 case "5":
                     self.save_log(self.log, self.log_mode)
                 case "6":
-                    print("謝謝使用，再見！")
+                    print("\n謝謝使用，再見！")
                     return
                 case _:
-                    print("無效選擇，請重新輸入。")
+                    print("\n無效選擇，請重新輸入。")
 
     def load_log(self, mod: Literal["pickle", "json"]) -> dict[str, int]:
         try:
@@ -158,9 +158,9 @@ class VocabularyTester:
                 with open("log.json", "r") as log_file:
                     log = load(log_file)
         except Exception as e:
-            print(f"讀取歷史記錄時發生錯誤：{e}")
+            print(f"\n讀取歷史記錄時發生錯誤：{e}")
             return {}
-        print(f"歷史記錄已讀取。")
+        print(f"\n歷史記錄已讀取。")
         return log
 
     def save_log(self, log: dict[str, int], mod: Literal["pickle", "json"]) -> None:
@@ -172,9 +172,9 @@ class VocabularyTester:
                 with open("log.json", "w") as log_file:
                     dump(log, log_file)
         except Exception as e:
-            print(f"保存歷史記錄時發生錯誤：{e}")
+            print(f"\n保存歷史記錄時發生錯誤：{e}")
             return
-        print(f"歷史記錄已保存。")
+        print(f"\n歷史記錄已保存。")
 
 
 if __name__ == "__main__":
