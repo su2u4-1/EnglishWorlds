@@ -61,7 +61,7 @@ experiment: 實驗
 evaluation: 評估
 intuition: 直覺
 performance: 表現
-kept: 保持
+kept: 保持、keep p.p.
 effort: 努力、效益
 required: 需要的
 manageable: 可管理的

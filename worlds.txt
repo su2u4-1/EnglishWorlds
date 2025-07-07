@@ -463,7 +463,7 @@ involving: 涉及、包含
 issue: 問題、執行、期、(期刊雜誌單位)
 judge: 判斷
 judicious: 神聖的、明智的
-kept: 保持
+kept: 保持、keep p.p.
 kilobytes: 千字節、KB
 large: 大的
 largest: 最大的、最多的
