@@ -1,27 +1,56 @@
 from json import dump, load
 import pickle
 from random import choices
-from typing import Literal
+from typing import Literal, Sequence
+from wcwidth import wcswidth
+
+
+class DisplayInfo:
+    def __init__(self, title: Sequence[object] | str, empty_msg: str) -> None:
+        if isinstance(title, str):
+            title = tuple(i.strip() for i in title.split("|"))
+        else:
+            title = tuple(str(t).strip() for t in title)
+        self.show = [title]
+        self.size = len(title)
+        self.length: list[int] = [wcswidth(t) for t in title]
+        self.empty_msg = empty_msg
+
+    def add(self, item: Sequence[object]) -> None:
+        if isinstance(item, str):
+            item = tuple(i.strip() for i in item.split("|"))
+        else:
+            item = tuple(str(i).strip() for i in item)
+        if len(item) > self.size:
+            raise ValueError("Item length exceeds title length.")
+        elif len(item) < self.size:
+            item = item + tuple([""] * (self.size - len(item)))
+        self.show.append(item)
+        self.length = [max(self.length[i], wcswidth(item[i])) for i in range(self.size)]
+
+    def display(self) -> None:
+        for row in self.show:
+            for j in range(self.size):
+                print(f"[{row[j]}" + " " * (self.length[j] - wcswidth(row[j])) + "]", end="")
+            print()
+        if len(self.show) == 1:
+            print(self.empty_msg)
 
 
 class VocabularyTester:
-    """英語單詞測試工具"""
-
-    def __init__(self, vocabulary_file: str = "worlds.txt"):
+    def __init__(self, vocabulary_file: str = "worlds.txt") -> None:
         self.vocabulary_file = vocabulary_file
         self.vocabulary = self.load_vocabulary()
-        self.log_mode: Literal["pickle", "json"] = "json"  # 默認使用 JSON 格式
+        self.log_mode: Literal["pickle", "json"] = "json"
         self.log = self.load_log(self.log_mode)
 
     def load_vocabulary(self) -> dict[str, str]:
-        """載入詞彙表"""
         try:
             with open(self.vocabulary_file, "r", encoding="utf-8") as file:
                 vocabulary: dict[str, str] = {}
                 for line in file:
                     line = line.strip()
                     if ": " in line:
-                        # 分割單詞和定義，忽略來源信息
                         parts = line.split(": ", 1)
                         vocabulary[parts[0]] = parts[1]
                 return vocabulary
@@ -33,7 +62,6 @@ class VocabularyTester:
             exit(1)
 
     def get_test_count(self) -> int:
-        """獲取測試題目數量"""
         while True:
             try:
                 count = int(input("請輸入測試題目數量: "))
@@ -51,8 +79,6 @@ class VocabularyTester:
                 exit(0)
 
     def conduct_test(self, test_count: int) -> tuple[list[str], list[str], list[bool]]:
-        """進行測試"""
-        # 隨機選擇單詞
         max_accuracy = max(self.log.get(word, 0) for word in self.vocabulary.keys())
         weights: tuple[int, ...] = tuple(max_accuracy - self.log.get(word, 0) + 1 for word in self.vocabulary.keys())
         selected_words = choices(tuple(self.vocabulary.keys()), weights, k=test_count)
@@ -60,18 +86,18 @@ class VocabularyTester:
 
         print(f"\n開始測試！共 {test_count} 題\n")
 
-        # 收集用戶答案
         for i, word in enumerate(selected_words, 1):
             answer = input(f"第 {i}/{test_count} 題：'{word}' 的意思是？(如果不知道或忘記了請輸入N) ")
             user_answers.append(answer)
 
         print("\n正在檢查答案...")
 
-        # 檢查答案正確性
         corrections: list[bool] = []
         for i, (word, user_answer) in enumerate(zip(selected_words, user_answers), 1):
             correct_answer = self.vocabulary[word]
-            if user_answer.strip() == correct_answer.strip() or any(ans.lower() in map(str.lower, correct_answer.strip().split("、")) for ans in user_answer.strip().split("、")):
+            if user_answer.strip() == correct_answer.strip() or any(
+                ans.lower().replace("的", "地") in map(lambda x: x.lower().replace("的", "地"), correct_answer.strip().split("、")) for ans in user_answer.strip().split("、")
+            ):
                 corrections.append(True)
             elif user_answer.strip() in ("N", "", " "):
                 corrections.append(False)
@@ -93,7 +119,6 @@ class VocabularyTester:
         return selected_words, user_answers, corrections
 
     def show_results(self, words: list[str], corrections: list[bool]) -> None:
-        """顯示測試結果"""
         correct_count = sum(corrections)
         total_count = len(corrections)
         score = (correct_count / total_count) * 100
@@ -102,10 +127,11 @@ class VocabularyTester:
         print("測試結果")
         print(f"{'='*50}")
 
+        display = DisplayInfo(("題號", "單字", "結果", "答案", "google翻譯連結"), "N/A")
         for i, (word, is_correct) in enumerate(zip(words, corrections), 1):
-            answer = self.vocabulary[word]
-            status = f"✓ 正確 (正確答案: {answer})" if is_correct else f"✗ 錯誤 (答案正確: {answer})"
-            print(f"{i:2d}. {word:<20} {status}")
+            url = f"https://translate.google.com/?sl=en&tl=zh-TW&text={word.replace(" ", "%20")}&op=translate"
+            display.add((i, word, f"✓ 正確" if is_correct else f"✗ 錯誤", self.vocabulary[word], url))
+        display.display()
 
         print(f"\n總分：{correct_count}/{total_count} ({score:.1f}%)")
 
@@ -116,7 +142,6 @@ class VocabularyTester:
                 self.log[word] = self.log.get(word, 0) - 1
 
     def run(self) -> None:
-        """運行測試程序"""
         print("歡迎使用英語詞彙測試工具！")
         print(f"詞彙庫包含 {len(self.vocabulary)} 個單詞。")
         print(f"當前紀錄模式：{self.log_mode}")
