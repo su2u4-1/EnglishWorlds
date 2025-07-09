@@ -1,7 +1,7 @@
 evolution: 演變、演化
 talk - talked - talked: 說
 tell - told - told: 告訴
-Needless: 不必要的
+needless: 不必要的
 tedious: 冗長的、乏味的
 prone: 易於...的、傾向於...的
 towards: 向、朝向

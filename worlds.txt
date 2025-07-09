@@ -1,4 +1,5 @@
 -ized: 使...化
+Macintosh: 麥金塔
 a variety of: 各式各樣的、(= various)
 ability: 能力
 above: 以上
@@ -31,6 +32,7 @@ aggregate: 聚合、總計
 aid: 幫助、援助
 al-go-ri-thm: 演算法
 alarms: 警報
+alias: 別名、別稱
 allocate: 分配
 allocating: 分配
 allocation: 分配、安排
@@ -65,6 +67,7 @@ arithmetic: 算術的
 arrange: 安排、整理、佈置
 array: 陣列
 artifact: 人造
+as a result: 結果、因此
 asks: 詢問、要求
 aspect: 方面
 assembly: 組裝
@@ -74,6 +77,7 @@ associate: 聯繫、關聯
 associated: 關聯的、聯繫的
 association: 聯繫
 assume: 假設、認為
+assumption: 假設、前提
 assure: 確保
 at most: 最多
 attempt: 嘗試、(= try)
@@ -149,6 +153,7 @@ concept: 概念
 concepts: 概念
 conclude: 總結
 conform: 符合
+consequence: 結果、後果
 consequently: 因此
 conservative: 保守的
 conserve: 節省
@@ -300,6 +305,7 @@ evolving: 演變的
 examine: 檢查、審查、(= check)
 excellent: 優秀的、(= good)
 exclude: 不包含
+exclusively: 僅僅、專門地
 execute: 執行
 executed: 處決
 executing: 執行
@@ -418,6 +424,7 @@ increasing: 增加的、增長的
 incur: 招致
 independent: 獨立的
 indicate: 指出、指示
+indicated: 指示的、表明的
 inefficiency: 低效率
 infinite: 無限的
 influence: 影響
@@ -458,6 +465,7 @@ intuition: 直覺
 invention: 發明
 invocation: 調用
 invoke: 調用、引起
+involve: 涉及、包含
 involves: 涉及
 involving: 涉及、包含
 issue: 問題、執行、期、(期刊雜誌單位)
@@ -481,9 +489,9 @@ likely: 可能的、很可能
 likewise: 同樣地、也
 limitation: 限制
 linear: 線性的
+literally: 字面上、逐字地
 locate: 定位、放置
 machine: 機器
-Macintosh: 麥金塔
 macro: 巨集、指令、大量
 magnitude: 大小、數量、規模
 maintain: 維護
@@ -532,7 +540,7 @@ native: 本地的
 natively: 本地地
 natural: 自然的
 necessary: 必要的
-Needless: 不必要的
+needless: 不必要的
 neither: 兩者皆不
 nested: 嵌套的、內含的
 nesting: 嵌套
@@ -550,6 +558,7 @@ object: 目標
 objective: 目標、客觀
 obliterate: 消除
 obscure: 模糊的
+observation: 觀察、觀測
 observe: 觀察
 obvious: 明顯的
 occur: 發生
@@ -668,6 +677,7 @@ reader: 讀者、閱讀器
 rearrange: 重新排列
 reason: 理由、原因
 reasonable: 合理的
+received: 接收的、收到的
 recently: 最近、近來
 recognize: 認識
 record: 記錄
@@ -775,6 +785,7 @@ specifying: 指定
 spent: 花費的、(spend - spent - spent)
 spurred: 刺激、促進
 stand for: 代表
+standing: 站立的、常駐的
 state-of-the-art: 最先進的
 state: 陳述、長期狀態、州
 statement: 陳述、聲明、(通常比單一句子長)
@@ -786,6 +797,7 @@ stimulated: 刺激
 storage: 存儲
 straight: 直
 straightforward: 直接的
+strict: 嚴格的、嚴謹的
 strictly: 嚴格地
 structure: 結構、構造
 structured: 結構化的
@@ -793,6 +805,7 @@ studied: 研究
 study: 研究
 subsequent: 隨後的、後續的
 substantial: 大量的
+substituted: 替代的、取代的
 subtraction: 減法、減去
 such as: 例如
 suffer: 遭受
@@ -857,6 +870,7 @@ undecidable: 無法決定的
 understand: 理解
 understanding: 理解
 unfortunately: 不幸的是
+unintuitive: 不直觀的、不易理解的
 unlike: 不像
 unnecessary: 不必要的
 unsound: 不正確的、無效的

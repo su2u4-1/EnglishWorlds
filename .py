@@ -16,6 +16,10 @@ for i in words:
         if n > 1:
             print(f"{i[0]}: {i[1]} [in {i[2]}]")
             break
+
+result: list[str] = []
+for world in words:
+    result.append(f"{world[0]}: {world[1]}\n")
+result.sort()
 with open("worlds.txt", "w") as f:
-    for world in words:
-        f.write(f"{world[0]}: {world[1]}\n")
+    f.write("".join(result))

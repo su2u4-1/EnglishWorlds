@@ -123,3 +123,17 @@ done: 完成的、做好的
 callee: 被調用者、被呼叫者
 likewise: 同樣地、也
 reason: 理由、原因
+observation: 觀察、觀測
+exclusively: 僅僅、專門地
+received: 接收的、收到的
+indicated: 指示的、表明的
+strict: 嚴格的、嚴謹的
+involve: 涉及、包含
+substituted: 替代的、取代的
+literally: 字面上、逐字地
+standing: 站立的、常駐的
+unintuitive: 不直觀的、不易理解的
+alias: 別名、別稱
+consequence: 結果、後果
+as a result: 結果、因此
+assumption: 假設、前提
