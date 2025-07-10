@@ -21,5 +21,5 @@ result: list[str] = []
 for world in words:
     result.append(f"{world[0]}: {world[1]}\n")
 result.sort()
-with open("worlds.txt", "w") as f:
+with open("words.txt", "w") as f:
     f.write("".join(result))

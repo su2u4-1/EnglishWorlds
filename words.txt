@@ -862,7 +862,7 @@ trick: 欺騙
 tricked: 欺騙
 trivial: 瑣碎的
 turning: 轉折
-type: 打、(打字)
+type: 打、(打字)、類型、類別
 typical: 典型的
 typically: 通常
 typo: 打錯字

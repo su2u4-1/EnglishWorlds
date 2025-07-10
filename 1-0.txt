@@ -31,7 +31,7 @@ introduce: 介紹
 overview: 概述
 structure: 結構、構造
 typical: 典型的
-type: 打、(打字)
+type: 打、(打字)、類型、類別
 typo: 打錯字
 discuss: 討論
 trends: 趨勢
