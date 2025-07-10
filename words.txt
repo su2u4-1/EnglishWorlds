@@ -68,9 +68,11 @@ arrange: 安排、整理、佈置
 array: 陣列
 artifact: 人造
 as a result: 結果、因此
+as well as: 以及、同樣地
 asks: 詢問、要求
 aspect: 方面
 assembly: 組裝
+assigned: 分配的、指定的
 assignment: 作業、指派
 assist: 協助
 associate: 聯繫、關聯
@@ -82,6 +84,7 @@ assure: 確保
 at most: 最多
 attempt: 嘗試、(= try)
 attribute: 屬性、特徵
+automata: 自動機
 automatically: 自動地、(= auto)
 availability: 可用性
 average: 平均
@@ -108,6 +111,7 @@ brief: 簡短的
 built: 建造的、(build - built - built)
 callee: 被調用者、被呼叫者
 capabilities: 能力
+capability: 能力、性能
 capture: 捕捉
 career: 職業、職涯
 careful: 小心的
@@ -267,6 +271,7 @@ easier: 更容易的
 easy: 容易的
 economic: 經濟的
 effect: 效果、影響
+effectively: 有效地、實際上
 effectiveness: 有效性
 efficiency: 效率
 efficient: 高效的
@@ -330,6 +335,7 @@ extend: 擴展、延伸
 extensive: 廣泛的、延展性
 external: 外部的
 extra: 額外的
+extract: 提取、抽取
 extracted: 提取
 facilitate: 配合、促進
 facility: 設施
@@ -352,6 +358,7 @@ follow: 跟隨
 following: 以下的
 form: 形式、格式、表格、組成
 formal: 正式的、規範的
+formerly: 以前、從前
 formulate: 公式化
 formulating: 公式化
 formulation: 公式化
@@ -365,10 +372,12 @@ fundamental: 基本的
 gather: 集結
 gathering: 收集、聚集
 generality: 一般性
+generation: 生成、產生、代
 gigabytes: 千兆字節、GB
 gluing: 黏合
 go beyond: 超越
 goal: 目標、目的
+grammar: 文法、語法
 grammatical: 語法的
 greatest: 最大的
 greatly: 大大地
@@ -434,6 +443,7 @@ inheritance: 繼承
 initial: 初始的
 initialize: 最初的、前面的、簽名的、名字開頭的
 initially: 最初地
+innovation: 創新、革新
 innovative: 創新的
 insatiable: 無法滿足的
 instance: 實例
@@ -525,6 +535,7 @@ mission: 任務
 mistake: 錯誤
 mnemonic: 助記的
 mobile: 行動的
+model: 模型、模式
 modified: 修改的
 modules: 模組
 moreover: 此外
@@ -570,6 +581,7 @@ omitted: 被省略的、被忽略的
 on the other hand: 另一方面
 once and for all: 一勞永逸
 one and for all: 永久地、徹底地
+only: 只有、僅僅、才
 open-ended: 開放式的
 operand: 操作數
 operate: 操作、運行
@@ -649,6 +661,7 @@ productivity: 生產力
 profiler: 分析器
 profitably: 有利地、獲利地
 progressive: 進步的
+progressively: 漸進地、逐步地
 promising: 有前途的
 promote: 促進
 prone: 易於...的、傾向於...的
@@ -734,6 +747,7 @@ scanner: 掃描器
 scanning: 掃描
 scheduler: 調度器
 scheduling: 調度
+science: 科學
 scientific: 科學的
 scientist: 科學家
 secondary: 次要的
@@ -811,6 +825,7 @@ such as: 例如
 suffer: 遭受
 sufficient: 足夠的
 summarize: 總結、概括
+summary: 總結、概括
 supplied: 提供、供應
 supplies: 供應
 supply: 供應
@@ -861,6 +876,8 @@ trends: 趨勢
 trick: 欺騙
 tricked: 欺騙
 trivial: 瑣碎的
+truly: 真正地、確實地
+turn out: 結果是、最終發現
 turning: 轉折
 type: 打、(打字)、類型、類別
 typical: 典型的
@@ -869,6 +886,7 @@ typo: 打錯字
 undecidable: 無法決定的
 understand: 理解
 understanding: 理解
+unexpected: 意外的、未預料到的
 unfortunately: 不幸的是
 unintuitive: 不直觀的、不易理解的
 unlike: 不像

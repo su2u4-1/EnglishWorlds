@@ -1,0 +1,78 @@
+Exercises:
+    1.6.1: For the block-structured C code of Fig. 1.13(a), indicate the values assigned to w, x, y, and z.
+        w = 13; x = 11; y = 13; z = 11;
+    1.6.2: Repeat Exercise 1.6.1 for the code of Fig. 1.13(b).
+        w = 9; x = 7; y = 13; z = 11;
+    1.6.3: For the block-structured code of Fig. 1.14, assuming the usual static scoping of declarations, give the scope for each of the twelve declarations.
+        w(in B1): B1
+        x(in B1): B1 - B2 - B4
+        y(in B1): B1 + B2 - B3 - B4
+        z(in B1): B1 - B2 + B4 - B5
+        x(in B2): B2 - B3
+        z(in B2): B2
+        w(in B3): B3
+        x(in B3): B3
+        w(in B4): B4
+        x(in B4): B4
+        y(in B5): B5
+        z(in B5): B5
+
+    Figure 1.13: Block structure code
+        (a) Code for Exercise 1.6.1
+            int w, x, y, z;
+            int i = 4; int j = 5;  // i = 4; j = 5;
+            {
+                int j = 7;
+                i = 6;
+                w = i + j;  // i = 6; j = 7; w = 13;
+            }
+            x = i + j;  // i = 6; j = 5; x = 11;
+            {
+                int i = 8;
+                y = i + j;  // i = 8; j = 5; y = 13;
+            }
+            z = i + j;  // i = 6; j = 5; z = 11;
+        (b) Code for Exercise 1.6.2
+            int w, x, y, z;
+            int i = 3; int j = 4;  // i = 3; j = 4;
+            {
+                int i = 5;
+                w = i + j;  // i = 5; j = 4; w = 9;
+            }
+            x = i + j;  // i = 3; j = 4; x = 7;
+            {
+                int j = 6;
+                i = 7;
+                y = i + j;  // i = 7; j = 6; y = 13;
+            }
+            z = i + j;  // i = 7; j = 4; z = 11;
+    
+    Figure 1.14: Block structure code for Exercise 1.6.3
+        {   /* Block B1*/
+            int w, x, y, z;
+            {   /* Block B2 */
+                int x, z;
+                {   /* Block B3 */
+                    int w, x;
+                }
+            }
+            {   /* Block B4 */
+                int w, x;
+                {   /* Block B5 */
+                    int y, z;
+                }
+            }
+        }
+
+    1.6.4: What is printed by the following for Exercise 1.6.3?
+        #define a (x+1)
+        int x = 2;
+        void b() {x = a; printf("%d\n", x);}
+        void c() {int x = 1; printf("%d\n", a);}
+        int main() {b(); c();}
+
+        output:
+        ```
+        3
+        2
+        ```

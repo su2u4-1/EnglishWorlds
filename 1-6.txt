@@ -137,3 +137,7 @@ alias: 別名、別稱
 consequence: 結果、後果
 as a result: 結果、因此
 assumption: 假設、前提
+turn out: 結果是、最終發現
+only: 只有、僅僅、才
+assigned: 分配的、指定的
+unexpected: 意外的、未預料到的
