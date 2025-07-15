@@ -5,6 +5,7 @@ ability: 能力
 above: 以上
 absolute: 絕對的
 abstract: 抽象的
+abstraction: 抽象、抽象化
 accept: 接受
 access: 訪問
 accessed: 訪問
@@ -33,6 +34,7 @@ aid: 幫助、援助
 al-go-ri-thm: 演算法
 alarms: 警報
 alias: 別名、別稱
+aliasing: 別名、化名
 allocate: 分配
 allocating: 分配
 allocation: 分配、安排
@@ -77,7 +79,7 @@ assignment: 作業、指派
 assist: 協助
 associate: 聯繫、關聯
 associated: 關聯的、聯繫的
-association: 聯繫
+association: 協會、聯繫、聯合
 assume: 假設、認為
 assumption: 假設、前提
 assure: 確保
@@ -132,9 +134,10 @@ clearly: 明確地
 close: 接近的、關閉的
 closely: 緊密地、密切地
 closest: 最近的
+closure: 關閉、封閉
 coercions: 控制、強制
 collecting: 收集
-collection: 收集、集合、版本
+collection: 版本、集合、收集
 combination: 組合
 combine: 結合
 commodity: 商品
@@ -153,7 +156,7 @@ component: 組件、元件
 compromise: 妥協、危害
 compute: 計算
 concentrate: 集中、專注
-concept: 概念
+concept: 觀念、概念
 concepts: 概念
 conclude: 總結
 conform: 符合
@@ -177,6 +180,7 @@ contain: 包含、容納
 containing: 包含
 continuously to: 持續地、不斷地
 contrast: 對比
+contribute: 貢獻、促成
 convenience: 方便、便利
 convention: 習俗、慣例
 conventional: 傳統的、常規的
@@ -222,6 +226,7 @@ depends: 取決於
 depict: 描述
 dereference: 解引用
 dereferencing: 解引用
+describe: 描述、敘述
 design: 設計
 designed: 設計的
 designing: 設計、設計過程
@@ -230,10 +235,10 @@ desire: 可望
 desired: 理想的、想要的
 destination: 目的地、終點
 detail: 細節
-detect: 偵測
+detect: 檢測、偵測
 detector: 偵測器
 determination: 確定、決心
-determine: 確定、決定
+determine: 決定、確定
 determined: 確定、決定
 deters: 威脅、阻止
 develop: 開發
@@ -249,8 +254,8 @@ direction: 方向
 directly: 直接地
 discarded: 丟棄的
 discipline: 學科、原則
-discover: 探索
-discuss: 討論
+discover: 探索、發現
+discuss: 商討、討論
 discussing: 討論、商討
 discussion: 討論
 distinction: 區別、區分
@@ -271,7 +276,7 @@ easier: 更容易的
 easy: 容易的
 economic: 經濟的
 effect: 效果、影響
-effectively: 有效地、實際上
+effectively: 實際上、有效地
 effectiveness: 有效性
 efficiency: 效率
 efficient: 高效的
@@ -286,6 +291,7 @@ emphasis: 強調
 emphasize: 強調
 empirically: 實證地、經驗上的
 encapsulation: 封裝、包裝
+enclose: 包圍、封閉、封入、附上
 encounter: 遇到
 engineering: 工程學
 ensure: 確保
@@ -293,6 +299,7 @@ entire: 整個的
 entity: 實體、存在
 entrust: 委託、信任
 entry: 進入
+environment: 環境、環境因素
 equal: 相等的
 equivalent: 等價的、(= same)
 erroneous: 錯誤的、不正確的
@@ -408,7 +415,7 @@ immediate: 立即的、即時的
 immediately: 立即
 immune: 免疫的、免除的
 impact: 影響
-impacts: 影響
+impacts: 影響、衝擊
 imperative: 命令的、必要的
 implement: 實作、實現、執行、(= do)
 implementation: 實施
@@ -450,6 +457,7 @@ instance: 實例
 instead: 反而
 instruction: 指令
 insufficient: 不足的
+integrate: 整合、融合
 integrated circuit: 集成電路、積體電路
 integrated: 整合的
 intensive: 密集的
@@ -493,7 +501,7 @@ legacy: 遺產、初期
 letter: 字母、信件
 leverage: 槓桿
 lexeme: 詞素、詞根、詞位
-lexical: 詞彙的
+lexical: 詞彙的、詞典的
 lie: 躺、謊言
 likely: 可能的、很可能
 likewise: 同樣地、也
@@ -553,7 +561,8 @@ natural: 自然的
 necessary: 必要的
 needless: 不必要的
 neither: 兩者皆不
-nested: 嵌套的、內含的
+nest: 巢穴、嵌套
+nested: 內含的、嵌套的、內嵌的
 nesting: 嵌套
 no longer: 不再
 nonetheless: 儘管如此
@@ -618,15 +627,17 @@ personal: 個人的
 phase: 階段、時期、(ph = f)、(= stage)
 phenomenon: 現象
 philosophy: 哲學
+phoenix: 鳳凰
 phrase: 短語、片語
 physical: 實體的
 piece: 塊、片
 policies: 政策
 policy: 政策、規則
 polymorphic: 多態的、多形的
-popular: 流行的
+popular: 流行的、受歡迎的
 popularity: 受歡迎
 portable: 可攜帶的
+possibility: 可能性、潛力
 possibly: 可能地
 postscript: 後記
 potential: 潛在的
@@ -657,7 +668,7 @@ procedure: 流程
 process: 處理、過程
 processor: 處理器
 produce: 產生、製造
-productivity: 生產力
+productivity: 效率、生產力
 profiler: 分析器
 profitably: 有利地、獲利地
 progressive: 進步的
@@ -693,6 +704,7 @@ reasonable: 合理的
 received: 接收的、收到的
 recently: 最近、近來
 recognize: 認識
+recommend: 建議、推薦
 record: 記錄
 recursive: 遞歸的、循環的
 reduce: 減少
@@ -753,7 +765,7 @@ scientist: 科學家
 secondary: 次要的
 section: 部分、章節、(= part)
 secure: 留住、安全的
-security: 安全
+security: 安全、保安
 semantic: 語意的
 semantically: 語義上、字面上、語法上
 semantics: 語義
@@ -849,7 +861,7 @@ tedious: 冗長的、乏味的
 tell - told - told: 告訴
 temperature: 溫度
 temporary: 暫時的
-term: 術語
+term: 期間、術語
 terminal: 終端
 terminate: 終止、終結
 terminology: 術語

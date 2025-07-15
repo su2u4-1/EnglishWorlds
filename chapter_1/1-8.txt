@@ -1,0 +1,8 @@
+phoenix: 鳳凰
+collection: 收集、集合
+popular: 受歡迎的、流行的
+integrate: 整合、融合
+discuss: 討論、商討
+concept: 概念、觀念
+recommend: 建議、推薦
+impacts: 影響、衝擊

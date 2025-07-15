@@ -1,4 +1,13 @@
-files = ["./1-0.txt", "./1-1.txt", "./1-2.txt", "./1-3.txt", "./1-4.txt", "./1-5.txt", "./1-6.txt", "./1-7.txt"]
+files = [
+    "./chapter_1/1-0.txt",
+    "./chapter_1/1-1.txt",
+    "./chapter_1/1-2.txt",
+    "./chapter_1/1-3.txt",
+    "./chapter_1/1-4.txt",
+    "./chapter_1/1-5.txt",
+    "./chapter_1/1-6.txt",
+    "./chapter_1/1-7.txt",
+]
 
 words: list[tuple[str, str, str]] = []
 for file in files:
@@ -8,18 +17,27 @@ for file in files:
             t = line.split(":")
             if len(t) == 2:
                 words.append((t[0].strip(), t[1].strip(), file + " line " + str(i + 1)))
-for i in words:
-    n = 0
-    for j in words:
-        if i[0] == j[0]:
-            n += 1
-        if n > 1:
-            print(f"{i[0]}: {i[1]} [in {i[2]}]")
-            break
 
+with open("words.txt", "r") as f:
+    data = f.readlines()
+data = dict(line.split(": ", 2) for line in data)
+data = {k: v.replace("\n", "") for k, v in data.items()}
+data = {k: v.split("、") for k, v in data.items()}
+
+
+words.sort(key=lambda x: x[0])
+p: tuple[str, str, str] = ("", "", "")
 result: list[str] = []
-for world in words:
-    result.append(f"{world[0]}: {world[1]}\n")
+for i in words:
+    if i[0] == p[0]:
+        p = (i[0], "、".join(set(p[1].split("、") + i[1].split("、") + data[p[0]])), p[2])
+        print(f"{i[0]}: {i[1]} [in {i[2]}]")
+    else:
+        if p[0] != "":
+            result.append(f"{p[0]}: {p[1]}\n")
+        p = i
+if p[0] != "":
+    result.append(f"{p[0]}: {p[1]}\n")
 result.sort()
 with open("words.txt", "w") as f:
     f.write("".join(result))
