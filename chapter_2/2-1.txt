@@ -1,0 +1,26 @@
+direct: 直接的、指導、指揮
+introduction: 介紹、引進
+illustrate: 說明、闡明
+translate: 翻譯、轉化
+representative: 代表性的、典型的
+parsing: 解析、分析
+creating: 創建、創造
+infix: 插入、內嵌、中綴
+prefix: 前綴、前置
+suffix: 後綴、後置
+postfix: 後置、後綴
+appendix: 附錄、附加物
+convenient: 方便的、便利的
+predate: 早於、先於
+private: 私人的、私有的
+break up: 分解、拆分
+pieces: 片段、部分
+organize: 組織、安排
+present: 呈現、展示、現在
+widely: 廣泛地、普遍地
+notation: 符號、標記法
+currently: 當前、目前
+available: 可用的、可獲得的
+informal: 非正式的、隨意的
+therefore: 因此、所以
+suggestive: 暗示的、啟發性的
