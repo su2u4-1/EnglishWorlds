@@ -35,10 +35,16 @@ for i in words:
         print(f"{i[0]}: {i[1]} [in {i[2]}]")
     else:
         if p[0] != "":
-            result.append(f"{p[0]}: {p[1]}\n")
+            if p[0] in data:
+                result.append(f"{p[0]}: {"、".join(set(p[1].split("、") + data[p[0]]))}\n")
+            else:
+                result.append(f"{p[0]}: {p[1]}\n")
         p = i
 if p[0] != "":
-    result.append(f"{p[0]}: {p[1]}\n")
+    if p[0] in data:
+        result.append(f"{p[0]}: {"、".join(set(p[1].split("、") + data[p[0]]))}\n")
+    else:
+        result.append(f"{p[0]}: {p[1]}\n")
 result.sort()
 with open("words.txt", "w") as f:
     f.write("".join(result))

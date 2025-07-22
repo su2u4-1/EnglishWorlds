@@ -24,3 +24,17 @@ available: 可用的、可獲得的
 informal: 非正式的、隨意的
 therefore: 因此、所以
 suggestive: 暗示的、啟發性的
+beside: 在旁邊、除...之外
+guide: 指導、引導
+explanation: 解釋、說明
+clarification: 澄清、闡明
+clarify: 澄清、闡明
+rest: 剩餘、休息
+quick: 快速的、迅速的
+tour: 旅行、巡迴
+operator: 運算符、操作符
+rich: 豐富的、富有的
+enough: 足夠的、充分的
+yet: 然而、但是
+individual: 個體、個別的、獨立的
+understandable: 可理解的、易懂的

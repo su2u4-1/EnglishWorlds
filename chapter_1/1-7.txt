@@ -20,5 +20,4 @@ nest: 巢穴、嵌套
 closure: 關閉、封閉
 aliasing: 別名、化名
 abstraction: 抽象、抽象化
-effectively: 有效地、實際上
 possibility: 可能性、潛力
