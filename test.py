@@ -107,7 +107,7 @@ class VocabularyTester:
 
         corrections: list[bool] = []
         for i, (word, user_answer) in enumerate(zip(selected_words, user_answers), 1):
-            if user_answer.lower().strip() in ("n", "", " "):
+            if user_answer.lower().strip() in ("n", "x", "", " "):
                 corrections.append(False)
                 continue
             correct_answer = self.vocabulary[word]
@@ -203,7 +203,9 @@ class VocabularyTester:
                     for i, (word, times) in enumerate(result):
                         print(f"{word:<{maxlen}}: {times} 次")
                         if i % 10 == 9:
-                            input("按 Enter 鍵繼續...")
+                            q = input("按 Enter 鍵繼續(輸入 q 或 exit 離開)...")
+                            if q.lower() in ("q", "exit"):
+                                break
                             print("\033[F\033[K", end="")
                 case "3":
                     self.log = self.load_log()
