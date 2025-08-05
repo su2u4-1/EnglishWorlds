@@ -1,5 +1,4 @@
 processor: 處理器
-process: 處理、過程
 simply: 簡單地
 state: 陳述、長期狀態、州
 status: 狀態
@@ -7,15 +6,11 @@ figure: 圖、樣貌、範例、(= example)
 equivalent: 等價的、(= same)
 role: 角色
 detect: 偵測
-during: 在...期間
 produce: 產生、製造
 interpreter: 直譯器、轉譯者
-common: 普通的、常見的
 instead: 反而
-appear: 出現、顯示
 directly: 直接地
 operate: 操作、運行
-specify: 指定、特定
 supplied: 提供、供應
 usually: 通常
 much: 很多
@@ -23,11 +18,9 @@ however: 然而
 diagnose: 診斷
 diagnostic: 診斷的
 statement: 陳述、聲明、(通常比單一句子長)
-combine: 結合
 compilation: 編譯、彙總
 interpretation: 解釋
 shown: 顯示、(被動)
-intermediate: 中間的
 inter- : 中間、之間
 internet: 網際網路
 international: 國際的

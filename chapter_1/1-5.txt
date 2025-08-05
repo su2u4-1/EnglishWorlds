@@ -56,7 +56,6 @@ previously: 先前
 ensure: 確保
 lie: 躺、謊言
 bound: 有界的
-array: 陣列
 facility: 設施
 factory: 工廠
 incur: 招致
@@ -106,7 +105,6 @@ synchronization: 同步
 among: 在...之間
 intensive: 密集的
 greatly: 大大地
-consists: 包含
 hierarchy: 階層
 closest: 最近的
 close: 接近的、關閉的
@@ -169,7 +167,6 @@ companies: 公司
 availability: 可用性
 domination: 支配
 incorporation: 企業、Inc.
-implementation: 實施
 executing: 執行
 relies: 依賴
 backward: 向後的
@@ -181,7 +178,6 @@ mostly: 大多數
 circuit: 電路
 integrated circuit: 集成電路、積體電路
 transfer: 傳輸
-represent: 代表
 combination: 組合
 transistor: 晶體管
 eventually: 最終

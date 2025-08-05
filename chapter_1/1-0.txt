@@ -1,6 +1,5 @@
 notations: 記號
 depend on: 依賴於、取決於
-written: write p.p.
 form: 形式、格式、表格、組成
 execute: 執行
 executed: 處決
@@ -8,7 +7,6 @@ design: 設計
 implement: 實作、實現、執行、(= do)
 shall: 應該
 discover: 探索
-construct: 建構、構造、建造
 variety: many kinds
 a variety of: 各式各樣的、(= various)
 principle: 原則
@@ -27,7 +25,6 @@ al-go-ri-thm: 演算法
 engineering: 工程學
 preliminary: 初步的、開端的
 chapter: 章節、篇章
-introduce: 介紹
 overview: 概述
 structure: 結構、構造
 typical: 典型的

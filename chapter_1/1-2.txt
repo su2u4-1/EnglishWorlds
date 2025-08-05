@@ -11,7 +11,6 @@ break: 拆開
 constituent: 成分、組成
 imposes: 施加、執行
 grammatical: 語法的
-representation: 表示、表徵、呈現方式、(= show)
 either: 兩者之一
 syntactically: 句法上的
 ill: 不好的、壞的
@@ -33,8 +32,6 @@ practice: 實際上、實踐
 grouped: 分組的
 explicitly: 明確地
 entire: 整個的
-lexical: 詞彙的
-syntax: 語法、句法
 semantic: 語意的
 independent: 獨立的
 optimizer: 優化器
@@ -46,9 +43,7 @@ scanning: 掃描
 meaningful: 有意義的
 lexeme: 詞素、詞根、詞位
 subsequent: 隨後的、後續的
-abstract: 抽象的
 absolute: 絕對的
-component: 組件、元件
 entry: 進入
 suppose: 認為、假設
 assignment: 作業、指派
@@ -63,7 +58,6 @@ convenience: 方便、便利
 chosen: 選擇的、(choose - chose - chosen)
 initial: 初始的
 initialize: 最初的、前面的、簽名的、名字開頭的
-blank: 空白
 discarded: 丟棄的
 multiplication: 乘法
 respectively: 相對的
@@ -102,7 +96,6 @@ extra: 額外的
 commonly: 常見的、普遍的
 think of as: 視為
 property: 屬性
-consider: 考慮、視為
 per: 每個
 act: 表現
 worth: 值得
@@ -144,7 +137,6 @@ destination: 目的地、終點
 pound sign: 磅號、井號、#、(= hash)
 hash: 哈希、雜湊、井號、#、(= pound sign)
 signifies: 表示、意義
-treated: 被視為
 previous: 先前的
 correct: 正確的
 cover: 覆蓋、涵蓋

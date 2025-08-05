@@ -1,6 +1,5 @@
 basic: 基礎
 terminology: 術語
-terminal: 終端
 terminate: 終止、終結
 distinction: 區別、區分
 assume: 假設、認為
@@ -21,7 +20,6 @@ held: 握住、舉行
 omitted: 被省略的、被忽略的
 occurring: 發生
 affect: 影響
-element: 元素
 denoted: 表示
 instance: 實例
 depending: 取決於
@@ -35,12 +33,10 @@ presumably: 大概、可能
 precede: 在...之前、先於
 versus: 對比、對抗
 binding: 綁定、約束
-throughout: 在整個過程中、貫穿
 one and for all: 永久地、徹底地
 impossible: 不可能的、無法實現的
 definition: 定義、解釋
 distinguish: 區分、辨別
-denote: 表示、指示
 letter: 字母、信件
 entity: 實體、存在
 qualify: 資格、限定
@@ -65,7 +61,6 @@ regarding: 關於、涉及
 surround: 圍繞、環繞
 note: 注意、筆記
 nested: 嵌套的、內含的
-referred: 提及、參考
 belong: 屬於、歸屬
 closely: 緊密地、密切地
 express: 表達、表示

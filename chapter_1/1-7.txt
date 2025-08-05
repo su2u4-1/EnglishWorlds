@@ -1,8 +1,5 @@
 summary: 總結、概括
-generation: 生成、產生、代
-model: 模型、模式
 automata: 自動機
-grammar: 文法、語法
 truly: 真正地、確實地
 science: 科學
 progressively: 漸進地、逐步地
