@@ -25,7 +25,7 @@ for input_f in files:
     data: set[str] = set()
     for f in files:
         if f == input_f:
-            continue
+            break
         with open(f, "r", encoding="utf-8") as file:
             for line in file:
                 data.add(line.split(": ")[0].strip())

@@ -103,3 +103,40 @@ manner: 方式、方法、風格、態度、舉止、禮節
 intuitive: 直觀的、易懂的
 intent: 意圖、目的
 designation: 指定、名稱
+character: 字符、字元
+lexically: 詞彙地、詞法地
+meaning: 意義、含義
+mean: 意味著、意思是
+synonymously: 同義地、同義詞地
+define: 定義、確定
+digit: 數字、數位
+sign: 符號、標誌
+boldface: 粗體、粗體字
+italicize: 斜體、斜體字
+italic: 斜體、斜體字
+nonitalicized: 非斜體、正常字體
+nonboldface: 非粗體、正常字體
+empty: 空的、空白的
+head: 頭部、首部
+according: 根據、依照
+derivation: 派生、衍生
+derive: 得出、衍生
+repeated: 重複的、反覆的
+alphabet: 字母表、字母系統
+somewhat: 有點、稍微
+different: 不同的、有差異的
+nuance: 細微差別、細節
+comma: 逗號、分隔符
+optional: 可選的、非強制的
+and so on: 等等、以此類推
+possible: 可能的、可行的
+analogous: 類似的、相似的
+in place: 存在、就位
+in place of: 代替、取代
+arbitrary: 任意的、隨意的
+shortly: 簡短地、立刻
+parse: 解析、分析
+taking: 取、拿、採取
+figuring: 計算、推斷
+approaches: 方法、途徑
+processes: 過程、處理
