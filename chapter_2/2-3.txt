@@ -1,0 +1,6 @@
+attach: 附加、連接
+rules: 規則、規定
+subscript: 下標、下劃線
+exploiting: 利用、開發
+variant: 變體、變種
+pseudocode: 偽代碼、模擬代碼

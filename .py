@@ -8,6 +8,8 @@ files = [
     "./chapter_1/1-6.txt",
     "./chapter_1/1-7.txt",
     "./chapter_2/2-1.txt",
+    "./chapter_2/2-2.txt",
+    "./chapter_2/2-3.txt",
 ]
 
 words: list[tuple[str, str, str]] = []
