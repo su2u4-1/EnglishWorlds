@@ -4,3 +4,16 @@ subscript: 下標、下劃線
 exploiting: 利用、開發
 variant: 變體、變種
 pseudocode: 偽代碼、模擬代碼
+quantity: 數量、量
+example: 例子、範例
+node: 節點、結點
+scheme: 計劃、方案、體系、格式
+attaching: 附加、連接
+induce: 引起、導致
+formalism: 形式主義、形式化
+inductively: 歸納地
+constant: 常數、不變的
+arity: 元數、元運算元
+permits: 許可、允許
+repeatedly: 反覆地、一再地
+scam: 騙局、詐騙
