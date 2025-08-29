@@ -17,3 +17,17 @@ arity: 元數、元運算元
 permits: 許可、允許
 repeatedly: 反覆地、一再地
 scam: 騙局、詐騙
+synthesized: 綜合、合成
+associating: 聯想、聯繫
+expressed: 表達、表示
+computed: 計算、估算
+relate: 相關、關聯
+sematic: 語義的
+appearing: 出現、顯示
+annotated: 註解、註釋
+annotate: 註解、註釋
+traversal: 遍歷、巡迴
+inherited: 繼承、遺傳
+informally: 非正式地
+siblings: 兄弟姐妹
+formalization: 形式化、正式的
