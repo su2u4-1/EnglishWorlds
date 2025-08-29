@@ -1,0 +1,67 @@
+Exercises:
+    2.3.1: Construct a syntax-directed translation scheme that translates arithmetic expressions from infix notation into prefix notation in which an operator appears before its operands; e.g., -xy is the prefix notation for x-y. Give annotated parse trees for the inputs 9-5+2 and 9-5*2.
+        ```py
+        def infix2prefix(exp: node | token) -> list[token]:
+            if isinstance(exp, token):
+                return [exp]
+            return [exp.op] + infix2prefix(exp.exp_l) + infix2prefix(exp.exp_r)
+        ```
+        +-952
+        -9*52
+    2.3.2: Construct a syntax-directed translation scheme that translates arithmetic expressions from postfix notation into infix notation. Give annotated parse trees for the inputs 95-2* and 952*-.
+        ```py
+        def postfix2infix(exp: list[token]) -> node:
+            stack: list[node | token] = []
+            for t in exp:
+                if t in "+-*/":
+                    right = stack.pop()
+                    left = stack.pop()
+                    stack.append(node(exp_l=left, op=t, exp_r=right))
+                else:
+                    stack.append(t)
+            return stack[0]
+        ```
+        (9-5)*2
+        9-5*2
+    2.3.3: Construct a syntax-directed translation scheme that translates integers into roman number.
+        ```py
+        def int2roman(num: int) -> str:
+            val = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1]
+            sym = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"]
+            roman_num = ""
+            i = 0
+            while num > 0:
+                for _ in range(num // val[i]):
+                    roman_num += sym[i]
+                    num -= val[i]
+                i += 1
+            return roman_num
+        ```
+    2.3.4: Construct a syntax-directed translation scheme that translates roman numbers into integers.
+        ```py
+        def roman2int(s: str) -> int:
+            roman = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+            total = 0
+            prev_value = 0
+            for char in reversed(s):
+                value = roman[char]
+                if value < prev_value:
+                    total -= value
+                else:
+                    total += value
+                prev_value = value
+            return total
+        ```
+    2.3.5: Construct a syntax-directed translation scheme that translates postfix arithmetic expressions into equivalent infix arithmetic expressions.
+        ```py
+        def postfix2infix(exp: list[token]) -> node:
+            stack: list[node | token] = []
+            for t in exp:
+                if t in "+-*/":
+                    right = stack.pop()
+                    left = stack.pop()
+                    stack.append(node(exp_l=left, op=t, exp_r=right))
+                else:
+                    stack.append(t)
+            return stack[0]
+        ```
