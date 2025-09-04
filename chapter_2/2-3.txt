@@ -31,3 +31,20 @@ inherited: 繼承、遺傳
 informally: 非正式地
 siblings: 兄弟姐妹
 formalization: 形式化、正式的
+same: 相同的、一樣的
+occurrence: 發生、出現
+unsubscripted: 無下標的
+distinct: 不同的、獨特的
+one of the kind: 獨一無二的
+alert: 警報、警告
+order: 順序、次序
+interleaved: 交錯的、交織的
+inter: 交叉、互相、介於...之間
+leave: 離開、留下、遺留
+termed: 稱為、叫做
+schemes: 計劃、方案、體系、格式
+discussed: 討論、商量
+traversals: 遍歷、巡迴
+describing: 描述、形容
+execution: 執行、實行
+visit: 訪問、參觀
