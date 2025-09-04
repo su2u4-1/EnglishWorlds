@@ -21,7 +21,7 @@ study: 研究
 touches: 觸及
 upon: 在...上
 architecture: 建築、建構、工程、架構
-al-go-ri-thm: 演算法
+algorithm: 演算法
 engineering: 工程學
 preliminary: 初步的、開端的
 chapter: 章節、篇章

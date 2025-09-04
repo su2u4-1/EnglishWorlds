@@ -228,9 +228,11 @@ class VocabularyTester:
         return log
 
     def save_log(self, log: dict[str, int]) -> None:
+        log = dict(sorted(log.items(), key=lambda item: item[0]))
+        log = dict(sorted(log.items(), key=lambda item: item[1], reverse=True))
         try:
             with open("log.json", "w") as log_file:
-                dump(log, log_file)
+                dump(log, log_file, indent=4, ensure_ascii=False)
         except Exception as e:
             print(f"\n保存歷史記錄時發生錯誤：{e}")
             return

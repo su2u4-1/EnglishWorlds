@@ -35,7 +35,7 @@ affect: 影響
 against: 反對、對抗
 aggregate: 總計、聚合
 aid: 幫助、援助
-al-go-ri-thm: 演算法
+algorithm: 演算法
 alarms: 警報
 alias: 別名、別稱
 aliasing: 化名、別名
@@ -1058,14 +1058,14 @@ tackle: 處理
 tailored: 定制的
 taken: 拿、取、採取
 taking: 拿、取、採取
-talk - talked - talked: 說
+talk: 說、(talk - talked - talked)
 task: 任務
 tearing: 撕開、撕裂
 technically: 技術上
 technique: 技術
 technology: 科技
 tedious: 冗長的、乏味的
-tell - told - told: 告訴
+tell: 告訴、(tell - told - told)
 temperature: 溫度
 temporary: 暫時的
 term: 項、期間、術語

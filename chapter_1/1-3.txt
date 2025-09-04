@@ -1,6 +1,6 @@
 evolution: 演變、演化
-talk - talked - talked: 說
-tell - told - told: 告訴
+talk: 說、(talk - talked - talked)
+tell: 告訴、(tell - told - told)
 needless: 不必要的
 tedious: 冗長的、乏味的
 prone: 易於...的、傾向於...的
