@@ -84,7 +84,7 @@ Exercises:
             if the [num] is divisible by 3, so [num num] is also divisible by 3, because [num1 num2] equal [num1 * 2^(the number of digits in num2) + num2]
             and 11 and 1001 are both divisible by 3
         b) Does the grammar generate all binary strings with values divisible by 3?
-            Yse
+            Yes
             me:
                 num = 3k
                 m is even number, n is odd number

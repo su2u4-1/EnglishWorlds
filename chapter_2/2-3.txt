@@ -48,3 +48,15 @@ traversals: 遍歷、巡迴
 describing: 描述、形容
 execution: 執行、實行
 visit: 訪問、參觀
+recursively: 遞歸地、遞迴地
+far away: 遙遠的、遠離
+as ... as: 盡可能地
+surely: 肯定地、無疑地
+sure: 確定、肯定
+impose: 強加、施加
+acceptable: 可接受的、合意的
+inherit: 繼承、遺傳
+incrementally: 逐漸地、增量地
+preorder: 前序
+postorder: 後序
+inorder: 中序
