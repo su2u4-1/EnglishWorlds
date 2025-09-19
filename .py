@@ -10,6 +10,7 @@ files = [
     "./chapter_2/2-1.txt",
     "./chapter_2/2-2.txt",
     "./chapter_2/2-3.txt",
+    "./chapter_2/2-4.txt",
 ]
 
 words: list[tuple[str, str, str]] = []

@@ -60,3 +60,22 @@ incrementally: 逐漸地、增量地
 preorder: 前序
 postorder: 後序
 inorder: 中序
+ordering: 順序、次序
+position: 位置、方位
+enclosing: 包含、圍繞
+between: 在...之間
+curly: 捲曲的、捲毛的
+curly braces: 大括號
+distinguishes: 區分、辨別
+draw: 畫、繪製
+connected: 連接、聯繫
+dashed: 虛線的、破折號的
+dash: 虛線、破折號
+portion: 部分、一部分
+underlying: 基礎的、根本的
+lying: 位於...的
+provided: 提供、規定
+differently: 不同地、有差別地
+attaches: 附加、連接
+fashion: 方式、風格
+formed: 形成、構成

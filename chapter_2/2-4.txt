@@ -1,0 +1,6 @@
+determining: 決定、確定
+helpful: 有幫助的、有益的
+capable: 有能力的、能幹的
+modification: 修改、變更
+descent: 下降、世系
+viable: 可行的、能活下去的
