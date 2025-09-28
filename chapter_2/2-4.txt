@@ -4,3 +4,29 @@ capable: 有能力的、能幹的
 modification: 修改、變更
 descent: 下降、世系
 viable: 可行的、能活下去的
+cubic: 立方體的、立方形的
+fortunate: 幸運的、僥倖的
+linear-time: 線性時間
+exponential-time: 指數時間
+suffice: 足夠、滿足
+essentially: 本質上、基本上
+arise: 出現、產生
+practical: 實際的、實用的
+scan: 掃描、瀏覽
+fall: 落下、跌倒
+fall into: 分成、落入
+terms: 條款、術語
+proceed: 前進、繼續
+due to: 由於、應付、欠款
+due: 到期的、應支付的
+larger: 較大的、更大的
+suited: 適合的、適應的
+well-suited: 非常適合的
+bold: 大膽的、粗體的
+blood: 血液、血統
+respective: 各自的、分別的
+leftmost: 最左邊的
+unexpanded: 未擴展的
+i.e.: 也就是說、換句話說
+e.g.: 例如、舉例來說
+etc.: 等等、諸如此類
