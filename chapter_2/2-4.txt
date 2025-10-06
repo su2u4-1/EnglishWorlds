@@ -30,3 +30,28 @@ unexpanded: 未擴展的
 i.e.: 也就是說、換句話說
 e.g.: 例如、舉例來說
 etc.: 等等、諸如此類
+think about: 思考、考慮
+snapshot: 快照、瞬間
+lookahead: 前瞻、展望
+uppermost: 最高的、最上面的
+lowermost: 最低的、最下面的
+rightmost: 最右邊的
+outmost: 最外面的、最外層的
+innermost: 最裡面的、最內層的
+brace: 大括號
+bracket: 中括號
+round brackets: 圓括號
+square brackets: 方括號
+curly brackets: 花括號
+angle brackets: 尖括號
+repeat: 重複、反覆
+selecting: 選擇、挑選
+trial: 審判、試驗、(= experiment)
+predictive: 預測的、預言的
+predict: 預測、預言
+dictate: 命令、規定
+dictionary: 字典、詞典
+backtrack: 回溯、退回
+unsuitable: 不合適的、不適當的
+suitable: 適合的、適當的
+suit: 適合、合身
