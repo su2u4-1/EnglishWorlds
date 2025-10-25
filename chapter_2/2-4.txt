@@ -82,3 +82,21 @@ disjoint: 不相交的、互斥的
 joint: 共同的、聯合的
 moment: 瞬間、片刻
 requires: 需要、要求
+changing: 變化、改變
+corresponds: 對應、符合
+applying: 應用、申請
+generally: 一般地、通常地
+expression: 表達式、表情
+instead of: 而不是、取代
+unresolved: 未解決的、無法解決的
+recall: 回憶、召回
+decides: 決定、判斷
+examining: 檢查、審查
+conflict: 衝突、矛盾
+exists: 存在、有
+mimics: 模仿、模擬
+mimic: 模仿、模擬
+turn: 轉動、輪到
+reported: 報告、報導
+extending: 擴展、延伸
+suffices: 足夠、滿足
