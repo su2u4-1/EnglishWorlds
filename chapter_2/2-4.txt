@@ -100,3 +100,18 @@ turn: 轉動、輪到
 reported: 報告、報導
 extending: 擴展、延伸
 suffices: 足夠、滿足
+recursion: 遞歸、反覆
+third: 第三、三分之一
+arises: 出現、產生
+take place : 發生、舉行
+eliminated: 消除、排除
+offending: 冒犯的、得罪人的
+offend: 冒犯、得罪
+said: 說、講
+replace: 取代、替換
+achieved: 實現、達到
+lead to: 導致、引起
+ward: 病房、守衛
+harder: 更難的、更努力的
+associative: 結合的、聯想的
+attained: 達到、獲得

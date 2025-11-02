@@ -1,0 +1,3 @@
+manageably: 可管理的、可處理的
+serves: 服務、供應
+obtain: 獲得、取得

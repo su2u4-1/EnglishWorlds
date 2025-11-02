@@ -13,6 +13,7 @@ files = [
     "./chapter_2/2-2.txt",
     "./chapter_2/2-3.txt",
     "./chapter_2/2-4.txt",
+    "./chapter_2/2-5.txt",
 ]
 
 # while True:
