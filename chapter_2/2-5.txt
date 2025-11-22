@@ -25,3 +25,17 @@ carefully: 小心地、仔細地
 preserve: 保存、維護
 middle: 中間的、中部的
 incorrect: 不正確的、錯誤的
+implements: 實現、執行
+branches: 分支、枝條
+clause: 條款、子句
+succeeds: 成功、繼任
+elegant: 優雅的、優美的
+simplifying: 簡化、使簡單
+fold: 摺疊、折疊
+transformations: 轉變、轉換
+needed: 需要的、必需的
+iteration: 迭代、重複
+rewritten: 重寫、改寫
+second: 第二的、二分之一的
+remaining: 剩餘的、殘留的
+

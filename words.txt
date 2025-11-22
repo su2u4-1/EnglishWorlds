@@ -25,7 +25,7 @@ activities: 活動
 actual: 實際的、真實的
 actually: 事實上、實際上
 ad hoc: 特別的、臨時的
-adapting: 適應、改編
+adapting: 改編、適應
 addition to: 除此之外
 addition: 加法、加法運算
 additionally: 除此之外
@@ -163,6 +163,7 @@ both: 兩者皆可
 bound: 有界的
 brace: 大括號
 bracket: 中括號
+branches: 分支、枝條
 breach: 破壞、違反
 break up: 分解、拆分
 break: 拆開
@@ -176,7 +177,7 @@ capable: 有能力的、能幹的
 capture: 捕捉
 career: 職業、職涯
 careful: 小心的、謹慎的
-carefully: 小心地、仔細地
+carefully: 仔細地、小心地
 careless: 粗心的
 carried: 攜帶、運送
 carries: 承載、攜帶
@@ -202,6 +203,7 @@ clarification: 澄清、闡明
 clarify: 澄清、闡明
 classification: 分類
 classified: 分類的
+clause: 子句、條款
 clearly: 明確地
 close: 接近的、關閉的
 closely: 密切地、緊密地
@@ -412,12 +414,13 @@ efficiency: 效率
 efficient: 高效的
 effort: 努力、效益
 either: 任一、兩者之一
+elegant: 優美的、優雅的
 element: 元素、成分
 elementary: 初級的、基本的
 eliminate: 剔除、排除、消除
 eliminated: 排除、消除
-eliminating: (= delete)、消除
-elimination: 消除、排除
+eliminating: (= delete)、排除、消除
+elimination: 排除、消除
 embed: 嵌入
 embedded: 內嵌的、嵌入的
 emphasis: 強調、重點
@@ -521,6 +524,7 @@ fit on: 適合於
 fit: 適合
 fix: 固定
 flaw: 缺陷
+fold: 折疊、摺疊
 follow: 跟隨、遵循
 following: 以下的、接著的
 form: 形式、形狀、格式、組成、結構、表格
@@ -568,7 +572,7 @@ guaranteed: 保證、確保
 guide: 引導、指導
 had: have p.p.、有
 handle: 應對、處理
-handled: 處理、應付
+handled: 應付、處理
 handwriting: 硬連線
 harder: 更努力的、更難的
 harnessed: 利用
@@ -611,6 +615,7 @@ implement: (= do)、執行、實作、實施、實現
 implementation: 執行、實施、實現
 implemented: 執行、實施、實現
 implementing: 執行、實施
+implements: 執行、實現
 implicit: 暗示的、隱含的
 implicitly: 含蓄地、暗示地
 import: 匯入
@@ -700,6 +705,7 @@ involving: 包含、涉及
 issue: (期刊雜誌單位)、問題、執行、期
 italic: 斜體、斜體字
 italicize: 斜體、斜體字
+iteration: 迭代、重複
 ive: 易懂的、直觀的
 joint: 共同的、聯合的
 judge: 判斷
@@ -770,7 +776,7 @@ merging: 合併、融合
 methodology: 方法論
 micro-: 微小的
 mid: 中
-middle: 中間的、中部的
+middle: 中部的、中間的
 might: (may - might - might)、(可能性較小)、可能
 mimic: 模仿、模擬
 mimics: 模仿、模擬
@@ -805,6 +811,7 @@ natural: 自然的
 naturally: 天生地、自然地
 necessarily: 必然地、必需地、必須地
 necessary: 必要的、必需的
+needed: 必需的、需要的
 needless: 不必要的
 neither: 兩者皆不
 nest: 嵌套、巢穴
@@ -878,7 +885,7 @@ overview: 概述
 overwise: 過分地、過度地
 parallel: 平行的
 parallelism: 並行性
-parameter: 參數、參量
+parameter: 參數、參量、變數
 parameterized: 參數化的
 parent: 圓括號、括號、父母
 parentheses: 圓括號、小括號、括號
@@ -987,7 +994,7 @@ protected: 保護的、受保護的
 provide: 提供
 provided: 提供、規定
 pseudo: 假的、偽、虛假的
-pseudocode: 偽代碼、模擬代碼、類似程式碼的描述
+pseudocode: 偽代碼、模擬代碼、虛擬碼、類似程式碼的描述
 pure: 純粹的
 purify: 淨化
 purpose: (= target)、意圖、用途、目的
@@ -1019,7 +1026,7 @@ record: 記錄
 recursion: 反覆、遞歸
 recursive: 反覆的、循環的、遞歸的
 recursively: 反覆地、遞歸地、遞迴地
-reduce: 減少
+reduce: 減少、降低
 redundancies: 冗餘
 redundant: 冗餘的
 refer: 參考、提到、提及
@@ -1027,7 +1034,7 @@ reference: 參考
 referred: 參考、提到、提及
 refers: 指
 refine: 定義、改善、精煉
-reflect: 反映、反射
+reflect: 反射、反映
 regarding: 涉及、關於
 regin: 區域、範圍
 region: 區域、範圍
@@ -1046,6 +1053,7 @@ relocate: 重新定位
 rely: 依賴、依靠
 remain: 保持
 remainder: 剩餘物、餘數
+remaining: 剩餘的、殘留的
 render: 使得、渲染
 reorders: 重新排序
 repeat: 反覆、重複
@@ -1062,7 +1070,7 @@ require: 要求
 required: 需要的
 requires: 要求、需要
 research: 研究
-resemble: 類似、相似
+resemble: 相似、類似
 reserved: 保留的
 reside: 居住
 resolve: (= solve)、解決、解釋、解除
@@ -1071,10 +1079,11 @@ respect: 尊敬、尊重、敬重
 respective: 分別的、各自的
 respectively: 分別地、各自地、相對的
 response: 響應
-rest: 休息、剩餘
+rest: 休息、其餘的、剩餘、剩餘的
 restrict: 約束、限制
 restricting: 約束、限制
 retrieve: 恢復
+rewritten: 改寫、重寫
 rich: 富有的、豐富的
 rightmost: 最右邊的
 rigorous: 嚴謹的
@@ -1100,6 +1109,7 @@ schemes: 方案、格式、計劃、體系
 science: 科學
 scientific: 科學的
 scientist: 科學家
+second: 二分之一的、第二的
 secondary: 次要的
 section: (= part)、章節、部分
 secure: 安全的、留住
@@ -1137,13 +1147,14 @@ similarly: 同樣地、相似地、類似地
 simpler: 更簡單
 simplicity: 簡單、簡單性、簡易
 simplify: 使單純、簡化
+simplifying: 使簡單、簡化
 simply: 僅僅、簡單地
 simulated: 模擬
 simultaneously: 同時地
 since: 因為、自從
 single: 單一的、單個的
 situation: 情境、情況
-sketched: 草擬、概述
+sketched: 概述、草擬
 smallest: 最小的、最少的
 snapshot: 快照、瞬間
 so on: 等等
@@ -1152,7 +1163,7 @@ sometimes: 偶爾、有時候
 somewhat: 有點、稍微
 sophisticate: 複雜的
 sophisticated: 精密的、複雜的
-sort: 類型、分類
+sort: 分類、類型
 speaking: 說
 spec: 規格
 special: 專門的、特別的、特殊的
@@ -1194,6 +1205,7 @@ substituted: 取代的、替代的
 subtle: 微妙的、細微的
 subtraction: 減去、減少、減法、減法運算
 subtree: 子樹
+succeeds: 成功、繼任
 such as: 例如
 suffer: 遭受
 suffice: 滿足、足夠
@@ -1250,7 +1262,7 @@ therefore: 因此、所以
 think about: 思考、考慮
 think of as: 視為
 think: 思考、認為
-third: 三分之一、第三
+third: 三分之一、三分之一的、第三、第三的
 thorough: 徹底的
 through: 穿過、通過
 throughout: 在整個過程中、貫穿、遍及
@@ -1266,7 +1278,8 @@ tracking: 跟踪
 tradeoff: 折衷
 tradeoffs: 折衷
 transfer: 傳輸
-transformation: 轉變、轉換
+transformation: 轉換、轉變
+transformations: 轉換、轉變
 transistor: 晶體管
 translate: 翻譯、轉化
 transmit: 傳輸、傳送
@@ -1275,7 +1288,7 @@ traversal: 巡迴、遍歷
 traversals: 巡迴、遍歷
 treat: 對待、看待、處理
 treated: 對待、處理、被視為
-treating: 治療、對待
+treating: 對待、治療
 trends: 趨勢
 trial: (= experiment)、審判、試驗
 trick: 技巧、欺騙、訣竅
@@ -1341,7 +1354,7 @@ within: 在...之內
 worse still: 更糟
 worse: 更糟
 worth: 值得、值得的、有價值的
-written: write p.p.、寫的、書面的
+written: write p.p.、寫、寫的、書寫、書面的
 yet have never: 但從沒講過的是
 yet: 但是、然而
 yield: 放棄、產生、良率
