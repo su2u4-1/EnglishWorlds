@@ -38,4 +38,26 @@ iteration: 迭代、重複
 rewritten: 重寫、改寫
 second: 第二的、二分之一的
 remaining: 剩餘的、殘留的
-
+tail: 尾巴、尾部
+iter: 同樣、迭代、反覆
+iterative: 迭代的、反覆的
+iteratively: 反覆地、迭代地
+integrate: 整合、結合
+minor: 輕微的、次要的
+provides: 提供、供應
+classes: 類別、班級
+constructor: 建構函數、建構子
+destructor: 解構函數、解構子
+reading: 閱讀、讀取
+anticipate: 預期、預料
+later: 較晚的、後來的
+simplification: 簡化、簡易化
+simple: 簡單的、簡易的
+reaches: 到達、抵達
+occurs: 發生、出現
+facilities: 設施、設備
+routine: 例行、公事
+anticipating: 預期、預料
+future: 未來、將來
+extension: 擴展、延伸
+coerce: 強制、迫使

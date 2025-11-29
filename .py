@@ -36,20 +36,20 @@ result: list[str] = []
 for i in words:
     if i[0] == p[0]:
         if p[0] in data:
-            p = (i[0], "、".join(sorted(set(p[1].split("、") + i[1].split("、") + data[p[0]]))), p[2])
+            p = (i[0], "、".join(sorted(list(set(p[1].split("、") + i[1].split("、") + data[p[0]])))), p[2])
         else:
-            p = (i[0], "、".join(sorted(set(p[1].split("、") + i[1].split("、")))), p[2])
+            p = (i[0], "、".join(sorted(list(set(p[1].split("、") + i[1].split("、"))))), p[2])
         print(f"{i[0]}: {i[1]} [in {i[2]}]")
     else:
         if p[0] != "":
             if p[0] in data:
-                result.append(f"{p[0]}: {"、".join(sorted(set(p[1].split("、") + data[p[0]])))}\n")
+                result.append(f"{p[0]}: {"、".join(sorted(list(set(p[1].split("、") + data[p[0]]))))}\n")
             else:
                 result.append(f"{p[0]}: {p[1]}\n")
         p = i
 if p[0] != "":
     if p[0] in data:
-        result.append(f"{p[0]}: {"、".join(sorted(set(p[1].split("、") + data[p[0]])))}\n")
+        result.append(f"{p[0]}: {"、".join(sorted(list(set(p[1].split("、") + data[p[0]]))))}\n")
     else:
         result.append(f"{p[0]}: {p[1]}\n")
 result.sort()

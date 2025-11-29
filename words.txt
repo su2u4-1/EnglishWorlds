@@ -8,7 +8,7 @@ abstract: 抽象的、摘要
 abstraction: 抽象、抽象化
 accept: 接受
 acceptable: 可接受的、合意的
-access: 訪問
+access: 存取、訪問、進入
 accessed: 訪問
 accesses: 訪問
 accessible: 可訪問的
@@ -72,6 +72,8 @@ angle brackets: 尖括號
 angle: 角、角度
 annotate: 註解、註釋
 annotated: 註解、註釋
+anticipate: 預料、預期
+anticipating: 預料、預期
 apart: 分開、分離
 apostrophe: 撇號、省略號
 apparently: 明顯地、顯然地
@@ -201,6 +203,7 @@ circuit: 電路
 circumstance: 情況
 clarification: 澄清、闡明
 clarify: 澄清、闡明
+classes: 班級、類別
 classification: 分類
 classified: 分類的
 clause: 子句、條款
@@ -209,6 +212,7 @@ close: 接近的、關閉的
 closely: 密切地、緊密地
 closest: 最近的
 closure: 封閉、關閉
+coerce: 強制、迫使
 coercions: 強制、控制
 collecting: 收集
 collection: 收集、版本、集合
@@ -259,6 +263,7 @@ constant: 不變的、常數
 constituent: 成分、構成要素、組成
 constraint: 約束、限制
 construct: 建構、建造、構造
+constructor: 建構函數、建構子
 consume: 消耗
 consumption: 消耗
 contain: 包含、容納
@@ -347,6 +352,7 @@ desirable: 令人滿意的、可取的、可望的、理想的
 desire: 可望、希望、渴望
 desired: 想要的、所需的、期望的、渴望的、理想的
 destination: 目的地、終點
+destructor: 解構函數、解構子
 detail: 細節、詳情
 detect: 偵測、檢測
 detector: 偵測器
@@ -377,7 +383,7 @@ discarded: 丟棄的
 discipline: 原則、學科
 discover: 探索、發現
 discuss: 討論
-discussed: 商量、討論
+discussed: 商量、討論、談論
 discussing: 商討、討論
 discussion: 討論、談話
 disjoint: 不相交的、互斥的
@@ -494,6 +500,7 @@ expresses: 表達
 expression: 表情、表達式
 extend: 延伸、擴展
 extending: 延伸、擴展
+extension: 延伸、擴展
 extensive: 廣泛的、延展性
 extent: 程度、範圍
 external: 外部的
@@ -501,6 +508,7 @@ extra: 附加的、額外的
 extract: 抽取、提取
 extracted: 提取
 facilitate: 促進、幫助、配合
+facilities: 設備、設施
 facility: 設備、設施
 factor: 因子、因素
 factors: 因素、要素
@@ -547,6 +555,7 @@ front end: 前端
 fundamental: 基本的、根本的
 furious: 激烈的、狂怒的
 further: 更多的、更遠的、進一步的
+future: 將來、未來
 gather: 集結
 gathering: 收集、聚集
 generality: 一般性
@@ -657,7 +666,7 @@ inherit: 繼承、遺傳
 inheritance: 繼承
 inherited: 繼承、遺傳
 initial: 初始的
-initialize: 前面的、名字開頭的、最初的、簽名的
+initialize: 初始化、前面的、名字開頭的、最初的、簽名的、起動
 initially: 最初、最初地、起初
 innermost: 最內層的、最裡面的
 innovation: 創新、革新
@@ -669,6 +678,7 @@ instead of: 取代、而不是
 instead: 代替、反而、取而代之、而不是
 instruction: 命令、指令
 insufficient: 不足的
+integrate: 整合、結合
 integrated circuit: 積體電路、集成電路
 integrated: 整合的
 intensive: 密集的
@@ -692,7 +702,7 @@ interpreted: 直譯的
 interpreter: 直譯器、轉譯者
 intimately: 密切地
 introduce: 介紹、引入、引進
-introduced: 引入
+introduced: 介紹、引入
 introduction: 介紹、引進
 intuition: 直覺
 intuitive: 易懂的、直觀的
@@ -705,7 +715,10 @@ involving: 包含、涉及
 issue: (期刊雜誌單位)、問題、執行、期
 italic: 斜體、斜體字
 italicize: 斜體、斜體字
+iter: 反覆、同樣、迭代
 iteration: 迭代、重複
+iterative: 反覆的、迭代的
+iteratively: 反覆地、迭代地
 ive: 易懂的、直觀的
 joint: 共同的、聯合的
 judge: 判斷
@@ -717,6 +730,7 @@ labeled: 標籤、標籤的、標記、標記的
 large: 大的
 larger: 更大的、較大的
 largest: 最多的、最大的
+later: 後來的、較晚的
 latter: 後期、後者
 layout: 佈局
 lead to: 導致、引起
@@ -782,6 +796,7 @@ mimic: 模仿、模擬
 mimics: 模仿、模擬
 minimize: 最小化
 minimizing: 最小化
+minor: 次要的、輕微的
 minus: 減去、減少、負號
 misbehave: 行為不當
 misnomer: 誤稱
@@ -847,6 +862,7 @@ occurred: 發生
 occurrence: 出現、發生
 occurrences: 出現、發生
 occurring: 發生
+occurs: 出現、發生
 offend: 冒犯、得罪
 offending: 冒犯的、得罪人的
 offsetting: 抵消
@@ -993,6 +1009,7 @@ protect: 保護、防護
 protected: 保護的、受保護的
 provide: 提供
 provided: 提供、規定
+provides: 供應、提供
 pseudo: 假的、偽、虛假的
 pseudocode: 偽代碼、模擬代碼、虛擬碼、類似程式碼的描述
 pure: 純粹的
@@ -1013,7 +1030,9 @@ rapid: 快速的
 rather than: 而不是、而非
 rather: 寧可、寧願、相當
 raw: 原始的
+reaches: 到達、抵達
 reader: 讀者、閱讀器
+reading: 讀取、閱讀
 rearrange: 重新排列
 reason: 原因、理由
 reasonable: 合理的
@@ -1023,7 +1042,7 @@ received: 接收的、收到的
 recently: 最近、近來
 recognize: 認識、識別
 record: 記錄
-recursion: 反覆、遞歸
+recursion: 反覆、遞歸、遞迴
 recursive: 反覆的、循環的、遞歸的
 recursively: 反覆地、遞歸地、遞迴地
 reduce: 減少、降低
@@ -1079,7 +1098,7 @@ respect: 尊敬、尊重、敬重
 respective: 分別的、各自的
 respectively: 分別地、各自地、相對的
 response: 響應
-rest: 休息、其餘的、剩餘、剩餘的
+rest: 休息、其餘、其餘的、剩餘、剩餘的
 restrict: 約束、限制
 restricting: 約束、限制
 retrieve: 恢復
@@ -1090,6 +1109,7 @@ rigorous: 嚴謹的
 robust: 堅固的、強健的
 role: 角色
 round brackets: 圓括號
+routine: 例行、公事
 routines: 例行公事、常規
 rules: 規則、規定
 said: 說、講
@@ -1144,8 +1164,10 @@ signifies: 意義、表示
 signify: 意味著、表示
 similar: 相似的、類似的
 similarly: 同樣地、相似地、類似地
+simple: 簡單的、簡易的
 simpler: 更簡單
 simplicity: 簡單、簡單性、簡易
+simplification: 簡化、簡易化
 simplify: 使單純、簡化
 simplifying: 使簡單、簡化
 simply: 僅僅、簡單地
@@ -1237,6 +1259,7 @@ synthesized: 合成、綜合
 systolic array: 脈動陣列
 systolic: 收縮的、脈動的
 tackle: 處理
+tail: 尾巴、尾部
 tailored: 定制的
 take place: 發生、舉行
 taken: 取、拿、採取
