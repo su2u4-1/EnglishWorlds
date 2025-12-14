@@ -61,3 +61,30 @@ anticipating: 預期、預料
 future: 未來、將來
 extension: 擴展、延伸
 coerce: 強制、迫使
+beginning: 開始、起初
+match: 比賽、匹配
+unification: 統一、合一
+cross: 交叉、穿越
+close to: 接近、靠近
+closer: 更近的、更接近的
+farther: 更遠的、更遙遠的
+distance: 距離、遠距
+defined: 定義的、已定義的
+characters: 字元、角色
+fact: 事實、真相
+modify: 修改、更改
+exit: 退出、離開
+control: 控制、管理
+expect: 期待、預期
+coerces: 強制、迫使
+cast: 投、擲、演員陣容、劇組
+abnormal: 異常的、不正常的
+ab-: （前綴）離開、否定
+exception: 例外、異常
+unfamiliar: 不熟悉的、生疏的
+salient: 顯著的、突出的
+delimiters: 界限符號、分隔符號
+signified: 意味著、表示
+significance: 重要性、意義
+sing
+parameters: 單例、單一

@@ -1,7 +1,9 @@
 -ized: 使...化
 Macintosh: 麥金塔
 a variety of: (= various)、各式各樣的
+ab-: 否定、（前綴）離開
 ability: 能力
+abnormal: 不正常的、異常的
 above: 上述的、以上、在...上面、在...之上
 absolute: 絕對的
 abstract: 抽象的、摘要
@@ -89,7 +91,7 @@ applied: 實用的、應用、應用的、申請
 applies: 應用、適用
 apply: 使用、應用、申請、適用
 applying: 應用、申請
-approach: 方法、途徑
+approach: 接近、方法、途徑
 approaches: 方法、途徑
 appropriate: 合適的、恰當的、適當的
 approx: 大約、近似
@@ -146,6 +148,7 @@ balance: 平衡
 balancing: 平衡
 basic: 基礎
 become: 成為、變成
+beginning: 起初、開始
 behave: 舉止、行為
 behavior: 行為
 belong: 屬於、歸屬
@@ -185,6 +188,7 @@ carried: 攜帶、運送
 carries: 承載、攜帶
 carry out: 執行、實施
 carry: 承載、攜帶
+cast: 劇組、投、擲、演員陣容
 catastrophic: 災難性的
 category: 類別
 cause: 原因、導致
@@ -195,6 +199,7 @@ changing: 改變、變化
 chapter: 章節、篇章
 character: 字元、字符、特徵、角色
 characteristic: 特徵
+characters: 字元、角色
 child: 子、孩子
 childhood: 幼年、童年
 children: 兒童、孩子們
@@ -208,11 +213,14 @@ classification: 分類
 classified: 分類的
 clause: 子句、條款
 clearly: 明確地
+close to: 接近、靠近
 close: 接近的、關閉的
 closely: 密切地、緊密地
+closer: 更接近的、更近的
 closest: 最近的
 closure: 封閉、關閉
 coerce: 強制、迫使
+coerces: 強制、迫使
 coercions: 強制、控制
 collecting: 收集
 collection: 收集、版本、集合
@@ -273,6 +281,7 @@ context: 上下文、語境
 continuously to: 不斷地、持續地
 contrast: 對比、對照
 contribute: 促成、貢獻
+control: 控制、管理
 convenience: 便利、方便
 convenient: 便利的、方便的
 conveniently: 便利地、方便地
@@ -295,6 +304,7 @@ could: (can - could)、可以
 cover: 涵蓋、覆蓋
 creating: 創建、創造
 critical: (= important)、關鍵的
+cross: 交叉、穿越
 crucial: 關鍵的
 cubic: 立方形的、立方體的
 curly braces: 大括號
@@ -320,9 +330,11 @@ decomposition: 分拆、分解
 deduce: 推導、推斷、演繹
 defer: 尊崇、推遲
 define: 定義、確定、規定
+defined: 定義的、已定義的
 defines: 定義、規定
 definition: 定義、解釋、說明
 delimit: 劃定、界定
+delimiters: 分隔符號、界限符號
 deliver: 傳遞
 demand: 需求
 denote: 指示、表示
@@ -382,11 +394,12 @@ directly: 坦率地、直接地
 discarded: 丟棄的
 discipline: 原則、學科
 discover: 探索、發現
-discuss: 討論
+discuss: 討論、談論
 discussed: 商量、討論、談論
 discussing: 商討、討論
 discussion: 討論、談話
 disjoint: 不相交的、互斥的
+distance: 距離、遠距
 distinct: 不同的、獨特的
 distinction: 區分、區別、差別
 distinguish: 區分、辨別
@@ -435,7 +448,7 @@ empirically: 實證地、經驗上的
 empty: 空白的、空的
 encapsulation: 包裝、封裝
 enclose: 包圍、封入、封閉、附上
-enclosing: 包含、圍繞
+enclosing: 包含、包圍、圍繞、封閉
 encounter: 遇到
 engineering: 工程學
 enough: 充分的、足夠的
@@ -467,6 +480,7 @@ examining: 審查、檢查
 example: 例子、範例
 excellent: (= good)、優秀的
 except: 除了、除了...之外、除外
+exception: 例外、異常
 exclude: 不包含
 exclusively: 僅僅、專門地
 execute: 執行
@@ -479,8 +493,10 @@ exhibit: 展示
 exist: 存在
 existence: 存在
 exists: 存在、有
+exit: 退出、離開
 expand: 擴展
 expansion: 擴展、膨脹
+expect: 期待、預期
 expected: 預料的、預期的
 expensive: 昂貴的、花錢的
 experiment: 實驗
@@ -510,6 +526,7 @@ extracted: 提取
 facilitate: 促進、幫助、配合
 facilities: 設備、設施
 facility: 設備、設施
+fact: 事實、真相
 factor: 因子、因素
 factors: 因素、要素
 factory: 工廠
@@ -519,6 +536,7 @@ fall: 落下、跌倒
 familiar: 熟悉的、親切的
 family: 家族、系列
 far away: 遙遠的、遠離
+farther: 更遙遠的、更遠的
 fashion: 方式、風格
 fashionable: 時尚的、時髦的、流行的
 feature: 特性
@@ -757,7 +775,7 @@ linear-time: 線性時間
 linear: 直線的、線性的
 literally: 字面上、逐字地
 locate: 定位、放置
-lookahead: 前瞻、展望
+lookahead: 前瞻、向前看、展望
 loop: 循環、迴圈
 lowermost: 最下面的、最低的
 lying: 位於...的
@@ -775,6 +793,7 @@ management: 管理
 manipulate: 操作、操縱、處理
 manner: 態度、方式、方法、禮節、舉止、風格
 massively: 大量地
+match: 匹配、比賽
 mathematically: 數學上
 matrices: 矩陣
 matter: 事情、物質
@@ -805,8 +824,9 @@ mistake: 錯誤
 mnemonic: 助記的
 mobile: 行動的
 model: 模型、模式、模擬
-modification: 修改、變更
+modification: 修改、更改、變更
 modified: 修改的
+modify: 修改、更改
 module: 單元、模塊
 modules: 模組
 moment: 片刻、瞬間
@@ -903,6 +923,7 @@ parallel: 平行的
 parallelism: 並行性
 parameter: 參數、參量、變數
 parameterized: 參數化的
+parameters: 單一、單例
 parent: 圓括號、括號、父母
 parentheses: 圓括號、小括號、括號
 parenthesis: 圓括號、括號
@@ -1007,7 +1028,7 @@ propose: 提出
 proposed: 提出的
 protect: 保護、防護
 protected: 保護的、受保護的
-provide: 提供
+provide: 供應、提供
 provided: 提供、規定
 provides: 供應、提供
 pseudo: 假的、偽、虛假的
@@ -1028,7 +1049,7 @@ quotation: 引用、引號
 rampant: 猖獗的
 rapid: 快速的
 rather than: 而不是、而非
-rather: 寧可、寧願、相當
+rather: 寧可、寧願、相當、頗為
 raw: 原始的
 reaches: 到達、抵達
 reader: 讀者、閱讀器
@@ -1098,7 +1119,7 @@ respect: 尊敬、尊重、敬重
 respective: 分別的、各自的
 respectively: 分別地、各自地、相對的
 response: 響應
-rest: 休息、其餘、其餘的、剩餘、剩餘的
+rest: 休息、其餘、其餘的、剩下的、剩餘、剩餘的
 restrict: 約束、限制
 restricting: 約束、限制
 retrieve: 恢復
@@ -1110,9 +1131,10 @@ robust: 堅固的、強健的
 role: 角色
 round brackets: 圓括號
 routine: 例行、公事
-routines: 例行公事、常規
+routines: 例行、例行公事、公事、常規、程序
 rules: 規則、規定
 said: 說、講
+salient: 突出的、顯著的
 same: 一樣的、相同的
 satisfied: 滿意的
 satisfying: 滿足
@@ -1158,8 +1180,10 @@ sibling: 兄弟姐妹、同胞
 siblings: 兄弟姐妹
 sign: 標誌、符號
 signature: 特徵、簽名
+significance: 意義、重要性
 significant: 大的、明顯的、重要的、顯著的
 significantly: 顯著地
+signified: 意味著、表示
 signifies: 意義、表示
 signify: 意味著、表示
 similar: 相似的、類似的
@@ -1168,7 +1192,7 @@ simple: 簡單的、簡易的
 simpler: 更簡單
 simplicity: 簡單、簡單性、簡易
 simplification: 簡化、簡易化
-simplify: 使單純、簡化
+simplify: 使單純、使簡單、簡化
 simplifying: 使簡單、簡化
 simply: 僅僅、簡單地
 simulated: 模擬
@@ -1243,7 +1267,7 @@ summary: 概括、總結
 superficial: 膚淺的、表面的
 supplied: 供應、提供
 supplies: 供應
-supply: 供應
+supply: 供應、提供
 suppose: 假設、認為
 sure: 確定、肯定
 surely: 無疑地、肯定地
@@ -1334,7 +1358,9 @@ understandable: 可理解的、易懂的
 understanding: 理解
 unexpanded: 未擴展的
 unexpected: 出乎意料的、意外的、未預料到的
+unfamiliar: 不熟悉的、生疏的
 unfortunately: 不幸的是
+unification: 合一、統一
 unintuitive: 不易理解的、不直觀的
 unique: 唯一的、獨特的
 units: 單位、單元
