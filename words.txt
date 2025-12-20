@@ -14,6 +14,7 @@ access: 存取、訪問、進入
 accessed: 訪問
 accesses: 訪問
 accessible: 可訪問的
+accessing: 存取、進入
 accompanied: 陪伴的
 accord: 根據、符合
 according to: 根據
@@ -67,6 +68,7 @@ analogous: 相似的、類似的
 analogy: 類似、類比
 analysis: 分析、解析
 analyze: 分析
+analyzer: 分析器、解析器
 ancestor: 前輩、祖先
 and can: 並且可以
 and so on: 以此類推、等等、諸如此類
@@ -185,7 +187,7 @@ careful: 小心的、謹慎的
 carefully: 仔細地、小心地
 careless: 粗心的
 carried: 攜帶、運送
-carries: 承載、攜帶
+carries: 承載、攜帶、運送
 carry out: 執行、實施
 carry: 承載、攜帶
 cast: 劇組、投、擲、演員陣容
@@ -231,6 +233,7 @@ comma: 分隔符、逗號
 commodity: 商品
 common: 常見的、普通的
 commonly: 常見的、普遍的
+communicate: 交流、溝通
 companies: 公司
 compares: 對照、比較
 compatibility: 兼容性
@@ -459,6 +462,7 @@ entrust: 信任、委託
 entry: 進入
 environment: 環境、環境因素
 equal: 平等的、相等的
+equality: 平等、等式
 equivalent: (= same)、同等的、相等的、等價的
 erroneous: 不正確的、錯誤的
 especially: 尤其、特別地、特別是
@@ -625,7 +629,7 @@ hybrid: 混合的
 i.e.: 也就是說、換句話說
 identifier: 標識符、識別符
 identify: 辨認
-ignore: 不顧、忽略
+ignore: 不理會、不顧、忽略
 ignoring: 不顧、忽略
 ill: 不好的、壞的
 illustrate: 說明、闡明
@@ -673,6 +677,7 @@ individual: 個別的、個體、獨立的
 induce: 導致、引起
 inductively: 歸納地
 inefficiency: 低效率
+inequality: 不平等、不等式
 infinite: 無限的
 infix: 中綴、內嵌、插入
 influence: 影響
@@ -764,7 +769,7 @@ legalize: 使合法、合法化
 letter: 信件、字元、字母
 leverage: 槓桿
 lexeme: 詞位、詞根、詞素
-lexical: 詞典的、詞彙的、詞法的
+lexical: 詞典的、詞彙的、詞法的、語言的
 lexically: 詞彙地、詞法地
 lie: 謊言、躺
 likely: 可能的、很可能
@@ -924,7 +929,7 @@ parallelism: 並行性
 parameter: 參數、參量、變數
 parameterized: 參數化的
 parameters: 單一、單例
-parent: 圓括號、括號、父母
+parent: 圓括號、括號、父母、父親
 parentheses: 圓括號、小括號、括號
 parenthesis: 圓括號、括號
 parenthesize: 括號、括號化、括號處理、括起來
@@ -1203,6 +1208,7 @@ situation: 情境、情況
 sketched: 概述、草擬
 smallest: 最小的、最少的
 snapshot: 快照、瞬間
+so far: 到目前為止、迄今為止
 so on: 等等
 solid: 堅固的
 sometimes: 偶爾、有時候
@@ -1313,6 +1319,7 @@ third: 三分之一、三分之一的、第三、第三的
 thorough: 徹底的
 through: 穿過、通過
 throughout: 在整個過程中、貫穿、遍及
+throws: 投擲、拋出
 thus: 因此、從而
 toolkit: 工具包
 torn: 撕裂的、破碎的
@@ -1350,7 +1357,7 @@ typical: 典型的
 typically: 典型地、通常、通常地
 typo: 打錯字
 unambiguously: 明確地、清楚地
-unary: 單一的、單元的
+unary: 一元的、單一的、單元的
 undecidable: 無法決定的
 underlying: 基礎的、根本的、潛在的
 understand: 理解

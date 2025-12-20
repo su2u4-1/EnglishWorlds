@@ -86,5 +86,11 @@ salient: 顯著的、突出的
 delimiters: 界限符號、分隔符號
 signified: 意味著、表示
 significance: 重要性、意義
-sing
 parameters: 單例、單一
+communicate: 溝通、交流
+accessing: 存取、進入
+inequality: 不平等、不等式
+equality: 平等、等式
+throws: 投擲、拋出
+analyzer: 分析器、解析器
+so far: 到目前為止、迄今為止
