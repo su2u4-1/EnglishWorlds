@@ -1,0 +1,13 @@
+num: 數字、數量
+comprising: 包含、由...組成
+assemble: 組裝、組合
+sees: 看見、認為
+extraneous: 無關的、多餘的
+spontaneous: 自發的、自然的、本能的
+-neous: 形容詞字尾，表示「具有...性質的」
+corporate: 公司的、團體的
+incorporate: 合併、納入
+peek: 偷看、窺視
+pinpoint: 精確位置、準確找出
+pin: 大頭針、釘住
+ahead: 在前面、提前

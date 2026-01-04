@@ -94,3 +94,6 @@ equality: 平等、等式
 throws: 投擲、拋出
 analyzer: 分析器、解析器
 so far: 到目前為止、迄今為止
+comprise: 包含、由...組成
+insulate: 絕緣、隔離
+translator: 翻譯者、譯者

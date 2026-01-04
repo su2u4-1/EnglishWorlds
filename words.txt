@@ -1,4 +1,5 @@
 -ized: 使...化
+-neous: 形容詞字尾，表示「具有...性質的」
 Macintosh: 麥金塔
 a variety of: (= various)、各式各樣的
 ab-: 否定、（前綴）離開
@@ -42,6 +43,7 @@ advantage: 優勢
 affect: 影響
 against: 反對、對抗
 aggregate: 總計、聚合
+ahead: 在前面、提前
 aid: 幫助、援助
 alarms: 警報
 alert: 警告、警報
@@ -63,7 +65,7 @@ ambiguity: 不明確、模糊、歧義
 ambiguous: 不明確的、模糊的
 ambiguously: 含糊地、模糊地
 among: 在...之中、在...之間
-amount: 數量
+amount: 數量、總額
 analogous: 相似的、類似的
 analogy: 類似、類比
 analysis: 分析、解析
@@ -117,7 +119,8 @@ as a result: 因此、結果
 as well as: 以及、同樣地
 asks: 要求、詢問
 aspect: 方面
-assembly: 組裝
+assemble: 組合、組裝
+assembly: 組合、組裝
 assigned: 分配的、指定的
 assignment: 作業、指派
 assist: 協助
@@ -189,11 +192,11 @@ careless: 粗心的
 carried: 攜帶、運送
 carries: 承載、攜帶、運送
 carry out: 執行、實施
-carry: 承載、攜帶
+carry: 承載、攜帶、運送
 cast: 劇組、投、擲、演員陣容
 catastrophic: 災難性的
 category: 類別
-cause: 原因、導致
+cause: 原因、導致、引起
 caused: 引起
 certain: 某些、特定的、確定的
 challenging: 挑戰的
@@ -246,6 +249,8 @@ complex: 綜合體、複雜的
 complicated: 複雜的
 component: 元件、成分、組件
 components: 元件、組件
+comprise: 包含、由...組成
+comprising: 包含、由...組成
 compromise: 危害、妥協
 compute: 計算
 computed: 估算、計算
@@ -294,6 +299,7 @@ converge: 匯聚
 conversion: 轉換
 convert: 轉換
 copied: copy p.p.、抄襲的、複製的
+corporate: 公司的、團體的
 correct: 合適的、正確的
 corrective: 正確的、糾正的
 correctly: 正確地
@@ -322,7 +328,7 @@ deal with: 應付、應對、處理
 deal: 交易、處理
 decade: 十年
 decades: 幾十年
-decide: 決定、決策
+decide: 決定、決策、選擇
 decided: 已決定的、決定的
 decides: 判斷、決定
 deciding: 判斷、決定
@@ -414,7 +420,7 @@ distributed: 分布式
 distributing: 分發
 diversity: 多樣性
 divide: 分開、平分、拆分、除法
-division: 除法、除法運算
+division: 部門、除法、除法運算
 domination: 支配
 done: 做好的、完成的
 draw: 畫、繪製
@@ -527,6 +533,7 @@ external: 外部的
 extra: 附加的、額外的
 extract: 抽取、提取
 extracted: 提取
+extraneous: 多餘的、無關的
 facilitate: 促進、幫助、配合
 facilities: 設備、設施
 facility: 設備、設施
@@ -664,6 +671,7 @@ in principle: 原則上
 in the future: 在未來
 include: 包含
 inconsistencies: 不一致
+incorporate: 合併、納入
 incorporation: Inc.、企業
 incorrect: 不正確的、錯誤的
 increase: 增加
@@ -701,6 +709,7 @@ instead of: 取代、而不是
 instead: 代替、反而、取而代之、而不是
 instruction: 命令、指令
 insufficient: 不足的
+insulate: 絕緣、隔離
 integrate: 整合、結合
 integrated circuit: 積體電路、集成電路
 integrated: 整合的
@@ -787,7 +796,7 @@ lying: 位於...的
 machine: 機器
 macro: 大量、巨集、指令
 magnitude: 大小、數量、規模
-maintain: 維護
+maintain: 保持、維持、維護
 maintenance: 維護
 major: 主要的、大的
 majority: 主要部分、大多數
@@ -841,7 +850,7 @@ motorola: 摩托羅拉
 much: 很多
 multicharacter: 多字元的、多字符的
 multiple: 多個
-multiplication: 乘法、乘法運算
+multiplication: 乘法、乘法運算、倍增
 multiply: 乘、乘以、增加
 multiprocessor: 多處理器
 multithreaded: 多線程的
@@ -873,6 +882,7 @@ notice: 注意、通知
 noting: (note)、記住
 notion: 概念、觀念
 nuance: 細微差別、細節
+num: 數字、數量
 numerical: 數值的、數字的
 object: 目標
 objective: 客觀、目標
@@ -903,7 +913,7 @@ operand: 操作數、運算元
 operate: 操作、運行
 operation: 操作、運行
 operator: 操作符、運算符
-opportunity: 機會
+opportunity: 時機、機會
 optimal: 最佳的
 optimization: 優化
 optimize: 優化
@@ -940,6 +950,7 @@ parser: 分析器、解析器
 parsing: 分析、文法解析、構文解析、解析
 particular: 特別的、特定的
 passes: 傳遞、通過
+peek: 偷看、窺視
 per: 每個
 perform: (= do)、執行、實行、表現
 performance: 表現
@@ -957,6 +968,8 @@ physical: 實體的
 pictorially: 圖示地、形象地
 piece: 塊、片、片段、部分
 pieces: 片段、碎片、部分
+pin: 大頭針、釘住
+pinpoint: 準確找出、精確位置
 placement: 安置、放置
 placing: 安置、放置
 plus: 加上、增加
@@ -1036,8 +1049,8 @@ protected: 保護的、受保護的
 provide: 供應、提供
 provided: 提供、規定
 provides: 供應、提供
-pseudo: 假的、偽、虛假的
-pseudocode: 偽代碼、模擬代碼、虛擬碼、類似程式碼的描述
+pseudo: 假的、偽、偽的、虛假的
+pseudocode: 假代碼、偽代碼、模擬代碼、虛擬碼、類似程式碼的描述
 pure: 純粹的
 purify: 淨化
 purpose: (= target)、意圖、用途、目的
@@ -1161,6 +1174,7 @@ secondary: 次要的
 section: (= part)、章節、部分
 secure: 安全的、留住
 security: 保安、安全
+sees: 看見、認為
 selecting: 挑選、選擇
 semantic: 語意的、語義的
 semantically: 字面上、語法上、語義上、語義上地
@@ -1227,6 +1241,7 @@ specifies: 指定
 specify: 指定、明確、特定、說明
 specifying: 指定、說明
 spent: (spend - spent - spent)、花費的
+spontaneous: 本能的、自然的、自發的
 spurred: 促進、刺激
 square brackets: 方括號
 stand for: 代表、象徵
@@ -1336,6 +1351,7 @@ transformation: 轉換、轉變
 transformations: 轉換、轉變
 transistor: 晶體管
 translate: 翻譯、轉化
+translator: 翻譯者、譯者
 transmit: 傳輸、傳送
 transmitted: 傳送的、傳遞的
 traversal: 巡迴、遍歷
