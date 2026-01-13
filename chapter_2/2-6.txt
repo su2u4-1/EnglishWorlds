@@ -44,3 +44,13 @@ phases: 階段、階層
 efficiently: 有效率地、高效地
 initializing: 初始化
 maps: 地圖、映射
+continue: 繼續、持續
+encountered: 遇到的、遭遇的
+counter: 計數器、反對、櫃檯
+count: 計數、數量
+counterfeit: 偽造的、仿冒的
+installed: 安裝的、設置的
+package: 包裹、包裝
+field: 領域、欄位
+brevity: 簡潔、簡練
+customary: 慣例的、習慣的

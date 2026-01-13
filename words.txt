@@ -75,7 +75,8 @@ analyzer: 分析器、解析器
 ancestor: 前輩、祖先
 and can: 並且可以
 and so on: 以此類推、等等、諸如此類
-angle bracket: 角括號、尖括號
+angle bracket: 尖括號、角括號
+angle brackets: 尖括號、角括號
 angle: 觀點、角、角度
 annotate: 註解、註釋
 annotated: 註解、註釋
@@ -181,7 +182,8 @@ branches: 分支、枝條
 breach: 破壞、違反
 break up: 分解、拆分
 break: 拆開
-brief: 簡短的
+brevity: 簡潔、簡練
+brief: 簡潔的、簡短的
 buffer: 緩衝區、緩衝物
 buffering: 緩衝、緩衝作用
 built: (build - built - built)、建造的
@@ -294,6 +296,7 @@ contain: 包含、容納
 containing: 包含
 context-free: 無上下文的、無語境的
 context: 上下文、語境
+continue: 持續、繼續
 continuously to: 不斷地、持續地
 contrast: 對比、對照
 contribute: 促成、貢獻
@@ -318,6 +321,9 @@ correspondingly: 相應地
 corresponds: 對應、符合
 cost: 成本
 could: (can - could)、可以
+count: 數量、計數
+counter: 反對、櫃檯、計數器
+counterfeit: 仿冒的、偽造的
 cover: 涵蓋、覆蓋
 creating: 創建、創造
 critical: (= important)、關鍵的
@@ -329,6 +335,7 @@ curly brackets: 花括號
 curly: 捲曲的、捲毛的
 currently: 現在、當前、目前
 cursive: 手寫的、草寫的
+customary: 慣例的、習慣的
 dare: 敢於
 dash: 破折號、虛線
 dashed: 破折號的、虛線的
@@ -467,14 +474,15 @@ empty: 空白的、空的
 encapsulation: 包裝、封裝
 enclose: 包圍、封入、封閉、附上
 enclosing: 包含、包圍、圍繞、封閉
-encounter: 遇到
+encounter: 遇到、遭遇
+encountered: 遇到的、遭遇的
 engineering: 工程學
 enough: 充分的、足夠的
 ensure: 保証、保證、確保
 entire: 整個的
 entity: 存在、實體
 entrust: 信任、委託
-entry: 進入
+entry: 入口、條目、進入
 environment: 環境、環境因素
 equal: 平等的、相等的
 equality: 平等、等式
@@ -565,11 +573,12 @@ feed: 給、餵食、餵養
 fetch: 取來、拿來
 fetching: 吸引人的、迷人的
 fewer: 更少的
+field: 欄位、領域
 figure: (= example)、圖、圖形、形狀、數字、樣貌、範例
 figuring: 推斷、計算
 finding: 發現
 fit on: 適合於
-fit: 適合
+fit: 合身、適合
 fix: 固定
 flaw: 缺陷
 fold: 折疊、摺疊
@@ -652,7 +661,7 @@ identify: 認出、識別、辨認
 ignore: 不理會、不顧、忽略
 ignoring: 不顧、忽略
 ill: 不好的、壞的
-illustrate: 說明、闡明
+illustrate: 圖解、舉例說明、說明、闡明
 illustrated: 說明的、闡明的
 illustration: 插圖、舉證
 immediate: 即時的、立即的
@@ -719,6 +728,7 @@ innovation: 創新、革新
 innovative: 創新的
 inorder: 中序
 insatiable: 無法滿足的
+installed: 安裝的、設置的
 instance: 例子、實例
 instead of: 取代、而不是
 instead: 代替、反而、取而代之、而不是
@@ -922,7 +932,7 @@ occurs: 出現、發生
 offend: 冒犯、得罪
 offending: 冒犯的、得罪人的
 offsetting: 抵消
-omit: 省略
+omit: 省略、遺漏
 omitted: 被忽略的、被省略的
 on the other hand: 另一方面
 once and for all: 一勞永逸
@@ -955,6 +965,7 @@ overemphasize: 過度強調
 overhead: 開銷
 overview: 概述
 overwise: 過分地、過度地
+package: 包裝、包裹
 parallel: 平行的
 parallelism: 並行性
 parameter: 參數、參量、變數
@@ -1004,7 +1015,7 @@ portable: 可攜帶的
 portion: 一部分、部分
 position: 位置、方位
 possibility: 可能、可能性、潛力
-possible: 可能的、可行的
+possible: 可能的、可行的、潛在的
 possibly: 可能地
 postfix: 後綴、後置
 postorder: 後序
@@ -1165,7 +1176,7 @@ response: 響應
 rest: 休息、其餘、其餘的、剩下的、剩餘、剩餘的
 restrict: 約束、限制
 restricting: 約束、限制
-retrieve: 恢復
+retrieve: 取回、恢復、檢索
 rewritten: 改寫、重寫
 rich: 富有的、豐富的
 rightmost: 最右邊的
@@ -1222,7 +1233,7 @@ shifts: 變化、轉移
 short: 短的、簡短的
 shorthand: 簡寫、速記
 shortly: 立刻、簡短地
-shown: (被動)、顯示
+shown: (被動)、展示的、顯示、顯示的
 sibling: 兄弟姐妹、同胞
 siblings: 兄弟姐妹
 sign: 標誌、符號
@@ -1311,7 +1322,7 @@ sufficient: 足夠的
 suffix: 後綴、後置
 suggestive: 啟發性的、暗示的
 suit: 合身、適合
-suitable: 適合的、適當的
+suitable: 合適的、適合的、適當的
 suited: 適合的、適應的
 summarize: 概括、總結
 summary: 概括、總結
