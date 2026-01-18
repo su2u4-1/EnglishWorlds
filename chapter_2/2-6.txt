@@ -54,3 +54,10 @@ package: 包裹、包裝
 field: 領域、欄位
 brevity: 簡潔、簡練
 customary: 慣例的、習慣的
+corres-: 相應的、相關的
+helper: 幫手、助手
+sequence: 序列、順序
+already: 已經、早已
+reached: 達到的、抵達的
+ache: 痛、疼痛
+strip: 剝去、脫去

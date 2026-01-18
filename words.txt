@@ -21,6 +21,7 @@ accord: 根據、符合
 according to: 根據
 according: 依照、根據
 accumulates: 積聚、累積
+ache: 疼痛、痛
 achieve: 實現、達成
 achieved: 實現、達到
 acquire: 獲得
@@ -57,6 +58,7 @@ allocation: 分配、安排
 almost: 幾乎
 along: 沿著、隨著
 alphabet: 字母系統、字母表
+already: 已經、早已
 alter: (= change)、改變
 alternate: 交替、輪流
 alternative: 另類的、可供選擇的、可選擇的、替代方案、替代的、選擇的
@@ -315,7 +317,8 @@ correct: 合適的、正確的
 corrective: 正確的、糾正的
 correctly: 正確地
 correctness: 正確性
-correspond: 呼應、回應、回答、對應、符合
+corres-: 相應的、相關的
+correspond: 一致、呼應、回應、回答、對應、符合
 corresponding: 對應的、相應的
 correspondingly: 相應地
 corresponds: 對應、符合
@@ -512,7 +515,7 @@ exclude: 不包含
 exclusively: 僅僅、專門地
 execute: 執行
 executed: 執行、實行、處決
-executing: 執行
+executing: 執行、實行
 execution: 執行、實行
 exercise: 練習、運用
 exercises: 練習、運動
@@ -573,7 +576,7 @@ feed: 給、餵食、餵養
 fetch: 取來、拿來
 fetching: 吸引人的、迷人的
 fewer: 更少的
-field: 欄位、領域
+field: 場、欄位、田地、領域
 figure: (= example)、圖、圖形、形狀、數字、樣貌、範例
 figuring: 推斷、計算
 finding: 發現
@@ -631,7 +634,7 @@ guarantee: 保證、確保
 guaranteed: 保證、確保
 guide: 引導、指導
 had: have p.p.、有
-handle: 應對、處理
+handle: 應對、操作、處理
 handled: 應付、處理
 handwriting: 硬連線
 harder: 更努力的、更難的
@@ -640,6 +643,7 @@ harnesses: 利用、套、套索、背心、護甲、馬鞍
 hash: #、(= pound sign)、井號、哈希、雜湊
 head: 頂部、頭、頭部、首部
 held: 握住、舉行
+helper: 助手、幫手
 helpers: 助手、輔助程式
 helpful: 有幫助的、有益的
 hence: 因此、所以
@@ -720,7 +724,7 @@ inherit: 繼承、遺傳
 inheritance: 繼承
 inherited: 繼承、遺傳
 initial: 初始的
-initialize: 初始化、前面的、名字開頭的、最初的、簽名的、起動
+initialize: 初始化、前面的、名字開頭的、最初的、簽名的、起動、起始設定
 initializing: 初始化
 initially: 最初、最初地、起初
 innermost: 最內層的、最裡面的
@@ -1103,6 +1107,7 @@ rapid: 快速的
 rather than: 而不是、而非
 rather: 寧可、寧願、相當、頗為
 raw: 原始的
+reached: 抵達的、達到的
 reaches: 到達、抵達
 reader: 讀者、閱讀器
 reading: 讀取、閱讀
@@ -1196,7 +1201,7 @@ satisfy: 滿足、符合
 satisfying: 滿足
 scale: 規模
 scam: 詐騙、騙局
-scan: 掃描、瀏覽
+scan: 掃描、掃描器、瀏覽
 scanned: 掃描、瀏覽
 scanner: 掃描器
 scanning: 掃描、掃描儀
@@ -1223,6 +1228,7 @@ semicolon: 分號、分隔符
 sense: 意義、感覺
 separate: 分開的、獨立的
 separated: 分開、分開的、分離、分離的
+sequence: 序列、順序
 sequential: 順序的
 serve: 服務
 serves: 供應、服務
@@ -1300,6 +1306,7 @@ straight: 直
 straightforward: 直接的
 strict: 嚴格的、嚴謹的
 strictly: 嚴格地
+strip: 剝去、脫去
 structure: 構造、結構
 structured: 結構化的
 studied: 研究
