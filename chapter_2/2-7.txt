@@ -1,0 +1,22 @@
+really: 真的、實際上
+partial: 部分的、不完全的
+redeclare: 重新宣告
+override: 覆寫、重載
+ride: 騎乘、搭乘
+superclass: 超類別、父類別
+subclass: 子類別
+quote: 引用、引述
+curly brace: 大括號、花括號
+deallocate: 解除配置、釋放
+most-closely: 最接近地
+chain: 鏈條、鏈結
+blow: 吹、爆炸
+inclose: 包含、圍住
+constant-time: 常數時間
+lookup: 查找、搜尋
+expense: 費用、開支
+insert: 插入、放入
+dut to: 由於、因為
+auxiliary: 輔助的、附屬的
+aux-: 輔助、附屬
+processed: 處理過的

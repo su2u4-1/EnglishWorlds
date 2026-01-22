@@ -14,7 +14,7 @@ acceptable: 可接受的、合意的
 access: 存取、訪問、進入
 accessed: 訪問
 accesses: 訪問
-accessible: 可訪問的
+accessible: 可接近的、可訪問的、可進入的
 accessing: 存取、進入
 accompanied: 陪伴的
 accord: 根據、符合
@@ -41,7 +41,7 @@ adjacent: 相鄰的
 adjust: 調整
 advance: 前進、提前、提升、進步、預付
 advances: 前進、發展
-advantage: 優勢
+advantage: 優勢、優點
 affect: 影響
 against: 反對、對抗
 aggregate: 總計、聚合
@@ -79,7 +79,7 @@ and can: 並且可以
 and so on: 以此類推、等等、諸如此類
 angle bracket: 尖括號、角括號
 angle brackets: 尖括號、角括號
-angle: 觀點、角、角度
+angle: 尖端、觀點、角、角度
 annotate: 註解、註釋
 annotated: 註解、註釋
 anticipate: 預料、預期
@@ -92,7 +92,7 @@ appearance: 出現、外觀
 appearing: 出現、顯示
 append: 附加、附錄
 appendix: 附加物、附錄
-applicable: 適用於
+applicable: 可應用的、適用於、適用的
 application: 應用
 applications: 應用
 applied: 實用的、應用、應用的、申請
@@ -148,6 +148,8 @@ attempt: (= try)、嘗試
 attribute: 屬性、特徵、特性、特質
 automata: 自動機
 automatically: (= auto)、自動地
+aux-: 輔助、附屬
+auxiliary: 輔助的、附屬的
 availability: 可用性
 available: 可獲得的、可用的
 average: 平均、平均的、普通的
@@ -173,9 +175,11 @@ binding: 約束、綁定
 blank: 空格、空白、空白的、空白處
 block: 區塊、塊
 blood: 血液、血統
+blow: 吹、爆炸
 bodies: 物體、身體
 bold: 大膽的、粗體的
 boldface: 粗體、粗體字
+boolean: 布林、布林值
 both: 兩者皆可
 bound: 有界的
 brace: 大括號
@@ -211,6 +215,7 @@ category: 類別
 cause: 原因、導致、引起
 caused: 引起
 certain: 某些、特定的、確定的
+chain: 鏈條、鏈結
 challenging: 挑戰的
 changing: 改變、變化
 chapter: 章、章節、篇章
@@ -248,7 +253,7 @@ combination: 組合
 combine: 合併、結合
 comma: 分隔符、逗號
 commodity: 商品
-common: 常見的、普通的
+common: 共同的、常見的、普通的
 commonly: 常見的、普遍的
 communicate: 交流、溝通
 companies: 公司
@@ -289,6 +294,7 @@ consistency: 一致性
 consistent: 持續的
 consisting: 包含、構成、由...組成、組成、組成的
 consists: 包含、由...組成
+constant-time: 常數時間
 constant: 不變的、常數、恆定的
 constituent: 成分、構成要素、組成
 constraint: 約束、限制
@@ -335,6 +341,7 @@ critical: (= important)、關鍵的
 cross: 交叉、穿越
 crucial: 關鍵的
 cubic: 立方形的、立方體的
+curly brace: 大括號、花括號
 curly braces: 大括號、花括號
 curly brackets: 花括號
 curly: 捲曲的、捲毛的
@@ -347,6 +354,7 @@ dash: 破折號、虛線
 dashed: 破折號的、虛線的
 deal with: 應付、應對、處理
 deal: 交易、處理
+deallocate: 解除配置、釋放
 dealt: 交易、處理
 decade: 十年
 decades: 幾十年
@@ -453,6 +461,7 @@ dropped: 丟棄、放棄
 due to: 應付、欠款、由於
 due: 到期的、應支付的
 during: 在...時、在...期間、在...過程中
+dut to: 因為、由於
 dynamic: 動態的
 dynamically: 動態地
 e.g.: 例如、舉例來說
@@ -537,6 +546,7 @@ expand: 擴展
 expansion: 擴展、膨脹
 expect: 期待、預期
 expected: 預料的、預期的
+expense: 費用、開支
 expensive: 昂貴的、花錢的
 experiment: 實驗
 experimentation: 實驗
@@ -578,7 +588,7 @@ familiar: 熟悉的、親切的
 family: 家族、系列
 far away: 遙遠的、遠離
 farther: 更遙遠的、更遠的
-fashion: 方式、風格
+fashion: 方式、時尚、樣式、流行、風格
 fashionable: 時尚的、時髦的、流行的
 feature: 特性
 fed: 餵給、餵養(過去式)
@@ -661,7 +671,7 @@ helpful: 有幫助的、有益的
 hence: 因此、所以
 henceforth: 今後、從此以後
 heuristic: 啟發式的
-hidden: 隱藏的
+hidden: 隱蔽的、隱藏的
 hides: 隱藏
 hierarchical: 分層的、階層的
 hierarchies: 階層
@@ -688,7 +698,7 @@ impacts: 影響
 imparts: 傳授、傳達
 imperative: 命令的、必要的
 implement: (= do)、執行、實作、實施、實現
-implementation: 執行、實施、實現
+implementation: 執行、實作、實施、實現
 implemented: 執行、執行的、實施、實施的、實現
 implementing: 執行、實施
 implements: 執行、實現
@@ -707,6 +717,7 @@ in place of: 代替、取代
 in place: 存在、就位
 in principle: 原則上
 in the future: 在未來
+inclose: 包含、圍住
 include: 包含
 inconsistencies: 不一致
 incorporate: 合併、納入
@@ -740,11 +751,13 @@ initial: 初始的
 initialize: 初始化、前面的、名字開頭的、最初的、簽名的、起動、起始設定
 initializing: 初始化
 initially: 最初、最初地、起初
+inner: 內在的、內部的
 innermost: 最內層的、最裡面的
 innovation: 創新、革新
 innovative: 創新的
 inorder: 中序
 insatiable: 無法滿足的
+insert: 插入、放入
 installed: 安裝的、設置的
 instance: 例子、實例
 instead of: 取代、而不是
@@ -837,6 +850,7 @@ literal: 字面的、文字的
 literally: 字面上、逐字地
 locate: 定位、放置
 lookahead: 前瞻、向前看、展望
+lookup: 搜尋、查找
 loop: 循環、迴圈
 lowermost: 最下面的、最低的
 lying: 位於...的
@@ -893,8 +907,9 @@ modify: 修改、更改
 module: 單元、模塊、模組
 modules: 模組
 moment: 片刻、瞬間
-moreover: 此外
+moreover: 此外、而且
 morpheme: 詞素、語素
+most-closely: 最接近地
 mostly: 大多數
 motorola: 摩托羅拉
 much: 很多
@@ -914,8 +929,8 @@ necessary: 必要的、必需的
 needed: 必需的、需要的
 needless: 不必要的
 neither: 兩者皆不
-nest: 嵌套、巢穴
-nested: 內含的、內嵌的、嵌套的
+nest: 嵌套、巢狀物、巢穴
+nested: 內含的、內嵌的、嵌套的、巢狀的
 nesting: 層疊、嵌套
 no longer: 不再
 node: 節點、結點
@@ -966,7 +981,7 @@ operation: 操作、運算、運行
 operator: 操作符、運算符
 opportunity: 時機、機會
 optimal: 最佳的
-optimization: 優化
+optimization: 優化、最佳化
 optimize: 優化
 optimizer: 優化器
 optional: 可選的、非強制的
@@ -979,10 +994,12 @@ oriented: 取向的
 originally: 原本地
 otherwise: 不然、否則
 out of: 出自於、沒有、源於、由於、缺少
+outer: 外在的、外部的
 outline: (= overview)、(= summary)、概述
 outmost: 最外層的、最外面的
 overemphasize: 過度強調
 overhead: 開銷
+override: 覆寫、重載
 overview: 概述
 overwise: 過分地、過度地
 package: 包裝、包裹
@@ -1001,10 +1018,11 @@ parse: 分析、解析
 parser: 分析器、解析器
 parsing: 分析、文法解析、構文解析、解析
 part: 角色、部分
+partial: 不完全的、部分的
 particular: 特別的、特定的
 passes: 傳遞、經過、通過
 peek: 偷看、窺視
-per: 每個
+per: 每、每一、每個
 perform: (= do)、執行、實行、表演、表現
 performance: 表現
 performed: 執行、實行、表演
@@ -1034,7 +1052,7 @@ popular: 流行的
 popularity: 受歡迎
 port: 港口、端口
 portable: 可攜帶的
-portion: 一部分、部分
+portion: 一份、一部分、部分
 position: 位置、方位
 possibility: 可能、可能性、潛力
 possible: 可能的、可行的、潛在的
@@ -1081,6 +1099,7 @@ probably: 可能
 procedure: 手續、流程、程序
 proceed: 前進、繼續
 process: 處理、過程
+processed: 處理過的
 processes: 處理、過程
 processor: 處理器
 produce: 生成、產生、製造
@@ -1120,6 +1139,7 @@ quick: 快速的、迅速的
 quickly: 快速地
 quite: 相當、非常
 quotation: 引用、引號
+quote: 引用、引述
 rampant: 猖獗的
 rapid: 快速的
 rather than: 而不是、而非
@@ -1130,6 +1150,7 @@ reached: 抵達的、達到的
 reaches: 到達、抵達
 reader: 讀者、閱讀器
 reading: 讀取、閱讀
+really: 實際上、真的
 rearrange: 重新排列
 reason: 原因、理由
 reasonable: 可讀的、合理的、易讀的
@@ -1143,10 +1164,11 @@ record: 記錄
 recursion: 反覆、遞歸、遞迴
 recursive: 反覆的、循環的、遞歸的
 recursively: 反覆地、遞歸地、遞迴地
+redeclare: 重新宣告
 reduce: 減少、降低
 redundancies: 冗餘
 redundant: 冗餘的
-refer: 參考、提到、提及
+refer: 參考、引用、提到、提及
 reference: 參考、提及
 referred: 參考、提到、提及
 refers: 指
@@ -1196,7 +1218,7 @@ resolve: (= solve)、解決、解釋、解除
 resource: 資源
 respect: 尊敬、尊重、敬重
 respective: 分別的、各自的
-respectively: 分別地、各自地、相對的
+respectively: 分別地、分別的、各自地、相對的
 response: 響應
 rest: 休息、其餘、其餘的、剩下的、剩餘、剩餘的
 restrict: 約束、限制
@@ -1206,6 +1228,7 @@ revise: 修改、修訂
 revised: 修改的、修訂的
 rewritten: 改寫、重寫
 rich: 富有的、豐富的
+ride: 搭乘、騎乘
 rightmost: 最右邊的
 rigorous: 嚴謹的
 robust: 堅固的、強健的
@@ -1338,6 +1361,7 @@ structure: 構造、結構
 structured: 結構化的
 studied: 研究
 study: 學習、研究
+subclass: 子類別
 subexpressions: 子表達式
 subscript: 下劃線、下標
 subsequent: 後續的、隨後的
@@ -1360,6 +1384,7 @@ suitable: 合適的、適合的、適當的
 suited: 適合的、適應的
 summarize: 概括、總結
 summary: 概括、總結
+superclass: 父類別、超類別
 superficial: 膚淺的、表面的
 supplied: 供應、提供
 supplies: 供應
@@ -1394,13 +1419,14 @@ tedious: 乏味的、冗長的
 tell: (tell - told - told)、告訴
 temperature: 溫度
 temporary: 暫時的
-term: 期間、術語、項
+term: 期間、術語、詞彙、項
 termed: 叫做、稱為
 terminal: 終端、終端的、終結的
 terminate: 終止、終結
 terminology: 術語
 terms: 條款、術語
 that is: 也就是說
+their: 他們的
 therefore: 因此、所以
 think about: 思考、考慮
 think of as: 視為
@@ -1472,7 +1498,7 @@ unsubscripted: 無下標的
 unsuitable: 不合適的、不適當的
 until: 直到、直至
 up to this point: 到目前為止
-upon: 在...上
+upon: 在...上、在...之上、根據
 uppermost: 最上面的、最高的
 usability: 可用性
 usual: 通常的

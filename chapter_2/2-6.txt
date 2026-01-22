@@ -89,3 +89,7 @@ revise: 修訂、修改
 vise: 鉗子、夾具
 knowledge: 知識、了解
 as soon as: 一...就...、一旦
+inner: 內部的、內在的
+boolean: 布林、布林值
+outer: 外部的、外在的
+their: 他們的
