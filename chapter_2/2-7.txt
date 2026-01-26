@@ -20,3 +20,25 @@ dut to: 由於、因為
 auxiliary: 輔助的、附屬的
 aux-: 輔助、附屬
 processed: 處理過的
+most: 最多、最
+inside-out: 由內而外、顛倒的
+face: 臉、面對
+interface: 介面、界面
+regard: 看待、尊重
+-ence: 狀態、性質、行為
+-ance: 狀態、性質、行為
+-ant: 具有...性質的、...的人或物
+dependence: 依賴、依靠
+depend: 依賴、依靠
+dependant: 依賴的、依靠的
+attendance: 出席、參加
+attend: 出席、參加
+attendant: 伴隨的、出席的
+pend: 懸掛、依靠
+independence: 獨立、自立
+mama boy: 媽寶
+presumable: 可假定的、可推測的
+presume: 假定、推測
+resume: 繼續、重新開始
+ume: 假設、認為
+china: 中國、瓷器

@@ -1,3 +1,6 @@
+-ance: 性質、狀態、行為
+-ant: ...的人或物、具有...性質的
+-ence: 性質、狀態、行為
 -ized: 使...化
 -neous: 形容詞字尾，表示「具有...性質的」
 Macintosh: 麥金塔
@@ -145,6 +148,9 @@ attaches: 連接、附加
 attaching: 連接、附加
 attained: 獲得、達到
 attempt: (= try)、嘗試
+attend: 出席、參加
+attendance: 出席、參加
+attendant: 伴隨的、出席的
 attribute: 屬性、特徵、特性、特質
 automata: 自動機
 automatically: (= auto)、自動地
@@ -225,6 +231,7 @@ characters: 字元、角色
 child: 子、孩子
 childhood: 幼年、童年
 children: 兒童、孩子們
+china: 中國、瓷器
 chosen: (choose - chose - chosen)、挑選、選擇、選擇的
 circuit: 電路
 circumstance: 情況
@@ -380,6 +387,9 @@ demand: 需求
 denote: 指示、表示
 denoted: 表示
 depend on: 依賴於、取決於
+depend: 依賴、依靠
+dependant: 依賴的、依靠的
+dependence: 依賴、依靠
 dependencies: 依賴關係
 dependent: 依賴的
 depending: 取決於
@@ -574,10 +584,11 @@ extract: 抽取、提取
 extracted: 提取
 extraneous: 多餘的、無關的
 fac-: 做、製造
+face: 臉、面對
 facilitate: 促進、幫助、配合
 facilities: 設備、設施
 facility: 設備、設施
-fact: 事實、真相
+fact: 事實、實情、真相
 factor: 因子、因素、要素
 factors: 因素、要素
 factory: 工廠、製造廠
@@ -711,7 +722,7 @@ imposes: 執行、施加
 impossible: 不可能的、無法實現的
 improve: 改善
 in addition to: 除了...之外
-in fact: 事實上
+in fact: 事實上、實際上
 in order to: 為了
 in place of: 代替、取代
 in place: 存在、就位
@@ -729,7 +740,8 @@ increasing: 增加的、增長的
 increment: 增加、增量
 incrementally: 增量地、逐步地、逐漸地、遞增地
 incur: 招致
-independent: 獨立的
+independence: 獨立、自立
+independent: 獨立的、自立的
 indicate: 指出、指示、表明
 indicated: 指示的、表明的
 individual: 個別的、個體、獨立的
@@ -758,6 +770,7 @@ innovative: 創新的
 inorder: 中序
 insatiable: 無法滿足的
 insert: 插入、放入
+inside-out: 由內而外、顛倒的
 installed: 安裝的、設置的
 instance: 例子、實例
 instead of: 取代、而不是
@@ -777,6 +790,7 @@ interact: 互動
 interaction: 互動
 interest: 興趣
 interesting: 引人入勝的、有趣的
+interface: 介面、界面
 interior: 內部、內部的、室內的、裡面
 interleaved: 交織的、交錯的
 intermediate: 中級的、中間的、過渡的
@@ -861,6 +875,7 @@ maintain: 保持、維持、維護
 maintenance: 維護
 major: 主要的、大的
 majority: 主要部分、大多數
+mama boy: 媽寶
 manageable: 可管理的、可處理的
 manageably: 可管理的、可處理的
 managed: 管理的
@@ -910,6 +925,7 @@ moment: 片刻、瞬間
 moreover: 此外、而且
 morpheme: 詞素、語素
 most-closely: 最接近地
+most: 最、最多
 mostly: 大多數
 motorola: 摩托羅拉
 much: 很多
@@ -960,7 +976,7 @@ obtain: 取得、獲得
 obvious: 明顯的
 occur: 出現、發生
 occurred: 發生
-occurrence: 出現、發生
+occurrence: 出現、發生、發生次數
 occurrences: 出現、發生
 occurring: 發生
 occurs: 出現、發生
@@ -1022,6 +1038,7 @@ partial: 不完全的、部分的
 particular: 特別的、特定的
 passes: 傳遞、經過、通過
 peek: 偷看、窺視
+pend: 依靠、懸掛
 per: 每、每一、每個
 perform: (= do)、執行、實行、表演、表現
 performance: 表現
@@ -1082,7 +1099,9 @@ prepackaged: 預先打包的
 present: 出席、呈現、展示、現在
 presently: 當前、目前
 preserve: 保存、維護
+presumable: 可假定的、可推測的
 presumably: 可能、大概
+presume: 假定、推測
 prevalence: 流行
 prevalent: 流行的
 prevents: 防止、阻止
@@ -1174,6 +1193,7 @@ referred: 參考、提到、提及
 refers: 指
 refine: 定義、改善、精煉
 reflect: 反射、反映
+regard: 尊重、看待
 regarding: 涉及、關於
 regin: 區域、範圍
 region: 區域、範圍
@@ -1223,6 +1243,7 @@ response: 響應
 rest: 休息、其餘、其餘的、剩下的、剩餘、剩餘的
 restrict: 約束、限制
 restricting: 約束、限制
+resume: 繼續、重新開始
 retrieve: 取回、恢復、檢索
 revise: 修改、修訂
 revised: 修改的、修訂的
@@ -1363,7 +1384,7 @@ studied: 研究
 study: 學習、研究
 subclass: 子類別
 subexpressions: 子表達式
-subscript: 下劃線、下標
+subscript: 下劃線、下標、指標
 subsequent: 後續的、隨後的
 subset: 子集、子集合
 substantial: 大量的
@@ -1474,6 +1495,7 @@ type: (打字)、打、類別、類型
 typical: 典型的
 typically: 典型地、通常、通常地
 typo: 打錯字
+ume: 假設、認為
 unambiguously: 明確地、清楚地
 unary: 一元的、單一的、單元的
 undecidable: 無法決定的
