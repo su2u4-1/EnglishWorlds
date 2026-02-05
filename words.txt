@@ -65,7 +65,7 @@ already: 已經、早已
 alter: (= change)、改變
 alternate: 交替、輪流
 alternative: 另類的、可供選擇的、可選擇的、替代方案、替代的、選擇的
-alternatively: 交替地、或者
+alternatively: 交替地、另外、或者、替代地
 although: 雖然
 ambiguity: 不明確、模糊、歧義
 ambiguous: 不明確的、模糊的
@@ -75,7 +75,7 @@ amount: 數量、總額
 analogous: 相似的、類似的
 analogy: 類似、類比
 analysis: 分析、解析
-analyze: 分析
+analyze: 分析、解析
 analyzer: 分析器、解析器
 ancestor: 前輩、祖先
 and can: 並且可以
@@ -85,6 +85,7 @@ angle brackets: 尖括號、角括號
 angle: 尖端、觀點、角、角度
 annotate: 註解、註釋
 annotated: 註解、註釋
+another: 其他的、另一個
 anticipate: 預料、預期
 anticipating: 預料、預期
 apart: 分開、分離
@@ -222,6 +223,7 @@ cause: 原因、導致、引起
 caused: 引起
 certain: 某些、特定的、確定的
 chain: 鏈條、鏈結
+chained: 連鎖的、鏈結的
 challenging: 挑戰的
 changing: 改變、變化
 chapter: 章、章節、篇章
@@ -251,9 +253,9 @@ closure: 封閉、關閉
 coerce: 強制、迫使
 coerces: 強制、迫使
 coercions: 強制、控制
-collect: 收集、聚集
+collect: 收藏、收集、聚集
 collecting: 收集、聚集
-collection: 收集、版本、集合
+collection: 收藏、收集、版本、集合
 collective: 集合的、集體的
 colon: 冒號、冒號符號、腸
 combination: 組合
@@ -464,6 +466,7 @@ divide: 分開、平分、拆分、除法
 division: 部門、除法、除法運算
 domination: 支配
 done: 做好的、完成的
+dotted: 點狀的、點綴的
 draw: 畫、繪製
 dream: 夢境、夢想
 dreamt: 做夢、夢想
@@ -480,6 +483,7 @@ easy: 容易的
 economic: 經濟的
 edge: 邊界、邊緣
 effect: 影響、效果
+effective: 實際的、有效的
 effectively: 實際上、有效地
 effectiveness: 有效性
 efficiency: 效率、效能
@@ -502,7 +506,7 @@ empirically: 實證地、經驗上的
 empty: 空白的、空的
 encapsulation: 包裝、封裝
 enclose: 包圍、封入、封閉、附上
-enclosing: 包含、包圍、圍繞、封閉
+enclosing: 包含、包含的、包圍、圍繞、圍繞的、封閉
 encounter: 遇到、遭遇
 encountered: 遇到的、遭遇的
 engineering: 工程學
@@ -514,7 +518,7 @@ entity: 存在、實體
 entries: 條目、項目
 entrust: 信任、委託
 entry: 入口、條目、進入
-environment: 環境、環境因素
+environment: 周圍狀況、外界、環境、環境因素
 equal: 平等的、相等的
 equality: 平等、等式
 equivalent: (= same)、同等的、相等的、等價的
@@ -614,7 +618,9 @@ finally: 最後、終於
 finding: 發現
 fit on: 適合於
 fit: 合身、適合
-fix: 固定
+fix: 修理、固定
+fixed: 不變的、固定的
+fixture: 固定裝置、設備
 flaw: 缺陷
 fold: 折疊、摺疊
 follow: 跟隨、遵循
@@ -722,6 +728,7 @@ imposes: 執行、施加
 impossible: 不可能的、無法實現的
 improve: 改善
 in addition to: 除了...之外
+in effect: 事實上、實際上
 in fact: 事實上、實際上
 in order to: 為了
 in place of: 代替、取代
@@ -905,6 +912,8 @@ middle: 中部的、中間的
 might: (may - might - might)、(可能性較小)、可能
 mimic: 模仿、模擬
 mimics: 模仿、模擬
+mind: 心智、注意
+minder: 監護人、看護者
 minimize: 最小化
 minimizing: 最小化
 minor: 次要的、輕微的
@@ -935,6 +944,7 @@ multiplication: 乘法、乘法運算、倍增
 multiply: 乘、乘以、增加
 multiprocessor: 多處理器
 multithreaded: 多線程的
+named: 命名的、有名字的
 namely: 也就是說、即、換句話說
 native: 本地的
 natively: 本地地
@@ -945,9 +955,10 @@ necessary: 必要的、必需的
 needed: 必需的、需要的
 needless: 不必要的
 neither: 兩者皆不
-nest: 嵌套、巢狀物、巢穴
+nest: 嵌套、巢、巢狀物、巢穴
 nested: 內含的、內嵌的、嵌套的、巢狀的
 nesting: 層疊、嵌套
+nestle: 依偎、安置
 no longer: 不再
 node: 節點、結點
 nonboldface: 正常字體、非粗體
@@ -994,7 +1005,7 @@ open-ended: 開放式的
 operand: 操作數、運算元
 operate: 操作、運行
 operation: 操作、運算、運行
-operator: 操作符、運算符
+operator: 操作員、操作符、運算子、運算符
 opportunity: 時機、機會
 optimal: 最佳的
 optimization: 優化、最佳化
@@ -1214,6 +1225,8 @@ rely: 依賴、依靠
 remain: 保持
 remainder: 剩餘物、餘數
 remaining: 剩餘的、殘留的
+remind: 提示、提醒
+reminder: 提示、提醒
 render: 使得、渲染
 reorders: 重新排序
 repeat: 反覆、重複
@@ -1243,6 +1256,7 @@ response: 響應
 rest: 休息、其餘、其餘的、剩下的、剩餘、剩餘的
 restrict: 約束、限制
 restricting: 約束、限制
+result in: 導致、造成
 resume: 繼續、重新開始
 retrieve: 取回、恢復、檢索
 revise: 修改、修訂
@@ -1253,7 +1267,7 @@ ride: 搭乘、騎乘
 rightmost: 最右邊的
 rigorous: 嚴謹的
 robust: 堅固的、強健的
-role: 角色
+role: 作用、角色
 round brackets: 圓括號、小括號
 routine: 例行、例行公事、公事、慣例
 routinely: 例行公事地、常規地
@@ -1278,6 +1292,7 @@ schemes: 方案、格式、計劃、體系
 science: 科學
 scientific: 科學的
 scientist: 科學家
+searching: 搜尋的、查找的
 second: 二分之一的、第二的
 secondary: 次要的
 section: (= part)、章節、部分
@@ -1295,6 +1310,7 @@ sense: 意義、感覺
 separate: 分開的、分離的、獨立的
 separated: 分開、分開的、分離、分離的
 sequence: 序列、順序
+sequent: 後來的、隨後的
 sequential: 順序的
 serval: 多個的、幾個的
 serve: 服務
@@ -1385,7 +1401,8 @@ study: 學習、研究
 subclass: 子類別
 subexpressions: 子表達式
 subscript: 下劃線、下標、指標
-subsequent: 後續的、隨後的
+subsequent: 後來的、後續的、隨後的
+subsequently: 後來、隨後
 subset: 子集、子集合
 substantial: 大量的
 substituted: 取代的、替代的
@@ -1446,7 +1463,7 @@ terminal: 終端、終端的、終結的
 terminate: 終止、終結
 terminology: 術語
 terms: 條款、術語
-that is: 也就是說
+that is: 也就是說、換句話說
 their: 他們的
 therefore: 因此、所以
 think about: 思考、考慮
@@ -1492,7 +1509,7 @@ turn out: 最終發現、結果是
 turn: 輪到、轉動
 turning: 轉折
 type: (打字)、打、類別、類型
-typical: 典型的
+typical: 代表性的、典型的
 typically: 典型地、通常、通常地
 typo: 打錯字
 ume: 假設、認為

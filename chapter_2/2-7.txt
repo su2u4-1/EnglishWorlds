@@ -42,3 +42,20 @@ presume: 假定、推測
 resume: 繼續、重新開始
 ume: 假設、認為
 china: 中國、瓷器
+nestle: 依偎、安置
+chained: 鏈結的、連鎖的
+another: 另一個、其他的
+named: 命名的、有名字的
+fixed: 固定的、不變的
+fixture: 固定裝置、設備
+reminder: 提醒、提示
+minder: 看護者、監護人
+remind: 提醒、提示
+mind: 心智、注意
+searching: 搜尋的、查找的
+result in: 導致、造成
+dotted: 點綴的、點狀的
+in effect: 實際上、事實上
+effective: 有效的、實際的
+subsequently: 隨後、後來
+sequent: 隨後的、後來的
