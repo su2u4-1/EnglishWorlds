@@ -3,6 +3,7 @@
 -ence: 性質、狀態、行為
 -ized: 使...化
 -neous: 形容詞字尾，表示「具有...性質的」
+-tion: 狀態、行為、過程
 Macintosh: 麥金塔
 a variety of: (= various)、各式各樣的
 ab-: 否定、（前綴）離開
@@ -20,9 +21,9 @@ accesses: 訪問
 accessible: 可接近的、可訪問的、可進入的
 accessing: 存取、進入
 accompanied: 陪伴的
-accord: 根據、符合
+accord: 一致、協定、根據、符合
 according to: 根據
-according: 依照、根據
+according: 依照、按照、根據
 accumulates: 積聚、累積
 ache: 疼痛、痛
 achieve: 實現、達成
@@ -55,6 +56,8 @@ alert: 警告、警報
 algorithm: 演算法
 alias: 別名、別稱
 aliasing: 別名、化名
+align: 對齊、排列
+alined: 對齊的、排列的
 allocate: 分配
 allocating: 分配
 allocation: 分配、安排
@@ -126,6 +129,8 @@ as ... as: 盡可能地
 as a result: 因此、結果
 as soon as: 一...就...、一旦
 as well as: 以及、同樣地
+ascend: 上升、攀登
+ascribe: 歸因於、認為是
 asks: 要求、詢問
 aspect: 方面
 assemble: 組合、組裝
@@ -237,6 +242,7 @@ china: 中國、瓷器
 chosen: (choose - chose - chosen)、挑選、選擇、選擇的
 circuit: 電路
 circumstance: 情況
+clare: 明確、清楚
 clarification: 澄清、闡明
 clarify: 澄清、闡明
 classes: 班級、類別
@@ -258,6 +264,7 @@ collecting: 收集、聚集
 collection: 收藏、收集、版本、集合
 collective: 集合的、集體的
 colon: 冒號、冒號符號、腸
+column: 列、欄
 combination: 組合
 combine: 合併、結合
 comma: 分隔符、逗號
@@ -329,6 +336,7 @@ converge: 匯聚
 conversion: 轉換
 convert: 轉換
 copied: copy p.p.、抄襲的、複製的
+cord: 線索、繩子
 corporate: 公司的、團體的
 correct: 合適的、正確的
 corrective: 正確的、糾正的
@@ -350,17 +358,19 @@ critical: (= important)、關鍵的
 cross: 交叉、穿越
 crucial: 關鍵的
 cubic: 立方形的、立方體的
+cur: 流動、跑
 curly brace: 大括號、花括號
 curly braces: 大括號、花括號
 curly brackets: 花括號
 curly: 捲曲的、捲毛的
 current: 當前的、目前的
 currently: 現在、當前、目前
-cursive: 手寫的、草寫的
+cursive: 手寫的、草寫的、連筆的
 customary: 慣例的、習慣的
 dare: 敢於
 dash: 破折號、虛線
 dashed: 破折號的、虛線的
+de-: 去除、向下、離開
 deal with: 應付、應對、處理
 deal: 交易、處理
 deallocate: 解除配置、釋放
@@ -374,6 +384,7 @@ deciding: 判斷、決定
 decision: 決定、決策
 declaration: 宣告、聲明
 declarative: 聲明的、陳述的
+declare: 宣告、聲明
 decomposition: 分拆、分解
 decrement: 減少、減量
 deduce: 推導、推斷、演繹
@@ -405,9 +416,10 @@ derived: 得出的、衍生的
 derives: 導出、得出、衍生
 descendant: 子孫、後代
 descendants: 子孫、後代
-descent: 下降、世系
-describe: 形容、描述、敘述
+descent: 下降、世系、血統
+describe: 形容、描述、敘述、說明
 describing: 形容、描述
+description: 描述、說明
 design: 設計
 designation: 名稱、指定
 designed: 設計的
@@ -443,8 +455,10 @@ direct: 指導、指揮、直接的
 directed: 導向的、指向的、指導、指揮
 direction: 方向
 directly: 坦率地、直接地
+discard: 丟棄、放棄
 discarded: 丟棄的
 discipline: 原則、學科
+discord: 不一致、不和諧
 discover: 探索、發現
 discuss: 討論、談論
 discussed: 商量、討論、討論過的、談論
@@ -452,7 +466,7 @@ discussing: 商討、討論
 discussion: 討論、談話
 disjoint: 不相交的、互斥的
 distance: 距離、遠距
-distinct: 不同的、獨特的
+distinct: 不同的、明顯的、獨特的
 distinction: 區分、區別、差別
 distinguish: 區分、辨別
 distinguishes: 區分、辨別
@@ -478,6 +492,7 @@ dut to: 因為、由於
 dynamic: 動態的
 dynamically: 動態地
 e.g.: 例如、舉例來說
+earlier: 先前的、較早的
 easier: 更容易的
 easy: 容易的
 economic: 經濟的
@@ -517,7 +532,8 @@ entire: 整個的
 entity: 存在、實體
 entries: 條目、項目
 entrust: 信任、委託
-entry: 入口、條目、進入
+entry: 入口、條目、登錄、進入
+envelope: 信封、包裹
 environment: 周圍狀況、外界、環境、環境因素
 equal: 平等的、相等的
 equality: 平等、等式
@@ -543,6 +559,7 @@ example: 例子、範例
 excellent: (= good)、優秀的
 except: 除了、除了...之外、除外
 exception: 例外、異常
+excite: 使興奮、激發
 exclude: 不包含
 exclusively: 僅僅、專門地
 execute: 執行
@@ -552,10 +569,10 @@ execution: 執行、實行
 exercise: 練習、運用
 exercises: 練習、運動
 exhibit: 展示
-exist: 存在
+exist: 存在、實際上有
 existence: 存在
 exists: 存在、有
-exit: 退出、離開
+exit: 出口、退出、離開
 expand: 擴展
 expansion: 擴展、膨脹
 expect: 期待、預期
@@ -776,6 +793,8 @@ innovation: 創新、革新
 innovative: 創新的
 inorder: 中序
 insatiable: 無法滿足的
+inscribe: 銘刻、題寫
+inscription: 銘文、題字
 insert: 插入、放入
 inside-out: 由內而外、顛倒的
 installed: 安裝的、設置的
@@ -860,7 +879,7 @@ leverage: 槓桿
 lexeme: 詞位、詞根、詞素、語素
 lexical: 詞典的、詞彙的、詞法的、語彙的、語言的
 lexically: 詞彙地、詞法地
-lie: 謊言、躺
+lie: 說謊、謊言、躺
 likely: 可能的、很可能
 likewise: 也、同樣地
 limitation: 限制
@@ -874,7 +893,7 @@ lookahead: 前瞻、向前看、展望
 lookup: 搜尋、查找
 loop: 循環、迴圈
 lowermost: 最下面的、最低的
-lying: 位於...的
+lying: 位於...的、說謊、謊言、躺著的
 machine: 機器
 macro: 大量、巨集、指令
 magnitude: 大小、數量、規模
@@ -962,11 +981,13 @@ nestle: 依偎、安置
 no longer: 不再
 node: 節點、結點
 nonboldface: 正常字體、非粗體
+none: 沒有、無
 nonetheless: 儘管如此
 nonitalicized: 正常字體、非斜體
 nonterminal: 非終端的、非終結的
 nontrivial: 非凡的
 norm: 標準
+notate: 標註、註解
 notation: 標記法、符號、符號系統、表示法、記號
 notational: 做記號的、標記的、符號的
 notations: 記號
@@ -975,6 +996,7 @@ notice: 注意、通知
 noting: (note)、記住
 notion: 概念、觀念
 nuance: 細微差別、細節
+null: 無效的、空的
 num: 數字、數量
 numerical: 數值的、數字的
 object: 目標
@@ -1088,7 +1110,7 @@ possibly: 可能地
 postfix: 後綴、後置
 postorder: 後序
 postscript: 後記
-potential: 潛在的
+potential: 可能的、潛在的
 potentially: 潛在地
 pound sign: #、(= hash)、井號、磅號
 practical: 實用的、實際的
@@ -1107,6 +1129,7 @@ prefix: 前綴、前置
 preliminary: 初步的、開端的
 preorder: 前序
 prepackaged: 預先打包的
+prescribe: 規定、開藥方
 present: 出席、呈現、展示、現在
 presently: 當前、目前
 preserve: 保存、維護
@@ -1132,7 +1155,7 @@ process: 處理、過程
 processed: 處理過的
 processes: 處理、過程
 processor: 處理器
-produce: 生成、產生、製造
+produce: 生成、生產、產生、製造
 production: 生成、產生
 productivity: 效率、生產力
 profiler: 分析器
@@ -1190,7 +1213,8 @@ received: 接收的、收到的
 recently: 最近、近來
 recognize: 認識、識別
 recognizing: 認出、識別
-record: 記錄
+record: 記錄、錄音
+recur: 復發、重現
 recursion: 反覆、遞歸、遞迴
 recursive: 反覆的、循環的、遞歸的
 recursively: 反覆地、遞歸地、遞迴地
@@ -1285,13 +1309,17 @@ scan: 掃描、掃描器、瀏覽
 scanned: 掃描、瀏覽
 scanner: 掃描儀、掃描器
 scanning: 掃描、掃描儀
+scent: 氣味、香味
 scheduler: 調度器
 scheduling: 調度
-scheme: 方案、格式、計劃、體系
+scheme: 方案、格式、計劃、計畫、體系
 schemes: 方案、格式、計劃、體系
 science: 科學
 scientific: 科學的
 scientist: 科學家
+scri-: 寫、記錄
+scribe: 寫、記錄
+script: 劇本、腳本
 searching: 搜尋的、查找的
 second: 二分之一的、第二的
 secondary: 次要的
@@ -1304,7 +1332,7 @@ selecting: 挑選、選擇
 semantic: 語意的、語義的
 semantically: 字面上、語法上、語義上、語義上地
 semantics: 語義
-sematic: 語義的
+sematic: 語意的、語義的
 semicolon: 分號、分隔符
 sense: 意義、感覺
 separate: 分開的、分離的、獨立的
@@ -1374,6 +1402,8 @@ specify: 指定、明確、特定、說明
 specifying: 指定、說明
 spent: (spend - spent - spent)、花費的
 spontaneous: 本能的、自然的、自發的
+spread: 傳播、散布
+spreadsheet: 試算表、電子表格
 spurred: 促進、刺激
 square brackets: 中括號、方括號
 stand for: 代表、象徵
@@ -1391,16 +1421,19 @@ straight: 直
 straightforward: 直接的
 strict: 嚴格的、嚴謹的
 strictly: 嚴格地
-strip: 剝去、帶、條、脫去
+strip: 剝去、帶、條、脫去、脫掉
 stripped-down: 簡化的、精簡的
 stripped: 剝去的、脫去的
 structure: 構造、結構
 structured: 結構化的
 studied: 研究
 study: 學習、研究
+sub-: 在...下面、次要的
 subclass: 子類別
 subexpressions: 子表達式
+subscribe: 訂閱、認購
 subscript: 下劃線、下標、指標
+subscription: 訂閱、認購
 subsequent: 後來的、後續的、隨後的
 subsequently: 後來、隨後
 subset: 子集、子集合
@@ -1475,6 +1508,7 @@ through: 穿過、通過
 throughout: 在整個過程中、貫穿、遍及
 throws: 投擲、拋出
 thus: 因此、從而
+tinct: 特質、色彩
 toolkit: 工具包
 torn: 撕裂的、破碎的
 touches: 觸及
@@ -1485,6 +1519,7 @@ track: 軌道、追蹤
 tracking: 跟踪
 tradeoff: 折衷
 tradeoffs: 折衷
+transcribe: 抄寫、轉錄
 transfer: 傳輸
 transformation: 轉換、轉變
 transformations: 轉換、轉變
@@ -1495,9 +1530,10 @@ transmit: 傳輸、傳送
 transmitted: 傳送的、傳遞的
 traversal: 巡迴、遍歷
 traversals: 巡迴、遍歷
-treat: 對待、看待、處理
+treat: 對待、治療、看待、處理
 treated: 對待、對待過的、處理、處理過的、被視為
 treating: 對待、治療
+treatment: 治療、看待、處理
 trends: 趨勢
 trial: (= experiment)、審判、試驗
 trick: 技巧、欺騙、訣竅
@@ -1516,6 +1552,7 @@ ume: 假設、認為
 unambiguously: 明確地、清楚地
 unary: 一元的、單一的、單元的
 undecidable: 無法決定的
+underline: 底線、強調
 underlying: 基礎的、根本的、潛在的
 understand: 理解
 understandable: 可理解的、易懂的
