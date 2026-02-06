@@ -171,7 +171,6 @@ executing: 執行
 relies: 依賴
 backward: 向後的
 compatibility: 兼容性
-Macintosh: 麥金塔
 motorola: 摩托羅拉
 legacy: 遺產、初期
 mostly: 大多數
