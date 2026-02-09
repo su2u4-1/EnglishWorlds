@@ -189,6 +189,7 @@ brace: 大括號
 braces: 大括號、花括號
 bracket: 中括號
 brackets: 括號
+branch: 分支、部門
 branches: 分支、枝條
 breach: 破壞、違反
 break up: 分解、拆分
@@ -230,6 +231,7 @@ child: 子、孩子
 childhood: 幼年、童年
 children: 兒童、孩子們
 china: 中國、瓷器
+choice: 選擇、選項
 chosen: (choose - chose - chosen)、挑選、選擇、選擇的
 circuit: 電路
 circumstance: 情況
@@ -289,6 +291,7 @@ concrete: 具體的、有形的
 condition: 條件、狀況
 conflict: 矛盾、衝突
 conform: 符合
+congest: 堵塞、擁擠
 connected: 聯繫、連接
 consequence: 後果、結果
 consequently: 因此
@@ -310,6 +313,7 @@ constructor: 建構函數、建構子
 consume: 消耗
 consumption: 消耗
 contain: 包含、容納
+container: 容器、集裝箱
 containing: 包含
 context-free: 無上下文的、無語境的
 context: 上下文、語境
@@ -352,7 +356,7 @@ cur: 流動、跑
 curly brace: 大括號、花括號
 curly braces: 大括號、花括號
 curly brackets: 花括號
-curly: 捲曲的、捲毛的
+curly: 大括號的、捲曲的、捲毛的
 current: 當前的、目前的
 currently: 現在、當前、目前
 cursive: 手寫的、草寫的、連筆的
@@ -439,6 +443,7 @@ differ: 不同、差異
 different: 不同的、有差異的
 differently: 不同地、有差別地
 difficult: 困難的、艱難的
+digest: 消化、理解
 digit: 數位、數字
 direct: 指導、指揮、直接的
 directed: 導向的、指向的、指導、指揮
@@ -542,7 +547,8 @@ evolution: 演化、演變
 evolve: 演變、發展
 evolving: 演變的
 exactly: 正好、準確地、確切地、精確地
-examine: (= check)、審查、檢查
+exam: 檢查、考試
+examine: (= check)、審查、檢查、考察
 examining: 審查、檢查
 example: 例子、範例
 excellent: (= good)、優秀的
@@ -594,6 +600,7 @@ extract: 抽取、提取
 extracted: 提取
 extraneous: 多餘的、無關的
 face: 臉、面對
+facial: 臉部的、面部的
 facilitate: 促進、幫助、配合
 facilities: 設備、設施
 facility: 設備、設施
@@ -630,11 +637,12 @@ flaw: 缺陷
 fold: 折疊、摺疊
 follow: 跟隨、遵循
 following: 以下的、接著的
+font: 字型、字體
 form: 形式、形狀、格式、組成、結構、表格
 formal: 正式的、規範的
 formalism: 形式主義、形式化
 formalization: 形式化、正式的
-formally: 形式上、正式地
+formally: 形式上、正式地、正式的
 formed: 形成、構成、組成
 formerly: 以前、從前
 formulate: 公式化
@@ -647,6 +655,7 @@ fragment: 斷片、片段、碎片
 freed: 釋放
 frequently: 頻繁地
 front end: 前端
+front: 前線、前面
 fundamental: 基本的、根本的
 furious: 激烈的、狂怒的
 further: 更多的、更遠的、進一步的
@@ -662,6 +671,7 @@ generate: 生成、產生
 generated: 生成的、產生的
 generating: 生成、產生
 generation: 代、生成、產生
+gest: 帶來、產生
 gigabytes: GB、千兆字節
 gluing: 黏合
 go beyond: 超越
@@ -697,8 +707,9 @@ hidden: 隱蔽的、隱藏的
 hides: 隱藏
 hierarchical: 分層的、階層的
 hierarchies: 階層
-hierarchy: 階層
+hierarchy: 等級制度、階層
 historical: 歷史性的、歷史的
+history: 歷史、歷史記錄
 however: 然而
 hundreds: 數百
 hurt: 傷害
@@ -765,8 +776,8 @@ infinite: 無限的
 infix: 中綴、內嵌、插入
 influence: 影響
 influenced: 影響
-informal: 隨意的、非正式的
-informally: 隨便地、非正式地
+informal: 隨意的、非正式地、非正式的
+informally: 隨便地、非正式地、非正式的
 informative: 提供資訊的
 inherit: 繼承、遺傳
 inheritance: 繼承
@@ -873,7 +884,7 @@ likewise: 也、同樣地
 limitation: 限制
 line up: 排列、排成一行
 linear-time: 線性時間
-linear: 直線的、線性的
+linear: 直線的、線性的、線狀的
 literal: 字面的、文字的
 literally: 字面上、逐字地
 locate: 定位、放置
@@ -910,6 +921,7 @@ meaningful: 有意義的
 meanwhile: 其間、同時
 mechanical: 機械性的、機械的
 mechanism: 機制、機構、機理
+mediate: 中間的、過渡的
 megabytes: MB、兆字節
 merging: 合併、融合
 methodology: 方法論
@@ -966,6 +978,7 @@ nest: 嵌套、巢、巢狀物、巢穴
 nested: 內含的、內嵌的、嵌套的、巢狀的
 nesting: 層疊、嵌套
 nestle: 依偎、安置
+newly: 剛剛、最近
 no longer: 不再
 node: 節點、結點
 nonboldface: 正常字體、非粗體
@@ -975,6 +988,7 @@ nonitalicized: 正常字體、非斜體
 nonterminal: 非終端的、非終結的
 nontrivial: 非凡的
 norm: 標準
+normal: 常態的、正常的
 notate: 標註、註解
 notation: 標記法、符號、符號系統、表示法、記號
 notational: 做記號的、標記的、符號的
@@ -1138,7 +1152,7 @@ prioritize: 優先考慮
 private: 私人的、私有的
 probably: 可能
 procedure: 手續、流程、程序
-proceed: 前進、繼續
+proceed: 前進、繼續、進行
 process: 處理、過程
 processed: 處理過的
 processes: 處理、過程
@@ -1155,6 +1169,7 @@ promising: 有前途的
 promote: 促進
 prone: 傾向於...的、易於...的
 proper: 合乎禮儀的、合適的、正確的、適當的
+properly: 正確地、適當地
 properties: 屬性
 property: 屬性、特性
 propose: 提出
@@ -1210,6 +1225,7 @@ redeclare: 重新宣告
 reduce: 減少、降低
 redundancies: 冗餘
 redundant: 冗餘的
+reexamine: 重新檢查、重新考察
 refer: 參考、引用、提到、提及
 reference: 參考、提及
 referred: 參考、提到、提及
@@ -1248,7 +1264,7 @@ replace: 取代、替換
 report: 報告、報導
 reported: 報告、報導
 represent: 代表、表現、表示
-representation: (= show)、呈現方式、表徵、表現、表示、表述
+representation: (= show)、代表、呈現方式、表徵、表現、表示、表述
 representative: 代表性的、典型的
 representing: 代表、表現、表示
 require: 要求
@@ -1261,11 +1277,12 @@ reserved: 保留的、預訂的
 reside: 居住
 resolve: (= solve)、解決、解釋、解除
 resource: 資源
-respect: 尊敬、尊重、敬重
+respect: 尊敬、尊重、敬重、看待
 respective: 分別的、各自的
 respectively: 分別地、分別的、各自地、相對的
 response: 響應
 rest: 休息、其餘、其餘的、剩下的、剩餘、剩餘的
+restore: 修復、恢復
 restrict: 約束、限制
 restricting: 約束、限制
 result in: 導致、造成
@@ -1307,6 +1324,7 @@ scientific: 科學的
 scientist: 科學家
 scribe: 寫、記錄
 script: 劇本、腳本
+search: 搜尋、查找
 searching: 搜尋的、查找的
 second: 二分之一的、第二的
 secondary: 次要的
@@ -1381,6 +1399,7 @@ speaking: 說
 spec: 規格
 special: 專門的、特別的、特殊的
 specialized: 專業的、專門的
+specially: 專門地、特別地
 specific: 具體的、特定的
 specification: 規格、規範、說明書
 specified: 指定的、明確的
@@ -1404,6 +1423,8 @@ status: 狀態
 still: 仍然
 stimulated: 刺激
 storage: 儲存、存儲
+store: 儲存、商店
+story: 故事、故事情節
 straight: 直
 straightforward: 直接的
 strict: 嚴格的、嚴謹的
@@ -1435,6 +1456,8 @@ suffice: 滿足、足夠
 suffices: 滿足、滿足需求、足夠
 sufficient: 足夠的
 suffix: 後綴、後置
+suggest: 建議、暗示
+suggested: 建議的、推薦的
 suggestive: 啟發性的、暗示的
 suit: 合身、適合
 suitable: 合適的、適合的、適當的
@@ -1449,6 +1472,7 @@ supply: 供應、提供
 suppose: 假設、認為
 sure: 確定、肯定
 surely: 無疑地、肯定地
+surface: 地表、表層、表面
 surround: 圍繞、環繞
 synchronization: 同步
 synonymously: 同義地、同義詞地
@@ -1493,7 +1517,7 @@ thorough: 徹底的
 through: 穿過、通過
 throughout: 在整個過程中、貫穿、遍及
 throws: 投擲、拋出
-thus: 因此、從而
+thus: 因此、如此、從而
 tinct: 特質、色彩
 toolkit: 工具包
 torn: 撕裂的、破碎的
@@ -1522,6 +1546,7 @@ treating: 對待、治療
 treatment: 治療、看待、處理
 trends: 趨勢
 trial: (= experiment)、審判、試驗
+tribute: 敬意、貢獻
 trick: 技巧、欺騙、訣竅
 tricked: 欺騙
 trivial: 瑣碎的
@@ -1530,6 +1555,8 @@ tuple: 一組、元組、對偶
 turn out: 最終發現、結果是
 turn: 輪到、轉動
 turning: 轉折
+tutor: 家教、導師
+tutorial: 指導、教程
 type: (打字)、打、類別、類型
 typical: 代表性的、典型的
 typically: 典型地、通常、通常地
@@ -1577,6 +1604,7 @@ viable: 可行的、能活下去的
 violating: 違反
 virtual: 虛擬的
 vise: 夾具、鉗子
+visible: 可見的、明顯的
 visit: 參觀、訪問
 visual: 視覺的
 vulnerability: 易受攻擊

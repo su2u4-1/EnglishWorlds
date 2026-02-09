@@ -96,3 +96,13 @@ ascend: 上升、攀登
 recur: 復發、重現
 cur: 跑、流動
 treatment: 看待、治療、處理
+visible: 可見的、明顯的
+newly: 最近、剛剛
+restore: 恢復、修復
+store: 儲存、商店
+story: 故事、故事情節
+history: 歷史、歷史記錄
+tribute: 貢獻、敬意
+properly: 適當地、正確地
+search: 搜尋、查找
+container: 容器、集裝箱

@@ -14,6 +14,7 @@ files = [
     "./chapter_2/2-5.txt",
     "./chapter_2/2-6.txt",
     "./chapter_2/2-7.txt",
+    "./chapter_2/2-8.txt",
 ]
 
 

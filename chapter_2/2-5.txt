@@ -79,7 +79,7 @@ expect: 期待、預期
 coerces: 強制、迫使
 cast: 投、擲、演員陣容、劇組
 abnormal: 異常的、不正常的
-ab-: （前綴）離開、否定
+ab-: 離開、否定
 exception: 例外、異常
 unfamiliar: 不熟悉的、生疏的
 salient: 顯著的、突出的
