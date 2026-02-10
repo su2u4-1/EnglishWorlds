@@ -154,10 +154,11 @@ class VocabularyTester:
         print("測試結果")
         print(f"{'='*50}")
 
-        display = DisplayInfo(("題號", "單字", "結果", "答案", "google翻譯連結"), "N/A")
+        display = DisplayInfo(("題號", "單字", "結果", "答案", "google翻譯", "辭源"), "N/A")
         for i, (word, is_correct) in enumerate(zip(words, corrections), 1):
-            url = f"https://translate.google.com/?sl=en&tl=zh-TW&text={word.replace(" ", "%20")}&op=translate"
-            display.add((i, word, f"✓ 正確" if is_correct else f"✗ 錯誤", self.vocabulary[word], url))
+            url1 = f"https://translate.google.com/?sl=en&tl=zh-TW&text={word.replace(" ", "%20")}"
+            url2 = f"https://www.etymonline.com/search?q={word.replace(" ", "%20")}"
+            display.add((i, word, f"✓ 正確" if is_correct else f"✗ 錯誤", self.vocabulary[word], url1, url2))
         display.display()
 
         print(f"\n總分：{correct_count}/{total_count} ({score:.1f}%)")
@@ -229,6 +230,7 @@ class VocabularyTester:
         return log
 
     def save_log(self, log: dict[str, int]) -> None:
+        log = {k: v for k, v in log.items() if v != 0}
         log = dict(sorted(log.items(), key=lambda item: item[0]))
         log = dict(sorted(log.items(), key=lambda item: item[1], reverse=True))
         try:
