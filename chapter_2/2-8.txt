@@ -20,3 +20,22 @@ ex-: 向外、離開、超出
 normal: 正常的、常態的
 choice: 選擇、選項
 branch: 分支、部門
+always: 總是、永遠
+in addition: 此外、另外
+rule: 規則、規律
+-ic: ...的、...的性質、形容詞後綴
+mismatch: 不匹配、不一致
+detected: 檢測到的、發現的
+emit: 發出、放出、釋出
+emission: 發射、排放
+motion: 運動、動作
+without: 沒有、無
+along with: 與...一起、連同
+by so doing: 這樣做、藉此
+construction: 建造、構造
+represented: 代表的、表示的
+-ation: ...的行為、過程、結果，名詞後綴
+-or: ...的人或物，名詞後綴
+actor: 演員、行動者
+limited: 有限的、受限制的
+pseudo-: 假的、偽的

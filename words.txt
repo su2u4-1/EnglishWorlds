@@ -24,6 +24,7 @@ acquire: 獲得
 across: 橫過、穿越
 act: 表現
 activities: 活動
+actor: 演員、行動者
 actual: 實際的、真實的
 actually: 事實上、實際上
 ad hoc: 特別的、臨時的
@@ -54,6 +55,7 @@ allocate: 分配
 allocating: 分配
 allocation: 分配、安排
 almost: 幾乎
+along with: 與...一起、連同
 along: 沿著、隨著
 alphabet: 字母系統、字母表
 already: 已經、早已
@@ -62,6 +64,7 @@ alternate: 交替、輪流
 alternative: 另類的、可供選擇的、可選擇的、替代方案、替代的、選擇的
 alternatively: 交替地、另外、或者、替代地
 although: 雖然
+always: 永遠、總是
 ambiguity: 不明確、模糊、歧義
 ambiguous: 不明確的、模糊的
 ambiguously: 含糊地、模糊地
@@ -97,7 +100,7 @@ applications: 應用
 applied: 實用的、應用、應用的、申請
 applies: 應用、適用
 apply: 使用、應用、申請、適用
-applying: 應用、申請
+applying: 使用、應用、申請
 approach: 接近、方法、途徑
 approaches: 方法、途徑
 appropriate: 合適的、恰當的、適當的
@@ -139,7 +142,7 @@ associative: 結合的、聯想的
 associativity: 結合性、聯繫性
 assume: 假設、認為
 assumption: 假設、前提
-assure: 確保
+assure: 保證、確保
 at most: 最多
 attach: 連接、附加
 attaches: 連接、附加
@@ -199,6 +202,7 @@ brief: 簡潔的、簡短的
 buffer: 緩衝區、緩衝物
 buffering: 緩衝、緩衝作用
 built: (build - built - built)、建造的
+by so doing: 藉此、這樣做
 calculation: 估計、計算
 callee: 被呼叫者、被調用者
 capabilities: 能力
@@ -227,7 +231,7 @@ chapter: 章、章節、篇章
 character: 字元、字符、特徵、角色
 characteristic: 特徵
 characters: 字元、角色
-child: 子、孩子
+child: 兒童、子、孩子
 childhood: 幼年、童年
 children: 兒童、孩子們
 china: 中國、瓷器
@@ -268,7 +272,7 @@ communicate: 交流、溝通
 companies: 公司
 compares: 對照、比較
 compatibility: 兼容性
-compilation: 彙總、編譯
+compilation: 彙編、彙總、編譯
 compiling: 編譯
 complementary: 互補的、補充的
 complete: 完全的、完成、完整的
@@ -308,7 +312,8 @@ constant-time: 常數時間
 constant: 不變的、常數、恆定的
 constituent: 成分、構成要素、組成
 constraint: 約束、限制
-construct: 建構、建造、構築、構造
+construct: 建構、建造、構建、構築、構造
+construction: 建造、構造
 constructor: 建構函數、建構子
 consume: 消耗
 consumption: 消耗
@@ -423,7 +428,8 @@ desired: 想要的、所需的、期望的、渴望的、理想的
 destination: 目的地、終點
 destructor: 解構函數、解構子
 detail: 細節、詳情
-detect: 偵測、檢測
+detect: 偵測、檢測、發現
+detected: 檢測到的、發現的
 detector: 偵測器
 determination: 決心、確定
 determine: 決定、確定
@@ -473,7 +479,7 @@ diversity: 多樣性
 divide: 分開、平分、拆分、除法
 division: 部門、除法、除法運算
 domination: 支配
-done: 做好的、完成的
+done: 做好的、做的、完成的
 dotted: 點狀的、點綴的
 draw: 畫、繪製
 dream: 夢境、夢想
@@ -483,7 +489,7 @@ due to: 應付、欠款、由於
 due: 到期的、應支付的
 during: 在...時、在...期間、在...過程中
 dut to: 因為、由於
-dynamic: 動態的
+dynamic: 動力的、動態的
 dynamically: 動態地
 e.g.: 例如、舉例來說
 earlier: 先前的、較早的
@@ -509,6 +515,8 @@ eliminating: (= delete)、排除、消除
 elimination: 排除、消除
 embed: 嵌入
 embedded: 內嵌的、嵌入的
+emission: 排放、發射
+emit: 放出、發出、釋出
 emphasis: 強調、重點
 emphasize: 強調、著重、重視
 empirically: 實證地、經驗上的
@@ -557,8 +565,8 @@ exception: 例外、異常
 excite: 使興奮、激發
 exclude: 不包含
 exclusively: 僅僅、專門地
-execute: 執行
-executed: 執行、實行、處決
+execute: 執行、實施
+executed: 執行、執行的、實施的、實行、處決
 executing: 執行、實行
 execution: 執行、實行
 exercise: 練習、運用
@@ -643,7 +651,7 @@ formal: 正式的、規範的
 formalism: 形式主義、形式化
 formalization: 形式化、正式的
 formally: 形式上、正式地、正式的
-formed: 形成、構成、組成
+formed: 形成、形成的、構成、構成的、組成
 formerly: 以前、從前
 formulate: 公式化
 formulating: 公式化
@@ -723,7 +731,7 @@ ill: 不好的、壞的
 illustrate: 圖解、舉例說明、說明、闡明
 illustrated: 說明的、闡明的
 illustration: 插圖、舉證
-immediate: 即時的、立即的
+immediate: 即時的、直接的、立即的
 immediately: 立即
 immune: 免疫的、免除的
 impact: 影響
@@ -744,6 +752,7 @@ imposes: 執行、施加
 impossible: 不可能的、無法實現的
 improve: 改善
 in addition to: 除了...之外
+in addition: 另外、此外
 in effect: 事實上、實際上
 in fact: 事實上、實際上
 in order to: 為了
@@ -799,7 +808,7 @@ inside-out: 由內而外、顛倒的
 installed: 安裝的、設置的
 instance: 例子、實例
 instead of: 取代、而不是
-instead: 代替、反而、取而代之、而不是
+instead: 代替、反而、取代、取而代之、而不是
 instruction: 命令、指令
 insufficient: 不足的
 insulate: 絕緣、隔離
@@ -860,7 +869,7 @@ labeled: 標籤、標籤的、標記、標記的
 large: 大的
 larger: 更大的、較大的
 largest: 最多的、最大的
-later: 後來的、較晚的
+later: 後來、後來的、較晚的
 latter: 後期、後者
 layout: 佈局
 lead to: 導致、引起
@@ -882,6 +891,7 @@ lie: 說謊、謊言、躺
 likely: 可能的、很可能
 likewise: 也、同樣地
 limitation: 限制
+limited: 受限制的、有限的
 line up: 排列、排成一行
 linear-time: 線性時間
 linear: 直線的、線性的、線狀的
@@ -909,7 +919,7 @@ manipulate: 操作、操縱、處理
 manner: 態度、方式、方法、禮節、舉止、風格
 maps: 地圖、映射
 massively: 大量地
-match: 匹配、比賽
+match: 匹配、比賽、相配
 mathematically: 數學上
 matrices: 矩陣
 matter: 事情、物質
@@ -938,6 +948,7 @@ minimizing: 最小化
 minor: 次要的、輕微的
 minus: 減去、減少、負號
 misbehave: 行為不當
+mismatch: 不一致、不匹配
 misnomer: 誤稱
 mission: 任務
 mistake: 錯誤
@@ -955,6 +966,7 @@ morpheme: 詞素、語素
 most-closely: 最接近地
 most: 最、最多
 mostly: 大多數
+motion: 動作、運動
 motorola: 摩托羅拉
 much: 很多
 multicharacter: 多字元的、多字符的
@@ -1027,7 +1039,7 @@ one of the kind: 獨一無二的
 only: 僅僅、只有、才
 open-ended: 開放式的
 operand: 操作數、運算元
-operate: 操作、運行
+operate: 操作、運作、運行
 operation: 操作、運算、運行
 operator: 操作員、操作符、運算子、運算符
 opportunity: 時機、機會
@@ -1211,7 +1223,7 @@ rearrange: 重新排列
 reason: 原因、理由
 reasonable: 可讀的、合理的、易讀的
 reasoning: 推理、論證
-recall: 召回、回憶
+recall: 召回、回想、回憶
 received: 接收的、收到的
 recently: 最近、近來
 recognize: 認識、識別
@@ -1262,10 +1274,11 @@ repeated: 反覆的、重複的
 repeatedly: 一再地、反覆地
 replace: 取代、替換
 report: 報告、報導
-reported: 報告、報導
+reported: 報告、報告的、報導、報導的
 represent: 代表、表現、表示
 representation: (= show)、代表、呈現方式、表徵、表現、表示、表述
 representative: 代表性的、典型的
+represented: 代表的、表示的
 representing: 代表、表現、表示
 require: 要求
 required: 需要的
@@ -1301,6 +1314,7 @@ round brackets: 圓括號、小括號
 routine: 例行、例行公事、公事、慣例
 routinely: 例行公事地、常規地
 routines: 例行、例行公事、公事、常規、程序
+rule: 規則、規律
 rules: 規則、規定
 said: 說、講
 salient: 突出的、顯著的
@@ -1335,7 +1349,7 @@ seems: 似乎、看起來
 sees: 看見、認為
 selecting: 挑選、選擇
 semantic: 語意的、語義的
-semantically: 字面上、語法上、語義上、語義上地
+semantically: 字面上、語意上、語法上、語義上、語義上地
 semantics: 語義
 sematic: 語意的、語義的
 semicolon: 分號、分隔符
@@ -1417,7 +1431,7 @@ standing: 常駐的、站立的
 state-of-the-art: 最先進的
 state: 州、長期狀態、陳述
 statement: (通常比單一句子長)、聲明、陳述
-static: 不變的、靜態的
+static: 不變的、靜態的、靜止的
 statically: 靜態地
 status: 狀態
 still: 仍然
@@ -1617,6 +1631,7 @@ whole: 全部、整體
 widely: 廣泛地、普遍地
 wish: 希望
 within: 在...之內
+without: 沒有、無
 worse still: 更糟
 worse: 更糟
 worth: 值得、值得的、有價值的
