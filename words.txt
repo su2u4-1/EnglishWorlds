@@ -144,6 +144,7 @@ assume: 假設、認為
 assumption: 假設、前提
 assure: 保證、確保
 at most: 最多
+ate: 吃了、食用的
 attach: 連接、附加
 attaches: 連接、附加
 attaching: 連接、附加
@@ -165,7 +166,7 @@ backtrack: 回溯、退回
 backward: 向後的
 balance: 平衡
 balancing: 平衡
-basic: 基礎
+basic: 基本的、基礎、基礎的
 become: 成為、變成
 beginning: 起初、開始
 behave: 舉止、行為
@@ -194,9 +195,10 @@ bracket: 中括號
 brackets: 括號
 branch: 分支、部門
 branches: 分支、枝條
+branching: 分叉的、分支的
 breach: 破壞、違反
 break up: 分解、拆分
-break: 拆開
+break: 打破、拆開、破裂
 brevity: 簡潔、簡練
 brief: 簡潔的、簡短的
 buffer: 緩衝區、緩衝物
@@ -479,7 +481,7 @@ diversity: 多樣性
 divide: 分開、平分、拆分、除法
 division: 部門、除法、除法運算
 domination: 支配
-done: 做好的、做的、完成的
+done: do的過去分詞、做好的、做的、完成的
 dotted: 點狀的、點綴的
 draw: 畫、繪製
 dream: 夢境、夢想
@@ -495,6 +497,8 @@ e.g.: 例如、舉例來說
 earlier: 先前的、較早的
 easier: 更容易的
 easy: 容易的
+eat: 吃、食用
+eaten: 吃過的、食用過的
 economic: 經濟的
 edge: 邊界、邊緣
 effect: 影響、效果
@@ -566,7 +570,7 @@ excite: 使興奮、激發
 exclude: 不包含
 exclusively: 僅僅、專門地
 execute: 執行、實施
-executed: 執行、執行的、實施的、實行、處決
+executed: 執行、執行的、實施的、實行、實行的、處決
 executing: 執行、實行
 execution: 執行、實行
 exercise: 練習、運用
@@ -696,6 +700,7 @@ guarantee: 保證、確保
 guaranteed: 保證、確保
 guide: 引導、指導
 had: have p.p.、有
+hand: 幫助、手
 handle: 應對、操作、處理
 handled: 應付、處理
 handwriting: 硬連線
@@ -704,6 +709,7 @@ harnessed: 利用
 harnesses: 利用、套、套索、背心、護甲、馬鞍
 hash: #、(= pound sign)、井號、哈希、雜湊
 head: 頂部、頭、頭部、首部
+hear: 聽、聽到
 held: 握住、舉行
 helper: 助手、幫手
 helpers: 助手、輔助程式
@@ -713,7 +719,7 @@ henceforth: 今後、從此以後
 heuristic: 啟發式的
 hidden: 隱蔽的、隱藏的
 hides: 隱藏
-hierarchical: 分層的、階層的
+hierarchical: 分層的、分級的、階層的
 hierarchies: 階層
 hierarchy: 等級制度、階層
 historical: 歷史性的、歷史的
@@ -751,7 +757,7 @@ impose: 強加、施加
 imposes: 執行、施加
 impossible: 不可能的、無法實現的
 improve: 改善
-in addition to: 除了...之外
+in addition to: 另外、除了...之外
 in addition: 另外、此外
 in effect: 事實上、實際上
 in fact: 事實上、實際上
@@ -1036,6 +1042,7 @@ on the other hand: 另一方面
 once and for all: 一勞永逸
 one and for all: 徹底地、永久地
 one of the kind: 獨一無二的
+one-after-the-other: 一個接一個地、依次地
 only: 僅僅、只有、才
 open-ended: 開放式的
 operand: 操作數、運算元
@@ -1156,7 +1163,7 @@ prevents: 防止、阻止
 previous: 以前的、先前的
 previously: 先前
 primarily: 主要地、首要地
-primary: 主要的
+primary: 主要的、初級的、基本的
 principal: 主要的
 principle: 原則、原理
 prior: 先前的
@@ -1283,7 +1290,7 @@ representing: 代表、表現、表示
 require: 要求
 required: 需要的
 requires: 要求、需要
-research: 研究
+research: 研究、調查
 resemble: 相似、類似
 reserve: 保留、預約、預訂
 reserved: 保留的、預訂的
@@ -1342,6 +1349,7 @@ search: 搜尋、查找
 searching: 搜尋的、查找的
 second: 二分之一的、第二的
 secondary: 次要的
+secret: 機密的、秘密的
 section: (= part)、章節、部分
 secure: 安全的、留住
 security: 保安、安全
@@ -1415,6 +1423,7 @@ special: 專門的、特別的、特殊的
 specialized: 專業的、專門的
 specially: 專門地、特別地
 specific: 具體的、特定的
+specifically: 具體地、特別地
 specification: 規格、規範、說明書
 specified: 指定的、明確的
 specifies: 指定
@@ -1434,6 +1443,7 @@ statement: (通常比單一句子長)、聲明、陳述
 static: 不變的、靜態的、靜止的
 statically: 靜態地
 status: 狀態
+step: 步驟、階段
 still: 仍然
 stimulated: 刺激
 storage: 儲存、存儲
@@ -1484,7 +1494,7 @@ supplied: 供應、提供
 supplies: 供應
 supply: 供應、提供
 suppose: 假設、認為
-sure: 確定、肯定
+sure: 保證、確保、確定、肯定
 surely: 無疑地、肯定地
 surface: 地表、表層、表面
 surround: 圍繞、環繞
@@ -1593,7 +1603,7 @@ unintuitive: 不易理解的、不直觀的
 unique: 唯一的、獨特的
 unit: 單位、單元
 units: 單位、單元
-unlike: 不像
+unlike: 不像、不同於
 unnecessary: 不必要的
 unresolved: 未解決的、無法解決的
 unsound: 不正確的、無效的

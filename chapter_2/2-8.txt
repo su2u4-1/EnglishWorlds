@@ -39,3 +39,15 @@ represented: 代表的、表示的
 actor: 演員、行動者
 limited: 有限的、受限制的
 pseudo-: 假的、偽的
+-ly: ...地，副詞後綴
+specifically: 具體地、特別地
+hand: 手、幫助
+step: 步驟、階段
+one-after-the-other: 一個接一個地、依次地
+branching: 分支的、分叉的
+-tic: ...的、...的性質、形容詞後綴
+hear: 聽、聽到
+eat: 吃、食用
+ate: 吃了、食用的
+eaten: 吃過的、食用過的
+secret: 秘密的、機密的
