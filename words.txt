@@ -3,7 +3,7 @@ ability: 能力
 abnormal: 不正常的、異常的
 above: 上述的、以上、在...上面、在...之上
 absolute: 絕對的
-abstract: 抽象的、摘要
+abstract: 抽象的、摘要、摘要的
 abstraction: 抽象、抽象化
 accept: 接受
 acceptable: 可接受的、合意的
@@ -56,7 +56,7 @@ allocating: 分配
 allocation: 分配、安排
 almost: 幾乎
 along with: 與...一起、連同
-along: 沿著、隨著
+along: 一起、沿著、隨著
 alphabet: 字母系統、字母表
 already: 已經、早已
 alter: (= change)、改變
@@ -89,7 +89,7 @@ anticipating: 預料、預期
 apart: 分開、分離
 apostrophe: 撇號、省略號
 apparently: 明顯地、顯然地
-appear: 出現、顯現、顯示
+appear: 出現、看起來、顯現、顯示
 appearance: 出現、外觀
 appearing: 出現、顯示
 append: 附加、附錄
@@ -100,7 +100,7 @@ applications: 應用
 applied: 實用的、應用、應用的、申請
 applies: 應用、適用
 apply: 使用、應用、申請、適用
-applying: 使用、應用、申請
+applying: 使用、應用、申請、適用
 approach: 接近、方法、途徑
 approaches: 方法、途徑
 appropriate: 合適的、恰當的、適當的
@@ -158,7 +158,7 @@ automata: 自動機
 automatically: (= auto)、自動地
 auxiliary: 輔助的、附屬的
 availability: 可用性
-available: 可獲得的、可用的
+available: 可得到的、可獲得的、可用的
 average: 平均、平均的、普通的
 avoid: 避免、防止
 back end: 後端
@@ -210,6 +210,9 @@ callee: 被呼叫者、被調用者
 capabilities: 能力
 capability: 性能、能力
 capable: 有能力的、能幹的
+capital: 大寫字母、資本、首都
+capitalization: 大寫、資本化
+capitalized: 大寫的、資本化的
 capture: 捕捉
 career: 職業、職涯
 careful: 小心的、謹慎的
@@ -281,8 +284,8 @@ complete: 完全的、完成、完整的
 completely: 完全地
 complex: 綜合體、複雜的
 complicated: 複雜的
-component: 元件、成分、組件
-components: 元件、組件
+component: 元件、成分、組件、零件
+components: 元件、組件、零件
 comprise: 包含、由...組成
 comprising: 包含、由...組成
 compromise: 危害、妥協
@@ -295,6 +298,7 @@ concepts: 概念
 conclude: 總結
 concrete: 具體的、有形的
 condition: 條件、狀況
+conditional: 假設的、條件的
 conflict: 矛盾、衝突
 conform: 符合
 congest: 堵塞、擁擠
@@ -367,6 +371,7 @@ curly: 大括號的、捲曲的、捲毛的
 current: 當前的、目前的
 currently: 現在、當前、目前
 cursive: 手寫的、草寫的、連筆的
+cussed: 咒罵的、固執的
 customary: 慣例的、習慣的
 dare: 敢於
 dash: 破折號、虛線
@@ -392,6 +397,7 @@ defer: 尊崇、推遲
 define: 定義、確定、規定
 defined: 定義的、已定義的
 defines: 定義、規定
+defining: 定義、界定
 definition: 定義、解釋、說明
 delimit: 劃定、界定
 delimiters: 分隔符號、界限符號
@@ -430,6 +436,7 @@ desired: 想要的、所需的、期望的、渴望的、理想的
 destination: 目的地、終點
 destructor: 解構函數、解構子
 detail: 細節、詳情
+detailed: 精細的、詳細的
 detect: 偵測、檢測、發現
 detected: 檢測到的、發現的
 detector: 偵測器
@@ -457,6 +464,7 @@ direct: 指導、指揮、直接的
 directed: 導向的、指向的、指導、指揮
 direction: 方向
 directly: 坦率地、直接地
+disappear: 消失、消散
 discard: 丟棄、放棄
 discarded: 丟棄的
 discipline: 原則、學科
@@ -494,6 +502,7 @@ dut to: 因為、由於
 dynamic: 動力的、動態的
 dynamically: 動態地
 e.g.: 例如、舉例來說
+each: 各自的、每個
 earlier: 先前的、較早的
 easier: 更容易的
 easy: 容易的
@@ -552,7 +561,7 @@ essentially: 基本上、本質上
 established: 已建立的
 etc.: 等等、諸如此類
 etcetera: 其他、等等
-evaluate: 評估
+evaluate: 評估、評價
 evaluation: 估價、評估、評價
 eventually: 最終
 evolution: 演化、演變
@@ -589,6 +598,7 @@ expensive: 昂貴的、花錢的
 experiment: 實驗
 experimentation: 實驗
 explain: 解釋、說明
+explained: 解釋的、說明的
 explanation: 解釋、說明
 explicit: 明確的、清楚的
 explicitly: 明確地、清楚地
@@ -648,13 +658,15 @@ fixture: 固定裝置、設備
 flaw: 缺陷
 fold: 折疊、摺疊
 follow: 跟隨、遵循
+followed: 接著的、跟隨的
 following: 以下的、接著的
 font: 字型、字體
 form: 形式、形狀、格式、組成、結構、表格
-formal: 正式的、規範的
+formal: 正式地、正式的、規範的
 formalism: 形式主義、形式化
 formalization: 形式化、正式的
 formally: 形式上、正式地、正式的
+format: 格式、版式
 formed: 形成、形成的、構成、構成的、組成
 formerly: 以前、從前
 formulate: 公式化
@@ -702,7 +714,7 @@ guide: 引導、指導
 had: have p.p.、有
 hand: 幫助、手
 handle: 應對、操作、處理
-handled: 應付、處理
+handled: 應付、應對的、處理、處理的
 handwriting: 硬連線
 harder: 更努力的、更難的
 harnessed: 利用
@@ -793,7 +805,8 @@ influence: 影響
 influenced: 影響
 informal: 隨意的、非正式地、非正式的
 informally: 隨便地、非正式地、非正式的
-informative: 提供資訊的
+information: 信息、資料
+informative: 提供資訊的、有信息量的、有教育意義的
 inherit: 繼承、遺傳
 inheritance: 繼承
 inherited: 繼承、遺傳
@@ -813,7 +826,7 @@ insert: 插入、放入
 inside-out: 由內而外、顛倒的
 installed: 安裝的、設置的
 instance: 例子、實例
-instead of: 取代、而不是
+instead of: 代替、反而、取代、而不是
 instead: 代替、反而、取代、取而代之、而不是
 instruction: 命令、指令
 insufficient: 不足的
@@ -855,6 +868,7 @@ involve: 包含、涉及
 involves: 涉及
 involving: 包含、涉及
 issue: (期刊雜誌單位)、問題、執行、期
+issues: 問題、議題
 italic: 斜體、斜體字
 italicize: 斜體、斜體字
 iter: 反覆、同樣、迭代
@@ -875,7 +889,7 @@ labeled: 標籤、標籤的、標記、標記的
 large: 大的
 larger: 更大的、較大的
 largest: 最多的、最大的
-later: 後來、後來的、較晚的
+later: 以後、後來、後來的、較晚的
 latter: 後期、後者
 layout: 佈局
 lead to: 導致、引起
@@ -933,7 +947,7 @@ maximal: 最大的
 may: (可能性較大)、可能
 mean: 意味著、意思是
 meaning: 含義、意義
-meaningful: 有意義的
+meaningful: 有價值的、有意義的
 meanwhile: 其間、同時
 mechanical: 機械性的、機械的
 mechanism: 機制、機構、機理
@@ -1075,7 +1089,7 @@ overwise: 過分地、過度地
 package: 包裝、包裹
 parallel: 平行的
 parallelism: 並行性
-parameter: 參數、參量、變數
+parameter: 參數、參量、變數、變量
 parameterized: 參數化的
 parameters: 單一、單例
 parent: 圓括號、括號、父母、父親
@@ -1153,6 +1167,7 @@ prepackaged: 預先打包的
 prescribe: 規定、開藥方
 present: 出席、呈現、展示、現在
 presently: 當前、目前
+presents: 呈現、展示
 preserve: 保存、維護
 presumable: 可假定的、可推測的
 presumably: 可能、大概
@@ -1284,7 +1299,7 @@ report: 報告、報導
 reported: 報告、報告的、報導、報導的
 represent: 代表、表現、表示
 representation: (= show)、代表、呈現方式、表徵、表現、表示、表述
-representative: 代表性的、典型的
+representative: 代表性的、代表的、典型的
 represented: 代表的、表示的
 representing: 代表、表現、表示
 require: 要求
@@ -1300,6 +1315,7 @@ resource: 資源
 respect: 尊敬、尊重、敬重、看待
 respective: 分別的、各自的
 respectively: 分別地、分別的、各自地、相對的
+respond: 回應、響應
 response: 響應
 rest: 休息、其餘、其餘的、剩下的、剩餘、剩餘的
 restore: 修復、恢復
@@ -1362,6 +1378,7 @@ semantics: 語義
 sematic: 語意的、語義的
 semicolon: 分號、分隔符
 sense: 意義、感覺
+sentence: 判決、句子
 separate: 分開的、分離的、獨立的
 separated: 分開、分開的、分離、分離的
 sequence: 序列、順序
@@ -1373,6 +1390,7 @@ serves: 供應、服務
 setting: 環境、設定
 several: (= some)、幾個、數個、若干
 shall: 將、應當、應該
+shallow: 淺的、膚淺的
 shape: 型塑、形狀
 shifts: 變化、轉移
 short: 短的、簡短的
@@ -1531,7 +1549,7 @@ terminate: 終止、終結
 terminology: 術語
 terms: 條款、術語
 that is: 也就是說、換句話說
-their: 他們的
+their: 他們的、它們的
 therefore: 因此、所以
 think about: 思考、考慮
 think of as: 視為
