@@ -16,6 +16,7 @@
 ---
 ## reason(v.)
 約1400年， resounen，"質問（某人）"，還有"挑戰"，源自古法語 resoner， raisoner "說話，討論； 爭論； 致詞； 對話"，源自晚期拉丁語 rationare "演講"，源自拉丁語 ratio "計算，理解，動機，原因"，源自 ratus， reri 的過去分詞"計算，思考"（源自 PIE 詞根 [*re-](https://www.etymonline.com/tw/word/*re-) "推理，計數"）。
+
 "以邏輯方式思考，運用推理能力"的不及物意義可追溯至1590年代； "運用推理（with 某人）"的及物意義可追溯至1680年代。相關詞彙： Reasoned； [reasoning](https://www.etymonline.com/tw/word/reasoning)。
 
 ---

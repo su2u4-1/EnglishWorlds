@@ -2,7 +2,9 @@
 
 ## block(n.1)
 "solid piece,"早在14世紀， blok， blokke，通常具有一個或多個平面，指的是大塊的實心木材，源自於13世紀的法語 bloc "木頭原木"，源自於日耳曼語源，例如中古荷蘭語 bloc "樹幹"，古高地德語 bloh（來自 PIE \*bhlugo-, 來自 \*bhelg- "一塊厚木板，梁"； 參見 [balk](https://www.etymonline.com/tw/word/balk)（n.））。
+
 到了15世紀末，這個詞被泛化爲任何實心塊。"實心木塊，其上表面用於某種目的"的意思來自於15世紀末，最初是指行刑者的劊子手臺，被判死刑的人在那裏被斬首。"奴隸站在上面等待拍賣的樹樁"的意思來自於1842年。"用於塑形或放置以保持其形狀的模具，通常是帽子或假髮"的意思來自於1570年代； "頭"（通常是貶義的）的意思來自於1630年代，也許是這個意思的延伸。到1923年，"knock (someone's) block off"的意思是"痛打，打敗"。
+
 在木盒中的"凹槽滑輪"（用繩子傳遞動力並改變運動方向）的意思可以追溯到約1400年。因此， block and tackle（1825年； 參見 [tackle](https://www.etymonline.com/tw/word/tackle)（n.））。在 city block 中的意思是1796年，來自於"建築物的緊湊塊"的概念。
 
 > BLOCK. A term applied in America to a square mass of houses included between four streets. It is a very useful one. [Bartlett]

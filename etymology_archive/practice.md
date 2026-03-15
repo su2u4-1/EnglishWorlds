@@ -2,6 +2,7 @@
 
 ## practice(v.)
 14世紀晚期， practisen，“跟隨或僱用”一種行動方式； 約於1400年，“做，實踐或實踐”； 來自古法語 pratiser， practiser “實踐”，改編自 practiquer，源自中世紀拉丁語 practicare “做，執行，實踐”，源自晚期拉丁語 practicus “實際的”，源自希臘語 praktikos “實際的”（參見 [practical](https://www.etymonline.com/tw/word/practical)）。
+
 從15世紀初開始，“從事某種職業”，尤其是醫學； 還有“反覆或習慣性地執行或實踐以獲得技能，通過反覆表演學習”的意思； 從15世紀中期開始，“執行，工作，鍛鍊”。1590年代開始的不及物動詞意爲“反覆執行某些行爲，訓練自己”。“引導實踐，通過鍛鍊教學，訓練，操練”是從1590年代開始的。相關： [Practiced](https://www.etymonline.com/tw/word/practiced)； [practicing](https://www.etymonline.com/tw/word/practicing)。
 
 ---

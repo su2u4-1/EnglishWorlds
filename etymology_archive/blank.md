@@ -2,6 +2,7 @@
 
 ## blank(adj.)
 13世紀早期，“白色，蒼白，無色”，來自法語“ blanc ”的“白色，閃耀”，源自法蘭克地區的“ \*blank ”的“白色，閃耀”或其他日耳曼語源（比較古諾爾斯語“ blakkr ”，古英語“ blanca ”的“白馬”，古高地德語“ blanc ”，“ blanch ”和德語“ blank ”的“閃耀，明亮”）。這被重建爲來自原始日耳曼語“ \*blangkaz ”的“閃耀，使人眩目”，是 PIE 根“ [*bhel-](https://www.etymonline.com/tw/word/*bhel-) (1) ” 的擴展形式，也指“發白的白色”。
+
 “有空格的”意思可追溯至約1400年。 “無表情的”含義（a blank look）可追溯至1550年代。據說西班牙語 blanco 和意大利語 bianco 源自日耳曼語。相關詞彙: Blankly， blankness。
 
 ---

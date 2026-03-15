@@ -2,6 +2,7 @@
 
 ## compromise(n.)
 15世紀初，“遵守仲裁者決定的聯合承諾”，源自古法語 compromis（13世紀），來自晚期拉丁語 compromissus，是 compromittere 的過去分詞，“相互承諾”（遵守仲裁者的決定），由 com “與，一起”（見 [com-](https://www.etymonline.com/tw/word/com-))和 promittere “放出； 放手； 預言； 事先保證，承諾”組成，源自 pro “之前”（來自 PIE 根 [*per-](https://www.etymonline.com/tw/word/*per-)（1）“向前”，因此“在前面，在之前”）和 mittere “釋放，放手； 發送，投擲”（見 [mission](https://www.etymonline.com/tw/word/mission)）。
+
 “達成協議，通過相互讓步解決分歧”的意義（15世紀中期）來自對解決本身的擴展。 “由此協議產生的結果”這一含義來自於1510年代。
 
 ---

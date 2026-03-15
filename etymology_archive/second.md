@@ -20,6 +20,7 @@ Second fiddle於1809年被證實：
 ---
 ## second(n.1)
 “一度的六十分之一”，也指“一分鐘的六十分之一”，14世紀後期用於幾何學和天文學， seconde，源自古法語 seconde，來自中世紀拉丁語 secunda，縮寫自 secunda pars minuta，即將一小時分成六十份的第二個部分（第一個部分是“prime minute”，現在簡稱 [minute](https://www.etymonline.com/tw/word/minute)），來自拉丁語 secunda，是 secundus 的女性形式，意爲“接下來的，時間或順序上的下一個”（參見 [second](https://www.etymonline.com/tw/word/second)（形容詞））。
+
 鐘錶上指示秒數的指針稱爲 second hand，最早見於1759年。
 
 ---

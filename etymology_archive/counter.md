@@ -2,6 +2,7 @@
 
 ## counter(n.1)
 14世紀中期，“放貸人做生意的桌子”，源自古法語 contouer， comptoir “計算室； 商人或銀行的桌子或長凳”（14世紀），源自中世紀拉丁語 computatorium “賬戶之地”，源自拉丁語 computatus，過去分詞 computare “計算，總結，合計”（見 [compute](https://www.etymonline.com/tw/word/compute)）。
+
 19世紀從銀行推廣到商店，然後擴展到商品展示櫃臺。1875年左右，指家庭廚房中類似的結構。1875年左右， Over-the-counter 指銷售商品和支付貨款； 1926年左右，短語 under the counter 指非法或祕密交易。
 
 ---
@@ -11,6 +12,7 @@
 ---
 ## counter(n.2)
 約於1300年， countour，“一個計算或覈算的人，一個地方稅務官員”，源自盎格魯-法語 countour，它來自於古法語合併的拉丁語 computator 和中世紀拉丁語 computatorium，兩者最終源自拉丁語 computare “計算，總結，覈算”（參見 [compute](https://www.etymonline.com/tw/word/compute)）。
+
 從14世紀後期開始，“用於計數的金屬盤或其他物品”。從1803年開始，“用於計數的設備”。
 
 ---

@@ -6,6 +6,7 @@
 ---
 ## separate(adj.)
 “分離的，獨立的，與其他事物分開的”，大約在1600年左右，來自 [separate](https://www.etymonline.com/tw/word/separate)（動詞）或拉丁語 separatus。在中古英語中， Separate 也被用作過去分詞形容詞，“從主體中切斷”，也用於配偶“疏遠”的意思。 “個人的，特別的”意思來自1670年代，基於“與其他事物分離或分開”，因此“獨特於一個人而不是其他人”。
+
 1890年（Henry W. Grady）引用 Separate but equal，指美國鐵路等方面的種族隔離政策； 在1870年代，它用於大學的女性醫學課程。南非種族隔離的官方名稱 Separate development 來自1955年。相關詞彙： Separately（1550年代）； separateness。
 
 > Frequently the colored coach is little better than a cattle car. Generally one half the smoking car is reserved for the colored car. Often only a cloth curtain or partition run half way up separates this so-called colored car from the smoke, obscene language, and foul air of the smokers' half of the car. All classes and conditions of colored humanity, from the most cultured and refined to the most degraded and filthy, without regard to sex, good breeding or ability to pay for better accommodation, are crowded into this separate, but equal (?) half car. [Rev. Norman B. Wood, "The White Side of a Black Subject," 1897]

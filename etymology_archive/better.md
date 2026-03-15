@@ -2,6 +2,7 @@
 
 ## better(adj., adv.)
 中古英語 bettre，源自古英語 bettra，早期爲 betera，“優質或優越的”，源自原始日耳曼語 \*batizo-，也許源於印歐語言 \*bhad- 的“好”，但 Boutkan 未發現良好的印歐語言詞源。有關詞源和演變，請參見 [best](https://www.etymonline.com/tw/word/best)。同源詞也已成爲較早期的日耳曼語言中 [good](https://www.etymonline.com/tw/word/good) 的比較形容詞（古弗里斯蘭語 betera，古薩克森語 betiro，古諾爾斯語 betr，丹麥語 bedre，古高地德語 bezziro，德語 besser，哥特語 batiza）。這些詞都是正級的比較級（原始日耳曼語 \*bat）。
+
 在中古英語中，副詞形式通常爲 bet，有時也被用作形容詞； 到大約1600年被 bet 代替。Better 自古英語末期就已被證實爲“健康改善，更健康”（副詞）； 從12世紀後期起，“更有用或更可取”。Better half 的“妻子”最早見於1570年代。
 
 ---

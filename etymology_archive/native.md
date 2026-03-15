@@ -2,7 +2,9 @@
 
 ## native(adj.)
 14世紀末， natif，"自然的，天生的，遺傳的，與某物自然相關的"，源自14世紀的古法語 natif "本地的，出生的； 未經破壞的，原始的"，直接源自拉丁語 nativus "天生的，由出生產生的"，源自 natus 的過去分詞， nasci (古拉丁語 gnasci) "出生"，與 gignere "生育" 相關，源自 PIE 詞根 [*gene-](https://www.etymonline.com/tw/word/*gene-) "出生，生育"，帶有指涉繁殖、家族和部落羣體的派生詞。
+
 從15世紀初開始，也指"出生於特定地方，具有土著的起源或生長，非異國的或外來的"，還指"與出生有關的" (如 native land 中的意思)。也在15世紀初開始用於一個現已廢棄的意思，指"受束縛的； 出生於奴役或農奴制度"。關於金屬、礦物等，"在自然界中以純淨狀態存在"，可追溯到1690年代。
+
 Native American 指美洲土著民族，可追溯到約1900年，作爲一本"致力於印第安教育"的期刊的名稱。
 
 > In the early 1970s, ... activist Indians began calling themselves Native Americans (from the peyote-using Native American Church, incorporated in 1918 in Oklahoma and subsequently in other states). The newer term, aside from disassociating its users from the reservation life of the past, was a form of one-upsmanship, since it reminded whites just who was on the premises first. [Hugh Rawson, "Wicked Words"]

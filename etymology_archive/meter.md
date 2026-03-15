@@ -18,6 +18,7 @@
 ---
 ## meter(n.3)
 "測量的裝置或儀器"，1832年從英語 gasometer（英語中自1790年起使用）等中抽象出來，源自法語 -mètre，用於組合，源自拉丁語 metrum “測量”或同源的希臘語 metron “測量”（來自 PIE 詞根 [*me-](https://www.etymonline.com/tw/word/*me-)（2）“測量”）。
+
 英語中已經有 meter “測量者，檢查測量數量是否正確的官員”（14世紀末，1300年左右作爲姓氏，代詞來自不相關的 [mete](https://www.etymonline.com/tw/word/mete)（v.）），這可能影響了這個詞。作爲 parking meter 的縮寫自1960年起使用。1957年記錄了“Meter maid”“巡邏計時停車場的女警官”，1872年“meter reader”作爲一份工作（最初是指煤氣表）。
 
 ---

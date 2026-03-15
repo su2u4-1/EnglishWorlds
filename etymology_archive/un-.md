@@ -18,6 +18,7 @@
 ---
 ## un-(2)
 前綴表示反轉、剝奪或去除（如在 unhand 、undo 、unbutton 中），舊英語 on- 、un-，源自原始日耳曼語 \*andi-（也指古撒克遜語 ant- 、古諾爾斯語 and- 、荷蘭語 ont- 、古高地德語 ant- 、德語 ent- 、哥特語 and- 中的 "against"），出自 PIE \*anti "面對相反、靠近、在前面、對抗"（從 PIE 詞根 [*ant-](https://www.etymonline.com/tw/word/*ant-) "前面，前額"，及具有"在前面，之前"含義的派生詞組成）。
+
 由於在"否定"和"反轉"的概念上相似，常會與 [un-](https://www.etymonline.com/tw/word/un-) 混淆，一個諸如 unlocked 的形容詞可以被表示爲"未鎖定"（un-（1））或 unlock 的過去式（un-（2））。
 
 ---

@@ -2,7 +2,9 @@
 
 ## sentence(n.)
 公元前1200年，“教義，權威教學； 權威聲明”，源自古法語 sentence “判斷，決定； 意義； 格言，箴言； 權威聲明”（12世紀），直接源自拉丁語 sententia “思想，思維方式，觀點； 判斷，決定”，也指“表達的思想； 格言，諺語”，這是一個不規則的（分化的）形式，來自 sentire 的現在分詞 sentientem，“持有意見，感覺，感知”（參見 [sense](https://www.etymonline.com/tw/word/sense)（n.））。意義路徑可能是“在頭腦中的感知方式”到“觀點”到“決定，判斷”。
+
 早在14世紀初，它就被證明是“上帝或權威人士做出的判斷； 也指特定法律意義上的“裁決，法院判決”。它自14世紀末開始被記錄爲“理解，智慧； 有益的主題材料”，這個意義已經過時，但在喬叟的作品中經常出現。
+
 它自14世紀末開始被證明是“信件、書籍、演講等的主題或內容”，也用於指書面作品中的一段。15世紀中期開始出現“語法上完整的語句”這個意義（“意義”，然後是“用語言表達的意義”）。
 
 > A sentence is a sound in itself on which other sounds called words may be strung. You may string words together without a sentence-sound to string them on just as you may tie clothes together by the sleeves and stretch them without a clothes line between two trees, but — it is bad for the clothes. [Robert Frost, letter to John T. Bartlett, Feb. 22, 1914]

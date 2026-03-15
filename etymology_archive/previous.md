@@ -2,6 +2,7 @@
 
 ## previous(adj.)
 "先於時間，存在於或發生於某事物之前"，1620年代，源自拉丁語 praevius "先行"，由 prae "在...之前"（見 [pre-](https://www.etymonline.com/tw/word/pre-))和 via "道路"（見 [via](https://www.etymonline.com/tw/word/via)）組成。相關詞彙： Previously。
+
 在議會實踐中， previous question 是在議長提出主要問題之前提出的問題，詢問是否應對主要問題進行投票。
 
 > The great remedy against prolix or obstructive debate is the so called previous question, which is moved in the form, "Shall the main question be now put?" and when ordered closes forthwith all debate, and brings the House to a direct vote on that main question. ... Closure by previous question, first established in 1811, is in daily use, and is considered so essential to the progress of business that I never found any member or official willing to dispense with it. Even the senators, who object to its introduction into their own much smaller chamber, agree that it must exist in a large body like the House. [James Bryce, "The American Commonwealth," vol. I., 1893]

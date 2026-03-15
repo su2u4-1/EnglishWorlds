@@ -2,7 +2,9 @@
 
 ## advance(v.)
 13世紀中期， avauncen（及物動詞），“改善（某事物），促進發展”，源自古法語 avancir， avancier “向前移動，前進，推進”（12世紀，現代法語 avancer），來自通俗拉丁語 \*abanteare（意爲意大利語 avanzare，西班牙語 avanzar 的來源）。這來自於晚期拉丁語 abante “從前”，由 ab “從”（見 [ab-](https://www.etymonline.com/tw/word/ab-)）和 ante “前面，對着”（來自 PIE 詞根 [*ant-](https://www.etymonline.com/tw/word/*ant-) “前面，前額”）組成。
+
 與法語 avant “之前”（如 [avant-garde](https://www.etymonline.com/tw/word/avant-garde)）相比，它來自同一晚期拉丁語單詞。英語中不符合詞源學的 -d- 是在16世紀插入的，因爲錯誤地認爲首音節來自拉丁語 ad-。
+
 它自14世紀中期起被證明是“促進，提升到更高的級別”。不及物動詞的意義是“向前移動，向前推進”，自14世紀中期起； 及物動詞的意義是“將（某物）向前移動”，自1500年起。“在法律到期前給予（金錢等）”的意義可追溯至1670年代。相關： [Advanced](https://www.etymonline.com/tw/word/advanced)； advancing。形容詞（如 advance warning 等）的記錄始於1843年。
 
 ---

@@ -2,6 +2,7 @@
 
 ## fashion(n.)
 約於1300年， fasoun，“物理構造或組成； 形狀，外觀”，源自於古法語 façon， fachon， fazon “面容，外貌； 結構，圖案，設計； 完成的事情； 美麗； 方式，特徵”，源自於拉丁語 factionem（主格 factio）“製造或做，準備”，也指“一羣人一起行動”，源自於 facere “製造”（源自於 PIE 詞根 [*dhe-](https://www.etymonline.com/tw/word/*dhe-) “放置，放置”）。
+
 特別是指製作、服裝或裝飾的“風格，方式”（14世紀晚期）； 因此，“盛行的習俗； 在某個地方和時間盛行的服裝和裝飾方式”（15世紀晚期）。意思是“好的風格，符合時尚社會口味”始於1630年代。
 
 > To call a fashion wearable is the kiss of death. No new fashion worth its salt is wearable. [Eugenia Sheppard, New York Herald Tribune, Jan. 13, 1960]

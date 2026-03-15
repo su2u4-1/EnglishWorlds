@@ -2,6 +2,7 @@
 
 ## motion(n.)
 14世紀晚期， mocioun，“移動過程； 位置的連續變化； 建議，正式提議”，源自於古法語 mocion “運動，動作； 變化，改變”（13世紀，現代法語 motion），直接源自拉丁語 motionem（主格 motio）“移動，運動； 情感”，源自於 movere 的過去分詞詞幹“移動”（源自於 PIE 詞根 [*meue-](https://www.etymonline.com/tw/word/*meue-) “推開”）。
+
 自15世紀以來，法律意義上的“向法院或法官提出申請”。in motion “處於運動狀態”自17世紀初出現； set in motion “開始運作”自1590年代出現。在比喻意義上， go through the motions “假裝，敷衍了事”自1816年起源於“模擬動作”的概念。電影 Motion picture 自1896年出現； 暈動症 motion sickness 自1942年出現。
 
 > Rev. G.S. White said : The Presbytery does not favour the proposition of the Richmond Convention, and thinks the appointment of the Committee unnecessary; yet I suppose, that like the man who had nothing to eat, yet always spread the table, and sat down, and went through the motions—so we, according to our brother, are in honour bound, to appoint the Committee and go through the motions!—[Laughter] [The Presbyterian Magazine, May, 1858]

@@ -2,6 +2,7 @@
 
 ## parenthesis(n.)
 1540年代，“插入到句子中的單詞、從句等，與之沒有語法聯繫，但解釋或修飾一個單詞”，源自15世紀的法語 parenthèse 或直接源自中世紀拉丁語 parenthesis “在單詞的音節中添加字母”，源自希臘語 parenthesis，字面意思是“放在旁邊”，來自 parentithenai “放在旁邊”，由 para- “旁邊”（見 [para-](https://www.etymonline.com/tw/word/para-)（1））+ en- “在”+ tithenai “放置”（來自 PIE 詞根 [*dhe-](https://www.etymonline.com/tw/word/*dhe-) “設置，放置”的重複形式）。
+
 到1715年，這個意義從插入的單詞擴展到印刷工或作家用來表示插入單詞的兩個豎直曲線括號（parentheses）。
 
 > Your first figure of tollerable disorder is [Parenthesis] or by an English name the [Insertour] and is when ye will seeme for larger information or some other purpose, to peece or graffe in the middest of your tale an vnnecessary parcell of speach, which neuerthelesse may be thence without any detriment to the rest. [George Puttenham, "The Arte of English Poesie," 1589]

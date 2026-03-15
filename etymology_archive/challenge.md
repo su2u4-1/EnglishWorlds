@@ -6,6 +6,7 @@
 ---
 ## challenge(v.)
 約於1200年，“責備”，源自古法語 chalongier “抱怨，抗議； 討價還價，吹毛求疵”，來自通俗拉丁語\* calumniare “誣告”，源自拉丁語 calumniari “誣告，歪曲，誹謗”，來自 calumnia “欺騙”（見 [calumny](https://www.etymonline.com/tw/word/calumny)）。
+
 從13世紀末開始，“反對，提出異議”； 約於1300年，“指控”，尤其是“虛假指控”，還有“追究責任”； 14世紀末開始，“叫囂要打架”。中古英語中也用於“聲稱，據爲己有”的意義。相關詞彙： Challenged； challenging。
 
 ---

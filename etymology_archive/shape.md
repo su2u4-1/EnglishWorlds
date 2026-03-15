@@ -2,9 +2,13 @@
 
 ## shape(v.)
 “創造，塑造，形成”，中古英語 shapen，源自古英語 scapan，過去分詞形式爲 scieppan，“形成，創造，利用現有材料製造； 創造出來； 註定”（過去式爲 scop，通常用於指上帝）。
+
 這被重構爲源自原始日耳曼語 \*skapjanan “創造，命令”（源自古諾爾斯語 skapa，丹麥語 skabe，古撒克遜語 scapan，古弗里斯蘭語 skeppa，中古荷蘭語 schappen “做，對待”，古高地德語 scaffan，德語 schaffen “形狀，創造，生產”），源自 PIE 詞根 \*(s)kep-，形成意爲“切割，刮擦，砍”的單詞（見 [scabies](https://www.etymonline.com/tw/word/scabies)），在日耳曼語中獲得了廣泛的技術意義，以及“創造”的特定意義。
+
 古英語 scieppan 在中古英語中倖存爲 shippen，但 shape 在 1500 年代成爲了一個常規動詞（過去式爲 shaped）。舊的過去分詞形式 shapen 在 [misshapen](https://www.etymonline.com/tw/word/misshapen) 中倖存。
+
 “在頭腦中形成”的意義來自於 14 世紀晚期。同樣在 14 世紀晚期，“準備，做好準備”的意義也出現了。“給予明確的形式”是在 1580 年代出現的。具體地，“給予方向和特徵”（自己的生活，行爲等）是在 1823 年出現的。
+
 短語  shape up （v.）字面意思是“通過硬質或固體材料賦予形狀”； 從 1865 年開始用於表示“進展”； 從 1938 年開始用於表示“改過自新，達到標準”； 而帶有頭韻的變體  shape up or ship out  在 1951 年的報紙上出現，據說是朝鮮戰爭期間美國軍隊的俚語，意味着“做對或被派往現役”。
 
 ---

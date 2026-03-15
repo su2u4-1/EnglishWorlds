@@ -2,7 +2,9 @@
 
 ## further(adv.)
 古英語 furðor， forðor “到更先進的位置，向前，向前，超出，更遠； 更遠； 後來，以後； 在更大程度上或範圍內，此外； 此外，”在詞源上表示“forth-er”或“fore-ther”。前者可能來自 furðum（見 [forth](https://www.etymonline.com/tw/word/forth)）+比較後綴 \*-eron-, \*-uron-（比較 [inner](https://www.etymonline.com/tw/word/inner), [outer](https://www.etymonline.com/tw/word/outer)）。
+
 另一種詞源（Watkins）將其追溯到原始日耳曼語 \*furthera-, 源自 PIE \*pr-tero-（源頭還有希臘語 proteros “前者”），代表根 [*per-](https://www.etymonline.com/tw/word/*per-)（1）“向前”+比較後綴，也發現在 [after](https://www.etymonline.com/tw/word/after), [other](https://www.etymonline.com/tw/word/other) 中。 “此外，更大程度上”的意義是後來的隱喻發展。
+
 它取代或吸收了 farrer, ferrer 作爲 [far](https://www.etymonline.com/tw/word/far) 的比較級（它本身是比較級，但不再被視爲比較級）。Farrer 本身取代了古英語 fierr 在這項工作中； farrer 一直存活到17世紀，然後被競爭對手 farther 降低到方言。 “further, farther 的主要意義是'更向前，更向前'； 但是，這個意義與 far 的比較級的意義幾乎重疊，後者指的是在某個特定方向上的實際或歸屬運動。” [OED]
 
 ---

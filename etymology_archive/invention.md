@@ -2,6 +2,7 @@
 
 ## invention(n.)
 15世紀早期， invencioun，“發現或發明某事”，源自13世紀的古法語 invencion，直接源自拉丁語 inventionem（主格 inventio），“發明的能力”，動作名詞，來自 invenire 的過去分詞詞幹，“發現，找到； 發明，發現，設計； 確定； 獲得，賺取”，來自 in- “在，上”（來自 PIE 詞根 [*en](https://www.etymonline.com/tw/word/*en) “在”）+ venire “來”（來自 PIE 詞根 [*gwa-](https://www.etymonline.com/tw/word/*gwa-) “去，來”的一個後綴形式）。
+
 “發明的事物”的意義首次記錄於1510年代； “發現如何製造或做某事的行爲或過程”的意義來自1530年代。
 
 > Invention is applied to the contrivance and production of something, often mechanical, that did not before exist, for the utilization of powers of nature long known or lately discovered by investigation. Discovery brings to light what existed before, but was not known. [Century Dictionary]

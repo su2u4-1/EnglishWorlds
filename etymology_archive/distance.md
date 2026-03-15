@@ -12,6 +12,7 @@ At a distance（意為「遠離」）出現於1650年代。keep (one's) distance
 ---
 ## distance(v.)
 1570年代，“將某物放在遠處”（及物動詞）； 1640年代，“通過更快的速度離開遠處”（不及物動詞），源自 [distance](https://www.etymonline.com/tw/word/distance)（名詞）。“使其看起來遙遠”的意義來自於1690年代。特指“在（馬）賽跑中落後”是從1670年代開始的（參見名詞）。“保持距離”的意義是從1786年開始的，在 OED 中標記爲 "? Obs."，但那是在2020年之前。相關詞彙： Distanced； distancing。
+
 Distancing 作爲動名詞始於1670年代； social distancing 在1960年代被用於社會學中，既指物理空間，也指社會地位。
 
 ---

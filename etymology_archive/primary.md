@@ -2,6 +2,7 @@
 
 ## primary(adj.)
 15世紀早期， primarie，“最早的，最基本的，時間或順序上的第一； ” 1560年代，“最高的或最重要的”，源自拉丁語 primarius “第一等級的，首席的，主要的，優秀的”，源自 primus “第一”（見 [prime](https://www.etymonline.com/tw/word/prime)（形容詞））。
+
 “第一或最低的生長或發展順序； 基礎的，準備的”意思來自於1800年左右，最初用於教育； primary school 在1793年的法語翻譯中被證實，源自 école primaire。
 
 > The Paris journals ... are full of a plan, brought forward by Fourcroy, for the establishment of primary schools, which is not interesting to an English reader. [London Times, April 27, 1802]

@@ -2,6 +2,7 @@
 
 ## alternate(adj.)
 "交替的，相互的"，來自1510年代的拉丁語 alternatus，意爲"一個接一個地"，是 alternare 的過去分詞，意爲"先做一件事，然後做另一件事； 交換部分"，來自 alternus，意爲"一個接一個地，交替的，輪流的，相互的"，來自 alter（見 [alter](https://www.etymonline.com/tw/word/alter)）。
+
 Alternate 的意思是"輪流"； [alternative](https://www.etymonline.com/tw/word/alternative) 的意思是"提供選擇"。兩者都意味着兩種或兩件事物。Alternation 是兩件事物交替地按順序進行的過程（如晝夜）； alternative 是兩種選擇中的一種，接受其中一種意味着拒絕另一種。相關詞彙： Alternacy。
 
 ---

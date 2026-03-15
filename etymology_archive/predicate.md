@@ -2,6 +2,7 @@
 
 ## predicate(n.)
 15世紀中期，邏輯學中的一個術語，指“主語所說的內容”，源自古法語 predicat，直接源自中世紀拉丁語 predicatum，來自拉丁語 praedicatum “主語所說的內容”，是 praedicare 的中性過去分詞名詞用法，意爲“斷言，宣佈，公開宣稱”，由 prae- “向前，之前”（見 [pre-](https://www.etymonline.com/tw/word/pre-))和 dicare “宣佈”（源自 PIE 詞根 [*deik-](https://www.etymonline.com/tw/word/*deik-) “展示”，也表示“莊嚴宣佈”，參見 [diction](https://www.etymonline.com/tw/word/diction)）組成。
+
 “在命題中表達主語所說的內容的單詞或短語”的語法意義始於1630年代。相關詞彙： Predicative； predicator； predicatory。
 
 ---

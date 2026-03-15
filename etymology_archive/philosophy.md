@@ -2,6 +2,7 @@
 
 ## philosophy(n.)
 公元1300年左右， philosophie，"知識，學問，學術著作，知識體系"，源自古法語 filosofie "哲學，知識"（12世紀，現代法語 philosophie），直接源自拉丁語 philosophia,，又源自希臘語 philosophia "對知識的熱愛，對智慧的追求； 系統的研究"，由 philo- "熱愛"（見 [philo-](https://www.etymonline.com/tw/word/philo-)）和 sophia "知識，智慧"組成，源自 sophis "聰明的，有學問的"； 這是一個起源不明的詞語[Beekes]。中古英語中有許多拼寫變體（filozofie, phelosophie 等）。
+
 從14世紀中葉開始，它的意思是"處理理性思考或沉思的學科"； 從14世紀末開始，它也表示"自然科學"，還有"鍊金術，神祕知識"； 在中世紀，這個詞被理解爲包括所有推理科學。1771年有"一個人爲生活制定的行爲準則體系"的意思。現代意義上的"最高真理的體系，最基本問題的科學"的含義始於1794年。
 
 > Nec quicquam aliud est philosophia, si interpretari velis, praeter studium sapientiae; sapientia autem est rerum divinarum et humanarum causarumque quibus eae res continentur scientia. [Cicero, "De Officiis"]

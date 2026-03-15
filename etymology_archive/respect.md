@@ -10,7 +10,9 @@ With all due respect作為一種禮貌的表達方式，用來引入對某人意
 ---
 ## respect(v.)
 1540年代，“特別關注”，源於法語“respecter”（16世紀），意爲“回頭看； 尊重； 耽擱”，源自拉丁語“respectere”，它是“respicere”的頻率形式，“看回、顧及、考慮”，源自“re-”（參見“[re-](https://www.etymonline.com/tw/word/re-)”）+“specere”“看”（源自 PIE 詞根“[*spek-](https://www.etymonline.com/tw/word/*spek-)”“觀察”）。
+
 意思是“以尊重的態度對待、稍稍敬畏地看待”，源於1550年代。指“避免傷害或干擾”的意義源於1620年代。“具有參考、涉及的含義”源於1560年代。相關的是“Respected”、“respecting”。
+
 “respect the person”的意思是“基於一個人外表因素的尊重而顯示不當的偏見（或反感）”，因此“respecter of persons”，通常是負面的，來自《使徒行傳》x:34，在1611年的翻譯中。
 
 ---

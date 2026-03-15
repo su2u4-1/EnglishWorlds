@@ -2,16 +2,19 @@
 
 ## present(adj.)
 約於1300年，指“與某人或某物在同一地方”； 14世紀初，“存在於當時”，源自古法語 present “明顯的，近在手邊的，可達到的”； 作爲名詞，“現在”（11世紀，現代法語 présent）； 直接源自拉丁語 praesentem（主格 praesens）“現在的，近在眼前的，立即的，當代的”，來自 præesse 的現在分詞“在（某人或某物）之前，近在手邊”，來自 prae- “在……之前”（參見 [pre-](https://www.etymonline.com/tw/word/pre-)）+ esse “存在”（源自 PIE 詞根 [*es-](https://www.etymonline.com/tw/word/*es-) “存在”）。
+
 指“停留在指定的地方”的意思始於14世紀中葉。作爲表示動作或存在於現在時間的語法時態，記錄於14世紀後期。
 
 ---
 ## present(v.)
 約於1300年， presenten，意爲“引入，正式或隆重地介紹（某人或某物）”； 也指“正式展示，作爲禮物或獎勵頒發； 贈送禮物，將某物帶到某人面前以便接受”，源自古法語 presenter（11世紀，現代法語 présenter），直接源自拉丁語 praesentare，意爲“放置在前面，展示，展覽”，源自 praesens 的詞幹（參見 [present](https://www.etymonline.com/tw/word/present)（形容詞））。
+
 從14世紀後期開始，意爲“展示（某物），證明，揭示，供檢查，展示”； 在法律上，也指“向當局控告，正式投訴或指控不當行爲”。從約1400年開始，意爲“代表，描繪”。相關詞彙： Presented， presenting。1759年， present arms 意爲“將槍械垂直地放在身體前面”。
 
 ---
 ## present(n.1)
 公元1300年左右，“當今時間，現在正在流逝的時間，這一時刻”（與 past 和 future 相對），也指“存在或出席的事實； 某人周圍的空間部分”，源自古法語的 present（n.）“當下的時代”（11世紀），源自拉丁文的 praesens “在那裏存在”（參見 [present](https://www.etymonline.com/tw/word/present)（adj.））。
+
 在中古英語中，“某人周圍的空間部分”（14世紀中期）。在舊法律文書中， these presents 意味着“這些文件，手頭文件”（14世紀晚期）。
 
 ---

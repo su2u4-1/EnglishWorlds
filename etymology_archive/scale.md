@@ -2,6 +2,7 @@
 
 ## scale(n.1)
 [魚或蛇身上的一塊皮鱗]，約於1300年，源自古法語 escale “杯子，鱗片，殼莢，外殼”（12世紀，現代法語 écale），來自法蘭克語 *skala 或其他日耳曼語源，源自原始日耳曼語 *skæla “分裂，分開”（源頭還包括荷蘭語 schaal “鱗片，殼莢”，古高地德語 scala “殼”，哥特語 skalja “瓦片”，古英語 scealu “殼，殼莢”），源自 PIE 詞根 [*skel-](https://www.etymonline.com/tw/word/*skel-)（1）“切割”。作爲 [scale](https://www.etymonline.com/tw/word/scale)（n.2）“稱重器具”的史前同源詞。
+
 指人類時，作爲某些皮膚疾病的一種症狀，自14世紀後期開始使用。在植物學中擴展到葉芽等的覆蓋物，最早見於1776年。作爲失明結束時從眼中掉落的東西（通常是比喻），它迴應了使徒行傳九章18節（拉丁文 tanquam squamæ，希臘文 hosei lepides）。
 
 ---
