@@ -1,16 +1,11 @@
 # quote
 
-## Origin and history of quote
-### quote(v.)
-
-14世纪晚期，coten，意为“给书籍标注章节编号或边注”（这个意思现在已经过时），源自古法语的coter，直接来自中世纪拉丁语的quotare，意为“用数字区分，标记成章节和诗句”。这个词的词源可以追溯到拉丁语的quotus，意思是“按什么顺序？第几号（按序列）？”，而quot则意为“多少”，更早的原始印欧语词根是\*kwo-ti-，来自代词根[*kwo-](https://www.etymonline.com/word/*kwo-)。
-
-这个词义的发展经历了几个阶段：最初是“作为参考标注，引用权威”（1570年代），后来转变为“逐字抄写或重复”（1670年代），在书写或印刷中表示“用引号括起来”。在中古英语中，这个词还曾有“计算，估算”的意思。现代拼写采用了qu-，早在15世纪就有记录。1866年，这个词在商业中被用来表示“报价”，重新唤起了其词源意义。另见[unquote](https://www.etymonline.com/word/unquote)。相关词汇包括Quoted（已引用）和quoting（引用中）。
+## quote(v.)
+14世紀晚期， coten，“在書中標記或註釋章節編號或邊注”（現已過時），源自古法語 coter，直接源自中世紀拉丁語 quotare “用數字區分，標記爲章節和詩句”，源自拉丁語 quotus “按順序？第幾個（在序列中）？”，源自 quot “多少”，源自 PIE \*kwo-ti-，源自代詞根 [*kwo-](https://www.etymonline.com/tw/word/*kwo-)。
+這個意義的發展是通過“作爲參考給出，引用作爲權威”（1570年代）到“抄寫或重複確切的話”（1670年代），在寫作或印刷中，“用引號括起來”。中古英語中也有“計算，估算”的意思。現代拼寫 qu- 的用法可以追溯到15世紀早期。商業意義上的“陳述商品價格”（1866年）恢復了詞源的含義。另見 [unquote](https://www.etymonline.com/tw/word/unquote)。相關： Quoted； quoting。
 
 ---
-## quote (related entry 1)
-### quote(n.)
-
-“a quotation”，1885年，源自 [quote](https://www.etymonline.com/word/quote)（动词）。早期在一种现已废弃的意义上指“边注参考”，大约在1600年。Quotes 作为 quotation marks 的缩写，出现于1869年。
+## quote(n.)
+"引用語"，1885年，源自 [quote](https://www.etymonline.com/tw/word/quote)（動詞）。早期指"邊注引用"（約1600年）。Quotes 作爲 quotation marks 的縮寫，最早見於1869年。
 
 ---

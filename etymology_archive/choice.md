@@ -1,16 +1,11 @@
 # choice
 
-## Origin and history of choice
-### choice(n.)
-
-大约在14世纪中期，[choice](https://www.etymonline.com/word/choice) 这个词开始出现，最初的意思是“精选的东西”。它是由形容词 [choice](https://www.etymonline.com/word/choice) 和早期名词 chois（意为“选择的行为”，约公元1300年）融合而成的。随着时间的发展，这个词的含义逐渐扩展，变成了“选择的权力”（14世纪初）和“被选择的人或物”（14世纪晚期）。它源自古法语 chois，意思是“某人的选择”或“拥有选择的权利”（12世纪，现代法语为 choix）。这个词又来自动词 choisir，意为“选择、区分、识别；认出、看见”，其词源可能来自法兰克语或其他日耳曼语族，并与古英语的 ceosan（“选择、品尝、尝试”，源自印欧词根 [*geus-](https://www.etymonline.com/word/*geus-)，意为“品尝；选择”）相关联。
-
-晚期古英语中，chis（“挑剔的、爱挑剔的”）这个词可能与 ceosan 有关，也可能对 choice 的发展产生了影响。最终，choice 替代了古英语中的 cyre（“选择、自由意志”），两者词源相同，但新词可能因为与 [choose](https://www.etymonline.com/word/choose) 更为接近而被采用[参见《牛津英语词典》的相关注释]。
+## choice(n.)
+14世紀中期，“精選品”，起源於 [choice](https://www.etymonline.com/tw/word/choice)（形容詞）與更早的 chois（n.）“選擇行動”（約1300年）； “選擇權”（14世紀早期），“所選人或物”（14世紀後期），來自古法語 chois “某人的選擇； 有選擇的事實”（12世紀，現代法語 choix），源自 choisir 動詞“選擇，辨別，分辨； 認出，感知，看見”，該詞源於法蘭克或其他日耳曼語系，並與古英語 ceosan “選擇，品嚐，嘗試”相關（源自 PIE 基礎詞根 [*geus-](https://www.etymonline.com/tw/word/*geus-)"品嚐; 選擇"）。
+晚期古英語 chis “挑剔的，愛挑剔的”，可能源於 ceosan，或與其有關，也有可能促進了 choice 的發展。Choice 代替了古英語 cyre “選擇，自由意志”，來自相同的詞根，可能是因爲這個導入的詞更接近 [choose](https://www.etymonline.com/tw/word/choose) [請參見 OED 中的註釋]。
 
 ---
-## choice (related entry 1)
-### choice(adj.)
-
-“值得被选择的，卓越的，优秀的”，这个词大约在14世纪中期出现，源自 [choice](https://www.etymonline.com/word/choice)（名词）。相关词汇还有 Choiceness。
+## choice(adj.)
+“值得選擇的，卓越的，優秀的”，14世紀中期，來自於 [choice](https://www.etymonline.com/tw/word/choice)（選擇）（名詞）。相關詞： Choiceness（卓越性）。
 
 ---

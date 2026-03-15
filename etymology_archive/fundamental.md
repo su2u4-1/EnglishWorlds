@@ -1,8 +1,6 @@
 # fundamental
 
-## Origin and history of fundamental
-### fundamental(adj.)
-
-在15世纪中期，这个词的意思是“主要的，原始的，与基础相关的”，是受晚期拉丁语 fundamentalis（意为“基础的”）的影响而来，源自拉丁语 fundamentum（意为“基础”）（参见 [fundament](https://www.etymonline.com/word/fundament)）。在音乐领域，这个词在1732年被用来指和弦中的最低音。Fundamentals（名词）意指“任何事物的基本原则或规则”，出现在1630年代。
+## fundamental(adj.)
+15世紀中期，“主要的，原始的，與基礎有關的”，模仿晚期拉丁語 fundamentalis “基礎的”，源自拉丁語 fundamentum “基礎”（見 [fundament](https://www.etymonline.com/tw/word/fundament)）。在音樂中（1732年），它指的是和絃的最低音。任何事物的 Fundamentals（n.）“基本原則或規則”源自1630年代。
 
 ---

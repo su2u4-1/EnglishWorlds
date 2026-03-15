@@ -1,8 +1,6 @@
 # scanner
 
-## Origin and history of scanner
-### scanner(n.)
-
-1550年代，指“进行批判性检查的人”，是从动词 [scan](https://www.etymonline.com/word/scan) 派生的名词。从1927年起，这个词被用来描述一种机械装置，最初多用于电视技术。到20世纪中期，它开始被用于雷达和辐射成像设备；后来则指计算机数字读取器。
+## scanner(n.)
+1550年代，“批判性檢查者”，是 [scan](https://www.etymonline.com/tw/word/scan)（v.）的代詞。從1927年開始作爲一種機械設備，最初經常用於電視技術，到20世紀中期用於雷達和輻射成像設備； 後來用於計算機數字讀取器。
 
 ---

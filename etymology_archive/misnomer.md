@@ -1,8 +1,6 @@
 # misnomer
 
-## Origin and history of misnomer
-### misnomer(n.)
-
-在15世纪中期，这个词在法律领域的意思是“名字上的错误，错误识别被告或定罪者”。它源自盎格鲁-法语和古法语的 mesnomer，意为“错误命名，错误地称呼”。这个词是由不定式名词化而来，其中 mes- 表示“错误地”（参见 [mis-](https://www.etymonline.com/word/mis-) (2)），而 nomer 则来自拉丁语 nominare，意为“提名”（参见 [nominate](https://www.etymonline.com/word/nominate)）。关于法语不定式名词用法的例子，可以参考 [waiver](https://www.etymonline.com/word/waiver)。这个词在1630年代开始被用来表示“错误命名或称谓的行为”。
+## misnomer(n.)
+15世紀中期，法律上指“姓名錯誤，被告或被判定人的錯誤身份”，源自盎格魯-法語，古法語 mesnomer “誤稱，錯誤命名”，是動詞不定式的名詞用法，源自 mes- “錯誤”（見 [mis-](https://www.etymonline.com/tw/word/mis-)（2））和 nomer “命名”，源自拉丁語 nominare “提名”（見 [nominate](https://www.etymonline.com/tw/word/nominate)）。關於法語不定式的名詞用法，請參見 [waiver](https://www.etymonline.com/tw/word/waiver)。指“應用錯誤的名稱或稱號”的意思可追溯到1630年代。
 
 ---

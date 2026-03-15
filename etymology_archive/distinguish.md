@@ -1,18 +1,14 @@
 # distinguish
 
-## Origin and history of distinguish
-### distinguish(v.)
-
-这个词的起源可以追溯到1560年代，最初的意思是“将某物识别为与周围相似或相邻的东西不同；感知，辨认出来”。它来源于法语的 distinguiss-，即 distinguer 的词干，或直接源自拉丁语的 distinguere，意为“在两者之间分开，保持分离，标记出，区分”。这个词可能字面意思是“通过刺破来分开”，由拉丁语的 dis-（意为“分开”，参见 [dis-](https://www.etymonline.com/word/dis-)）和 -stinguere（意为“刺破”，可以与 [extinguish](https://www.etymonline.com/word/extinguish) 和拉丁语的 instinguere（意为“激励，推动”）进行比较）结合而来。
-
-关于这个词的语义演变，Watkins 提到“语义传递不清”，有学者认为其含义可能源自“刺破”这一古老的标点方式，或者某种字面上的图像。不过，de Vaan 则从另一种原始印欧语根出发，解释了词根的演变，认为其第二部分可能源自“推，刺”的意思：
+## distinguish(v.)
+1560年代，“認爲與相鄰或相似的事物不同或獨特； 感知，辨別”，源自法語 distinguiss-, distinguer 的詞幹，或直接源自拉丁語 distinguere “分開，保持分開，標記，區分”，可能字面意思是“用刺分開”，由 dis- “分開”（見 [dis-](https://www.etymonline.com/tw/word/dis-))和 -stinguere “刺”（比較 [extinguish](https://www.etymonline.com/tw/word/extinguish) 和拉丁語 instinguere “激勵，推動”）組成。
+Watkins 表示“語義傳遞不明確”； 這個意義可能來自於在羊皮紙上製作標點符號的“刺出”舊方法或某個字面形象，但 de Vaan 將第二個元素源自於不同的 PIE 詞根，意思是“推，刺”：
 
 > The meanings of ex- and restinguere 'to extinguish' and distinguere seem quite distinct, but can be understood if the root meant 'to press' or 'push': ex-stinguere 'to put a fire out', re-stinguere 'to push back, suppress', and dis-stinguere 'to push apart [thence] distinguish, mark off ....
 
-> ex- 和 restinguere（意为“熄灭”）以及 distinguere 的含义看似截然不同，但如果词根的意思是“压”或“推”，那么这些词的演变就能解释了：ex-stinguere（意为“扑灭火焰”），re-stinguere（意为“推回，压制”），以及 dis-stinguere（意为“推开，从而区分，标记”……）
+> ex- 和 restinguere “熄滅”和 distinguere 的意義似乎非常不同，但如果這個詞根的意思是“按壓”或“推”，就可以理解： ex-stinguere “熄滅”， re-stinguere “推回，壓制”， dis-stinguere “推開[從而]區分，標記……”。
 
-词尾 -ish 的出现受到许多动词的影响，这些动词中的 -iss- 实际上源自古法语，最终来自拉丁语的起始词尾 -iscere（这种情况在 extinguish、[admonish](https://www.etymonline.com/word/admonish) 和 [astonish](https://www.etymonline.com/word/astonish) 中也可以看到）。
-
-“标记或注释以表示差异”的含义出现在1570年代；而“通过某种荣誉或优待的标记与他人区分开来”的意思则出现于约1600年。作为不及物动词，意为“区分，发现或显示（之间的）差异”则出现在1610年代。相关词汇包括 Distinguishing。在中世纪英语中，这个动词的形式是 distinguen（约14世纪）。
+後綴 -ish 是由於許多動詞的影響，其中它是 Old French -iss-, 最終源自拉丁語的開始後綴 -iscere 的等效詞（這也是 extinguish, [admonish](https://www.etymonline.com/tw/word/admonish), 和 [astonish](https://www.etymonline.com/tw/word/astonish) 的情況）。
+“標記或註明以表示差異”的意義來自於1570年代； “通過某種榮譽或優待的標記與其他人分開”這一意義來自於大約1600年。不及物動詞的意思“做出區分，找到或顯示差異（之間）”來自於1610年代。相關： Distinguishing。中古英語動詞的形式是 distinguen（14世紀中期）。
 
 ---

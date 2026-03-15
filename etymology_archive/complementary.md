@@ -1,8 +1,6 @@
 # complementary
 
-## Origin and history of complementary
-### complementary(adj.)
-
-1620年代，这个词的“仪式化”含义（现在这个拼写的意义已不再使用）源自 [complement](https://www.etymonline.com/word/complement)（名词）+ [-ary](https://www.etymonline.com/word/-ary)。1794年，这个词被用来描述“形成互补，彼此弥补不足”，特别是指法国大革命的日历；1814年，又被用来形容那些结合后能产生白光的颜色。早期，表达“补充，形成互补”的词是 complemental（约1600年）。
+## complementary(adj.)
+1620年代，“隆重的”（這個拼寫的意義現在已經過時），源自 [complement](https://www.etymonline.com/tw/word/complement)（名詞）+ [-ary](https://www.etymonline.com/tw/word/-ary)。1794年，指法國大革命的日曆時，出現了“互補的，相互補充彼此的不足”的意義； 1814年，指顏色組合產生白光的意義。早期的“補充，形成補充”是 complemental（約1600年）。
 
 ---

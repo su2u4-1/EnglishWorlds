@@ -1,8 +1,6 @@
 # ascribe
 
-## Origin and history of ascribe
-### ascribe(v.)
-
-大约在14世纪中期，出现了ascrive这个词，意思是“归因、归责、将某事物归给某人”。它源自古法语的ascrivre，意为“铭刻、归属、归责”，而古法语又源自拉丁语的ascribere，意思是“写入、登记在册、在文中添加”。这个词在比喻意义上也有“归咎、归因”的意思。拉丁语的构成是ad（意为“向……”，参见[ad-](https://www.etymonline.com/word/ad-)）和scribere（意为“书写”，源自原始印欧词根[*skribh-](https://www.etymonline.com/word/*skribh-)，意为“切割”）。英语中的拼写在16世纪时受拉丁语影响而统一。相关词汇包括Ascribed（已归因）和ascribing（正在归因）。
+## ascribe(v.)
+14世紀中葉， ascrive，意爲“歸因於，歸功於”（將某事物歸於某人），源自古法語 ascrivre “寫入； 歸因於，歸功於”，源自拉丁語 ascribere “寫入，列入清單； 在書寫中添加”，比喻意義爲“歸因於，歸功於”，由 ad “到”（見 [ad-](https://www.etymonline.com/tw/word/ad-))和 scribere “寫”（源自 PIE 詞根 [*skribh-](https://www.etymonline.com/tw/word/*skribh-) “切割”）組成。16世紀時，英語拼寫被改爲符合拉丁語。相關詞彙： Ascribed； ascribing。
 
 ---

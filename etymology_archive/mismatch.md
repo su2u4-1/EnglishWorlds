@@ -1,14 +1,10 @@
 # mismatch
 
-## Origin and history of mismatch
-### mismatch(v.)
-
-“不匹配、不适合或不准确”，出现在1590年代，由 [mis-](https://www.etymonline.com/word/mis-) (1) 意为“错误地、糟糕地”与 [match](https://www.etymonline.com/word/match) (v.) 结合而成。后来特别用于婚姻方面。相关词汇包括 Mismatched 和 mismatching。
+## mismatch(v.)
+"match unsuitable, unfitly, or inaccurately," 1590s, 來自 [mis-](https://www.etymonline.com/tw/word/mis-#etymonline_v_16237) (1) "錯誤地" + [match](https://www.etymonline.com/tw/word/match#etymonline_v_43746) (v.)。後來尤指婚姻。相關詞彙: Mismatched; mismatching。
 
 ---
-## mismatch (related entry 1)
-### mismatch(n.)
-
-“不匹配、不相符、缺乏对应关系”，大约公元1600年，源自[mis-](https://www.etymonline.com/word/mis-)（1）“坏、错误”+ [match](https://www.etymonline.com/word/match)（名词2）。在体育中指“由于能力不均而不公平的比赛”这一意义出现于1954年。相关词：Mismatchment（1841年）。
+## mismatch(n.)
+"不匹配，不一致，缺乏對應"，大約在1600年，來自 [mis-](https://www.etymonline.com/tw/word/mis-)（1）"壞的，錯誤的" + [match](https://www.etymonline.com/tw/word/match)（n.2）。體育方面的意思是"由於能力不平等而不公平的比賽"，始於1954年。相關詞彙： Mismatchment（1841）。
 
 ---

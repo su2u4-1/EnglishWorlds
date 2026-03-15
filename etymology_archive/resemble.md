@@ -1,10 +1,7 @@
 # resemble
 
-## Origin and history of resemble
-### resemble(v.)
-
-“be like，具有相似性或相似之处”，这个用法出现在14世纪中期，源自古法语 resembler（意为“像”），可以追溯到12世纪，现代法语则是 ressemble。其中，re- 可能是一个强调前缀，而 sembler 则意为“看起来，似乎，像”，它源自拉丁语 simulare，意思是“使相似，模仿，复制，表现”，而这个词又来自 similis，意为“相似的，像的，同类的”（参见 [similar](https://www.etymonline.com/word/similar)）。
-
-此外，这个词在早期还曾有“比较或将（一个与另一个）相似；制作图像”的意思，出现在14世纪晚期。相关词汇包括 Resembled（过去式），resembling（现在分词）。
+## resemble(v.)
+"像，具有相似性或相似性"，14世紀中葉，來自古法語 resembler “像”（12世紀，現代法語 ressemble），來自 re-，這裏可能是一個強調前綴，+ sembler “出現，似乎，像”，來自拉丁語 simulare “使像，模仿，複製，代表”，來自 similis 的詞幹“像，類似，同類”（見 [similar](https://www.etymonline.com/tw/word/similar)）。
+也曾經“比較或比擬（一個人與另一個人）； 製作圖像”（14世紀晚期）。 相關： Resembled； resembling。
 
 ---

@@ -1,8 +1,6 @@
 # studied
 
-## Origin and history of studied
-### studied(adj.)
-
-1520年代，形容人时，意为“博学的，通过学习获得知识的”；约1600年，意为“故意的；刻意精心的”，这些都是从动词 [study](https://www.etymonline.com/word/study) 发展而来的过去分词形容词。早期的形容词是 studient，意为“专注于学习的，习惯性学习的”，出现在14世纪晚期，源自拉丁语。
+## studied(adj.)
+1520年代，形容人們「博學的，通過學習獲得知識的」。到了1600年左右，則有了「故意的；刻意精心的」這層意思，這些都是來自於 [study](https://www.etymonline.com/tw/word/study)（動詞）的過去分詞形容詞。早期的形容詞是 studient，意指「專心學習的，習慣性學習的」，出現於14世紀末，源自拉丁語。
 
 ---

@@ -1,10 +1,7 @@
 # assemble
 
-## Origin and history of assemble
-### assemble(v.)
-
-早在14世纪，这个词就有了及物用法（“聚集到一个地方”）和不及物用法（“相遇或聚集”）。它源自古法语的 assembler，意思是“聚集、联合、集合”（11世纪），而古法语又源自拉丁语 assimulare，原意是“使相似、比拟、比较；模仿、假装”，后来引申为“聚集在一起”。这个词的构成可以追溯到拉丁语的 ad（意为“向……”，参见 [ad-](https://www.etymonline.com/word/ad-)）和 simulare（意为“使相似”），而 simulare 则源自 similis（意为“相似的、同类的”，参见 [similar](https://www.etymonline.com/word/similar)）。
-
-在中古英语和古法语中，这个词有时也被用作“性结合”的委婉说法。1852年，它在制造业中被赋予了“将部件组装在一起”的含义。相关词汇包括 Assembled（已组装）和 assembling（正在组装）。需要注意的是，Assemble together 这个表达是多余的。
+## assemble(v.)
+14世紀初，及物動詞（“收集到一個地方”）和不及物動詞（“相遇或聚集在一起”），來自古法語 assembler “聚集，結合，聯合； 收集”（11世紀），源自拉丁語 assimulare “使相似，比擬，比較； 複製，模仿； 假裝，假扮”，後來“聚集在一起”，來自拉丁語 ad “到”（參見 [ad-](https://www.etymonline.com/tw/word/ad-))和 simulare “使相似”的同化形式，源自 similis “相似的，類似的，同類的”詞幹（參見 [similar](https://www.etymonline.com/tw/word/similar)）。
+在中古英語和古法語中，它也是“性交”的委婉說法。製造業中“將零件組裝在一起”的意義始於1852年。相關詞彙： Assembled； assembling。 Assemble together 是多餘的。
 
 ---

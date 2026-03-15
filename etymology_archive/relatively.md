@@ -1,8 +1,6 @@
 # relatively
 
-## Origin and history of relatively
-### relatively(adv.)
-
-“与其他事物相关或相比”，15世纪初，relativeli；参见 [relative](https://www.etymonline.com/word/relative)（形容词）+ [-ly](https://www.etymonline.com/word/-ly)（2）。
+## relatively(adv.)
+"相對地或與其他事物相比較地"，早在15世紀， relativeli； 參見自 [relative](https://www.etymonline.com/tw/word/relative)（形容詞）+ [-ly](https://www.etymonline.com/tw/word/-ly)（2）。
 
 ---

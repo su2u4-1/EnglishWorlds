@@ -1,8 +1,6 @@
 # translator
 
-## Origin and history of translator
-### translator(n.)
-
-“将书面或口头内容翻译成另一种语言的人”，这个词最早出现在14世纪中期，写作translatour，来源于12世纪的古法语translator，或者直接源自拉丁语translator，意为“转移或解释的人”，是从transferre（参见[transfer](https://www.etymonline.com/word/transfer) (v.)）派生的动名词。
+## translator(n.)
+「將書面或口頭內容翻譯成另一種語言的人」，大約在14世紀中期出現，translatour，來自古法語 translator（12世紀）或直接源自拉丁語 translator，意指「轉移或解釋的人，將內容傳遞過來的人」，這是一個行為名詞，來自 transferre（參見 [transfer](https://www.etymonline.com/tw/word/transfer#etymonline_v_16878) (v.)）。
 
 ---

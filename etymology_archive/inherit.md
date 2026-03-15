@@ -1,10 +1,7 @@
 # inherit
 
-## Origin and history of inherit
-### inherit(v.)
-
-大约公元1300年，“使（某人）成为继承人”（这一意义现已不再使用），源自古法语 enheriter，意为“使成为继承人，赋予继承权，任命为继承人”。这个词又来自晚期拉丁语 inhereditare，意思是“任命为继承人”，由 in-（意为“在……之中”，源自原始印欧词根 [*en](https://www.etymonline.com/word/*en)，意为“在”）和拉丁语 hereditare（意为“继承”）组合而成，后者又源自 heres（属格 heredis，意为“继承人”）。可以参见 [heredity](https://www.etymonline.com/word/heredity)。
-
-“接受遗产，作为前任所有者的代表获得继承”的意义从14世纪中期开始出现。在中世纪拉丁语中，inhereditare 也有“使其拥有”的意思。这个词最初的意义在 [disinherit](https://www.etymonline.com/word/disinherit) 中得以保留。相关词汇包括：Inherited（已继承）、inheriting（正在继承）、inheritable（可继承的）。
+## inherit(v.)
+約於1300年，“使（某人）成爲繼承人”（現已過時），源自古法語 enheriter “使成爲繼承人，授予繼承權，任命爲繼承人”，源自晚期拉丁語 inhereditare “任命爲繼承人”，由 in- “在”（源自 PIE 詞根 [*en](https://www.etymonline.com/tw/word/*en) “在”）和拉丁語 hereditare “繼承”組成，源自 heres（屬格 heredis）“繼承人”（參見 [heredity](https://www.etymonline.com/tw/word/heredity)）。
+“接受繼承，作爲前任持有者的代表按繼承獲得”這一意義始見於14世紀中期； 在中世紀拉丁語中， inhereditare 也具有“佔有財產”的意義。原始意義保留在 [disinherit](https://www.etymonline.com/tw/word/disinherit) 中。相關詞彙： Inherited； inheriting； inheritable。
 
 ---

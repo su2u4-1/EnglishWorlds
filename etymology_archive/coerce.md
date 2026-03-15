@@ -1,8 +1,6 @@
 # coerce
 
-## Origin and history of coerce
-### coerce(v.)
-
-这个词出现在15世纪中期，cohercen，意思是“通过法律或权威的力量进行约束或限制”。它源自古法语的cohercier，而更早则来自拉丁语的coercere，意为“控制、约束、关在一起”。这个拉丁词由com-（意为“共同、一起”，参见[co-](https://www.etymonline.com/word/co-)）和arcere（意为“封闭、限制、包含、抵御”，源自原始印欧语\*ark-，意为“持有、包含、守护”，参见[arcane](https://www.etymonline.com/word/arcane)）结合而成。词中出现的非词源性-h-可能受到cohere的影响。相关词汇包括Coerced（被强迫）和coercing（强迫）。在15世纪末到17世纪中期，这个词没有记录；它在1650年代的重新出现可能是从coercion（强制）演变而来的。
+## coerce(v.)
+15世紀中期， cohercen，“通過法律或權威強制約束或限制”，源自古法語 cohercier，源自拉丁語 coercere，“控制，約束，關在一起”，源自 com- “一起”（見 [co-](https://www.etymonline.com/tw/word/co-)) + arcere “封閉，限制，包含，防止”，源自 PIE \*ark- “持有，包含，保護”（見 [arcane](https://www.etymonline.com/tw/word/arcane)）。不符合詞源學的 -h- 可能是受 cohere 的影響。相關詞彙： Coerced； coercing。15世紀末至17世紀中期沒有該詞的記錄； 它在1650年代重新出現，可能是從 coercion 中反推出來的。
 
 ---

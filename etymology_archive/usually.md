@@ -1,8 +1,6 @@
 # usually
 
-## Origin and history of usually
-### usually(adv.)
-
-15世纪初，usualli，意为“通常，典型地，普遍地；根据习俗”。这个词源于形容词[usual](https://www.etymonline.com/word/usual)，加上副词后缀[-ly](https://www.etymonline.com/word/-ly)（第二种形式）。
+## usually(adv.)
+15世紀初，usualli，意指「通常、典型、普遍地；依照習俗」。這個詞來自於形容詞[usual](https://www.etymonline.com/tw/word/usual)，再加上後綴[-ly](https://www.etymonline.com/tw/word/-ly)（第二種用法）。
 
 ---

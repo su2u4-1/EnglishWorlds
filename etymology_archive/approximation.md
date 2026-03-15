@@ -1,8 +1,6 @@
 # approximation
 
-## Origin and history of approximation
-### approximation(n.)
-
-15世纪初，approximacioun，意为“接近或靠近的行为”，是从动词 [approximate](https://www.etymonline.com/word/approximate) 派生的名词。1650年代起，这个词还被用来表示“近似的结果”。
+## approximation(n.)
+15世紀初， approximacioun，“接近或靠近的行爲”，是 [approximate](https://www.etymonline.com/tw/word/approximate)（v.）的動作名詞。 “近似結果”的意思來自1650年代。
 
 ---

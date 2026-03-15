@@ -1,12 +1,8 @@
 # collective
 
-## Origin and history of collective
-### collective(adj.)
-
-早在15世纪初，collectif这个词就被用来表示“全面的”，它源自古法语的collectif，而更早则来自拉丁语的collectivus，其词根collectus是动词colligere的过去分词，意为“聚集在一起”。这个词由前缀com-（意为“共同”或“一起”，参见[com-](https://www.etymonline.com/word/com-)）和动词legere（意为“收集”或“聚集”，源自原始印欧词根[*leg-](https://www.etymonline.com/word/*leg-) (1)，意为“收集、聚集”）组合而成。在语法学中，从15世纪中期起，它被用来表示“以单数形式表达由多个个体构成的整体”。到了1600年左右，这个词又被用来形容“属于或由多个个体共同拥有或执行的事物”。相关词汇包括Collectively（共同地）和collectiveness（集体性）。
-
-在名词用法上，从1640年代起，collective noun（集体名词）被用来指代那些在形式上是单数，但实际意义上表示一个整体或集合的词，例如crowd（人群）、jury（陪审团）、society（社会）。此外，collective farm（集体农场）这个短语最早出现在1925年，特指苏联的集体农业形式；而collective farm本身则可以追溯到1919年，出现在列宁的翻译作品中。
-
-关于Collective bargaining（集体谈判），这个词汇是由英国社会学家和社会改革者比阿特丽斯·韦布于1891年创造的；在美国，它的正式定义则是在1935年通过《瓦格纳法案》确立的。Collective noun（集体名词）这一说法则可以追溯到1510年代。至于collective security（集体安全），则首次出现在温斯顿·丘吉尔于1934年的演讲中。
+## collective(adj.)
+15世紀初， collectif，意爲“全面的”，源自古法語 collectif，源自拉丁語 collectivus，源自 collectus 的過去分詞，該詞源自 colligere 的“聚集”，源自 com- 的“一起”（參見 [com-](https://www.etymonline.com/tw/word/com-)），加上 legere 的“聚集”（源自 PIE 詞根 [*leg-](https://www.etymonline.com/tw/word/*leg-)（1）的“收集，聚集”）。在語法中，從15世紀中葉開始，表示“以單數形式表達由多個個體組成的整體”。從大約1600年開始，表示“屬於或由多個個體共同行使的”。相關詞： Collectively; collectiveness。
+Collective bargaining 是由英國社會學家和社會改革家比阿特麗斯·韋伯（Beatrice Webb）於1891年創造的； 1935年由瓦格納法案在美國定義。Collective noun 可追溯到16世紀10年代； collective security 首次見於溫斯頓·丘吉爾的演講，時間爲1934年。
+作爲名詞，從1640年代開始，表示“集體名詞”（數目上是單數，但表示一個集合或組合，例如 crowd, jury, society）。作爲 collective farm 的縮寫詞（在蘇聯），它的使用可以追溯到1925年； collective farm 本身首次見於1919年列寧的翻譯中。
 
 ---

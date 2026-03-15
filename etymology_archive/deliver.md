@@ -1,10 +1,7 @@
 # deliver
 
-## Origin and history of deliver
-### deliver(v.)
-
-大约公元1200年，deliveren，意为“拯救、解救、释放、解放”，源自古法语的delivrer，意为“解放；移除；拯救、保护；交付（物品）”，也用于描述分娩。这一词汇可以追溯到晚期拉丁语的deliberare，由de（意为“离开”，参见[de-](https://www.etymonline.com/word/de-)）和拉丁语的liberare（意为“解放”）构成，而liber则意为“自由的、不受限制的、不受阻碍的”（参见[liberal](https://www.etymonline.com/word/liberal) (adj.)）。
-
-在英语中，“使（女性）分娩”的意思出现于公元1300年左右。“交出、给予、放弃、屈服”的含义也出现在公元1300年左右，这与其词源意义相反。“投射、投掷、击打、抛掷”的意思则出现于公元1400年左右。相关词汇包括：Delivered（已交付）；delivering（正在交付）。
+## deliver(v.)
+公元1200年左右，起源於  deliveren，意思是“拯救，解救，釋放，解放”，源自古法語  delivrer  的“解放，去除，保護，保留； 交出（貨物）”，同樣用於分娩，源自拉丁語的  deliberare，源自  de  的“離開”（參見  [de-](https://www.etymonline.com/tw/word/de-) ）和拉丁語的  liberare  的“解放”，源自  liber  的“自由，不受限制的，暢通無阻的”（參見  [liberal](https://www.etymonline.com/tw/word/liberal)  （形容詞））。
+“使（女人）分娩”之意始見於公元1300年的英語。公元1300年之後，“交出，給予，放棄，放手”之意開始出現，與其詞源的含義相反。公元1400年左右，“投射，投出，打擊，拋出”的意義開始形成。相關詞彙： Delivered； delivering 。
 
 ---

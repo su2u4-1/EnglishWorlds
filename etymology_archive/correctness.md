@@ -1,8 +1,6 @@
 # correctness
 
-## Origin and history of correctness
-### correctness(n.)
-
-1680年代，指“符合公认的规则或标准，特别是被认为真实、正确、道德或合适的状态或质量”。这个词由形容词 [correct](https://www.etymonline.com/word/correct) 和名词后缀 [-ness](https://www.etymonline.com/word/-ness) 组合而成。
+## correctness(n.)
+1680年代，“符合公認的真實、正確、道德或適當標準的狀態或品質”，來自 [correct](https://www.etymonline.com/tw/word/correct)（形容詞）+ [-ness](https://www.etymonline.com/tw/word/-ness)。
 
 ---

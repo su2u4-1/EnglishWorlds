@@ -1,8 +1,6 @@
 # abstraction
 
-## Origin and history of abstraction
-### abstraction(n.)
-
-大约在公元1400年，abstraction这个词开始被用来表示“从世俗事务中抽离、过着苦行僧般的生活”。它源自14世纪的古法语，进一步追溯到晚期拉丁语的abstractionem（主格为abstractio）。这个名词的构成是动词abstrahere的过去分词形式，意为“拖走、分离、拉开、转移注意力”。从字面上看，它由ab（表示“离开、远离”，参见[ab-](https://www.etymonline.com/word/ab-)）和trahere（意为“拉、拖”，源自原始印欧语根\*tragh-，意指“拉、拖、移动”，参见[tract](https://www.etymonline.com/word/tract) (n.1)）组合而成。到了1640年代，这个词又被引申为“某种实际上不存在的概念”。
+## abstraction(n.)
+約在1400年，“脫離世俗事務，禁慾主義”，源自於14世紀的古法語 abstraction，來自於晚期拉丁語 abstractionem（主格 abstractio），是拉丁語 abstrahere 的動名詞形式，意爲“拖走，分離，拉走，轉移”，也比喻意義，由拉丁語 ab（表示“離開，遠離”； 見 [ab-](https://www.etymonline.com/tw/word/ab-))和 trahere “拉”（源自於 PIE 詞根 \*tragh- “拉，拖，移動”； 見 [tract](https://www.etymonline.com/tw/word/tract)（n.1））的同化形式組成。意爲“沒有實際存在的東西的概念”始於1640年代。
 
 ---

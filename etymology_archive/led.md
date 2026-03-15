@@ -1,14 +1,10 @@
 # led
 
-## Origin and history of led
-### LED(n.)
-
-1968年，来自light-emitting diode的首字母缩略词（首字母缩写）。
+## LED(n.)
+1968年，首字母縮略詞（首字母縮寫）來自 light-emitting diode.
 
 ---
-## led (related entry 1)
-### led
-
-动词 [lead](https://www.etymonline.com/word/lead) 的过去式和过去分词。作为形容词时，常带有被支配或谄媚的含义。
+## led
+[lead](https://www.etymonline.com/tw/word/lead)（v.）的過去式和過去分詞。作爲形容詞時，常帶有屈從或諂媚的暗示。
 
 ---

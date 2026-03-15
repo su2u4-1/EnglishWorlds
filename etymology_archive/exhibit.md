@@ -1,14 +1,10 @@
 # exhibit
 
-## Origin and history of exhibit
-### exhibit(v.)
-
-“提供或展示”，这个词大约出现在15世纪中期，源自拉丁语 exhibitus，是动词 exhibere 的过去分词，意思是“伸出、展示、显示、呈现、交付”。它由 ex（意为“向外”，参见 [ex-](https://www.etymonline.com/word/ex-)）和 habere（意为“持有”，源自原始印欧词根 [*ghabh-](https://www.etymonline.com/word/*ghabh-)，意为“给予或接受”）组合而成。相关词汇包括 Exhibited（已展示）和 exhibiting（正在展示）。
+## exhibit(v.)
+"展示或呈現給視野中," 15世紀中期，源自拉丁語 exhibitus，是 exhibere 的過去分詞，意爲“伸出，展示，顯示，呈現，交付”，由 ex “出”（見 [ex-](https://www.etymonline.com/tw/word/ex-)) 和 habere “持有”（源自 PIE 詞根 [*ghabh-](https://www.etymonline.com/tw/word/*ghabh-) “給予或接受”）組成。相關詞彙： Exhibited； exhibiting。
 
 ---
-## exhibit (related entry 1)
-### exhibit(n.)
-
-1620年代，exhibitum一词开始用于指“在法庭上作为证据的文件或物品”。它源自拉丁语，实际上是exhibere的中性过去分词，意思是“展示、显示”，字面意思是“伸出、递出”。这个词由ex（意为“向外”，参见[ex-](https://www.etymonline.com/word/ex-)）和habere（意为“持有”，源自原始印欧语词根[*ghabh-](https://www.etymonline.com/word/*ghabh-)，意为“给予或接受”）组合而成。1862年起，它又被用来指“在展会、博物馆等地方展示的物品”。而exhibit A这个短语，意指“重要证据”，则是在1906年被引入的。
+## exhibit(n.)
+1620年代，“在法庭上作爲證據出現的文件或物品”，源自拉丁語 exhibitum，是 exhibere 的中性過去分詞的名詞用法，“展示，顯示”，字面意思是“伸出，伸展”，來自 ex “出”（參見 [ex-](https://www.etymonline.com/tw/word/ex-))和 habere “持有”（來自 PIE 詞根 [*ghabh-](https://www.etymonline.com/tw/word/*ghabh-) “給予或接受”）。指“在博覽會、博物館等展出的物品”始於1862年。轉義用法的 exhibit A “重要證據”始於1906年。
 
 ---

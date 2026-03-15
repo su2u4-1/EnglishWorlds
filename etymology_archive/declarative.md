@@ -1,10 +1,7 @@
 # declarative
 
-## Origin and history of declarative
-### declarative(adj.)
-
-这个词最早出现在1530年代，意思是“使清晰或明显，具有解释性”。它源自法语 déclaratif，直接借自晚期拉丁语 declarativus，而这些词又来自拉丁语 declarare 的过去分词形式，意为“使明确，揭示，公开，宣布”。其中的 de- 可能是一个强调前缀（参见 [de-](https://www.etymonline.com/word/de-)），而 clarare 则意为“澄清”，源自 clarus，意为“清晰的”（参见 [clear](https://www.etymonline.com/word/clear) (adj.)）。
-
-1620年代起，这个词又被用来表示“进行声明，展示”。在15世纪中期，它曾作为名词使用，意指“解释”。相关词汇：Declaratively。
+## declarative(adj.)
+1530年代，“使清晰或顯而易見，解釋性的”，源自法語 déclaratif，直接源自晚期拉丁語 declarativus，源自拉丁語 declarare 的過去分詞詞幹，“使清晰，揭示，披露，宣佈”，來自 de-, 這裏可能是一個強調前綴（見 [de-](https://www.etymonline.com/tw/word/de-)) + clarare “澄清”，來自 clarus “清晰的”（見 [clear](https://www.etymonline.com/tw/word/clear)（形容詞））。
+意思是“宣佈，展示”的含義始於1620年代。這個詞在15世紀中期被用作名詞，意思是“解釋”。相關詞： Declaratively。
 
 ---

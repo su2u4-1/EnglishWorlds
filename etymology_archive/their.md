@@ -1,12 +1,10 @@
 # their
 
-## Origin and history of their
-### their(pron.)
+## their(pron.)
+這個複數所有格代詞的意思是「屬於他們的」或「關於他們的」，大約出現於公元1200年，源自古諾爾斯語的þierra，意為「他們的」，是複數人稱和指示代詞þeir（意為「他們」）的所有格形式（參見[they](https://www.etymonline.com/tw/word/they)）。它取代了古英語的hiera。
 
-“他们的”这个复数物主代词，意为“属于他们”或“与他们相关”，大约出现在公元1200年，源自古诺尔斯语的þierra，意为“他们的”，是复数人称和指示代词þeir（“他们”）的属格形式（参见[they](https://www.etymonline.com/word/they)）。它取代了古英语的hiera。
+作為形容詞的用法始於14世紀末。儘管歷史上語法學家對其用於單數名詞的表達持批評態度，但早在公元1300年左右就已經有證據表明這種用法的存在，《牛津英語詞典》（1989年版）引用了Fielding、Goldsmith、Sydney Smith和Thackeray等人的作品來證明這一點。
 
-从14世纪晚期起，它开始作为形容词使用。尽管历史上语法学家对其与单数名词搭配的用法颇有微词，但早在公元1300年左右，这种用法就已有记录，《牛津英语词典》（1989年版）引用了菲尔丁、戈德史密斯、悉尼·史密斯和萨克雷的作品中的例子。
-
-[Theirs](https://www.etymonline.com/word/Theirs)（约公元1300年）是一个双重物主结构。另一种形式theirn（1836年）在英国的中部和南部方言以及美国的奥扎克地区有记录。中英语中也有theiren，出现于15世纪初。
+[Theirs](https://www.etymonline.com/tw/word/theirs)（約公元1300年）是一種雙重所有格。另一種形式theirn（1836年）在英國的中部和南部方言以及美國奧扎克斯地區有證據支持。早在15世紀初就有中英語的theiren。
 
 ---

@@ -1,14 +1,13 @@
 # principle
 
-## Origin and history of principle
-### principle(n.)
+## principle(n.)
+14世紀後期，“起源，來源，開端”（現已過時），還有“行爲準則； 公理，基本假設； 一門技藝或學科的基本要素”，來自盎格魯-法語 principle，古法語 principe “起源，原因，原則”，源自拉丁語 principium（複數 principia）“開始，起源，第一部分”，在複數中表示“基礎，要素”，來自 princeps（屬格 principis）“第一人，首領； 統治者，君主”，形容詞意爲“第一”，來自 primus “第一”（參見 [prime](https://www.etymonline.com/tw/word/prime)（形容詞））+ capere “拿”（來自 PIE 詞根 [*kap-](https://www.etymonline.com/tw/word/*kap-) “抓住”）。
+英語中的 -l- 顯然是通過 participle 、manciple 等的類比得來的，也包括 [principal](https://www.etymonline.com/tw/word/principal)。從“系統的基本原則或教條之一，其他原則或真理以此爲基礎”這一概念中，引申出“正確的行爲準則”（1530年代）的意義。
 
-14世纪晚期，principle一词最初的意思是“起源、来源、开始”，这个用法现在已经不再流行。后来，它还引申为“行为准则；公理、基本假设；某一技艺或学科的基本要素”。这个词源自盎格鲁-法语的principle，以及古法语的principe，它们都可以追溯到拉丁语的principium（复数形式为principia），意指“开始、开端、起源、第一部分”。在复数形式中，它还可以表示“基础、要素”。这个词的根源来自于princeps（属格形式为principis），意为“首领、主要负责人；统治者、君主”。这里的princeps本身是一个形容词，意指“首位的、第一的”，源自拉丁语的primus（意为“第一”），而capere则意味着“抓取、获取”，它源自原始印欧语词根[*kap-](https://www.etymonline.com/word/*kap-)，同样有“抓取”的意思。
+> It is often easier to fight for principles than to live up to them. [Adlai Stevenson, speech, New York City, Aug. 27, 1952]
 
-在英语中，-l-的出现显然是受到participle、manciple等词的影响，也与[principal](https://www.etymonline.com/word/principal)的构词方式相似。从“一个体系的基本信条或原则，一个其他信念或真理所依赖的法律或真理”这一概念出发，principle逐渐演变出“正确的行为准则”这一含义，大约在1530年代开始流行。
+> 爲原則而戰往往比遵守原則更容易。[阿德萊·史蒂文森，演講，紐約市，1952年8月27日]
 
-> 为原则而战，往往比坚守原则要容易得多。——阿德莱·史蒂文森，1952年8月27日在纽约市的演讲
-
-科学上，principle指“自然界的一般法则”，即机器或仪器运作的基本原理，这一用法始见于1802年。
+科學上“自然界的普遍規律”，使機器或儀器運作的原理，記錄於1802年。
 
 ---

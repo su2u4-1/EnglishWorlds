@@ -1,8 +1,6 @@
 # unfortunately
 
-## Origin and history of unfortunately
-### unfortunately(adv.)
-
-1540年代起，表示“以不幸的方式，因厄运所致”，由 [unfortunate](https://www.etymonline.com/word/unfortunate)（不幸的）+ [-ly](https://www.etymonline.com/word/-ly)（副词后缀）构成。最初的意思现在较为罕见；现代主要的用法是“遗憾的是，不幸的是，运气不好”，这种用法在1770年代开始流行，并常用于插入语中。
+## unfortunately(adv.)
+1540年代，“不幸地，由於不幸”，來自 [unfortunate](https://www.etymonline.com/tw/word/unfortunate) + [-ly](https://www.etymonline.com/tw/word/-ly)（2）。原始含義現在很少見； 現代主要意義爲“遺憾地說，不幸地，不幸地”，在插入語中使用，記錄於1770年代。
 
 ---

@@ -1,8 +1,6 @@
 # intention
 
-## Origin and history of intention
-### intention(n.)
-
-14世纪晚期，entencioun，意为“目的、设计、目标或意图；意愿、愿望、期望，所打算的事物”。这个词源于古法语的entencion，意思是“意图、目的、抱负；意愿；思想”（12世纪），进一步追溯到拉丁语intentionem（主格intentio），原意是“伸展、用力、努力、专注”，它是从动词intendere演变而来的，意思是“将注意力集中”，字面意思是“伸出”（参见[intend](https://www.etymonline.com/word/intend)）。在中古英语中，这个词还可以指“情感、感受；心灵、思想、理解力”。
+## intention(n.)
+14世紀晚期， entencioun，“目的，設計，目標； 意願，希望，慾望，意圖”，來自古法語 entencion “意圖，目的，渴望； 意志； 思想”（12世紀），源自拉丁語 intentionem（主格 intentio）“伸展，拉緊，努力； 注意力”，動作名詞，來自 intendere “轉移注意力”，字面意思是“伸展”（參見 [intend](https://www.etymonline.com/tw/word/intend)）。在中古英語中也指“情感，感受； 心臟，頭腦，心理能力，理解力”。
 
 ---

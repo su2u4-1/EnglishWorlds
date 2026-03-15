@@ -1,8 +1,6 @@
 # classified
 
-## Origin and history of classified
-### classified(adj.)
-
-1828年，作为过去分词形容词，意为“按类别排列”，源自 [classify](https://www.etymonline.com/word/classify)。1941年起，在美式英语中开始用于指代“秘密”（通常指政府信息）。Classifieds（名词）意为“按类别排列的报纸广告”，出现在1913年，是 classified advertisements（分类广告）的缩写。
+## classified(adj.)
+1828年，“按類別排列的”，過去分詞形容詞來自 [classify](https://www.etymonline.com/tw/word/classify)。指“機密”的意思（指政府信息）始於1941年，美國英語。 Classifieds（n.）“按類別排列的報紙廣告”，始於1913年，是 classified advertisements 的縮寫。
 
 ---

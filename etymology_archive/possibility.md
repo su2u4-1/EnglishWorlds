@@ -1,8 +1,6 @@
 # possibility
 
-## Origin and history of possibility
-### possibility(n.)
-
-14世纪晚期，指“可能的状态、事实或条件”，这个词源于古法语 possibilité（13世纪），直接来自拉丁语 possibilitatem（主格 possibilitas），意为“可能性”。它源自 possibilis（参见 [possible](https://www.etymonline.com/word/possible) (adj.)）。而“可能的事物或物质；可以发生或存在的事物”这一意义大约出现在1400年。相关词汇：Possibilities。
+## possibility(n.)
+“可能性”的狀態、事實或條件，源自於14世紀晚期的古法語詞語 possibilité（13世紀），經拉丁語直接轉化而來，其原型是拉丁語詞彙 possibilitatem，被提名爲 possibilitas，來源於 possibilis（參見 [possible](https://www.etymonline.com/tw/word/possible) （形容詞））。“可能的事物或物質； 可能發生或出現的事物”於大約1400年時產生，相關聯的詞彙爲 Possibilities。
 
 ---

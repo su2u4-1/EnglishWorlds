@@ -1,34 +1,25 @@
 # present
 
-## Origin and history of present
-### present(adj.)
-
-大约公元1300年，“与某人或某物处于同一地点”；14世纪初，“在某个时间存在”，源自古法语 present，意为“明显的、在手边的、触手可及的”。作为名词时，指“现在的时间”（11世纪，现代法语 présent），直接源自拉丁语 praesentem（主格 praesens），意为“在场的、可见的、即时的、迅速的、当代的”，来自动词 præesse 的现在分词，意为“在某人或某物面前、在手边”，由 prae-（意为“在前”，参见 [pre-](https://www.etymonline.com/word/pre-)）和 esse（意为“存在”，源自原始印欧词根 [*es-](https://www.etymonline.com/word/*es-)，意为“存在”）构成。
-
-“停留在特定地点”的意思在14世纪中期的英语中出现。作为一种语法时态，用来表达当前时间的动作或状态，从14世纪晚期开始记录。
+## present(adj.)
+約於1300年，指“與某人或某物在同一地方”； 14世紀初，“存在於當時”，源自古法語 present “明顯的，近在手邊的，可達到的”； 作爲名詞，“現在”（11世紀，現代法語 présent）； 直接源自拉丁語 praesentem（主格 praesens）“現在的，近在眼前的，立即的，當代的”，來自 præesse 的現在分詞“在（某人或某物）之前，近在手邊”，來自 prae- “在……之前”（參見 [pre-](https://www.etymonline.com/tw/word/pre-)）+ esse “存在”（源自 PIE 詞根 [*es-](https://www.etymonline.com/tw/word/*es-) “存在”）。
+指“停留在指定的地方”的意思始於14世紀中葉。作爲表示動作或存在於現在時間的語法時態，記錄於14世紀後期。
 
 ---
-## present (related entry 1)
-### present(v.)
-
-大约公元1300年，presenten这个词出现，意思是“将某人或某物带入某人的面前，正式或仪式性地介绍（某人或某物）”；还可以表示“正式呈现；作为礼物或奖项赠予；授予；带着礼物接近某人，或将某物带给某人以接受”。这个词源于11世纪的古法语presenter（现代法语为présenter），以及直接来自拉丁语praesentare，意为“置于面前，展示，展出”，其词根来自praesens（参见[present](https://www.etymonline.com/word/present) (adj.)）。
-
-从14世纪晚期起，这个词又有了新的含义，表示“展示（某物），演示，揭示，提供检查，展示”。在法律领域，它还指“向当局控告，正式提出不当行为的投诉或指控”。大约公元1400年起，它又被用来表示“代表，描绘”。相关词汇包括Presented（已呈现）和presenting（正在呈现）。而present arms（敬礼，持枪敬礼）这个表达则出现在1759年，指的是“将火器垂直举至身体前方”。
+## present(v.)
+約於1300年， presenten，意爲“引入，正式或隆重地介紹（某人或某物）”； 也指“正式展示，作爲禮物或獎勵頒發； 贈送禮物，將某物帶到某人面前以便接受”，源自古法語 presenter（11世紀，現代法語 présenter），直接源自拉丁語 praesentare，意爲“放置在前面，展示，展覽”，源自 praesens 的詞幹（參見 [present](https://www.etymonline.com/tw/word/present)（形容詞））。
+從14世紀後期開始，意爲“展示（某物），證明，揭示，供檢查，展示”； 在法律上，也指“向當局控告，正式投訴或指控不當行爲”。從約1400年開始，意爲“代表，描繪”。相關詞彙： Presented， presenting。1759年， present arms 意爲“將槍械垂直地放在身體前面”。
 
 ---
-## present (related entry 2)
-### present(n.1)
-
-大约公元1300年，present这个词开始用来表示“现在的时间，正在进行的时间，特定的时间点”，与past（过去）和future（未来）相对。同时，它也指“存在的状态；某人周围的空间范围”。这个词源于古法语present（名词），意为“现在的时间”，可以追溯到11世纪，进一步源自拉丁语praesens，意为“在场的，存在的”（参见[present](https://www.etymonline.com/word/present)（形容词））。
-
-在中世纪英语中，这个词还用来表示“某人周围的空间范围”，大约在14世纪中期。在古老的法律用语中，these presents意指“这些文件，手头的文件”，这一用法出现于14世纪晚期。
+## present(n.1)
+公元1300年左右，“當今時間，現在正在流逝的時間，這一時刻”（與 past 和 future 相對），也指“存在或出席的事實； 某人周圍的空間部分”，源自古法語的 present（n.）“當下的時代”（11世紀），源自拉丁文的 praesens “在那裏存在”（參見 [present](https://www.etymonline.com/tw/word/present)（adj.））。
+在中古英語中，“某人周圍的空間部分”（14世紀中期）。在舊法律文書中， these presents 意味着“這些文件，手頭文件”（14世紀晚期）。
 
 ---
-## present (related entry 3)
-### present(n.2)
+## present(n.2)
+約於1200年，“提供的東西，作爲禮物提供或贈送的東西”，源自古法語 present，直接來自中世紀拉丁語 presentia，源自法語短語，如“en present”（“在場的情況下提供”），“mettre en present”（“放在前面，給予”），源自拉丁語“in re praesenti”（“在問題的情況下”），源自 praesens（“在那裏”）（參見 [present](https://www.etymonline.com/tw/word/present)（形容詞），並比較 [present](https://www.etymonline.com/tw/word/present)（動詞））。概念是“將某物帶到某人面前”。
 
-大约在公元1200年，present一词开始用于表示“所赠之物，作为礼物所提供的东西”。这个词源于古法语的present，并直接借自中世纪拉丁语的presentia。它的形成与一些短语密切相关，比如法语的en present（“在他人面前提供”）和mettre en present（“呈现，给予”）。这些短语源自拉丁语的in re praesenti，意为“在当前情境中”，其中的praesens则表示“在场，存在”。（参见[present](https://www.etymonline.com/word/present)（形容词），并对比[present](https://www.etymonline.com/word/present)（动词））。这个词的核心概念是“将某物带到某人面前”。
+> The difference between present and gift is felt in the fact that one may be willing to accept as a present that which he would not be willing to accept as a gift : a gift is to help the one receiving it; a present does him honor, or expresses friendly feeling toward him. A present is therefore ordinarily to an individual; but in law gift is used, to the exclusion of present, as including all transfers of property without consideration and for the benefit of the donee. [Century Dictionary]
 
-> present和gift之间的区别在于，人们可能愿意接受某物作为present，但不一定愿意将其视为gift。一般来说，gift是为了帮助接受者，而present则是为了给他带来荣誉，或表达友好的情感。因此，present通常是针对个人的；但在法律上，gift一词被使用，排除了present，涵盖了所有无偿转让财产并为受赠人利益服务的行为。[世纪词典]
+> present 和 gift 之間的區別在於，一個人可能願意接受作爲 present 的東西，但不願意接受作爲 gift 的東西：一個 gift 是爲了幫助接收者； 一個 present 則是向他表示尊敬或表達友好的感情。因此， present 通常是針對個人的； 但在法律上， gift 被使用，排除了 present，包括所有無償轉讓財產的行爲，以及爲受贈人的利益而進行的行爲。[世紀詞典]
 
 ---

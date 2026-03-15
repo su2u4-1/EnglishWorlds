@@ -1,8 +1,6 @@
 # formulation
 
-## Origin and history of formulation
-### formulation(n.)
-
-1848年，名词形式，源自动词 [formulate](https://www.etymonline.com/word/formulate)。
+## formulation(n.)
+1848年，動詞 [formulate](https://www.etymonline.com/tw/word/formulate) 的名詞形式。
 
 ---

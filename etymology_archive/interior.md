@@ -1,14 +1,10 @@
 # interior
 
-## Origin and history of interior
-### interior(adj.)
-
-15世纪晚期，源自拉丁语 interior，意为“内侧的、内部的、中间的”，是 inter 的比较级，表示“在……之中”（源自原始印欧语 \*enter，意为“在……之间、之中”，是词根 [*en](https://www.etymonline.com/word/*en)，即“在……之内”的比较形式）。“远离海岸，指一个国家的内陆地区”这一特定含义始于1777年。Interior decoration（室内装饰）首次出现于1769年；interior decorator（室内装饰师）一词则出现在1830年。Interior design（室内设计）则始于1927年。
+## interior(adj.)
+15世紀後期，源自拉丁語 interior “內部，內部，中部”，比較級形容詞 inter “內部”（來自 PIE \*enter “之間，在之間”，比較級根 [*en](https://www.etymonline.com/tw/word/*en) “在”）。特定含義“遠離海岸，指一個國家的內陸部分”始於1777年。Interior decoration 首次出現於1769年； interior decorator 始於1830年。Interior design 始於1927年。
 
 ---
-## interior (related entry 1)
-### interior(n.)
-
-“离海岸较远的国家部分”，这个意思在1796年出现，源自形容词 [interior](https://www.etymonline.com/word/interior)。而“内部部分，内部”这一含义则是在1828年被采纳的。至于“国家或州的内部事务”（例如美国的 Department of the Interior），则可以追溯到1826年。拉丁语中的这个形容词也曾用作名词。
+## interior(n.)
+"遠離海岸的國家的一部分"，1796年，來自 [interior](https://www.etymonline.com/tw/word/interior)（形容詞）； 意思是"內部部分，內部"，來自1828年。"國家或州的內部事務"的意思（如美國 Department of the Interior）來自1826年。拉丁形容詞也被用作名詞。
 
 ---

@@ -1,8 +1,6 @@
 # nesting
 
-## Origin and history of nesting
-### nesting(adj.)
-
-1650年代，表示“制作或使用鸟巢”的意思，是从动词 [nest](https://www.etymonline.com/word/nest) 转化而来的现在分词形容词。到了1934年，这个词又被用来形容“相互嵌套的物体”。
+## nesting(adj.)
+1650年代，“製作或使用巢穴”的現在分詞形容詞，來自 [nest](https://www.etymonline.com/tw/word/nest)（v.）。關於物品，“相互嵌套”，始於1934年。
 
 ---

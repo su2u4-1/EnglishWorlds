@@ -1,8 +1,6 @@
 # immediately
 
-## Origin and history of immediately
-### immediately(adv.)
-
-“没有时间或空间的干扰，直接地”，15世纪初，来自 [immediate](https://www.etymonline.com/word/immediate) + [-ly](https://www.etymonline.com/word/-ly) (2)。
+## immediately(adv.)
+"沒有時間或空間的干涉，直接地"，早在15世紀初，來自 [immediate](https://www.etymonline.com/tw/word/immediate) + [-ly](https://www.etymonline.com/tw/word/-ly#etymonline_v_32027) (2)。
 
 ---

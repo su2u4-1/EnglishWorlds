@@ -1,8 +1,6 @@
 # limitation
 
-## Origin and history of limitation
-### limitation(n.)
-
-这个词最早出现在14世纪晚期，源自古法语的 limitacion，意为“限制，法律限制”。它直接来自拉丁语的 limitationem（主格形式为 limitatio），是一个名词，表示“限制”的动作，源自过去分词 limitare，意为“界定，限制，固定”。而 limes 则意为“边界，限制”（参见 [limit](https://www.etymonline.com/word/limit) (n.)）。短语 statute of limitations 最早出现在1768年，它规定了提起诉讼的时间限制。
+## limitation(n.)
+14世紀後期，源自古法語 limitacion “限制，法律限制”，直接源自拉丁語 limitationem（格 limitatio），是 limitare “界定，限制，固定”的動詞過去分詞詞幹，源自 limes “邊界，限制”（參見 [limit](https://www.etymonline.com/tw/word/limit)（名詞））。短語 statute of limitations 可追溯至1768年； 它規定和限制了提起訴訟的期限。
 
 ---

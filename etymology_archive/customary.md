@@ -1,8 +1,6 @@
 # customary
 
-## Origin and history of customary
-### customary(adj.)
-
-1520年代，这个词的意思是“需要缴纳关税或费用”；到了1600年左右，它的意思变为“根据既定习俗，习惯性的”。这个词源于中世纪拉丁语的 custumarius，进一步追溯则来自拉丁语的 consuetudinarius，而 consuetudinarius 则源自 consuetitudinem（可以参考 [custom](https://www.etymonline.com/word/custom) (n.)）。在中英语中，这个词曾用作名词，指的是某个庄园或社区的“习俗书”，即记录当地习俗的书面集合。早期表达“根据既定习俗”的词汇包括 custumal（约1400年，源自古法语）和 custumable（约1300年）。相关词汇还有 Customarily。
+## customary(adj.)
+1520年代，“應納關稅或稅款的”； 約1600年，“按照既定慣例，習慣性的”，源自中世紀拉丁語 custumarius，來自拉丁語 consuetudinarius，源自 consuetitudinem（見 [custom](https://www.etymonline.com/tw/word/custom)（n.））。在中古英語中，它是一個名詞，指莊園或社區的“習俗書寫集”。早期的“按照既定慣例”的詞語包括 custumal（約1400年，來自古法語）和 custumable（約1300年）。相關詞語： Customarily。
 
 ---

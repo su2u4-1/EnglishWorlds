@@ -1,10 +1,7 @@
 # hence
 
-## Origin and history of hence
-### hence(adv.)
-
-“（离）这里”，最早出现在13世纪晚期，来源于古英语的 hennes，其中包含了副词性属格 -s，加上古英语的 heonan，意为“离开这里，去往某处”。这个词根可以追溯到西日耳曼语的 \*hin-（同源词还有古撒克逊语的 hinan、古高地德语的 hinnan、现代德语的 hinnen），而更早则源自原始印欧语的 \*ki-，这是 \*ko- 的变体，意为“这个”，构成了指示代词的词干（参见 [here](https://www.etymonline.com/word/here)）。
-
-现代拼写（15世纪中期）采用了音素拼写，以保留发音中的气息 -s-（可与 [twice](https://www.etymonline.com/word/twice)、[once](https://www.etymonline.com/word/once)、[since](https://www.etymonline.com/word/since) 对比）。最初的意思是“离开这个地方”；到了14世纪晚期，开始用于表示时间，意为“从此刻起”。1580年代起，这个词还被用来表示“基于这一事实或情况”。威克里夫（1382年）使用了 hennys & þennys，意为“从这里和那里，两边都”。
+## hence(adv.)
+"(離)這裏遠離"，13世紀晚期， hennes，帶有副詞性的所有格 -s + 古英語 heonan "離開，因此"，來自西日耳曼語 \*hin-（源頭還包括古撒克遜語 hinan，古高地德語 hinnan，德語 hinnen），源自原始印歐語 \*ki-，變體爲 \*ko- 的詞根，代詞的指示代詞的詞幹（見 [here](https://www.etymonline.com/tw/word/here)）。
+現代拼寫（15世紀中期）是爲了保留氣息的 -s- 而拼寫的（比較 [twice](https://www.etymonline.com/tw/word/twice)， [once](https://www.etymonline.com/tw/word/once)， [since](https://www.etymonline.com/tw/word/since)）。最初的意思是“離開這個地方”； 關於時間，“從這一刻起”，14世紀晚期； 意思是“從這個（事實或情況）”，首次記錄於1580年代。威克里夫（1382）使用 hennys & þennys 表示“從這裏和那裏，兩邊”。
 
 ---

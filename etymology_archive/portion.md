@@ -1,16 +1,11 @@
 # portion
 
-## Origin and history of portion
-### portion(n.)
-
-14世纪初，porcioun这个词的意思是“分配的部分，指定的份额”或“命运、运命”。它源自古法语的porcion（意为“部分，份额”，12世纪，现代法语为portion），并直接来自拉丁语的portionem（主格为portio，意为“份额，部分”）。在拉丁语中，这个名词常用于短语pro portione，意为“根据部分之间的关系”，而其词源则与\*partio（意为“分割”）相关，进一步追溯到pars（意为“部分，份额，分割”）。这些词都源自原始印欧语根[*pere-](https://www.etymonline.com/word/*pere-)(2)，意为“给予，分配”。
-
-“整体的一部分”这一含义出现在14世纪中期。从14世纪晚期起，它还被用来泛指“某物被分割成的部分”。
+## portion(n.)
+早在14世紀， porcioun，"分配的部分，分配或歸屬的部分，份額"，同時也指"命運，宿命"，源自古法語 porcion "部分，份額"（12世紀，現代法語 portion），直接源自拉丁語 portionem（主格 portio）"份額，部分"，是短語 pro portione 中名詞的賓格，表示"根據部分之間的關係"，是 \*partio 的與格，與 pars "一部分，一塊，一份，一分"（源自 PIE 詞根 [*pere-](https://www.etymonline.com/tw/word/*pere-) (2)  "授予，分配"）相關。
+意思上，"整體的一部分"的含義可追溯至14世紀中葉。從14世紀末開始，也指"將某物分成的部分"的一般意義。
 
 ---
-## portion (related entry 1)
-### portion(v.)
-
-“分成若干部分”，14世纪中期，porciounen，源自古法语 porcioner，意为“分配，分成部分”，来自 porcion，即“部分，份额”（参见 [portion](https://www.etymonline.com/word/portion) (n.)），直接源自中世纪拉丁语 portionare。相关词汇：Portioned；portioning。
+## portion(v.)
+"將...分成若干部分"，14世紀中葉， porciounen，源自古法語 porcioner，意爲“分享，分成若干部分”，源自 porcion “部分，一份”（參見 [portion](https://www.etymonline.com/tw/word/portion)（名詞）），直接源自中世紀拉丁語 portionare。相關詞彙： Portioned； portioning。
 
 ---

@@ -1,8 +1,6 @@
 # respond
 
-## Origin and history of respond
-### respond(v.)
-
-“作答，给予口头回复”，大约公元1300年，respounden，源自盎格鲁-法语的respundre，古法语的respondere，意为“回应， correspond”，直接源自拉丁语的respondere，意为“回应，回答，承诺回报”。这个词由re-（表示“回”或“反”）（参见[re-](https://www.etymonline.com/word/re-)）和spondere（意为“承诺”或“保证”）（参见[sponsor](https://www.etymonline.com/word/sponsor) (n.)）组合而成。现代拼写和发音大约在1600年左右确立。从17世纪起，这个词还被用来表示“进行礼仪上的回应”。相关词汇包括Responded（已回应）和responding（正在回应）。
+## respond(v.)
+「作答，給予口頭回覆」，大約在公元1300年出現，最初形式為respounden，來自古法語respundre，古法語respondere，最終源自拉丁語respondere，「回應，回答，承諾回報」。這個詞由re-（表示「回」或「反」的前綴，參見[re-](https://www.etymonline.com/tw/word/re-)）和spondere（意為「承諾，保證」，參見[sponsor](https://www.etymonline.com/tw/word/sponsor#etymonline_v_21870) (n.)）組成。現代拼寫和發音大約在1600年確立。從17世紀起，這個詞也用來指「進行禮儀上的回應」。相關詞彙包括Responded（已回應）和responding（正在回應）。
 
 ---

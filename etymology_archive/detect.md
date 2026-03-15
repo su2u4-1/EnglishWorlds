@@ -1,10 +1,7 @@
 # detect
 
-## Origin and history of detect
-### detect(v.)
-
-在15世纪初，“揭开、暴露、揭露、透露”的意思，这个用法现在已经不常见了。它源自拉丁语 detectus，是 detegere 的过去分词，意为“揭开、暴露”，引申义是“发现、揭示、透露”。这个词由 de（表示“去掉、离开”，参见 [de-](https://www.etymonline.com/word/de-)）和 tegere（意为“覆盖”）组合而成，追溯到原始印欧语词根 [*(s)teg-](https://www.etymonline.com/word/*%28s%29teg-)，意思是“覆盖”。
-
-“揭露秘密行动或特征”的意思出现在1580年代。“发现、查明、弄清楚”的意思则始于1756年。相关词汇包括：Detected（已发现）、detecting（正在发现）。
+## detect(v.)
+早於15世紀，“揭示、揭開、暴露、揭露”，一種現在已經過時的意義，源自拉丁文 detectus，來自 detegere 的過去分詞，“揭開、揭露”，比喻爲“發現、揭示、透露”，由 de 的“去掉、脫離”（見 [de-](https://www.etymonline.com/tw/word/de-)）+ tegere 的“遮蓋”組成，來自 PIE 詞根 [*(s)teg-](https://www.etymonline.com/tw/word/*(s)teg-) 的“遮蓋”。
+“發現某物的祕密行爲或性格”一詞源於1580年代。 “發現，找到，確定”一詞源於1756年。相關詞彙： Detected； detecting。
 
 ---

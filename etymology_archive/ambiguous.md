@@ -1,8 +1,6 @@
 # ambiguous
 
-## Origin and history of ambiguous
-### ambiguous(adj.)
-
-“性质模糊或不确定，容易被多种解读”，这个词在1520年代出现，源自拉丁语 ambiguus，意为“具有双重含义，变化不定，令人怀疑”。它是从 ambigere 演变而来的，原意是“争论，辩论”，字面意思是“徘徊，游走，环绕”，引申义则是“犹豫，摇摆，不确定”。这个词的构成可以分解为 ambi-（意为“周围”，源自原始印欧语根 [*ambhi-](https://www.etymonline.com/word/*ambhi-)，意思是“环绕”）和 agere（意为“驱动，领导，行动”，来自原始印欧语根 [*ag-](https://www.etymonline.com/word/*ag-)，意为“驱动，拉动，移动”）。在英语中，这个词首次出现在托马斯·莫尔的作品中（1528年）。与之相关的词 [ambiguity](https://www.etymonline.com/word/ambiguity) 大约在1400年出现。相关词汇还有 Ambiguously（模糊地）和 ambiguousness（模糊性）。
+## ambiguous(adj.)
+"具有懷疑或不確定性質，可以有不同的解釋，" 1520年代，源自拉丁語 ambiguus "具有雙重含義，變化無常，懷疑的"，這是一個形容詞，源自 ambigere "爭論，爭辯，辯論"，字面意思是"徘徊，四處走動，到處走動"，比喻意義是"猶豫，動搖，懷疑"，由 ambi- "關於"（來自 PIE 詞根 [*ambhi-](https://www.etymonline.com/tw/word/*ambhi-) "周圍"）和 agere "驅動，引導，行動"（來自 PIE 詞根 [*ag-](https://www.etymonline.com/tw/word/*ag-) "驅動，拉出或向外，移動"）組成。英語單詞首次出現在托馬斯·莫爾爵士（1528年）的作品中； 相關的 [ambiguity](https://www.etymonline.com/tw/word/ambiguity) 可追溯至約1400年。相關詞彙： Ambiguously； ambiguousness。
 
 ---

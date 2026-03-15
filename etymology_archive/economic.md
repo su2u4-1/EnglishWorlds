@@ -1,8 +1,6 @@
 # economic
 
-## Origin and history of economic
-### economic(adj.)
-
-在1590年代，这个词的意思是“与家庭管理相关”，可能是从[economical](https://www.etymonline.com/word/economical)缩短而来，或者直接源自法语économique，也可能源自拉丁语oeconomicus，意为“家庭经济的”，进一步追溯则来自希腊语oikonomikos，指的是“擅长家庭或家务管理的人”。这个词也与色诺芬的著作《经济学》有关，书中讨论了家庭生活的职责。因此，它逐渐演变出“节俭、勤俭持家”的含义，源自oikonomia，意为“家庭管理”（参见[economy](https://www.etymonline.com/word/economy) (n.)）。到了1835年，这个词开始被用来指代“经济学科学”，并逐渐成为主要含义，而economical则保留了“以节俭著称”的较早用法。
+## economic(adj.)
+1590年代，“與家庭管理有關的”，可能縮短自 [economical](https://www.etymonline.com/tw/word/economical)，或者來自法語 économique 或直接來自拉丁語 oeconomicus “關於家庭經濟的”，源自希臘語 oikonomikos “在家庭或家庭管理中實踐”（也是贊尼芬有關家庭生活職責的論文的名稱），因此，“節儉，節約”，源自 oikonomia “家庭管理”（參見 [economy](https://www.etymonline.com/tw/word/economy)（n.））。 “與經濟學科有關的”意思始於1835年，現在是主要意義， economical 保留了“以節儉爲特徵”的舊意。
 
 ---

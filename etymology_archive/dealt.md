@@ -1,8 +1,6 @@
 # dealt
 
-## Origin and history of dealt
-### dealt
-
-动词 [deal](https://www.etymonline.com/word/deal) 的过去式和过去分词形式。
+## dealt
+[deal](https://www.etymonline.com/tw/word/deal)（v.）的過去式和過去分詞。
 
 ---

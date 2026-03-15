@@ -1,16 +1,11 @@
 # aid
 
-## Origin and history of aid
-### aid(n.)
-
-早在15世纪，aide这个词就有了“战争时期的税收”以及“帮助、支持、援助”的意思。它来源于古法语的aide，更早的形式是aiudha，意指“援助、帮助、支持”。这个词可以追溯到晚期拉丁语的adiuta，它是名词形式，源自adiutus，即拉丁语adiuvare的过去分词，意思是“给予帮助”。这个词又由ad（意为“向……，朝……方向”，参见[ad-](https://www.etymonline.com/word/ad-)）和iuvare（意为“帮助，给予力量，支持，维持”）组合而成。其词源可能与原始印欧语词根有关，可能与iuvenis（意为“年轻人”，参见[young](https://www.etymonline.com/word/young) (adj.)）相关。
-
-“通过某物给予帮助”的意思可以追溯到16世纪90年代；而“帮助他人的人，助手”的含义则出现在16世纪60年代。至于“一个国家对另一个国家提供的物质援助”，这个意思则是在1940年才被记录下来。
+## aid(n.)
+15世紀早期， aide，“戰時稅”，也指“幫助，支持，援助”，源自古法語 aide，早期爲 aiudha，“援助，幫助，協助”，源自晚期拉丁語 adiuta，是 adiutus 的名詞用法，該詞爲拉丁語 adiuvare 的過去分詞，意爲“給予幫助”，由 ad（參見 [ad-](https://www.etymonline.com/tw/word/ad-)）和 iuvare（幫助，給予力量，支持，維持）組成，該詞源可能與 [young](https://www.etymonline.com/tw/word/young)（年輕的）的詞根相關（參見 iuvenis（年輕人））。
+“提供援助的物品”一詞記錄於1590年代； “提供幫助的人”一詞記錄於1560年代。1940年代開始使用“一個國家向另一個國家提供的物質援助”的含義。
 
 ---
-## aid (related entry 1)
-### aid(v.)
-
-“帮助，协助”，大约公元1400年，aiden，源自古法语aidier（现代法语aider），意为“帮助，协助”。这个词来自拉丁语adiutare，是adiuvare的频态形式（过去分词adiutus），意思是“给予帮助”。它由ad（意为“向……”，参见[ad-](https://www.etymonline.com/word/ad-)）和iuvare（意为“帮助，协助，给予力量，支持，维持”）构成。后者可能源自原始印欧语，与iuvenis（意为“年轻人”，参见[young](https://www.etymonline.com/word/young) (adj.)）的词根相关。相关词汇：Aided（已帮助）；aiding（正在帮助）。
+## aid(v.)
+“協助，幫助”，約1400年， aiden，源自古法語 aidier “幫助，協助”（現代法語 aider），源自拉丁語 adiutare，是 adiuvare（過去分詞 adiutus）的頻率形式，意爲“給予幫助”，由 ad “到”（見 [ad-](https://www.etymonline.com/tw/word/ad-)）和 iuvare “幫助，協助，給予力量，支持，維持”組成，可能與 [young](https://www.etymonline.com/tw/word/young)（形容詞）的詞根相關，後者與 iuvenis “年輕人”有關。相關詞彙： Aided； aiding。
 
 ---

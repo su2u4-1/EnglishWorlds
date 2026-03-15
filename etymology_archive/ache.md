@@ -1,16 +1,11 @@
 # ache
 
-## Origin and history of ache
-### ache(v.)
-
-中古英语的 aken 源自古英语的 acan，意思是“忍受持续的痛苦”。这个词可以追溯到原始日耳曼语的 \*akanan，可能源自印欧语根 \*ag-es-，意为“过错，罪责”，在梵语和希腊语中有类似的词汇，可能还带有模仿呻吟声的意味。
-
-最初，这个动词的发音是“ake”，名词则发音为“ache”（类似于 speak 和 speech）。后来，名词的发音逐渐与动词一致，但两者的拼写在大约1700年时被改为 ache，这是因为人们错误地认为它源自希腊语（具体来说是希腊语的 akhos，意为“痛苦，苦恼”），而实际上这与 [awe](https://www.etymonline.com/word/awe) (n.) 有着更远的联系）。相关词汇包括 Ached 和 aching。
+## ache(v.)
+中古英語 aken，源自古英語 acan “持續痛苦”，源自原始日耳曼語 \*akanan，可能源自印歐語根 \*ag-es- “過錯，罪行”，在梵語和希臘語中有明顯的同源詞，本身可能是模仿呻吟聲。
+最初這個動詞的發音是“ake”，名詞是“ache”（如 speak/speech）。名詞的發音改變以符合動詞，但兩者的拼寫在1700年左右被改爲 ache，基於一個錯誤的假設，即希臘語 akhos “疼痛，苦惱”的起源（實際上是 [awe](https://www.etymonline.com/tw/word/awe)（名詞）的遠親）。相關詞彙： Ached； aching。
 
 ---
-## ache (related entry 1)
-### ache(n.)
-
-“持续的疼痛”，15世纪初，æche，ece 意为“疼痛，痛苦”，源自古英语 æce，进一步追溯至原始日耳曼语 \*akiz，与 [ache](https://www.etymonline.com/word/ache)（动词）同源。有关拼写和发音演变的独特之处，请参见该词条。
+## ache(n.)
+"Continuing pain," 15世紀早期， æche， ece "疼痛"，源自古英語 æce，來自原始日耳曼語 \*akiz，與 [ache](https://www.etymonline.com/tw/word/ache)（動詞）來源相同，有着不尋常的拼寫和發音演變，詳見該詞條。
 
 ---

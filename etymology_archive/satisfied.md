@@ -1,8 +1,6 @@
 # satisfied
 
-## Origin and history of satisfied
-### satisfied(adj.)
-
-1816年，形容人时意为“感到满意，心满意足”，这是由动词 [satisfy](https://www.etymonline.com/word/satisfy) 转化而来的过去分词形容词。更早之前，曾有 self-satisfied（1734年）这个词。
+## satisfied(adj.)
+1816年，用於人，“感到滿足的，滿意的”，過去分詞形容詞來自 [satisfy](https://www.etymonline.com/tw/word/satisfy)。早期的形容詞是 self-satisfied（1734年）。
 
 ---

@@ -1,18 +1,12 @@
 # judge
 
-## Origin and history of judge
-### judge(v.)
-
-大约在公元1200年，iugen这个词的意思是“检查、评估、做出诊断”；到了公元1300年，它又引申为“对某事形成看法；施加惩罚、惩罚某人；审判（某人）并宣判”。这个词还可以不及物使用，意为“做出决定、决定、认为、猜测”。它源自盎格鲁-法语的juger，古法语的jugier，意思是“判断、宣判；对某事发表看法”（大约在10世纪，现代法语为juger）。而这些词又源自拉丁语的iudicare，意为“判断、正式检查；对某事形成看法；宣判”。这个词来自iudicem（主格为iudex，意为“法官”），是由ius（意为“权利、法律”，参见[just](https://www.etymonline.com/word/just) (adj.)）和dicere（意为“说”，源自原始印欧词根[*deik-](https://www.etymonline.com/word/*deik-)，意为“展示”，也有“庄重宣告”的意思）组合而成的。
-
-相关词汇：Judged（已判断）；judging（正在判断）。在15世纪中期，拼写形式-dg-开始出现。古英语中对应的词是deman（参见[doom](https://www.etymonline.com/word/doom) (n.)）。拉丁语词汇也为西班牙语的juzgar、意大利语的giudicare提供了词源。
+## judge(v.)
+公元前1200年，  iugen，“檢查，評估，作出診斷”，公元1300年，“對……形成意見； 對……實施懲罰； 審判（某人）並宣佈判決”，還包括不及物動詞，“作出決定，決定，認爲，假定”； 來自盎格魯-法語的  juger，古法語  jugier  “判斷，宣佈判決； 發表意見”（10世紀，現代法語  juger ），源自拉丁語  iudicare  “判斷，正式調查； 對……形成意見； 宣佈判決”，來自  iudicem （格位爲  iudex ）“法官”的合成詞，由  ius  “權利，法律”（見  [just](https://www.etymonline.com/tw/word/just) （形容詞））和  dicere  “說”（來自 PIE 詞根  [*deik-](https://www.etymonline.com/tw/word/*deik-)  “展示”，同時也表示“莊嚴地宣佈”）組成。
+相關：  Judged；  judging 。拼寫方式以  -dg-  出現於15世紀中葉。古英語詞爲  deman （見名詞  [doom](https://www.etymonline.com/tw/word/doom) ）。拉丁單詞也是西班牙語  juzgar 、意大利語  giudicare  的源頭。
 
 ---
-## judge (related entry 1)
-### judge(n.)
-
-大约14世纪中期，“被任命来执行法律的公职人员”（早在13世纪作为姓氏出现），也被称为judge-man；源自古法语juge，而其又源于拉丁语iudex，意为“宣告法律的人”（同源词还有西班牙语的juez和意大利语的giudice）。这个词是由ius（“权利，法律”，参见[just](https://www.etymonline.com/word/just) (adj.)）和dicere（“说”，来自原始印欧词根[*deik-](https://www.etymonline.com/word/*deik-)，意为“展示”或“庄重宣告”）组合而成。
-
-从14世纪晚期起，这个词的使用范围扩展到了任何能够裁定争议的人；到了1550年代，开始指代“有资格发表意见的人”。在犹太历史中，它还特指那些被赋予临时权力的军事领袖（如在士师记中所描述的），因为拉丁语的iudex被用来翻译希伯来语的shophet。
+## judge(n.)
+14世紀中葉，"被任命執行法律的公職人員"（13世紀早期作爲姓氏出現），也稱爲 judge-man； 源自古法語 juge，來自拉丁語 iudex "宣佈法律的人"（源頭還有西班牙語 juez 、意大利語 giudice），是 ius "權利，法律"（參見 [just](https://www.etymonline.com/tw/word/just)（形容詞））和 dicere "說"（源自 PIE 詞根 [*deik-](https://www.etymonline.com/tw/word/*deik-) "展示"，也是"莊嚴宣佈"的意思）的複合詞。
+從14世紀末開始擴展到決定任何類型競賽的人； 從1550年代開始作爲"有資格發表意見的人"。在猶太曆史中，它指的是被賦予臨時權力的戰爭領袖（如 Book of Judges 中所述），拉丁語 iudex 被用來翻譯希伯來語 shophet。
 
 ---

@@ -1,14 +1,10 @@
 # might
 
-## Origin and history of might
-### might(v.)
-
-古英语中的 mihte, meahte，最初是 [may](https://www.etymonline.com/word/may) 的过去式（古英语 magen 意为“能够”），因此可以理解为“\*may-ed”。名词 might-have-been，指“本可能发生但未发生的事情”，也可以指“本可能更伟大但未能如此的人”，这个词汇出现在1848年。
+## might(v.)
+古英語 mihte, meahte, 最初是 [may](https://www.etymonline.com/tw/word/may)（古英語 magen “能夠”）的過去式，因此是“\*may-ed”。名詞 might-have-been “可能發生但沒有發生的事情”，也指“可能更偉大但沒有實現的人”，始於1848年。
 
 ---
-## might (related entry 1)
-### might(n.)
-
-“能够的品质，行动或做事的能力，力量”，这个词源于中古英语的 might，而它的前身是古英语的 miht，更早则是 mæht，意思包括“身体力量，权力，控制能力”。它源自原始日耳曼语的 \*makhti-（同源词还有古诺尔斯语的 mattr，古弗里斯语、中世纪荷兰语、荷兰语的 macht，古高地德语的 maht，德语的 Macht，哥特语的 mahts）。这个词是日耳曼语对原始印欧词根 [*magh-](https://www.etymonline.com/word/*magh-) 的一种后缀化形式，原意是“能够，有力量”。
+## might(n.)
+"能力，做或行動的能力，力量"，中古英語 might，源自古英語 miht，早期爲 mæht "身體力量，權力，支配，控制； 能力"，源自原始日耳曼語 \*makhti-（源頭還包括古諾爾斯語 mattr，古弗裏西亞語，中古荷蘭語，荷蘭語 macht，古高地德語 maht，德語 Macht，哥特語 mahts），這是一個日耳曼語的帶後綴的形式，源自 PIE 詞根 [*magh-](https://www.etymonline.com/tw/word/*magh-) "有能力，有力量"。
 
 ---

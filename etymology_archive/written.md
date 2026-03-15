@@ -1,8 +1,6 @@
 # written
 
-## Origin and history of written
-### written(adj.)
-
-约公元1300年，“以书写形式组成或保存”；1580年代，“用笔形成的”；作为动词[write](https://www.etymonline.com/word/write)（写）的过去分词形容词。
+## written(adj.)
+約公元1300年，「以書面形式撰寫或保存的；」1580年代，「用筆形成的；」過去分詞形容詞，源自[write](https://www.etymonline.com/tw/word/write)（動詞）。
 
 ---

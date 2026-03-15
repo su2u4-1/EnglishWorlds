@@ -1,8 +1,6 @@
 # extensive
 
-## Origin and history of extensive
-### extensive(adj.)
-
-“广泛的，影响深远的；”大约在1600年开始用于形容无形事物，1700年左右用于有形事物。这个词源于晚期拉丁语的extensivus，而extens-是拉丁语extendere的过去分词词干，意为“伸展，传播”（参见[extend](https://www.etymonline.com/word/extend)）。最早在医学上使用，指“肿胀的”特征（15世纪初）。相关词汇包括Extensively（广泛地）和extensiveness（广泛性）。
+## extensive(adj.)
+"廣闊的，深遠的"，17世紀用於指物質事物，1600年代用於指非物質事物； 源自晚期拉丁語 extensivus，源自拉丁語 extendere 的過去分詞形式 extens-，意爲“伸展，展開”（參見 [extend](https://www.etymonline.com/tw/word/extend)）。早期在醫學上指“具有腫脹特徵”（15世紀早期）。相關詞： Extensively； extensiveness。
 
 ---

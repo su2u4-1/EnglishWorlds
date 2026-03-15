@@ -1,10 +1,8 @@
 # since
 
-## Origin and history of since
-### since(adv., prep., conj.)
+## since(adv., prep., conj.)
+在15世紀初，synnes和sinnes是sithenes的縮寫，意思是「自從」，來自sithen（帶有副詞性所有格-es），源自古英語的siððan，意為「隨後、從今以後、此後、進一步、稍後、以及之後」。最初的形式是sið ðan，意思是「在那之後」，由sið（意為「之後」，參見[sith](https://www.etymonline.com/tw/word/sith)）和ðan組成，後者是ðam的弱化形式，屬於ðæt的與格（參見[that](https://www.etymonline.com/tw/word/that)）。
 
-15世纪初，synnes、sinnes，是sithenes的缩写，意为“自从”，源自sithen（带有副词性属格-es），来自古英语siððan，意思是“之后，从现在起，今后，进一步，稍后，尽快，在那之后”。最初形式为sið ðan，意为“在那之后”，由sið（意为“之后”，参见[sith](https://www.etymonline.com/word/sith)）和ðan（ðam的弱化形式，ðæt的与格，参见[that](https://www.etymonline.com/word/that)）构成。
-
-从14世纪末起，它被用作连词，表示“从……开始，在……之后”。作为介词，意为“自……以来，从……时起”，大约在1510年代开始使用；也可以表示“由于……的结果”。现代拼写取代了syns、synnes，主要是在16世纪，为了表示无声的结尾-s-音。“在此之前，……以前”的意思出现于15世纪晚期，通常与某些特定词语或短语搭配（如long since等）。Since when?，常用于表达怀疑，最早见于1907年。中古英语中有sitthen when，意为“持续了多长时间？”（14世纪初）。
+從14世紀末起，它被用作連接詞，表示「從那時起、在那之後的時間內」。作為介詞使用時，意為「自那時起、從……的時刻開始」，並因此引申為「因為……的結果」。現代拼寫取代了16世紀的syns和synnes，以表示無聲的結尾-s-音。表達「在此之前、幾年前」的含義，通常會搭配一些具體的詞語或短語（如long since等），出現於15世紀末。Since when?這一表達，常用來表達 incredulity（懷疑或不信），可追溯至1907年。中古英語中有sitthen when，意為「持續了多長時間？」（約14世紀初）。
 
 ---

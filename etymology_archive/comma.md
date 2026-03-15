@@ -1,10 +1,7 @@
 # comma
 
-## Origin and history of comma
-### comma(n.)
-
-逗号这个词最早出现在1520年代，作为拉丁词汇被引入，到了1590年代逐渐被本土化。它源自拉丁语 comma，意指“句子或诗行中的短语或从句”，而这个词又来自希腊语 komma，原意是“句子中的从句”，同时也有“印章、货币”的意思，字面意思是“被切下来的部分”。它的词源可以追溯到 koptein，意为“打击、切割、砍断；使无能为力、使疲惫”，可能源自原始印欧语词根 \*kop-，意指“打击、砍击”，类似于 [hatchet](https://www.etymonline.com/word/hatchet)（斧头）这个词，或者可能是前希腊语词汇。
-
-和 [colon](https://www.etymonline.com/word/colon)（冒号）以及 [period](https://www.etymonline.com/word/period)（句号）一样，逗号最初也是一个希腊修辞学术语，用来指代句子的一部分。随着时间的推移，这个词被转用于表示相应的标点符号。在朗读时，逗号的作用是为了在语音的连续性中插入小的停顿，以增强表达的清晰度，但它的主要功能还是用来指示句子的语法结构。
+## comma(n.)
+標點符號，1520年代作爲拉丁詞出現，到1590年代本土化，源自拉丁語 comma “句子或詩句中的短語或從句”，源自希臘語 komma “句子中的從句”，也指“郵票、貨幣”，字面意思是“被切下的一塊”，源自 koptein “打、擊、切斷； 使殘廢、疲憊”，可能源自 PIE 詞根 \*kop- “打、擊、打擊”（參見 [hatchet](https://www.etymonline.com/tw/word/hatchet)（n.）），或者是古希臘語之前的語言。
+像 [colon](https://www.etymonline.com/tw/word/colon)（n.1）和 [period](https://www.etymonline.com/tw/word/period) 一樣，它最初是希臘修辭術語，用於表示句子的一部分，像它們一樣，它已經轉移到標點符號上來表示它。在朗讀時，標點符號用於允許語音連續性的小中斷，以便清晰明瞭，但它的目的是指示語法結構。
 
 ---

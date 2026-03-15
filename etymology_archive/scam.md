@@ -1,8 +1,6 @@
 # scam
 
-## Origin and history of scam
-### scam
-
-1963年，名词（“把戏，欺骗，讹诈，作弊”）和动词（“欺骗或诈骗，实施欺诈”），美国俚语，游乐场术语，来源不明。可能与19世纪英国俚语scamp“骗子，诈骗者”（参见[scamp](https://www.etymonline.com/word/scamp) (n.)）有关。
+## scam
+1963年，名詞（“詭計，騙局，欺詐，欺騙”）和動詞（“欺騙或詐騙，犯罪行爲”），美國俚語，起源不明的遊樂園術語。可能與19世紀英國俚語 scamp “騙子，詐騙者”有關（見 [scamp](https://www.etymonline.com/tw/word/scamp)（n.））。
 
 ---

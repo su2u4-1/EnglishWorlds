@@ -1,8 +1,6 @@
 # unary
 
-## Origin and history of unary
-### unary(adj.)
-
-1923年，源自拉丁语 unus，意为“一个”（来自原始印欧语根 [*oi-no-](https://www.etymonline.com/word/*oi-no-)，意为“一个，独特的”），模仿了 [binary](https://www.etymonline.com/word/binary) 等词的构造。
+## unary(adj.)
+1923年，源自拉丁語 unus “一”（源自 PIE 詞根 [*oi-no-](https://www.etymonline.com/tw/word/*oi-no-) “一，獨特”），模仿 [binary](https://www.etymonline.com/tw/word/binary) 等詞的構詞方式。
 
 ---

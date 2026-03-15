@@ -1,8 +1,6 @@
 # erroneous
 
-## Origin and history of erroneous
-### erroneous(adj.)
-
-这个词起源于14世纪晚期，来自古法语的 erroneus，也直接源自拉丁语的 erroneus，意思是“流浪的，徘徊的”。在晚期拉丁语中，这个词被用来表示“错误的”。它源自 erronem（主格形式为 erro），意为“流浪者，乞丐”，而这个词又来自 errare，意思是“徘徊；犯错”（参见 [err](https://www.etymonline.com/word/err)）。相关词汇还有 Erroneously。
+## erroneous(adj.)
+14世紀晚期，源自古法語 erroneus，直接源自拉丁語 erroneus，意爲“流浪的，漫遊的”（在晚期拉丁語中意爲“錯誤的”），源自 erronem（主格 erro）“流浪者，浪蕩子”，源自 errare 的過去分詞詞幹“漫遊； 犯錯”（參見 [err](https://www.etymonline.com/tw/word/err)）。相關詞彙： Erroneously。
 
 ---

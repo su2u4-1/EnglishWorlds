@@ -1,16 +1,11 @@
 # mid
 
-## Origin and history of mid
-### mid(adj.)
-
-“中间；指中间部分或处于中间状态；表示介于两者之间的、中间的”，这个词源于古英语的 mid, midd，可以追溯到原始日耳曼语的 \*medja-（同源词还有古诺尔斯语的 miðr、古撒克逊语的 middi、古弗里斯语的 midde、中世纪荷兰语的 mydde、古高地德语的 mitti、现代德语的 mitte、哥特语的 midjis，都表示“中间”或“中部”）。它的词源可以追溯到原始印欧语根词 [*medhyo-](https://www.etymonline.com/word/*medhyo-)，意为“中间”。
-
-到了中世纪晚期英语时期，这个词可能仅被视作前缀使用，现在在英语中仅作为前缀保留（如 mid-air、midstream 等）。从古英语晚期开始，它被用作前缀，前置于月份、季节等词汇中。作为介词使用时，意为“在……中间”或“在……之中”（大约1400年），源自短语 in midde，或是 [amid](https://www.etymonline.com/word/amid) 的简化形式（参见 [midshipman](https://www.etymonline.com/word/midshipman)），有时也写作 'mid。
+## mid(adj.)
+“中間； 處於中間部分或中間； 在中間，中間的”，古英語 mid, midd 源自原始日耳曼語 \*medja-（也指古諾爾斯語 miðr，古撒克遜語 middi，古弗裏西亞語 midde，中古荷蘭語 mydde，古高地德語 mitti，德語 mitte，哥特語 midjis “中間”），源自 PIE 詞根 [*medhyo-](https://www.etymonline.com/tw/word/*medhyo-) “中間”。
+到了中古英語晚期，可能只被視爲前綴，現在只作爲前綴在英語中存留（例如 mid-air， midstream 等）。從古英語晚期開始，作爲前綴加在月份、季節等詞前。作爲介詞，“在中間，在當中”（約1400年）源自 in midde 或 [amid](https://www.etymonline.com/tw/word/amid) 的縮寫（比較 [midshipman](https://www.etymonline.com/tw/word/midshipman)），有時寫作 'mid。
 
 ---
-## mid (related entry 1)
-### mid(prep.)
-
-“with”这个介词曾经很常用，但现在已经完全被[with](https://www.etymonline.com/word/with)取代（除了复合词[midwife](https://www.etymonline.com/word/midwife)）。它源自古英语的mid，意思是“与……一起、在……之中、和……一同、同时”。部分词源来自古诺尔斯语的mið，更早可以追溯到原始日耳曼语的\*medthi-（这也是古撒克逊语的mid、古弗里斯语的mith“与……一起、借助于……”的来源），以及荷兰语的met、古高地德语和现代德语的mit、丹麦语的med、哥特语的miþ“与……一起”。它们都源自原始印欧语的\*meti-，是词根\*me-“在中间”的派生形式（可以与[meta-](https://www.etymonline.com/word/meta-)进行比较）。
+## mid(prep.)
+"with"指的是與某人或某物在一起，共同做某事的介詞，但現在已經完全被 [with](https://www.etymonline.com/tw/word/with)（除了複合詞 [midwife](https://www.etymonline.com/tw/word/midwife)）所取代。其源自於古英語 mid，表示“與，聯合，合伴，和...一起，在...之中，在...的同時”，部分源自於同源的古挪威語 mið，來自於原始日耳曼語 \*medthi-（也是 Old Saxon mid，Old Frisian mith 的來源，表示“與...一起，藉助...的幫助”，荷蘭語 met，古高地德語和德語 mit，丹麥語 med，哥特語 miþ 都源自此詞），來自於 PIE \*meti-,加後綴構成的詞根 \*me-，表示“在中間”（類似於 [meta-](https://www.etymonline.com/tw/word/meta-)）。
 
 ---

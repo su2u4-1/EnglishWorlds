@@ -1,8 +1,6 @@
 # define
 
-## Origin and history of define
-### define(v.)
-
-14世纪晚期，deffinen, diffinen，意为“指定；权威性地确定或建立”。用于词语、短语等时，表示“阐明意义，解释所指，详细描述”。这个词源于古法语的defenir、definir，意思是“结束，完成，终结；结束某事；精确定义或确定”。它直接来自中世纪拉丁语的diffinire, definire，而更早则源于拉丁语的definire，意为“限制，确定，解释”。这个词由de（表示“完全”，参见[de-](https://www.etymonline.com/word/de-)）和finire（意为“界定，限制”）构成，后者又源自finis（意为“边界，结束”，参见[finish](https://www.etymonline.com/word/finish) (v.)）。大约在1400年左右，这个词开始被用来表示“确定，声明或标记某事的界限”。相关词汇包括Defined（已定义）和defining（正在定义）。
+## define(v.)
+14世紀晚期， deffinen, diffinen，“指定； 權威地確定或建立； ”對於單詞、短語等，“陳述意義，解釋所指，詳細描述”，源自古法語 defenir， definir “結束，結束，結束； 結束； 定義，精確定義”，直接來自中世紀拉丁語 diffinire, definire，來自拉丁語 definire “限制，確定，解釋”，來自 de “完全”（見 [de-](https://www.etymonline.com/tw/word/de-)) + finire “界限，限制”，來自 finis “邊界，結束”（見 [finish](https://www.etymonline.com/tw/word/finish)（v.））。從約1400年開始，“確定、聲明或標記的極限”。相關： Defined； defining。
 
 ---

@@ -1,10 +1,7 @@
 # independence
 
-## Origin and history of independence
-### independence(n.)
-
-在1630年代，这个词的意思是“不依赖他人或其他事物，能够自给自足和自我管理”。它来源于[independent](https://www.etymonline.com/word/independent)（独立）和[-ence](https://www.etymonline.com/word/-ence)（名词后缀）。早期也有类似的词independency（独立性），大约在1610年代。美国的Independence Day（独立日，7月4日，纪念1776年的事件）最早在1791年被记录为这个名称。
-
-在古英语中，有一个词是selfdom，由[self](https://www.etymonline.com/word/self)（自己）和dom（法律、统治）构成，但在形式上更接近于[privilege](https://www.etymonline.com/word/privilege)（特权，名词）。这两个概念并不总是容易区分。
+## independence(n.)
+1630年代，“不依賴他人或其他事物，自我支持和自我管理的事實”； 見 [independent](https://www.etymonline.com/tw/word/independent) + [-ence](https://www.etymonline.com/tw/word/-ence)。早期的同義詞是 independency（1610年代）。美國的 Independence Day（7月4日，紀念1776年的事件）在1791年以該名稱記錄。
+古英語中的一個詞是 selfdom，由 [self](https://www.etymonline.com/tw/word/self) + dom “法律”組成，但在形式上更接近 [privilege](https://www.etymonline.com/tw/word/privilege)（n.）。這兩個概念並不總是可區分的。
 
 ---

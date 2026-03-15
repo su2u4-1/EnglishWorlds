@@ -1,10 +1,8 @@
 # linear
 
-## Origin and history of linear
-### linear(adj.)
+## linear(adj.)
+「像一條線，或與線有關」，這個詞出現於1640年代，源自法語 linéaire，進一步追溯到拉丁語 linearis，意指「屬於一條線」，來自 linea，意為「繩子，線」（參見 [line](https://www.etymonline.com/tw/word/line#etymonline_v_9546) (n.)）。基本上，這個詞和 [lineal](https://www.etymonline.com/tw/word/lineal) 是一樣的；在拉丁語中，linearis 的原始後綴 -alis 通過音變變成了 -aris，但在晚期拉丁語中這個規則不再普遍，-alis 的形成或重形成為固定用法並未改變。[Barnhart]
 
-“像一条线，或与线有关”，这个词在1640年代出现，源自法语 linéaire，而法语又来自拉丁语 linearis，意为“属于一条线”，进一步追溯则是 linea，意为“线，绳”。（参见 [line](https://www.etymonline.com/word/line) (n.)）。实际上，这个词和 [lineal](https://www.etymonline.com/word/lineal) 是同源的；在拉丁语中，linearis 的后缀 -alis 通过变音演变成了 -aris，但到了晚期拉丁语，这种变化不再普遍，-alis 的形式保持不变。[Barnhart]。
-
-从1840年起，这个词被用来表示“涉及使用线条”，因此出现了 Linear A 和 Linear B，这两个名称是在1902-1903年间被赋予的，指的是阿瑟·埃文斯爵士在1894-1901年间在克里特岛发现的两种相关的线性米诺斯文字。这些文字长期以来都难以翻译。在这里，它与 pictographic（象形文字）相对立。
+自1840年起，這個詞被用來表示「涉及使用線條」，因此出現了 Linear A 和 Linear B，這是阿瑟·埃文斯爵士在1894年至1901年間於克里特島發現的兩種相關的米諾斯線性文字形式的名稱（1902-1903年命名），這些文字長期以來一直難以翻譯。在這裡，它與 pictographic（象形文字）相對應。
 
 ---

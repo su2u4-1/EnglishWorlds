@@ -1,10 +1,7 @@
 # significance
 
-## Origin and history of significance
-### significance(n.)
-
-大约公元1400年，significaunce这个词出现，意思是“意义”（通常指预兆、梦境等）。它源自古法语的significance，或者直接来自拉丁语的significantia，意为“意义、力量、能量”。这个词的构成来自significans，即significare的现在分词，后者意为“意味着、表示、象征”（参见[signify](https://www.etymonline.com/word/signify)）。
-
-到了15世纪中期，这个词开始用来表示“语言上的意义”；而“重要性”这一含义则出现在1725年。早期的形式是signifiance，意为“符号、象征、预兆、意义”（大约13世纪）。在16世纪到18世纪，Significancy是更常见的用法。
+## significance(n.)
+約於1400年， significaunce，“意義”（關於預兆、夢境等），源自古法語 significance 或直接源自拉丁語 significantia，“意義，力量，能量”，來自 significare 的現在分詞 significans，“意味着，代表，表示”（參見 [signify](https://www.etymonline.com/tw/word/signify)）。
+從15世紀中葉開始，“口頭意義”； “重要性”的意義來自1725年。更早的詞是 signifiance，“符號，象徵，預兆，意義”（13世紀中葉）。Significancy（1590年代）是17世紀至18世紀更常見的形式。
 
 ---

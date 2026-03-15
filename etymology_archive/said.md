@@ -1,8 +1,6 @@
 # said
 
-## Origin and history of said
-### said(adj.)
-
-“之前提到的”这个意思大约出现在公元1300年，作为动词 [say](https://www.etymonline.com/word/say) 的过去分词形容词。短语 all is said and done 则起源于1550年代。
+## said(adj.)
+"在之前被命名或提到的"，來自於1300年， [say](https://www.etymonline.com/tw/word/say)（動詞）的過去分詞形容詞。表達式 all is said and done 來自於1550年代。
 
 ---

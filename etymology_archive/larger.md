@@ -1,8 +1,6 @@
 # larger
 
-## Origin and history of larger
-### larger
-
-[large](https://www.etymonline.com/word/large) 的比较级（参见该词条）。
+## larger
+[large](https://www.etymonline.com/tw/word/large)（見相關詞條）的比較級。
 
 ---

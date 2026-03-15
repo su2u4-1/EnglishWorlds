@@ -1,16 +1,11 @@
 # exercise
 
-## Origin and history of exercise
-### exercise(n.)
-
-大约在14世纪中期，“处于积极运作的状态；为了训练而进行的实践”，这个词源自古法语 exercice（13世纪）“锻炼，权力的执行；身体或精神的锻炼”，而古法语又源于拉丁语 exercitium，意指“训练，身体锻炼”（通常指士兵、骑兵等）。在中世纪拉丁语中，这个词也可以指艺术方面的训练，来自 exercitare，这是 exercere 的频态形式，意思是“让人忙碌，监督，积极从事某项工作；训练，锻炼；实践，遵循；付诸实施；打扰，扰乱”。其中 ex 表示“离开”（参见 [ex-](https://www.etymonline.com/word/ex-)），而 arcere 则是“阻止，防止；包含，封闭”，其词源可以追溯到原始印欧语 \*ark-，意为“保持，包含，守护”（参见 [arcane](https://www.etymonline.com/word/arcane)）。
-
-拉丁语动词的最初含义并不明确。到14世纪末，这个词首次在英语中被用来指“为了健康等目的的身体活动”。同样在14世纪末，它也被用来表示“执行某项行动；进行或实践某项任务；一种纪律性任务”。从17世纪初开始，这个词专门用于指代书面作业。随着时间的推移，这个词的结尾部分被抽象化，用于构造新词，如 dancercise（1967年）、jazzercise（1977年）和 boxercise（1985年）。
+## exercise(n.)
+14世紀中期，“處於積極運作狀態的條件； 爲了訓練而進行的實踐”，源自古法語 exercice（13世紀）“鍛鍊，發揮力量； 身體或精神鍛鍊”，源自拉丁語 exercitium “訓練，身體鍛鍊”（士兵、騎兵等）； “遊戲”； 在中世紀拉丁語中也指藝術，源自 exercitare，是 exercere 的頻率形式，意爲“保持忙碌，保持工作，監督，忙碌地參與； 訓練，鍛鍊； 實踐，跟隨； 實施； 打擾，使不安”，源自 ex “離開”（見 [ex-](https://www.etymonline.com/tw/word/ex-)) + arcere “遠離，防止； 包含，封閉”，源自 PIE \*ark- “持有，包含，保護”（見 [arcane](https://www.etymonline.com/tw/word/arcane)）。
+拉丁動詞的原始概念不明確。指“爲了健身等進行的身體活動”首次記錄於14世紀晚期的英語中。也從14世紀晚期開始，指“執行行動； 做或練習； 紀律性任務”。早在17世紀初，就已經涉及到書面學校作業。這個詞尾被提取用於形成 dancercise（1967）； jazzercise（1977）； 和 boxercise（1985）等詞彙。
 
 ---
-## exercise (related entry 1)
-### exercise(v.)
-
-14世纪晚期，[exercise](https://www.etymonline.com/word/exercise)（名词）衍生出“使用，投入实际运用”的意思；最初是指“利用”，也用于心理和精神训练。1650年代起，它开始专指“参与体育活动”。同样在14世纪晚期，这个词还被用来表示“训练，演练，纪律教育某人；通过实践发展某项技能”。相关词汇包括：Exercised（已训练），exercises（训练），exercising（正在训练）。
+## exercise(v.)
+14世紀晚期，“使用，積極運用”，源自 [exercise](https://www.etymonline.com/tw/word/exercise)（名詞）； 最初的意思是“利用”； 也指心理和精神訓練。1650年代開始出現“參加體育活動”的意思。14世紀晚期也出現了“訓練，操練，紀律，教育（某人）； 通過實踐發展（技能）”的意思。相關詞彙： Exercised； exercises； exercising。
 
 ---

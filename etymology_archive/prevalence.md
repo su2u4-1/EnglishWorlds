@@ -1,8 +1,6 @@
 # prevalence
 
-## Origin and history of prevalence
-### prevalence(n.)
-
-1590年代，意为“掌握的状态”，源自法语 prévalence（15世纪），再往前追溯到中世纪拉丁语 praevalentia，意为“优越的力量”。这个词来自拉丁语 praevalens，是动词 praevalere 的现在分词，意思是“更有能力”。它由 prae（意为“在前”，参见 [pre-](https://www.etymonline.com/word/pre-)）和 valere（意为“有力量，强大”，源自原始印欧词根 [*wal-](https://www.etymonline.com/word/*wal-)，意为“强壮”）构成。1713年，这个词开始被用来表示“普遍存在或广泛传播的状态”。莎士比亚也使用过 prevailment 这个词。
+## prevalence(n.)
+1590年代，“掌握的事實”，源自法語 prévalence（15世紀），源自中世紀拉丁語 praevalentia “優勢力量”，源自拉丁語 praevalens，現在分詞 praevalere “更有能力”，源自 prae “之前”（見 [pre-](https://www.etymonline.com/tw/word/pre-)) + valere “有力量，強大”（源自 PIE 詞根 [*wal-](https://www.etymonline.com/tw/word/*wal-) “強大”）。意思是“普遍或普及的狀態”始於1713年。莎士比亞使用了 prevailment。
 
 ---

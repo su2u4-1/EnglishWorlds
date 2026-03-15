@@ -1,8 +1,6 @@
 # conveniently
 
-## Origin and history of conveniently
-### conveniently(adv.)
-
-14世纪晚期，“适当地，恰当地，正确地”，源自 [convenient](https://www.etymonline.com/word/convenient) + [-ly](https://www.etymonline.com/word/-ly) (2)。意为“以避免困难的方式”始于约1500年。
+## conveniently(adv.)
+14世紀晚期，“適當地，正確地”，來自 [convenient](https://www.etymonline.com/tw/word/convenient) + [-ly](https://www.etymonline.com/tw/word/-ly#etymonline_v_32027) (2)。意思是“以避免困難的方式”來自大約1500年。
 
 ---

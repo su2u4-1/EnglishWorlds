@@ -1,10 +1,8 @@
 # truly
 
-## Origin and history of truly
-### truly(adv.)
+## truly(adv.)
+中古英語的 treuli，意指「對朋友或國家忠誠；對情人堅定不移」，來自 [true](https://www.etymonline.com/tw/word/true)（形容詞）+ [-ly](https://www.etymonline.com/tw/word/-ly)（1），或源自古英語的 treowlice，意為「忠實地，忠誠地」，來自 treowe。在荷蘭語中有類似的構造 treuwelijk，德語的 getreulich，瑞典語的 troligen。
 
-中古英语中，treuli意为“对朋友或国家忠诚；对爱人坚定不移”，它来源于形容词[true](https://www.etymonline.com/word/true)（真实的、忠诚的）和副词[-ly](https://www.etymonline.com/word/-ly)（-ly后缀），也可能源自古英语的treowlice，意思是“忠诚地、诚实地”，来自treowe（忠诚的）。在荷兰语中有类似的构词法，形成了treuwelijk，在德语中是getreulich，而瑞典语则是troligen。
-
-到公元1300年左右，这个词的意义扩展为“遵循承诺或职责；光明正大地”。到14世纪末，又被用来表示“实际上；确切地、准确地”。自15世纪中期起，Well and truly这一短语便开始搭配使用。Yours truly在信件结尾作为签名前的用语，最早可追溯至1788年，之前则有更为完整的表达方式。
+到了公元1300年左右，這個詞的意思演變為「根據承諾或義務；光榮地」，到了14世紀末又有了「實際上；確切地，準確地」的意思。自15世紀中期以來，Well and truly這個搭配就出現了。Yours truly在信件結尾作為簽名之前的表達，最早可以追溯到1788年，源自更早的完整短語。
 
 ---

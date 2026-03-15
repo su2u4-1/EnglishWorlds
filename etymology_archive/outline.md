@@ -1,14 +1,10 @@
 # outline
 
-## Origin and history of outline
-### outline(n.)
-
-1660年代，指“描绘图形的线条”，来源于 [out-](https://www.etymonline.com/word/out-) + [line](https://www.etymonline.com/word/line) (v.)。字面意思是外部或外缘线，但也被广泛用于指主要或特征线条。表示“文字粗稿”的意思始于1759年。
+## outline(n.)
+1660年代，“勾勒圖形的線條”，來自 [out-](https://www.etymonline.com/tw/word/out-) + [line](https://www.etymonline.com/tw/word/line)（動詞）。字面上是外部或外部線條，但自由地用於主要或區分線條。 “用文字草擬的草稿”一詞出自1759年。
 
 ---
-## outline (related entry 1)
-### outline(v.)
-
-这个词最早出现在1762年，意思是“勾勒轮廓，描绘外部线条，素描主要特征”，源自[outline](https://www.etymonline.com/word/outline)（名词）。到1847年，它又发展出“用一般术语描述”的含义。相关词汇包括Outlined（已勾勒）、outlining（正在勾勒）。
+## outline(v.)
+1762年，"勾勒輪廓，畫出外部線條，勾勒主要特徵"，源自 [outline](https://www.etymonline.com/tw/word/outline)（名詞）。意思是"概括性地描述"，始於1847年。相關詞彙： Outlined； outlining。
 
 ---

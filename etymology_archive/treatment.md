@@ -1,8 +1,6 @@
 # treatment
 
-## Origin and history of treatment
-### treatment(n.)
-
-1560年代起，[treat](https://www.etymonline.com/word/treat)（动词）+ [-ment](https://www.etymonline.com/word/-ment)，指“对某人或某物的处理或行为”。在医学领域，指药物的应用和管理，最早可追溯至1744年。
+## treatment(n.)
+1560年代，“對某人或某事的行爲或行爲”，來自 [treat](https://www.etymonline.com/tw/word/treat)（動詞）+ [-ment](https://www.etymonline.com/tw/word/-ment)。在醫學意義上，它首次記錄於1744年。
 
 ---

@@ -1,8 +1,6 @@
 # simulated
 
-## Origin and history of simulated
-### simulated(adj.)
-
-1620年代，作为过去分词形容词使用，来源于动词 [simulate](https://www.etymonline.com/word/simulate)。1966年起，开始用于“为了实验或训练目的的模仿性”这一含义（相关名词 simulator 1947年出现，另见 [simulation](https://www.etymonline.com/word/simulation)）。在商业术语中，1942年起被用来表示“人工的，仿制的”。早期的形容词形式是 simulate，出现在15世纪中期，源自拉丁语 simulatus，是动词 simulare 的过去分词。
+## simulated(adj.)
+1620年代，“虛假的”，過去分詞形容詞來自 [simulate](https://www.etymonline.com/tw/word/simulate)（v.）。“模擬實驗或訓練”意義始於1966年（相關意義的代詞 simulator 始於1947年； 也可參見 [simulation](https://www.etymonline.com/tw/word/simulation)）。在商業術語中，1942年開始使用“人造的，仿製的”。更早的形容詞是 simulate（15世紀中葉），來自拉丁語 simulatus， simulare 的過去分詞。
 
 ---

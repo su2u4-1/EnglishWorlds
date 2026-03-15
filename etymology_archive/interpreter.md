@@ -1,8 +1,6 @@
 # interpreter
 
-## Origin and history of interpreter
-### interpreter(n.)
-
-“翻译口头语言的人；书面文本的翻译者”，这个词在14世纪晚期出现，源自古法语 interpreteor、entrepreteur，又追溯到晚期拉丁语 interpretator，意为“解释者”，是从 interpretari（解释，阐述）派生的名词（参见 [interpret](https://www.etymonline.com/word/interpret)）。
+## interpreter(n.)
+"口譯員； 文本翻譯者"，14世紀晚期，源自古法語 interpreteor， entrepreteur，源自晚期拉丁語 interpretator "解釋者"，來自 interpretari "解釋，闡述"（參見 [interpret](https://www.etymonline.com/tw/word/interpret)）。
 
 ---

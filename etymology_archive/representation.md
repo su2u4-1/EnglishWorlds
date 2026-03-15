@@ -1,10 +1,7 @@
 # representation
 
-## Origin and history of representation
-### representation(n.)
-
-大约在公元1400年，representacioun这个词出现，意为“形象、象征性纪念物”。它源自14世纪的古法语representacion，并直接借自拉丁语repraesentationem（主格为repraesentatio），意思是“将某物呈现给他人，展示或展览”。这个名词是由动词repraesentare（意为“展示、展现”）的过去分词词干派生而来的（参见[represent](https://www.etymonline.com/word/represent) (v.)）。
-
-“将某物呈现给思维或想象”的意思在1640年代得到了证实。1670年代，这个词又被用来表示“关于某事的陈述”。而在1769年，它被赋予了“代表或被代表的事实”这一立法意义，进而引申为“通过定期选举或任命的代表参与立法等事务的权利；即社区和社会在自身事务及法律制定中发声的制度”。
+## representation(n.)
+約於1400年， representacioun，“形象，象徵性紀念”，源自14世紀的古法語 representacion，直接源自拉丁語 repraesentationem（代表 repraesentatio），“呈現，展示或展覽”的動作名詞，來自 repraesentare “展示，展覽，展示”（見 [represent](https://www.etymonline.com/tw/word/represent)（v.））。
+“呈現給頭腦或想象力的行爲”的意義可追溯到1640年代。 “關於某些事情的聲明”的意義來自1670年代。立法意義上的“代表或被代表的事實”是從1769年開始的，因此“通過定期選舉或任命的代表參與立法等，社區和社會在自己的事務和制定法律方面有發言權的系統。”
 
 ---

@@ -1,14 +1,10 @@
 # ate
 
-## Origin and history of ate
-### ate
-
-动词 [eat](https://www.etymonline.com/word/eat)（参见该词）的过去式。
+## ate
+[eat](https://www.etymonline.com/tw/word/eat)（見該詞條）的過去式。
 
 ---
-## ate (related entry 1)
-### Ate
-
-希腊女神，象征着痴迷和愚蠢的恶作剧，名字来源于 atē，意为“损害、毁灭；罪责；盲目、迷惑、痴迷；惩罚、罚金”，具体起源尚不明确。
+## Ate
+希臘女神或擬人化的癡迷和錯誤行爲，源自 atē “損害，毀滅； 罪過； 失明，眩暈，癡迷； 懲罰，罰款”，其起源不確定。
 
 ---

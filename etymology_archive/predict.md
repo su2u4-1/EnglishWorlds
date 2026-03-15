@@ -1,8 +1,6 @@
 # predict
 
-## Origin and history of predict
-### predict(v.)
-
-1620年代（在predicted中暗示），意为“预言、预告、在事件发生前声明”，是从[prediction](https://www.etymonline.com/word/prediction)中回形成的词，或者源自拉丁语praedicatus，这是praedicere的过去分词，意为“预言、建议、通知”。这个词由prae（意为“在……之前”，参见[pre-](https://www.etymonline.com/word/pre-)）和dicere（意为“说”，源自原始印欧词根[*deik-](https://www.etymonline.com/word/*deik-)，意为“展示”或“庄重地宣告”）构成。相关词汇包括Predicted和predicting。
+## predict(v.)
+1620年代（含在 predicted 中），“預言，預示，在事件發生前宣佈”，源自 [prediction](https://www.etymonline.com/tw/word/prediction) 的後綴構詞法，或者源自拉丁語 praedicatus，該詞的過去分詞形式 praedicere 意爲“預言，建議，通知”，由 prae 表示“之前”（參見 [pre-](https://www.etymonline.com/tw/word/pre-)）和 dicere 的“說”組成（來自 PIE 詞根 [*deik-](https://www.etymonline.com/tw/word/*deik-) 的“展示”，也是“莊嚴地發聲”）。相關詞彙： Predicted； predicting。
 
 ---

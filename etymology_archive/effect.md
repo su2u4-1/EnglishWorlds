@@ -1,18 +1,14 @@
 # effect
 
-## Origin and history of effect
-### effect(n.)
+## effect(n.)
+這個詞最早出現於14世紀中期，意指「某個行為的執行或完成」，源自古法語 efet（13世紀，現代法語為 effet），意為「結果、執行、完成、結束」。它又來自拉丁語 effectus，意指「成就、表現」，由過去分詞 efficere（「完成、實現」）演變而來。這個詞的構成來自於 ex（「出」；參見 [ex-](https://www.etymonline.com/tw/word/ex-)）和 facere（「做、製作」；源自原始印歐語 [*dhe-](https://www.etymonline.com/tw/word/*dhe-)，意為「放置、設置」）。後來這個詞從法語借入荷蘭語、德語和斯堪的納維亞語。
 
-大约在14世纪中期，“执行或完成某个行为”的意思，源自古法语 efet（13世纪，现代法语为 effet），意为“结果、执行、完成、结束”。这个词又来自拉丁语 effectus，意思是“完成、实现”，它是动词 efficere 的过去分词形式，意为“完成、实现”。这个词的构成可以追溯到拉丁语前缀 ex（意为“出、外”，参见 [ex-](https://www.etymonline.com/word/ex-)）和动词 facere（意为“做、制造”，源自原始印欧语词根 [*dhe-](https://www.etymonline.com/word/*dhe-)，意为“放置、设定”）。这个词从法语借入荷兰语、德语和斯堪的纳维亚语。
+到了14世紀末，effect 開始用來表示「產生預期結果的能力或效力」，即「功效、有效性」。在占星術中，它還指「天體對人類事務的作用或影響」。此外，它也可以指「從某事物衍生出的結果或後果」。
 
-从14世纪末起，它还被用来表示“产生预期结果的能力或效力”，即“功效、有效性”。在占星术中，它指“天体对人类事务的作用或影响”。此外，它还可以表示“某事物由另一个事物引起的结果或后果”。
-
-从15世纪初起，这个词又被用来表示“预期的结果、目的或意图”。早期它还有“现实、事实”的意思，因此出现了短语 in effect（14世纪末），最初意为“实际上、确实、真正”。“给观者留下的印象”这一含义出现在1736年。在 stage effect（舞台效果）、sound effect（音效）等短语中的用法可以追溯到1881年。
+進入15世紀，這個詞又被用來表示「預期的結果、目的、對象或意圖」。早期它還有「現實、事實」的含義，因此出現了短語 in effect（14世紀末），最初意為「實際上、事實上、真正」。1736年起，它被用來表示「對觀者產生的印象」。而在 stage effect、sound effect 等短語中的意義則可追溯至1881年。
 
 ---
-## effect (related entry 1)
-### effect(v.)
-
-“作为结果产生；达到预期目的”，这个意思出现在1580年代，源自拉丁语 effectus，是 efficere 的过去分词，意为“完成，达成”（参见 [effect](https://www.etymonline.com/word/effect) (n.)）。相关词汇包括：Effecting（正在实现），effection（实现），effectible（可实现的）。
+## effect(v.)
+"產生結果； 達到預期目的"，來自1580年代的拉丁語 effectus，是 efficere 的過去分詞，意爲"完成，實現"（參見 [effect](https://www.etymonline.com/tw/word/effect)（n.））。相關詞彙： Effecting； effection； effectible。
 
 ---

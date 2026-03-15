@@ -1,14 +1,10 @@
 # complete
 
-## Origin and history of complete
-### complete(adj.)
-
-14世纪晚期，表示“没有缺陷，缺少任何部分或元素；在种类或质量上完美；完成，结束，终结”。这个词源于古法语 complet，意为“完整”，或者直接来自拉丁语 completus，是动词 complere（意为“填满，完成（如一个军团的数量）”）的过去分词。这个词的意义逐渐转变为“实现，完成（一个任务）”。其中，前缀 com- 可能在这里起到强调作用（参见 [com-](https://www.etymonline.com/word/com-)），而 plere 则意为“填充”，源自原始印欧语词根 [*pele-](https://www.etymonline.com/word/*pele-) (1)，意为“填满”。
+## complete(adj.)
+"完整的，不缺乏任何部分或要素； 在品質、質量上完美； 完成，結束，結束" 源自於14世紀末，來自於古法語 complet “充分的”，或直接源於拉丁語 completus，是 complere 的過去分詞，“填滿，補足（一個軍團等），” 轉化爲“滿足，完成（一項任務），” 來自於 com-，這裏可能作爲一個加強前綴（參見 [com-](https://www.etymonline.com/tw/word/com-)），+ plere “填充” （來自於 PIE 詞根 [*pele-](https://www.etymonline.com/tw/word/*pele-#etymonline_v_52732) (1) "填充"）。”
 
 ---
-## complete (related entry 1)
-### complete(v.)
-
-14世纪晚期，意思是“使完整，结束，补充缺失的部分；实现，完成”。这个词源于形容词 [complete](https://www.etymonline.com/word/complete)，可能也部分受拉丁语 completus 的影响。相关词汇包括 Completed（已完成）和 completing（正在完成）。
+## complete(v.)
+14世紀晚期，“使完整，結束，補充缺失的部分； 實現，完成”，源自 [complete](https://www.etymonline.com/tw/word/complete)（形容詞），可能部分源自拉丁語 completus。相關詞彙： Completed； completing。
 
 ---

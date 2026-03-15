@@ -1,28 +1,20 @@
 # match
 
-## Origin and history of match
-### match(n.1)
-
-“点火用的棍子。”这个词在14世纪晚期用作macche，意指“蜡烛或灯的灯芯”，这个意义现在已经过时。它源自古法语meiche，意为“蜡烛的灯芯”，进一步追溯到俗拉丁语\*micca/\*miccia（这也是加泰罗尼亚语metxa、西班牙语mecha、意大利语miccia的来源）。这个词的起源尚不确定，但很可能最终来自拉丁语myxa，而拉丁语myxa则源自希腊语，原意是“灯芯”，最初的意思是“粘液”，基于灯芯悬挂在灯嘴上，像鼻涕从鼻孔流出一样的形象。这可以追溯到原始印欧语词根\*meug-，意为“粘滑的，滑腻的”（参见[mucus](https://www.etymonline.com/word/mucus)）。英语中的[snot](https://www.etymonline.com/word/snot)在14世纪晚期也有了一个次要意义，指“蜡烛的烛烟，烧焦的灯芯”，这种用法至少在19世纪晚期的北方方言中仍然存在。
-
-现代拼写形式出现在15世纪中期。1530年，这个词被用来指“浸泡在硫磺中的绳子或麻线，用于点燃火焰、灯具、蜡烛等”。到1830年，它被用来指现代类型的硫磺头木质摩擦火柴，这种火柴大约在那个时期被完善，并在19世纪大部分时间与[lucifer](https://www.etymonline.com/word/lucifer)竞争，成为这一发明的名称。早期版本则是由一条薄木条制成，顶端涂有易燃物质，需要与单独装在盒子或小瓶中的磷接触才能点燃。
+## match(n.1)
+"用於打火的棍子。"14世紀晚期， macche，“蠟燭或燈的燈芯”，現已過時，來自古法語 meiche “蠟燭的燈芯”，源自通俗拉丁語 \*micca/\*miccia（源頭還包括加泰羅尼亞語 metxa，西班牙語 mecha，意大利語 miccia），其起源不確定，可能最終源自拉丁語 myxa，源自希臘語 myxa “燈芯”，最初是“鼻涕”，基於燈芯從燈嘴懸掛的概念，就像鼻孔裏的鼻涕一樣，源自 PIE 詞根 \*meug- “黏滑的，滑溜的”（見 [mucus](https://www.etymonline.com/tw/word/mucus)）。英語 [snot](https://www.etymonline.com/tw/word/snot) 也在14世紀晚期具有“蠟燭的鼻菸，燈芯的燒焦部分”的次要意義，在北方方言中至少存活到19世紀晚期。
+現代拼寫法來自15世紀中期。意爲“浸泡在硫磺中的繩索或麻花，用於點燃火、燈、蠟燭等”，始於1530年。它在1830年被用於現代類型的硫磺木摩擦火柴，這種火柴在那個時候被完善，與 [lucifer](https://www.etymonline.com/tw/word/Lucifer) 競爭，成爲這一發明的名稱。早期版本由一根薄木條組成，尖端塗有易燃物質，需要與盒子或瓶子中分別攜帶的磷接觸。
 
 > In the manufacture of matches much trouble has been occasioned by the use of phosphorous .... In some of the small and poorly-managed factories the men and children are never free from the fumes; their clothes and breath are luminous in the dark, and in the daytime white fumes may be seen escaping from them whenever they are seated by the fire. ... The danger arising from the use of matches was magnified, because they could sometimes be seen in the dark, were liable to ignite on a warm shelf, and were poisonous to such an extent that children had been killed by using them as playthings. [John A. Garver, "Matches," in The Popular Science Monthly, August 1877]
 
-> 在火柴制造过程中，使用磷带来了很多麻烦……在一些小型且管理不善的工厂里，工人和儿童始终无法摆脱这些烟雾；他们的衣服和呼吸在黑暗中发光，白天只要坐在火边，就能看到白色烟雾从他们身上冒出……人们夸大了火柴的危险，因为它们有时在黑暗中可见，容易在温暖的架子上点燃，而且毒性极强，曾有儿童因将其当作玩具而中毒身亡。[约翰·A·加弗，《火柴》，《大众科学月刊》，1877年8月]
+> 在火柴的製造過程中，磷的使用引起了很多麻煩……在一些小型和管理不善的工廠中，男人和孩子們從未擺脫過煙霧； 他們的衣服和呼吸在黑暗中是發光的，在白天，可以看到白色的煙霧從他們身上逸出，每當他們坐在火邊時。……火柴的危險被誇大了，因爲它們有時可以在黑暗中看到，容易在溫暖的架子上着火，並且對於兒童來說是有毒的，以至於他們玩火柴時會被殺死。[約翰·A·加弗，《流行科學月刊》，1877年8月]
 
 ---
-## match (related entry 1)
-### match(n.2)
-
-“一对中的一个，平等者。”这个词源于中古英语的 macche，而早期英语中是 mæcca，意思是“伙伴、伴侣、一对中的一个、妻子、丈夫、与另一方相称的人、平等者”。它源自 gemæcca，进一步追溯到原始日耳曼语的 \*gamakon，意为“很好的契合”。这个词的相关词汇还有古撒克逊语的 gimaco（“同伴、平等者”）、古高地德语的 gimah（“安慰、轻松”）、中古高地德语的 gemach（“舒适、安静”）以及现代德语的 gemach（“轻松、悠闲”）。它们都源自原始印欧语根 [*mag-](https://www.etymonline.com/word/*mag-)，意思是“揉捏、塑造、使契合”。
-
-大约公元1400年，这个词的意思演变为“与另一事物完全对应的人或物”。中古英语中还有“匹敌者、能够与他人抗衡的人”（约公元1300年），这后来发展出“比赛”的体育意义，首次出现在1540年代。至于“婚姻契约”的含义，则出现在1570年代。
+## match(n.2)
+"一對中的一個，相等的。" 中古英語 macche，源自古英語 mæcca "伴侶，配偶，一對中的一個，妻子，丈夫，適合另一個的人，相等的"，源自 gemæcca，源自原始日耳曼語 \*gamakon "相互契合"（源頭還包括古撒克遜語 gimaco "同伴，相等的"，古高地德語 gimah "舒適，安逸"，中古高地德語 gemach "舒適的，安靜的"，德語 gemach "輕鬆的，悠閒的"），源自 PIE 詞根 [*mag-](https://www.etymonline.com/tw/word/*mag-) "揉捏，塑造，適合"。
+意思是 "與另一個完全相對應的人或物"，始見於 1400 年。中古英語中 "匹配的對手，能夠與另一個競爭的人"（約 1300 年）的意義導致了體育意義上的 "比賽"，始見於 1540 年代。 "婚姻契約" 的意思始於 1570 年代。
 
 ---
-## match (related entry 2)
-### match(v.)
-
-大约在14世纪中期，macchen这个词出现，意思是“能够竞争，成为合适的对手”；到了14世纪晚期，它又有了“将两者连接在一起”（最初特别指婚姻）的意思，这源自于名词[match](https://www.etymonline.com/word/match)。大约1400年，这个词又被用来表示“将（某人）置于与（另一人）对抗的状态”。而“为了适配而配对，找到或提供与之相符或和谐的东西”的意思则出现在1520年代；“与……相等”的用法则出现在1590年代。相关词汇包括Matched和matching。
+## match(v.)
+14世紀中期， macchen，“能夠與之競爭，成爲一個足夠的對手”； 14世紀後期，“將一個人與另一個人結合在一起”（最初尤其是在婚姻中），源自 [match](https://www.etymonline.com/tw/word/match)（n.2）。意思是“將（一個人）與（另一個人）置於衝突之中”，始於約1400年。1520年代出現了“爲了適合而配對，找到或提供與之協調一致的東西”的意思； 1590年代出現了“與之相等”的意思。相關詞彙： Matched； matching。
 
 ---

@@ -1,10 +1,7 @@
 # technology
 
-## Origin and history of technology
-### technology(n.)
-
-1610年代，“关于某种艺术或艺术的论述或专著”，这个词源自拉丁化的希腊语 tekhnologia，意指“对某种艺术、手艺或技术的系统性研究”，最初是指语法学。它来自 tekhno-,，即 tekhnē 的词根，意为“艺术、技能、工艺；方法、系统，某种制作或操作的艺术或方法”。这个词根可以追溯到原始印欧语 \*teks-na-，意为“工艺”（特别是编织或制造方面的工艺），它源自 [*teks-](https://www.etymonline.com/word/*teks-)，即“编织”或“制造”。关于词尾的构成，可以参考 [-logy](https://www.etymonline.com/word/-logy)。
-
-1859年，这个词被用来指“机械和工业艺术的研究”，作为一个知识领域（《世纪词典》1895年给出的例子包括“纺纱、金属加工或酿酒”）。High technology（高科技）一词在1956年被记录；而其简写形式high-tech则出现在1972年。
+## technology(n.)
+1610年代，"藝術或各種藝術的論述或專論"，源自希臘語的拉丁化形式 tekhnologia，原指"藝術、工藝或技術的系統化處理"，最初是指語法，來自 tekhno-,，這是 tekhnē 的組合形式，意爲"藝術、技能、工藝； 方法、系統，一種藝術，一種製作或做事的系統或方法"，源自 PIE \*teks-na- "工藝"（編織或製造），這是詞根 [*teks-](https://www.etymonline.com/tw/word/*teks-) "編織"，也是"製造"的後綴形式。關於詞尾，請參見 [-logy](https://www.etymonline.com/tw/word/-logy)。
+"機械和工業藝術的研究"的含義（1895年的《世紀詞典》舉例說明"紡織、金屬加工或釀造"）在1859年被記錄下來。High technology 在1964年被證實； 簡短形式 high-tech 在1972年出現。
 
 ---

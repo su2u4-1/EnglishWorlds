@@ -1,16 +1,11 @@
 # representative
 
-## Origin and history of representative
-### representative(adj.)
-
-1580年代，表示“用于描绘或象征”，源自法语 representatif（14世纪初），或直接来自中世纪拉丁语 repraesentativus，其词根来自拉丁语 repraesentare，意为“展示、展现、表现”（参见 [represent](https://www.etymonline.com/word/represent)）。
-
-“代表他人，充当替代者或代理人”的意思出现在1620年代。特别是在政治领域，指“代表更大群体在政府或立法机构中行事”的含义记录于1620年代；而“与人民代表制相关或基于人民代表制的，指由选民选出的代表来表达公民意愿”的意思则出现在1640年代。相关词：Representatively（15世纪中期）。
+## representative(adj.)
+1580年代，“用於描繪或象徵”的意思來自法語 representatif（14世紀早期）或直接來自中世紀拉丁語 repraesentativus，源自拉丁語 repraesentare “展示，展覽，顯示”（見 [represent](https://www.etymonline.com/tw/word/represent)）。
+“代表他人，充當另一個人的代理人或代理人”的意思來自1620年代。具體來說，在政治意義上，“代表更大的人羣在政府或立法機構中佔據位置並代表他們行事”，這一含義記錄於1620年代； “與人民代表有關或基於人民代表的，由選定的人代表公民”的含義來自1640年代。相關： Representatively（15世紀中期）。
 
 ---
-## representative (related entry 1)
-### representative(n.)
-
-1630年代，指“立法机构（如英国下议院或美国众议院）的成员，代表其他人”的角色，源自 [representative](https://www.etymonline.com/word/representative)（形容词）。到1640年代，这个词还引申出了“例子、类型、样本、标本”的意思。
+## representative(n.)
+1630年代，“代表（如英國下議院或美國衆議院的成員）代表其他人”，源自 [representative](https://www.etymonline.com/tw/word/representative)（形容詞）。到1640年代，“例子，類型，樣品，標本”的意義上。
 
 ---

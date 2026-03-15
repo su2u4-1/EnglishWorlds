@@ -1,10 +1,7 @@
 # justify
 
-## Origin and history of justify
-### justify(v.)
-
-大约公元1300年，“施行正义”；到14世纪末，意为“证明（某事）公正或正确”，源自古法语 justifiier，意为“提交法院程序”（12世纪），进一步追溯至晚期拉丁语 iustificare，意为“公正对待；使公正”，再到拉丁语 iustificus，意为“公正的，正义的”，其基础词 iustus 意为“公正的”（参见 [just](https://www.etymonline.com/word/just) (adj.)），结合了 facere（意为“制造，执行”，源自原始印欧词根 [*dhe-](https://www.etymonline.com/word/*dhe-)，意为“放置，设定”）。
-
-“宣告无罪或无责”的含义出现在1520年代。关于情况的“提供正当理由”则始于1630年代。“使精确”的意思（现多用于排版领域）出现于1550年代。相关词汇包括： [Justified](https://www.etymonline.com/word/Justified)； justifier； justifying。
+## justify(v.)
+約於1300年，“行使正義； ”14世紀後期，“證明（某事物）是公正或正確的”，源自古法語 justifiier “提交法庭訴訟”（12世紀），源自晚期拉丁語 iustificare “公正對待； 使公正”，源自拉丁語 iustificus “公正的，正義的”，源自 iustus “公正的”（參見 [just](https://www.etymonline.com/tw/word/just)（形容詞））+ facere “製造，做” 的組合形式（源自 PIE 詞根 [*dhe-](https://www.etymonline.com/tw/word/*dhe-) “設置，放置”）。
+“宣佈無罪或無過錯”的意思始於1520年代。關於情況，“提供正當理由”的意思始於1630年代。意思是“使精確”（現在主要限於排版）始於1550年代。相關： [Justified](https://www.etymonline.com/tw/word/justified)； justifier； justifying。
 
 ---

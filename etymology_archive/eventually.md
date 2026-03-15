@@ -1,8 +1,6 @@
 # eventually
 
-## Origin and history of eventually
-### eventually(adv.)
-
-“ultimately”这个词出现在1670年代，来源于[eventual](https://www.etymonline.com/word/eventual)（最终的）加上[-ly](https://www.etymonline.com/word/-ly)（副词后缀）。
+## eventually(adv.)
+"最終," 1670年代, 源自 [eventual](https://www.etymonline.com/tw/word/eventual) + [-ly](https://www.etymonline.com/tw/word/-ly#etymonline_v_32027) (2).
 
 ---

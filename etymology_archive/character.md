@@ -1,16 +1,14 @@
 # character
 
-## Origin and history of character
-### character(n.)
+## character(n.)
+14世紀中葉， carecter，"標記或烙印在身體上的符號"； 15世紀中葉，"巫術中使用的符號或圖畫"； 15世紀晚期，"代表聲音或音節的字母，圖形符號"； 源自古法語 caratere "特徵，特性"（13世紀，現代法語 caractère），源自拉丁語 character，源自希臘語 kharaktēr "雕刻的標記"，也指"靈魂上的象徵或印記"，原意爲"刻痕的工具"，源自 kharassein "雕刻"，源自 kharax "尖樁"，這是一個詞源不確定的詞，Beekes 認爲"很可能是古希臘語之前的詞源"。在英語中，拉丁語的 ch-拼寫從16世紀恢復使用。
 
-大约14世纪中期，carecter指的是“刻在身体上的符号或印记”；到15世纪中期，这个词又引申为“在巫术中使用的符号或图案”；到了15世纪末，它的含义进一步发展为“表示某个声音或音节的字母或图形符号”。这个词源自古法语的caratere，意为“特征，性格”（13世纪，现代法语为caractère），而古法语又源自拉丁语character，最初来自希腊语kharaktēr，意为“刻印的标记”，同时也指“灵魂上的符号或印记”，本义是“标记的工具”，由kharassein（意为“雕刻”）演变而来，而kharax则指“尖锐的木桩”。这个词的词源尚不明确，Beekes认为它“很可能是前希腊语”。在英语中，拉丁语的ch-拼写在16世纪得以恢复。
-
-在希腊化时期，kharaktēr的意义通过隐喻扩展为“定义某人或某物的特征或个性”。在英语中，1640年代起，这个词被用来表示“定义一个人或物的特质总和，并将其与其他人或物区分开来”。1712年，它又被用来指“人们普遍认为某人具备的道德特质”。
+希臘語 kharaktēr 的意義在希臘化時期通過隱喻擴展爲"決定性的品質，個人特徵"。在英語中，"定義一個人或物並將其與其他人或物區分開的一系列品質"的意義始於17世紀40年代。"通過名聲賦予一個人的道德品質"的意義始於18世紀12年。
 
 > You remember Eponina, who kept her husband alive in an underground cavern so devotedly and heroically? The force of character she showed in keeping up his spirits would have been used to hide a lover from her husband if they had been living quietly in Rome. Strong characters need strong nourishment. [Stendhal "de l'Amour," 1822]
 
-> 你还记得埃波尼娜吗？她是多么坚定而英勇地在地下洞穴里照顾她的丈夫，始终不离不弃！她在鼓励丈夫精神方面展现出的性格力量，如果他们在罗马安静地生活，那完全可以用来掩饰她与情人的秘密关系。强大的人格需要强大的滋养。[斯丹达尔 "de l'Amour," 1822]
+> 你還記得埃波尼娜嗎？她如此忠心地英勇地讓她的丈夫在地下洞穴中活下來。如果他們在羅馬安靜地生活，她所表現出的性格力量將被用來瞞着她丈夫隱藏一個情人。強大的性格需要強大的滋養。[Stendhal "de l'Amour," 1822]
 
-将“角色”引入戏剧或小说的语境，最早出现在1660年代，指的是作者赋予角色的“定义特征”。1749年，这个词被抽象化为“人”这一概念，尤其是1773年起专指“古怪的人”。1931年，它又被口语化为“家伙，伙伴”。Character-actor（角色演员），指的是那些专门演绎性格鲜明角色的演员，首次出现于1861年；character assassination（人格暗杀）这一说法则始于1888年；而character building（人格塑造，名词）则出现在1886年。
+"戲劇或小說中的人物"的意義首次出現在1660年代，指的是作者賦予他或她的"決定性品質"。抽象意義上的"一個人"的含義始於1749年； 尤其是"古怪的人"（1773年）。口語中"傢伙，夥計"的意義始於1931年。從1861年開始，稱爲 Character-actor 的人專門扮演具有明顯特點的角色； 從1888年開始，稱爲 character assassination 的人； 從1886年開始，稱爲 character building （名詞）。
 
 ---

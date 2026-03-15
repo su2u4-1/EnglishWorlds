@@ -1,14 +1,10 @@
 # appropriate
 
-## Origin and history of appropriate
-### appropriate(v.)
-
-15世纪初，appropriaten，意为“占有，独占”，源自晚期拉丁语的appropriatus，是动词appropriare, adpropriare的过去分词，意为“使之成为自己的”。这个词又来自拉丁语的ad（意为“向”——参见[ad-](https://www.etymonline.com/word/ad-)）和propriare（意为“视为自己的”），而proprius则意为“自己的”（参见[proper](https://www.etymonline.com/word/proper)）。相关词汇包括Appropriated（已占有）和appropriating（正在占有）。
+## appropriate(v.)
+15世紀早期， appropriaten，“佔有，獨佔”，源自於晚期拉丁語 appropriatus，過去分詞形式爲 appropriare, adpropriare，“使成爲自己的”，源自於拉丁語 ad “到”（參見 [ad-](https://www.etymonline.com/tw/word/ad-))和 propriare “把...視爲自己的”，源自於 proprius “自己的”（參見 [proper](https://www.etymonline.com/tw/word/proper)）。相關詞彙： Appropriated； appropriating。
 
 ---
-## appropriate (related entry 1)
-### appropriate(adj.)
-
-“特别合适，恰当”，15世纪初，appropriat，源自拉丁语 appropriatus，是 appropriare 的过去分词，意为“使成为自己的”（参见 [appropriate](https://www.etymonline.com/word/appropriate) (v.)）。相关词汇：Appropriately；appropriateness。
+## appropriate(adj.)
+"特別適合的，合適的"，15世紀早期， appropriat，源自拉丁語 appropriatus， appropriare 的過去分詞，意爲"使某人擁有"（參見 [appropriate](https://www.etymonline.com/tw/word/appropriate)（動詞））。相關詞： Appropriately； appropriateness。
 
 ---

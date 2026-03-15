@@ -1,8 +1,6 @@
 # evolve
 
-## Origin and history of evolve
-### evolve(v.)
-
-1640年代，evolvere 这个拉丁词最初的意思是“展开、打开、扩展”，特别是指书籍的展开。后来，它引申出了“阐明、揭示；产生、发展”的比喻意义。这主要是因为它结合了 ex（意为“向外”，参见 [ex-](https://www.etymonline.com/word/ex-)）和 volvere（意为“滚动”），而这两个词又源自原始印欧语词根 [*wel-](https://www.etymonline.com/word/*wel-) (3)，意思是“转动、旋转”。1832年起，这个词还被用来表示“通过自然过程发展到更高级的状态”。相关词汇包括 Evolved（已发展）、evolving（正在发展）。
+## evolve(v.)
+1640年代，“展開，打開，擴展”，源自拉丁語 evolvere “展開，卷出，滾動，展開”，尤其是指書籍； 比喻意義上“使清晰，揭示； 生產，發展”，源自拉丁語 ex “出”（見 [ex-](https://www.etymonline.com/tw/word/ex-))和 volvere “滾動”，源自 PIE 詞根 [*wel-](https://www.etymonline.com/tw/word/*wel-)（3）“旋轉，轉動”。意思是“通過自然過程發展到更高的狀態”，始於1832年。相關詞彙： Evolved； evolving。
 
 ---

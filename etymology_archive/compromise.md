@@ -1,16 +1,11 @@
 # compromise
 
-## Origin and history of compromise
-### compromise(n.)
-
-在15世纪初，“共同承诺遵守仲裁者裁决的协议”，这个词源于古法语 compromis（13世纪），而其更早的形式来自晚期拉丁语 compromissus，是动词 compromittere 的过去分词，意为“相互承诺（遵守仲裁者的裁决）”。这个词由 com（意为“共同，一起”，参见 [com-](https://www.etymonline.com/word/com-)）和 promittere（意为“发出，放弃，预言，事先保证，承诺”）组合而成。前者 pro（意为“在……之前”，源自原始印欧词根 [*per-](https://www.etymonline.com/word/*per-) (1)，意为“向前”，引申为“在前面，之前”），而 mittere 则意为“释放，放手，发送，投掷”（参见 [mission](https://www.etymonline.com/word/mission)）。
-
-“通过相互让步达成协议，解决分歧”的含义出现在15世纪中期，最初指的是这一过程，后来演变为“由此达成的协议”这一具体结果，约在1510年代。
+## compromise(n.)
+15世紀初，“遵守仲裁者決定的聯合承諾”，源自古法語 compromis（13世紀），來自晚期拉丁語 compromissus，是 compromittere 的過去分詞，“相互承諾”（遵守仲裁者的決定），由 com “與，一起”（見 [com-](https://www.etymonline.com/tw/word/com-))和 promittere “放出； 放手； 預言； 事先保證，承諾”組成，源自 pro “之前”（來自 PIE 根 [*per-](https://www.etymonline.com/tw/word/*per-)（1）“向前”，因此“在前面，在之前”）和 mittere “釋放，放手； 發送，投擲”（見 [mission](https://www.etymonline.com/tw/word/mission)）。
+“達成協議，通過相互讓步解決分歧”的意義（15世紀中期）來自對解決本身的擴展。 “由此協議產生的結果”這一含義來自於1510年代。
 
 ---
-## compromise (related entry 1)
-### compromise(v.)
-
-大约在15世纪中期，[compromise](https://www.etymonline.com/word/compromise)（名词）开始用作动词，意为“通过相互让步来调整或解决问题”，也可以不及物使用，表示“达成妥协”。到了17世纪90年代，这个词又发展出“使处于风险或危险之中，危及声誉”的含义。早期也有一个词compromit（15世纪初）用于同样的意思，源自拉丁语compromittere。相关词汇包括Compromised和compromising。
+## compromise(v.)
+十五世紀中期，「通過相互讓步來調整或解決問題」，也用作不及物動詞，意指「達成妥協」。這個詞源於名詞 [compromise](https://www.etymonline.com/tw/word/compromise)。而「使面臨風險或危險，危害名譽」的意思出現於十七世紀九十年代。早期也有一個同義詞 compromit（十五世紀初），來自拉丁語 compromittere。相關詞彙包括 Compromised 和 compromising。
 
 ---

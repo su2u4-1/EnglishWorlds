@@ -1,10 +1,7 @@
 # critical
 
-## Origin and history of critical
-### critical(adj.)
-
-1580年代，指“爱挑剔的，倾向于找茬”，源自 [critic](https://www.etymonline.com/word/critic)（批评者）+ [-al](https://www.etymonline.com/word/-al)（形容词后缀）。“对判断至关重要或必不可少”的意思出现在1600年左右，最初用于医学领域。“危机性质的，处于极度怀疑或危险状态”的含义则始于1660年代；“涉及对某事真伪或价值的判断”的用法出现在1640年代；而“具备判断能力或洞察力”的意思同样来自1640年代。“与批评相关”的含义则始于1741年。
-
-相关词汇：Criticality（临界性，1756年；核物理意义上，1950年）；critically（批判性地，1650年代“准确地”；1815年“在危急情况下”）。在核科学中，critical mass（临界质量）这一术语始见于1940年。
+## critical(adj.)
+1580年代，“挑剔的，傾向於找錯”的意思來自於 [critic](https://www.etymonline.com/tw/word/critic) 和 [-al](https://www.etymonline.com/tw/word/-al#etymonline_v_32845) (1)。 “重要或必要的決定性因素”的意思最早出現在大約1600年的醫學中。 “處於極度懷疑或危險狀態的危機性質” 的意思來自於1660年代； “涉及對某物的真實性或價值進行判斷”的意思來自於1640年代； “具有判斷力、能力或洞察力來進行判斷”的意思來自於1640年代。 “與批評有關的” 的意思來自於1741年。
+相關詞彙： Criticality（1756年； 在覈能方面，1950年）； critically（1650年代，“準確地”； 1815年，“處於關鍵時刻”）。在覈科學中， critical mass 最早出現於1940年。
 
 ---

@@ -1,8 +1,6 @@
 # conditional
 
-## Origin and history of conditional
-### conditional(adj.)
-
-14世纪晚期，condicionel，意为“依赖于某个条件或情况的，取决于特定条件的”，源自古法语 condicionel（现代法语为 conditionnel），进一步追溯至晚期拉丁语 conditionalis，再到拉丁语 condicionem，意为“协议；情况”（参见 [condition](https://www.etymonline.com/word/condition) (n.)）。相关词汇包括：Conditionally; conditionality。
+## conditional(adj.)
+14世紀晚期，"condicionel"，意爲"取決於條件或情況，有條件的"，源自古法語"condicionel"（現代法語"conditionnel"），源自晚期拉丁語"conditionalis"，源自拉丁語"condicionem"，意爲"協議； 情況"（參見"[condition](https://www.etymonline.com/tw/word/condition)"（n.））。相關詞彙： Conditionally; conditionality。
 
 ---

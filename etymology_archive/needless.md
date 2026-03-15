@@ -1,8 +1,6 @@
 # needless
 
-## Origin and history of needless
-### needless(adj.)
-
-“不需要的，没必要的”，大约公元1300年，nedeles，源自 [need](https://www.etymonline.com/word/need)（名词）+ [-less](https://www.etymonline.com/word/-less)。相关词：Needlessly。短语 needless to say 或 speak 从16世纪初就有记录。
+## needless(adj.)
+"不必要的，無用的"，源於公元1300年的  nedeles，由  [need](https://www.etymonline.com/tw/word/need)  （n.）+  [-less](https://www.etymonline.com/tw/word/-less) 組成。相關詞語有  Needlessly 。短語“ needless to say ”或“ speak ”最早記錄於16世紀初。
 
 ---

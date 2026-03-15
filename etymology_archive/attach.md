@@ -1,10 +1,7 @@
 # attach
 
-## Origin and history of attach
-### attach(v.)
-
-大约14世纪中期（在盎格鲁-拉丁语中为13世纪中期），这个词的法律意义开始出现，指“依法占有或扣押财产或货物”。它源自古法语的 atachier，意为“固定；逮捕”（11世纪），更早的形式是 estachier，意思是“附着，固定；支撑，扎牢”（现代法语为 attacher，意大利语则是 attaccare）。这个词由前缀 a-（意为“向……”，参见 [ad-](https://www.etymonline.com/word/ad-)）和一个词根构成，这个词根在 [detach](https://www.etymonline.com/word/detach) 中也能找到，可能源自法兰克语的 \*stakon（意为“柱子，桩子”）或其他类似的日耳曼语词汇，进一步追溯到原始日耳曼语的 \*stakon-（同样意为“桩子”），而其更早的印欧语根则是 \*steg- (1)（意为“杆，棍”）（参见 [stake](https://www.etymonline.com/word/stake) (n.)）。
-
-这个词在英语中最早的记录大约出现在1400年，意为“固定，附着，连接”，这很可能是它最初的词义。相关词汇包括 [Attached](https://www.etymonline.com/word/Attached) 和 attaching。
+## attach(v.)
+14世紀中期（13世紀中期的盎格魯拉丁語），“通過法律拿走或奪取（財產或貨物）”，是一個法律術語，源自古法語 atachier “繫緊； 逮捕”（11世紀），早期的 estachier “附着，固定； 支撐”（現代法語 attacher，也可參見意大利語 attaccare），來自 a- “到”（參見 [ad-](https://www.etymonline.com/tw/word/ad-)）+ 一個在 [detach](https://www.etymonline.com/tw/word/detach) 中也出現的詞根，可能來自法蘭克 \*stakon “柱子，樁”或類似的日耳曼語詞彙，源自原始日耳曼語 \*stakon- “樁”，源自 PIE 詞根 \*steg-（1）“杆，棍”（參見 [stake](https://www.etymonline.com/tw/word/stake)（n.））。
+“固定，連接”的意思，可能在詞源上是最初的意思，英語中的用法可追溯至約1400年。相關詞彙： [Attached](https://www.etymonline.com/tw/word/attached)； attaching。
 
 ---

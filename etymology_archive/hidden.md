@@ -1,8 +1,6 @@
 # hidden
 
-## Origin and history of hidden
-### hidden(adj.)
-
-这个词是由动词 [hide](https://www.etymonline.com/word/hide)（隐藏）派生而来的过去分词形容词，源自中古英语。早期英语中有 gehydd，意思是“隐藏的”。这种构词方式类似于 ride/ridden 等词。自1540年代起，它开始被用来表示“秘密的，隐秘的”。1957年，温斯·帕卡德在他的著作中创造了 Hidden persuaders 这个词，专门用来指代广告行业的人士。
+## hidden(adj.)
+“hidden”的過去分詞形容詞，源自於 [hide](https://www.etymonline.com/tw/word/hide)（動詞1）； 這是中古英語的一種構詞方式（古英語中有“gehydd”表示“hidden”），模仿了 ride/ridden 等。1540年代開始表示“祕密的，神祕的”。1957年，範斯·帕卡德（Vance Packard）用“Hidden persuaders”來形容廣告人員。
 
 ---

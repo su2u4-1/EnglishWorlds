@@ -1,10 +1,7 @@
 # simplify
 
-## Origin and history of simplify
-### simplify(v.)
-
-“使简单或更简单，从复杂中简化”，这个词最早出现在1650年代，源自法语 simplifier，意为“使更简单”（15世纪），再往前追溯到中世纪拉丁语 simplificare，同样是“简化”的意思。它的词根来自拉丁语 simplex，意为“简单”（具体可以参考 [simplex](https://www.etymonline.com/word/simplex)），加上 facere 的词缀，意为“使……成为”（这个词源自原始印欧语根 [*dhe-](https://www.etymonline.com/word/*dhe-)，意思是“放置”或“设定”）。
-
-“使更易于完成”的意思出现在1759年。而作为不及物动词“变得不那么复杂”则是在1874年被记录的。相关词汇包括 Simplified（已简化）和 simplifying（正在简化）。
+## simplify(v.)
+"使簡單或更簡單，從複雜中減少"，1650年代，來自法語 simplifier "使更簡單"（15世紀），源自中世紀拉丁語 simplificare "簡化"，源自拉丁語 simplex "簡單"（見 [simplex](https://www.etymonline.com/tw/word/simplex)) + facere "製造"的組合形式（源自 PIE 詞根 [*dhe-](https://www.etymonline.com/tw/word/*dhe-) "設置，放置"）。
+"使更容易做"的意思來自1759年。不及物動詞的意思是"變得不那麼複雜"，始於1874年。相關詞彙： Simplified; simplifying。
 
 ---

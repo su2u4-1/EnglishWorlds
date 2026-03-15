@@ -1,26 +1,19 @@
 # conservative
 
-## Origin and history of conservative
-### conservative(adj.)
-
-14世纪晚期，conservatyf，意为“倾向于保护或保留，具有保护作用，能够保持完整或安全”，源自古法语的conservatif，再往前追溯到中世纪拉丁语的conservativus，最终源自拉丁语的conservatus，这是动词conservare（意为“保持，保护，维持完整，守护”）的过去分词。这个词的构成可以分解为：前缀com-（在这里可能起到强调作用，参见[com-](https://www.etymonline.com/word/com-)），加上servare（意为“守护，维持”，源自原始印欧语词根[*ser-](https://www.etymonline.com/word/*ser-) (1)，意为“保护”）。
-
-从1840年起，这个词在更广泛的意义上被用来指“倾向于保留和维护既定事物，反对创新和变革”，或在负面上指“反对进步”。
-
-作为一种现代政治传统，conservatism（保守主义）通常指“反对国家制度变革”，尤其是“反对向纯粹民主转变”。这一思想可以追溯到爱德蒙·伯克对法国大革命的反对（1790年），尽管他本人并未使用conservative这个词。这个词是他的法国门徒们创造的，例如夏多布里昂，他在为神职和政治复辟辩护的期刊中使用了"Le Conservateur"（《保守者》）这个标题。
-
-作为英国一个政治派别的名称，Conservative首次出现在1830年《季刊评论》的某篇无署名文章中，这篇文章有时被认为是约翰·威尔逊·克罗克所写。到1843年，这个词取代了[Tory](https://www.etymonline.com/word/Tory)（保皇党），反映了人们对这一贬义名称的改变，以及对某些反动政策的拒绝。
+## conservative(adj.)
+14世紀晚期， conservatyf，“傾向於保護或保護，有保全或安全的力量”，來自古法語 conservatif，源自中世紀拉丁語 conservativus，源自拉丁語 conservatus，過去分詞 conservare “保持，保護，保持完整，保護”，來自 com- 的同化形式，這裏可能是一個強調前綴（見 [com-](https://www.etymonline.com/tw/word/com-)），加上 servare “保持觀察，維護”（來自 PIE 根 [*ser-](https://www.etymonline.com/tw/word/*ser-)（1）“保護”）。
+從1840年開始，一般意義上的“傾向於保留和維護已經建立的東西，反對創新和變革”，或者在消極意義上“反對進步”。
+作爲現代政治傳統，“反對一個國家的制度變革”，通常特別是“反對朝着純民主的變革”， conservatism 追溯到埃德蒙·伯克（Edmund Burke）反對法國大革命（1790年），但是 conservative 這個詞沒有出現在他的著作中。它是由他的法國門徒（例如夏多布里昂（Chateaubriand），他的日報捍衛教士和政治恢復 "Le Conservateur"）創造的。
+Conservative 作爲英國政治派別的名稱首次出現在1830年的“Quarterly Review”中，是一篇匿名文章，有時被歸因於約翰·威爾遜·克羅克（John Wilson Croker）。它在1843年取代了 [Tory](https://www.etymonline.com/tw/word/Tory)（參見）的名稱，反映了從貶義名稱（使用了150年）的變化和對一些反動政策的否認。
 
 > Strictly speaking, conservatism is not a political system, and certainly not an ideology. ... Instead, conservatism is a way of looking at the civil social order. ... Unlike socialism, anarchism, and even liberalism, then, conservatism offers no universal pattern of politics for adoption everywhere. On the contrary, conservatives reason that social institutions always must differ considerably from nation to nation, since any land's politics must be the product of that country's dominant religion, ancient customs, and historical experience. [Russell Kirk, "What is Conservatism," introduction to "The Portable Conservative Reader," 1982]
 
-> 严格来说，保守主义不是一种政治制度，更不是意识形态。……相反，保守主义是一种看待社会秩序的方式。……与社会主义、无政府主义甚至自由主义不同，保守主义并不提供一种普遍适用的政治模式。相反，保守派认为，社会制度在不同国家之间总是会有显著差异，因为一个国家的政治必须是其主导宗教、古老习俗和历史经验的产物。[拉塞尔·柯克，《什么是保守主义》，《便携式保守主义读本》导言，1982年]
+> 嚴格來說，保守主義不是一個政治體系，當然也不是一個意識形態。...相反，保守主義是一種看待公民社會秩序的方式。...與社會主義、無政府主義甚至自由主義不同，保守主義沒有普遍的政治模式可以在任何地方採用。相反，保守派認爲，社會制度必須在國家之間有很大的不同，因爲任何土地的政治必須是該國主要宗教、古老習俗和歷史經驗的產物。[拉塞爾·柯克（Russell Kirk），“什麼是保守主義”，《便攜式保守讀者》（1982）介紹]
 
-像conservative estimate（保守估计，1874年）这样的短语，从词源上看并没有逻辑。相关词汇包括：Conservatively; conservativeness.
+諸如 conservative estimate（1874）之類的短語，其中它的意思是“以謹慎爲特徵，故意低”，在詞源上沒有意義。相關： Conservatively; conservativeness.
 
 ---
-## conservative (related entry 1)
-### conservative(n.)
-
-14世纪晚期，指“保存的手段，防腐剂”，源自 [conservative](https://www.etymonline.com/word/conservative)（形容词）。政治上的用法始于1831年，最初是在英国语境中。
+## conservative(n.)
+14世紀後期，“保存手段，防腐劑”的意思來自 [conservative](https://www.etymonline.com/tw/word/conservative) （形容詞）。這個詞在政治上的用法始於1831年，最初只在英國範圍內使用。
 
 ---

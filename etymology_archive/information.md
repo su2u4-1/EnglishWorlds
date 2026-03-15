@@ -1,10 +1,7 @@
 # information
 
-## Origin and history of information
-### information(n.)
-
-这个词最早出现在14世纪晚期，拼写为informacion，意思是“告知的行为，消息的传递”。它源自古法语的informacion和enformacion，意为“建议，指导”。进一步追溯，它来自拉丁语informationem（主格为informatio），原意是“轮廓，概念，想法”，是一个名词，表示“通过informare（意为“培训，指导，教育；塑造，赋予形状”）这一动词的过去分词形式所衍生的动作名词”（参见[inform](https://www.etymonline.com/word/inform)）。16世纪时，拉丁语的拼写逐渐恢复。
-
-到了15世纪中期，这个词的含义扩展为“关于特定主题传达的知识”。1937年，它首次被用来指代电视广播信号；1944年，指代打孔卡片操作系统；1953年，指代DNA。Information theory（信息论）一词出现在1950年；information technology（信息技术）则是在1958年由《哈佛商业评论》创造的；information revolution（信息革命）这一概念则是在1966年提出的，指计算机技术的进步将引发的变革。Information overload（信息过载）则是在1967年被提出的。
+## information(n.)
+14世紀後期，" informacion "，表示"通知的行爲，傳遞消息"，源自古法語" informacion "、" enformacion "，源於拉丁語" informationem "（主格形式爲" informatio "），意爲"概要，概念，思想"，是" informare "的動名詞形式，意爲"訓練，指導，教育； 塑造，賦予形式" （參見  [inform](https://www.etymonline.com/tw/word/inform) ）。其恢復的拉丁拼寫是在16世紀。
+意指"關於特定主題的傳達的知識"，始見於15世紀中期。該詞曾被用於1937年電視廣播信號的引用； 1944年用於指打孔卡片操作系統； 1953年用於描述 DNA。 Information theory 誕生於1950年； information technology 用於商業管理領域的術語，創於1958年（起初爲"《哈佛商業評論》"雜誌所編）； information revolution 由於計算機技術的進步，在1966年誕生； 而 Information overload 誕生於1967年。
 
 ---

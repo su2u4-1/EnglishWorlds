@@ -1,16 +1,11 @@
 # correct
 
-## Origin and history of correct
-### correct(v.)
-
-大约在14世纪中期，“通过惩罚某人的错误或过失来使其改正，进行纪律处分”；到14世纪晚期，这个词又用于文本，意指“使其符合标准或原文”。这个词源于拉丁语 correctus，是 corrigere 的过去分词，意思是“使直，试图使（弯曲的东西）变直，整理，纠正”。在引申义中，它还表示“改革，修正”，尤其是针对语言或写作的改进。这可能源自 com- 的同化形式，可能是一个强调前缀（参见 [com-](https://www.etymonline.com/word/com-)），加上 regere，意为“引导直行，统治”（源自原始印欧词根 [*reg-](https://www.etymonline.com/word/*reg-)，意为“直线运动”，其衍生义是“沿直线引导”，因此引申为“领导，统治”）。
-
-“去除或抵消某种作用”的意思出现在14世纪晚期。相关词汇包括 Corrected（已纠正）和 correcting（正在纠正）。
+## correct(v.)
+14世紀中期，“通過懲罰錯誤或過失來糾正（某人），懲戒； ”14世紀晚期，針對文本，“使符合標準或原始版本，”源自拉丁語 correctus，是 corrigere 的過去分詞，“使直，試圖使（彎曲的東西）變直，整理，糾正； ”在轉義中，“改革，改正”，特別是針對言語或寫作，來自於 com- 的同化形式，這裏可能是一個強調前綴（參見 [com-](https://www.etymonline.com/tw/word/com-)），加上 regere “引導直線，統治”（來自於 PIE 根 [*reg-](https://www.etymonline.com/tw/word/*reg-) “沿直線移動”，具有指導沿直線運動的派生詞，因此是“引導，統治”）。
+“消除或抵消作用”的意思來自14世紀晚期。相關詞彙： Corrected； correcting。
 
 ---
-## correct (related entry 1)
-### correct(adj.)
-
-“根据某一标准、模型或原始版本的一致性或符合性”，这个意思出现在1670年代，源自法语 correct，意为“正确的，合适的”。它又来自拉丁语 correctus，是 corrigere 的过去分词，意思是“纠正；改革”（参见 [correct](https://www.etymonline.com/word/correct) (v.)）。相关词汇包括 Correctly（正确地）和 [correctness](https://www.etymonline.com/word/correctness)（正确性）。
+## correct(adj.)
+"符合某種標準、模型或原始的要求或協議"，來自1670年代的法語 correct，意爲"正確的，適當的"，源自拉丁語 correctus，是 corrigere 的過去分詞，意爲"使直，改正"（參見 [correct](https://www.etymonline.com/tw/word/correct)（動詞））。相關詞彙： Correctly； [correctness](https://www.etymonline.com/tw/word/correctness)。
 
 ---

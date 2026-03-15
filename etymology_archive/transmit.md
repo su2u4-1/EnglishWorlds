@@ -1,10 +1,8 @@
 # transmit
 
-## Origin and history of transmit
-### transmit(v.)
+## transmit(v.)
+「發送、轉交或傳遞；使某物傳遞或前往另一個人或地方」，這個用法可以追溯到大約公元1400年，當時的拼寫是transmitten，源自拉丁語transmittere，意為「送過去、使穿越、轉移、傳遞」。這個詞由trans（意為「穿越、超越」，參見[trans-](https://www.etymonline.com/tw/word/trans-)）和mittere（意為「釋放、放開；發送、投擲」，參見[mission](https://www.etymonline.com/tw/word/mission)）組成。到了1620年代，這個詞還被用來比喻「傳達、與他人溝通」。相關詞彙包括Transmitted（已傳送）和transmitting（正在傳送）。
 
-“发送、转交、传递；使某物传递或到达另一个人或地方”，这个意思大约在公元1400年出现，源自拉丁语的transmittere，意为“送往、使通过、转移、传递”。其中，trans意为“穿越、超越”（参见[trans-](https://www.etymonline.com/word/trans-)），而mittere则是“释放、放开；发送、投掷”（参见[mission](https://www.etymonline.com/word/mission)）。从比喻意义上讲，它在1620年代开始被用来表示“传达、沟通”。相关词汇包括Transmitted（已传递）和transmitting（正在传递）。
-
-一个已废弃的动词形式是transmiss或transmise（中古英语中为transmisen），它源自transmis-，即古法语中对应动词的过去分词词干。
+一個已經過時的替代動詞transmiss或transmise（中古英語transmisen）來自transmis-，這是對應的古法語動詞的過去分詞詞幹。
 
 ---

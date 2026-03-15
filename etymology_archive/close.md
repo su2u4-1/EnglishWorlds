@@ -1,32 +1,21 @@
 # close
 
-## Origin and history of close
-### close(v.)
-
-(klōz)，大约公元1200年，意为“关闭，覆盖”，源自古法语 clos-（clore 的过去分词词干，意为“关闭，切断”），12世纪起源于拉丁语 clausus，是 claudere 的过去分词，意为“关闭，封闭；阻塞，使无法进入；结束；圈住，限制”。这个词的词根来自原始印欧语 [*klau-](https://www.etymonline.com/word/*klau-)，意为“钩子”，也可以指“钉子，钉子，别针”，这些都是古代建筑中用作锁或栓的工具。
-
-这个词也部分源自古英语 beclysan，意为“封闭，关闭”。不及物用法“变得关闭”出现在14世纪晚期。1520年代，它还引申出“接近”的意思。1550年代，它又发展出“不及物”意义，表示“聚集在一起，团结起来”，这也是军事用语 close ranks（17世纪中期）的来源，后来这个短语被赋予了比喻意义。约公元1400年，它开始表示“结束，完成”；而不及物用法“结束”则出现在1826年。关于股票价格的用法始于1860年。表示“将（书籍等）的部分合并在一起”这一意义出现在1560年代。相关词汇包括：[Closed](https://www.etymonline.com/word/Closed)（关闭的）；[closing](https://www.etymonline.com/word/closing)（关闭，结束）。
+## close(v.)
+(klōz)，約1200年，“關閉，覆蓋”，源自古法語 clos-（clore 的過去分詞詞幹，“關閉，切斷”），12世紀，來自拉丁語 clausus， claudere 的過去分詞，“關閉，封鎖； 使無法接近； 結束； 關閉，封閉，限制”（在複合詞中始終爲 -clusus， -cludere），源自 PIE 詞根 [*klau-](https://www.etymonline.com/tw/word/*klau-)，“鉤”，也是原始結構中用作鎖或插銷的所有物品，如釘子、釘子、釘子。
+也部分來自古英語 beclysan “關閉，封鎖”。不及物動詞“變得關閉”來自14世紀後期。意思“靠近”來自1520年代。不及物意思“聚集在一起，聚集在一起”來自1550年代，因此在軍事動詞短語 close ranks（17世紀中期）中有了象徵性的擴展。意思“結束，完成”來自約1400年； 不及物意思“結束”來自1826年。關於股票價格的含義，從1860年開始。意思“將（書等）的部分組合在一起”來自1560年代。相關： [Closed](https://www.etymonline.com/tw/word/closed)； [closing](https://www.etymonline.com/tw/word/closing)。
 
 ---
-## close (related entry 1)
-### close(adj.)
-
-(klōs)，14世纪晚期，意为“严格限制”，也有“秘密”的意思，部分来源于动词 [close](https://www.etymonline.com/word/close) 的过去分词形容词，部分来自古法语 clos，意为“被限制的；隐蔽的，秘密的；沉默寡言的”（12世纪），源自拉丁语 clausus，意为“关闭的，保留的”，也是过去分词形容词，来自 claudere，意为“封闭，固定，关闭”（参见 [close](https://www.etymonline.com/word/close) (v.)）。主要意义在15世纪晚期转变为“接近”，源自“缩短两者之间的距离或空隙”的动词意义。相关词：Closely。
-
-在英语中，“狭窄限制，被困”这一意义出现在14世纪晚期。1560年代起，该词在形象意义上用于形容人“接近”。1660年代，该词又引申为“注重细节”。1650年代，它还被用来形容“吝啬，贫穷”。至于比赛或其他竞赛的意义，则出现在1855年。
-
-Close call（“险些失败”）一词出现在1866年，最早的引用来自1863年的一则轶事，可能起源于美国内战；而 close shave（比喻意义上的“侥幸逃脱”）则出现在1820年，属于美式英语。Close range（名词，意为“短距离”）则始于1814年。Close-minded 这一词汇的使用可追溯至1818年。Close-fisted（“吝啬，守财”）大约出现在1600年，源于“紧握双手”的概念。
+## close(adj.)
+(klōs)，14世紀晚期，“嚴格限制的”，也“祕密的”，部分是來自於 [close](https://www.etymonline.com/tw/word/close)（v.）的過去分詞形容詞，部分來自於12世紀的古法語 clos “被限制的； 隱蔽的，祕密的； 沉默寡言的”，源自於拉丁語 clausus “關閉，保留”，是 claudere “堵住，固定，關閉”（參見 [close](https://www.etymonline.com/tw/word/close)（v.））的過去分詞形容詞。主要意義從“嚴密的”轉變爲“近的”（15世紀晚期），來自於“關閉兩個物體之間的間隙或開口”的動詞意義。相關： Closely。
+在英語中，“狹窄的，被限制的”意義來自於14世紀晚期。人的比喻意義中，“近的”來自於1560年代。 “注意細節的”意義來自於1660年代。 “吝嗇的，小氣的”意義來自於1650年代。關於比賽或其他競賽，最早見於1855年。
+Close call 的意思是“險些逃脫”，最早見於1866年，引自1863年的軼事，可能是美國內戰時期的一個術語； 比喻意義上的 close shave 是1820年，美國英語。 Close range（n.）“短距離”來自1814年。 Close-minded 最早見於1818年。 Close-fisted 的意思是“吝嗇的，守財奴的”，最早可追溯到1600年，意爲“緊緊握住手”。
 
 ---
-## close (related entry 2)
-### close(n.)
-
-(klōz)，14世纪晚期，意为“关闭的行为、结尾、终止”，源自动词 [close](https://www.etymonline.com/word/close)。早期还用作“围起来的地方、封闭的空间”（13世纪晚期），来自古法语 clos，是过去分词的名词用法。特别是在音乐中，指“乐句或乐段的结束”，出现于1590年代。
+## close(n.)
+(klōz)，14世紀晚期，“關閉，結束，終止”的意思，來自於 [close](https://www.etymonline.com/tw/word/close)（v.）。早期也用於“封閉，封閉的空間”（13世紀晚期），來自於古法語 clos，是過去分詞的名詞用法。具體在音樂中，“一段樂曲或樂章的結尾”，在1590年代出現。
 
 ---
-## close (related entry 3)
-### close(adv.)
-
-(klōs)，意为“紧密地，没有开口或缝隙”，出现在14世纪晚期，源自 [close](https://www.etymonline.com/word/close)（形容词）。
+## close(adv.)
+(klōs)，意爲“緊緊地，沒有間隙或空隙”，14世紀晚期源自 [close](https://www.etymonline.com/tw/word/close)（形容詞）。
 
 ---

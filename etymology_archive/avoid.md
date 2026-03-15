@@ -1,10 +1,7 @@
 # avoid
 
-## Origin and history of avoid
-### avoid(v.)
-
-14世纪晚期，"避开（某人），避免（某事），与（某行动、丑闻等）无关，逃避，躲避"。这个词源于盎格鲁法语的 avoider，意为“清理，撤退（自己）”，部分借用自古法语的 esvuidier，意思是“清空”，由 es-（意为“出去”，参见 [ex-](https://www.etymonline.com/word/ex-)）+ vuidier（意为“变空”）构成，而 vuidier 则源自 voide（意为“空的，广阔的，空心的，荒废的”）。这一系列词最终追溯到拉丁语 vocivus（意为“未被占用的，空闲的”），它是 vacare（意为“空着”）的派生词，来自原始印欧语 \*wak-，其扩展形式 [*eue-](https://www.etymonline.com/word/*eue-) 意为“离开，抛弃，放弃”。
-
-在中古英语中，这个词的含义非常广泛，现在大部分已不再使用，包括“清空，摆脱，取出，移除，排出体外，送走；驱逐或放逐；摧毁，删除；离开或抛弃，走开”等。如今的主要含义与古法语的 eviter 相对应，可能曾与其混淆。相关词汇包括 Avoided（已避免）和 avoiding（正在避免）。
+## avoid(v.)
+14世紀晚期，“避免（某人），避免（某事），與（行動，醜聞等）無關，逃避，迴避”，源自盎格魯-法語 avoider “清除，撤退（自己）”，部分源自古法語 esvuidier “倒空”，來自 es- “出”（見 [ex-](https://www.etymonline.com/tw/word/ex-)）+ vuidier “爲空”，來自 voide “空的，廣闊的，空洞的，荒廢的”，來自拉丁語 vocivos “未被佔用的，空置的”，與 vacare “爲空”有關（來自 PIE \*wak-，是 [*eue-](https://www.etymonline.com/tw/word/*eue-) “離開，放棄，放出”根的擴展形式）。
+在中古英語中，有廣泛的意義，現已過時：“清空，擺脫，取出，移除，從身體中排出，趕走或放逐，摧毀，抹去，離開或放棄，離開。”當前的意義對應於古法語 eviter，可能與之混淆。相關： Avoided； avoiding。
 
 ---

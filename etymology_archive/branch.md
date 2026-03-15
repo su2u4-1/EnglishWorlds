@@ -1,16 +1,11 @@
 # branch
 
-## Origin and history of branch
-### branch(n.)
-
-大约公元1300年，braunch，意为“树木或灌木的干部分支或细分部分”（也用于指代与树干关系相似的东西，如地理特征、家族谱系），源自古法语branche，意为“树枝、树杈、嫩枝；家族的分支”（12世纪），进一步追溯至晚期拉丁语branca，原意是“足迹”，后来引申为“爪子、脚掌”，其具体来源尚不明确，可能源自高卢语。连接这些概念的核心在于它们的形状（参见[pedigree](https://www.etymonline.com/word/pedigree)）。
-
-在英语中，它取代了本土词[bough](https://www.etymonline.com/word/bough)。到1817年，“商业的地方办公室”这一含义开始出现，这一用法源自1690年代“系统的组成部分”这一早期意义。
+## branch(n.)
+約於1300年， braunch，指“樹木或灌木的主幹或分支”（也用於類似於分支與樹幹的關係的地理特徵、家族血統等事物），源自於古法語 branche “樹枝、樹枝、小枝； 家族的分支”（12世紀），源自於晚期拉丁語 branca “足跡”，後來是“爪子、爪子”，其起源不詳，據說可能來自高盧語。聯繫的概念將是形狀（比較 [pedigree](https://www.etymonline.com/tw/word/pedigree)）。
+在英語中，它取代了本土的 [bough](https://www.etymonline.com/tw/word/bough)。 “企業的地方辦事處”一詞記錄於1817年，源自於“系統組成部分”的早期意義（1690年代）。
 
 ---
-## branch (related entry 1)
-### branch(v.)
-
-“发出新芽或新枝”，最早出现在14世纪晚期，也用于描述血管、家谱等“分叉”。这个词源于 [branch](https://www.etymonline.com/word/branch)（名词）。而“从中心向外扩展，辐射”的意思大约出现在1400年左右。相关词汇有：Branched（已分叉），branching（分叉中）。
+## branch(v.)
+“發出新芽或新枝”，14世紀晚期，也指血管、家族譜等“分叉”，源自於 [branch](https://www.etymonline.com/tw/word/branch)（n.）。“從中心擴散，輻射”的意思始於約1400年。相關詞彙： Branched； branching。
 
 ---

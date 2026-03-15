@@ -1,20 +1,14 @@
 # mimic
 
-## Origin and history of mimic
-### mimic(n.)
-
-“模仿者，哑剧演员”，这个词最早出现在1580年代，源自拉丁语 mimicus，而拉丁语又来自希腊语 mimikos，意指“与哑剧演员相关的”，进一步追溯则是希腊语 mimos，意为“哑剧演员”（参见 [mime](https://www.etymonline.com/word/mime) (n.)）。
+## mimic(n.)
+"模仿者，模仿表演者"，來自1580年代的拉丁語 mimicus，源自希臘語 mimikos "關於模仿表演者的"，來自 mimos "模仿表演者"（參見 [mime](https://www.etymonline.com/tw/word/mime)（名詞））。
 
 ---
-## mimic (related entry 1)
-### mimic(v.)
-
-“模仿、效仿，尤其是在言语或行动上”，这个意思出现在1680年代，源自 [mimic](https://www.etymonline.com/word/mimic)（名词）。相关词汇包括 Mimicked（过去式）、mimicking（现在分词）。
+## mimic(v.)
+"模仿，模擬或複製言語或行動"，來自1680年代的 [mimic](https://www.etymonline.com/tw/word/mimic)（名詞）。相關詞彙： Mimicked； mimicking。
 
 ---
-## mimic (related entry 2)
-### mimic(adj.)
-
-“作为哑剧演员，练习模仿，源于或由模仿产生的”，这个词最早出现在1590年代，源自拉丁语 mimicus，而拉丁语又来自希腊语 mimikos，意为“与哑剧演员相关的”。它是一个动词形容词，来自 mimeisthai，意思是“模仿、表现、模拟、描绘”。在艺术中，这个词指的是“通过模仿来表达”，而 mimos 则意为“哑剧演员”（参见 [mime](https://www.etymonline.com/word/mime) (n.)）。
+## mimic(adj.)
+"扮演啞劇，練習模仿，由模仿產生的或由模仿組成的，" 1590年代，源自拉丁語 mimicus，來自希臘語 mimikos "關於啞劇的"，動詞形容詞，來自 mimeisthai "模仿，代表，模擬，描繪"，在藝術中，“通過模仿表達”，來自 mimos "啞劇"（參見 [mime](https://www.etymonline.com/tw/word/mime)（n.））。
 
 ---

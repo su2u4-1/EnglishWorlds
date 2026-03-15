@@ -1,8 +1,6 @@
 # envelope
 
-## Origin and history of envelope
-### envelope(n.)
-
-“一个包裹，一个封闭的外层”，特别指为信件或其他文件准备的封套，1705年，来自法语 enveloppe（13世纪），是从 envelopper “包裹， envelop” 演变而来的（参见 [envelop](https://www.etymonline.com/word/envelop)）。
+## envelope(n.)
+"一種包裝材料，一種封套，" 特指用於信件或其他紙張的準備好的封套，起源於1705年，源自法語 enveloppe（13世紀），是從 envelopper "包裹"（參見 [envelop](https://www.etymonline.com/tw/word/envelop)）中反推出來的。
 
 ---

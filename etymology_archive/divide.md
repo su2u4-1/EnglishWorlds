@@ -1,16 +1,11 @@
 # divide
 
-## Origin and history of divide
-### divide(v.)
-
-14世纪初，"分开成部分或碎片"的意思，源自拉丁语 dividere，意为"强行分开、劈开、分配"。这个词由 dis-（意为"分开"，参见 [dis-](https://www.etymonline.com/word/dis-)）和 -videre（意为"分开"）结合而来。根据 de Vaan 的说法，-videre 源自原始印欧语 \*(d)uid-，意为"分开、区分"，这个词也衍生出了梵语 avidhat（意为"分配"）、古波斯语 vida-（意为"献身于"）等词汇。他提到，"原始的印欧语动词……（在拉丁语中演变为主题词）意为'分成两部分，分开'。在与下一个齿音辅音结合时，词首的 \*d- 通过音变消失，但在拉丁语中又通过 dis- 得到了强化……" 也可以与 [devise](https://www.etymonline.com/word/devise) 进行比较。
-
-这个词在14世纪末期首次被用来表示"切断与……的联系或联合"，也有"使分离、使意见不合"的意思。1520年代起，它还被用作不及物动词，表示"分裂成多个部分"。15世纪初，它在数学中被用来表示"进行除法运算"。Divide and rule（约公元1600年）翻译自拉丁语 divide et impera，这是马基雅维利的一句格言。相关词汇包括：Divided（分开的）、dividing（分割的）。
+## divide(v.)
+14世紀初，“將...分成部分或碎片”，源自拉丁語 dividere “強制分開，劈開，分配”，由拉丁語中的同化形式 dis- “分開”（見 [dis-](https://www.etymonline.com/tw/word/dis-)）和 -videre “分開”組成，根據德·凡（de Vaan）的說法，它來自於原始印歐語言 \*(d)uid- “分開，區分”（源頭還包括梵語 avidhat “分配”，古阿維斯陀語 vida- “獻身於”）。他寫道：“原始的印歐語言動詞...（在拉丁語中變成了主題形式）的意思是‘將...分成兩部分，分開’。它在下一個牙齒停頓前通過去音位化失去了\*d-，並在拉丁語中被 dis- 加強...”還可參見 [devise](https://www.etymonline.com/tw/word/devise)。
+它自14世紀末開始被用作“分離或斷開聯合或連接”，也用作“分裂，導致意見不一致”。不及物動詞的意思是“分成部分”。數學意義上的“執行除法運算”始於15世紀初。 Divide and rule（約1600年）翻譯自拉丁語 divide et impera，是馬基雅維利的一句箴言。相關詞彙： Divided； dividing。
 
 ---
-## divide (related entry 1)
-### divide(n.)
-
-1640年代，意为“分割的行为”，源自 [divide](https://www.etymonline.com/word/divide)（动词）。到1807年，在美式英语中记录了“分水岭，河谷之间的分界线”这一含义。
+## divide(n.)
+1640年代，“分割的行爲”，源自於 [divide](https://www.etymonline.com/tw/word/divide)（v.）。1807年，美國英語中記錄了“分水嶺，河谷之間的分界線”的含義。
 
 ---

@@ -1,42 +1,33 @@
 # second
 
-## Origin and history of second
-### second(adj.)
+## second(adj.)
+約公元1300年，「在順序、位置、時間等方面，緊接第一的；序數；被視為分為兩個相等部分的整體之一」；來自古法語 second, secont，直接源自拉丁語 secundus「跟隨的，接下來的，時間或順序上的」，也有「次要的，從屬的，劣等的」之意，來自原始印歐語 \*sekw-ondo-，是詞根 [*sekw-](https://www.etymonline.com/tw/word/*sekw-)「跟隨」的分詞形式。
 
-约公元1300年，“在顺序、地点、时间等方面，紧随其后；序数词；被视为整体的两个相等部分之一；”来自古法语second，secont，直接源自拉丁语secundus“跟随的，接下来的，次序中的”，也有“次要的，附属的，劣等的”之意，来自原始印欧语\*sekw-ondo-，是词根[*sekw-](https://www.etymonline.com/word/*sekw-)“跟随”的分词形式。
+由於早期詞語的模糊性，它在這個意義上取代了本土詞 [other](https://www.etymonline.com/tw/word/other)。從14世紀末起，作為「其他，另一個」（如「無第二個特洛伊」），也指「在排名、質量或重要性上次之的」。
 
-由于早期词汇的模糊性，它在此意义上取代了本土词[other](https://www.etymonline.com/word/other)。从14世纪晚期起，作为“其他，另一个”（如“No Second Troy”），也指“在等级、质量或重要性上次序中的下一个”。
+Second sight出現於1610年代；它可能意味著除了眼睛的物理視覺外，還有第二種視覺，但從詞源上看是扭曲的，因為它指的是事件發生或揭示之前的視覺，而不是之後。Second-degree在亞里士多德的四級性質中一般指「次低級」，來自中世英語；在提及燒傷時，始於1890年。
 
-Second sight出现在1610年代；它可能意味着除了眼睛的物理视力外的第二种视角，但从词源上看是错误的，因为它指的是事件发生或揭示之前的视力，而不是之后。Second-degree在亚里士多德的四级质量中一般指“次低级别”，源自中英语；在谈到烧伤时，始于1890年。
-
-Second fiddle在1809年被证实：
+Second fiddle於1809年被證實：
 
 > A metaphor borrowed from a musical performer who plays the second or counter to one who plays the first or the "air." [Bartlett, "Dictionary of Americanisms," 1848]
 
-> 一个比喻，借用自一个音乐表演者，他plays the second或与演奏第一或“旋律”的人相对。[Bartlett, "Dictionary of Americanisms," 1848]
+> 這是一個隱喻，借用自一位音樂表演者，他 plays the second 或者對應於演奏第一或「旋律」的表演者。[Bartlett, "Dictionary of Americanisms," 1848]
 
-字面上play first violin，比喻义为“担任主导角色”在1780年被证实。
+比喻地說，play first violin，即「擔任主導角色」，於1780年被證實。
 
-拉丁语secundus，tertius等附加在英语学校的个人名字上（用于按年长顺序指定同姓男孩）在1826年被证实。
-
----
-## second (related entry 1)
-### second(n.1)
-
-“一分钟的六十分之一”，也就是“时间的六十分之一”，这个词最早出现在14世纪晚期的几何和天文学中，称为seconde。它源自古法语seconde，再往前追溯则是中世纪拉丁语secunda，其实是secunda pars minuta的缩写，意思是“第二个细分部分”。这个概念是将一个小时分成六十份后的结果（第一次分割得到的是“prime minute”，现在我们称之为[minute](https://www.etymonline.com/word/minute)）。而拉丁语中的secunda是secundus的阴性形式，意为“跟随的，时间或顺序上的下一个”，这也与[second](https://www.etymonline.com/word/second)（形容词）相关。
-
-钟表上的second hand，也就是指示秒数流逝的指针，最早可以追溯到1759年。
+拉丁語 secundus, tertius 等附加於英語學校的個人名字上（以年長者的順序指定同姓男孩）於1826年被證實。
 
 ---
-## second (related entry 2)
-### second(v.)
-
-1580年代，表示“支持或代表某人”，尤其是在决斗、拳击比赛等场合。这个词源于法语 seconder，而法语又来自拉丁语 secundare，意为“协助、适应、顺利引导”（同样词源的还有西班牙语 segundar）。拉丁语 secundus 意为“协助的、有利的；跟随的、时间或顺序上的下一个”（参见 [second](https://www.etymonline.com/word/second) (adj.)）。在议会中的用法可以追溯到1590年代，指“正式表达对某个提案等的支持和批准，这是进一步讨论的必要前提”。相关词汇包括 Seconded（已支持）和 seconding（支持中）。
+## second(n.1)
+“一度的六十分之一”，也指“一分鐘的六十分之一”，14世紀後期用於幾何學和天文學， seconde，源自古法語 seconde，來自中世紀拉丁語 secunda，縮寫自 secunda pars minuta，即將一小時分成六十份的第二個部分（第一個部分是“prime minute”，現在簡稱 [minute](https://www.etymonline.com/tw/word/minute)），來自拉丁語 secunda，是 secundus 的女性形式，意爲“接下來的，時間或順序上的下一個”（參見 [second](https://www.etymonline.com/tw/word/second)（形容詞））。
+鐘錶上指示秒數的指針稱爲 second hand，最早見於1759年。
 
 ---
-## second (related entry 3)
-### second(n.2)
+## second(v.)
+1580年代，“支持或代表（某人）”，尤其是在決鬥、拳擊比賽等中，源自法語 seconder，源自拉丁語 secundare “協助、適應、有利地指導”（源頭還包括西班牙語 segundar），源自 secundus “協助的、有利的； 接下來的、時間或順序上的下一個”（參見 [second](https://www.etymonline.com/tw/word/second)（形容詞））。議會意義記錄於1590年代：“正式表達對（動議等）的贊同和支持，作爲進一步討論的必要前提。” 相關： Seconded； seconding。
 
-14世纪初，意为“在另一个或第一个之后紧接着的那一个”，源自 [second](https://www.etymonline.com/word/second)（形容词）。也可以与中古英语的 seconde（名词）比较，意指“在权威上位居第二的人”。作为“助手，支持者”，特别是指“在决斗或拳击比赛中陪伴主角的人”，大约在1580年代开始使用（源自 [second](https://www.etymonline.com/word/second) 动词）。作为美国棒球中 second base 的缩写，出现于1861年。
+---
+## second(n.2)
+14世紀早期，“在另一個或第一個之後的下一個”，來自 [second](https://www.etymonline.com/tw/word/second)（形容詞）。還比較中古英語 seconde（名詞）“在權威上排名第二的人”。從1580年代開始作爲“助手，支持者”，尤其是“在決鬥或拳擊比賽中陪同主要參賽者的人”（來自 [second](https://www.etymonline.com/tw/word/second)（動詞））。作爲美國棒球中 second base 的簡稱，自1861年起。
 
 ---

@@ -1,14 +1,10 @@
 # prefix
 
-## Origin and history of prefix
-### prefix(n.)
-
-在语法中，“附加在一个词前面，用来修饰其意义或指导其应用的词或音节，通常是一个词或音节（很少超过两个）”，这个定义可以追溯到1640年代。它源自拉丁语 praefixum，是名词形式，来自中性过去分词 praefigere，意思是“固定在前面，先行固定”。这个词又可以拆分为 prae（意为“在前”，参见 [pre-](https://www.etymonline.com/word/pre-)）和 figere（意为“固定，固定住”，源自原始印欧语词根 [*dheigw-](https://www.etymonline.com/word/*dheigw-)，意为“粘贴，固定”）。相关词汇包括 Prefixal。
+## prefix(n.)
+在語法中，“詞綴或音節或兩個音節（很少更多）附加在單詞前面，以限定其含義或指導其應用”，1640年代，源自拉丁語 praefixum，是 praefigere 的過去分詞中性名詞用法，“在前面固定，固定在前面”，來自 prae “在前面”（見 [pre-](https://www.etymonline.com/tw/word/pre-)) + figere “固定，固定”（來自 PIE 根 [*dheigw-](https://www.etymonline.com/tw/word/*dheigw-) “粘，固定”）。相關： Prefixal。
 
 ---
-## prefix (related entry 1)
-### prefix(v.)
-
-在15世纪初，prefixen这个词出现，意为“提前指定”或“预先安排”。它源自古法语的prefixer，由pre-（意为“之前”，参见[pre-](https://www.etymonline.com/word/pre-)）和\*fixer（参见[fix](https://www.etymonline.com/word/fix) (v.)）组合而成。此外，它还与拉丁语的praefixus（praefigere的过去分词）有联系。这个词最初的意思是“放在开始位置”，大约在1530年代被广泛使用；而用于形容词或词的前缀则大约在1600年左右出现。相关词汇包括Prefixed（已加前缀）和prefixing（正在加前缀）。
+## prefix(v.)
+15世紀早期， prefixen，“預先任命”，源自古法語 prefixer，源自 pre- “之前”（見 [pre-](https://www.etymonline.com/tw/word/pre-)) + \* fixer（見 [fix](https://www.etymonline.com/tw/word/fix)（v.））。還可參考拉丁語 praefixus， praefigere 的過去分詞。意思是“放在開頭”，始於1530年代； 指單詞或單詞的一部分始於1600年代。相關詞彙： Prefixed； prefixing。
 
 ---

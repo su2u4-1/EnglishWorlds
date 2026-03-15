@@ -1,9 +1,7 @@
 # careful
 
-## Origin and history of careful
-### careful(adj.)
-
-古英语中的 cearful 意思是“悲伤的，忧愁的”，也可以指“充满忧虑或悲伤的；焦虑的；关心他人或事物的”，因此它还表达了“专注、细心、谨慎”的意思（晚期古英语），这也是现代英语中最主要的含义。这个词来源于 [care](https://www.etymonline.com/word/care)（名词，意为“关心”或“忧虑”）和 [-ful](https://www.etymonline.com/word/-ful)（后缀，表示“充满……的”）。在中古英语中，这个词还可以形容人或物“可怜的，不幸的”，或者“令人恐惧的，可怕的”。例如，Careful-bed（14世纪初）指的是“病床”；careful-day（约1200年）则是“审判日”的意思。
+## careful(adj.)
+古英語 cearful “悲傷的，悲哀的”，也指“充滿關心或悲痛的； 焦慮的； 爲某人或某事物充滿關注”，因此“應用注意力，小心謹慎”（晚期古英語），是主要的現代意義； 源自 [care](https://www.etymonline.com/tw/word/care)（名詞）+ [-ful](https://www.etymonline.com/tw/word/-ful)。在中古英語中，也指“不幸的，不幸的”，用於人或事物； “令人恐懼，可怕的”。Careful-bed（14世紀初）是“病牀”； careful-day（約1200年）是“審判日”。
 
 > Dragons dryfes doun
 
@@ -11,10 +9,10 @@
 
 > ["The Wars of Alexander," c. 1400]
 
-> 龙在空中飞舞
+> 龍發出尖銳的哀鳴
 
-> 发出尖锐而忧虑的呐喊。
+> 帶着敏銳的關切。
 
-> [《亚历山大之战》，约1400年]
+> 【《亞歷山大戰爭》，約1400年】
 
 ---

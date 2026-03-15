@@ -1,8 +1,6 @@
 # excite
 
-## Origin and history of excite
-### excite(v.)
-
-大约在14世纪中期，exciten这个词出现，意思是“移动、激起、煽动”。它来源于古法语的esciter（12世纪），或者直接源自拉丁语的excitare，意为“唤醒、召唤、激发”。这个拉丁词是exciere的频用形式，意思是“召唤、煽动”，由ex（意为“向外”，参见[ex-](https://www.etymonline.com/word/ex-)）和ciere（意为“使运动、呼唤”，源自原始印欧词根[*keie-](https://www.etymonline.com/word/*keie-)，意为“使运动”）构成。关于情感的用法“激发、唤醒”出现在14世纪晚期。至于身体器官或组织的激发，始于1831年。至于“激发情感、情感上煽动”的意义，则可以追溯到1821年。
+## excite(v.)
+14世紀中期， exciten，意爲“移動，激起，煽動”，源自12世紀的古法語 esciter 或直接源自拉丁語 excitare，意爲“喚醒，召喚，產生”，是 exciere 的頻率形式，意爲“召喚，煽動”，源自 ex（見 [ex-](https://www.etymonline.com/tw/word/ex-)) + ciere “啓動，召喚”（源自 PIE 詞根 [*keie-](https://www.etymonline.com/tw/word/*keie-) “啓動”）。感情方面，“激起，喚起”的意思在14世紀後期出現。身體器官或組織的意義在1831年出現。1821年開始出現“激起情感，情感激動”的意義。
 
 ---

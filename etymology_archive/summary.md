@@ -1,16 +1,12 @@
 # summary
 
-## Origin and history of summary
-### summary(adj.)
+## summary(adj.)
+十五世紀初，summari，用來形容陳述或賬目，意指「簡短的，縮略的；僅包含要點或實質內容」，源自中古拉丁語 summarius，意為「關於總和或實質的」，進一步來自拉丁語 summa，意指「整體，總體，主旨」（參見 [sum](https://www.etymonline.com/tw/word/sum#etymonline_v_22336) (n.)）。這與拉丁語短語 ad summam「總的來說，普遍地，簡而言之」相呼應。
 
-15世纪初，summari这个词用来形容陈述或账目，意思是“简洁的，缩略的；仅包含要点或实质内容”。它源自中世纪拉丁语summarius，意为“与总和或实质相关的”，进一步追溯到拉丁语summa，意指“整体，全部，主旨”（参见[sum](https://www.etymonline.com/word/sum) (n.)）。可以对比拉丁短语ad summam，意思是“总体上，通常，简而言之”。
-
-“迅速完成，毫不犹豫或形式化地执行”的意思始于1713年。
+「迅速完成，毫不猶豫或正式地執行」這一意義出現於1713年。
 
 ---
-## summary (related entry 1)
-### summary(n.)
-
-“摘要陈述或叙述”，约公元1500年，源自拉丁语 summarium，意为“概要、摘要、总结”，来自 summa，意为“整体、要点”（参见 [sum](https://www.etymonline.com/word/sum) (n.)）。在法律领域，特别指“向法院或法官提交的简短申请，无需正式的完整程序”。
+## summary(n.)
+"總結陳述或記錄"，約1500年，源自拉丁語 summarium "概要，摘要，總結"，來自 summa "總體，要點"（參見 [sum](https://www.etymonline.com/tw/word/sum)（n.））。
 
 ---

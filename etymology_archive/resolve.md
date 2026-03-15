@@ -1,20 +1,13 @@
 # resolve
 
-## Origin and history of resolve
-### resolve(v.)
-
-14世纪晚期，resolven，意为“融化、溶解、还原为液体；分解成组成部分；通过物理过程改变、变形或性质”。这个不及物用法大约从1400年开始，源自古法语的resolver，或直接来自拉丁语的resolvere，意思是“松开、解开、解除、解释、放松、释放、使无效、驱散”。
-
-这个词由re-构成，可能是强调或表示“回到原状态”（参见[re-](https://www.etymonline.com/word/re-)），加上solvere，意为“松开、解开、释放、解释”。其词源可追溯到原始印欧语的\*se-lu-,，由反身代词\*s(w)e-（参见[idiom](https://www.etymonline.com/word/idiom)）和词根[*leu-](https://www.etymonline.com/word/*leu-)（意为“松开、分开、切割”）组合而成。
-
-从“分解成组成部分”的概念出发，这个词在光学领域获得了“分辨率”的意义（1785年；参见[resolution](https://www.etymonline.com/word/resolution)）。而“通过思维分析还原为基本形式”（14世纪晚期）的概念，则演变出了“经过分析后确定或决定”的意思（1520年代），进而引申为“通过决议”或“通过投票决定”（1580年代）；也用于表示“解决、裁定”争议等（1610年代）。有关词义演变的例子，可以参见[resolute](https://www.etymonline.com/word/resolute)（形容词）。
-
-在中古英语中，这个词还可以表示“将固体蒸发、将蒸汽凝结为液体”等。15世纪中期的一份文献中提到Sche was resoluyd in-to terys，而后来的作者可能会写成she dissolved in tears（她泪如泉涌）。相关词汇包括：[Resolved](https://www.etymonline.com/word/Resolved)（已决议）、resolving（正在解决）。
+## resolve(v.)
+14世紀末， resolven，“融化，溶解，使成液體； 將...分解成組成部分； 通過物理過程改變，改變形式或性質”，“及物動詞意義約自15世紀初； 源自古法語 resolver 或直接源自拉丁語 resolvere “鬆開，解開，解下，解釋； 放鬆； 釋放； 使無效，驅散”。
+這來自於 re-，這裏可能是強調或表示“向後”（參見 [re-](https://www.etymonline.com/tw/word/re-)），加上 solvere “鬆開，解開，釋放，解釋”，源自 PIE \*se-lu-,，來自反身代詞 \*s(w)e-（參見 [idiom](https://www.etymonline.com/tw/word/idiom)）+ 詞根 [*leu-](https://www.etymonline.com/tw/word/*leu-) “鬆開，分開，切開”。
+從“分解成組成部分”的概念中產生了光學上的意義（1785年； 參見 [resolution](https://www.etymonline.com/tw/word/resolution)）。從“通過精神分析將其基本形式化簡”的概念（14世紀末）中產生了“確定，決定”的意義（1520年代），因此在分析後“通過決議”（1580年代）； “決定，解決”爭議等（1610年代）。對於意義的演變，可參考 [resolute](https://www.etymonline.com/tw/word/resolute)（形容詞）。
+在中古英語中還有“將固體蒸發，將蒸汽凝結成液體等”； 15世紀中期的一份文件中有 Sche was resoluyd in-to terys，而後來的作者可能會使用 she dissolved in tears。相關詞彙： [Resolved](https://www.etymonline.com/tw/word/resolved)； resolving。
 
 ---
-## resolve (related entry 1)
-### resolve(n.)
-
-“决心，坚定或固定的目的；一种决心”，这个意思出现在1590年代，来源于 [resolve](https://www.etymonline.com/word/resolve)（动词）。而“一个审议机构的决议”这个含义则是1650年代才出现的。
+## resolve(n.)
+"決心，堅定或固定的目的； 決心"，來自 [resolve](https://www.etymonline.com/tw/word/resolve)（動詞）。  意思是“決策機構的決定”來自1650年代。
 
 ---

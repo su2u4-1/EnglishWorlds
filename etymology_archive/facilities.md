@@ -1,8 +1,6 @@
 # facilities
 
-## Origin and history of facilities
-### facilities(n.)
-
-“opportunities”这个词出现在1809年，是[facility](https://www.etymonline.com/word/facility)的复数形式。它表示“做某事的物理手段”的意思则是从1872年开始的。
+## facilities(n.)
+"機會"，1809年， [facility](https://www.etymonline.com/tw/word/facility) 的複數形式。 "做某事的物理手段"的意義來自於1872年。
 
 ---

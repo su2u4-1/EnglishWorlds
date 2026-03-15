@@ -1,8 +1,6 @@
 # largest
 
-## Origin and history of largest
-### largest(adj.)
-
-这是 [large](https://www.etymonline.com/word/large) 的最高级（详见该词）。
+## largest(adj.)
+[large](https://www.etymonline.com/tw/word/large)（見相關詞條）的最高級形式。
 
 ---

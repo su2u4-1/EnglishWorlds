@@ -1,8 +1,6 @@
 # morpheme
 
-## Origin and history of morpheme
-### morpheme(n.)
-
-“语言中最小的有意义单位”，这个定义出现在1896年（但最初是指“词根、词缀、前缀”等），源自德语 morpheme。这个词是由波兰出生的语言学家简·博多温·德·库尔特奈（Jan Baudouin de Courtenay，1845-1929）在1895年创造的，来自希腊语 morphē，意为“形态、形式”。这个词的词源尚不确定，但它的构造类似于 phonème。
+## morpheme(n.)
+"語言中最小的有意義的單位"，1896年（但最初的意義是“詞根、後綴、前綴等”），源自德語 morpheme，由波蘭出生的語言學家揚·包德因·德·庫爾特內（Jan Baudouin de Courtenay，1845-1929）於1895年創造，源自希臘語 morphē “形式，形狀”，這個詞的詞源不確定，類比於 phonème。
 
 ---

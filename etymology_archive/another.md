@@ -1,8 +1,6 @@
 # another
 
-## Origin and history of another
-### another(pron., adv.)
-
-“不是这个，不是同一个；指其他人或物”，这个用法出现在13世纪初，是 an other 的缩写形式（参见 [an](https://www.etymonline.com/word/an) + [other](https://www.etymonline.com/word/other)）。在古英语中，人们通常使用 oþer。最初的意思是“两个中的第二个”。复合互相代词 one another 最早可以追溯到1520年代。
+## another(pron., adv.)
+"不是這個，不是同一個； 其他人或其他事物"，早期13世紀，是 an other 的縮寫（見 [an](https://www.etymonline.com/tw/word/an) + [other](https://www.etymonline.com/tw/word/other)）。古英語只用 oþer。最初指“兩個中的第二個”。複合互惠代詞 one another 可追溯到1520年代。
 
 ---

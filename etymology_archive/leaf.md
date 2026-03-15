@@ -1,16 +1,11 @@
 # leaf
 
-## Origin and history of leaf
-### leaf(n.)
-
-古英语中的 leaf 意指“植物的叶子，树叶；书页，纸张”。这个词源于原始日耳曼语 \*lauba-，与古撒克逊语的 lof、古诺尔斯语的 lauf、古弗里斯语的 laf、荷兰语的 loof、古高地德语的 loub、德语的 Laub（均意为“树叶，树冠”）以及哥特语的 laufs（意为“叶子，树叶”）相关。这个词可能源自原始印欧语 \*leub(h)-，意为“剥离，剥去或折断”（同源词包括古爱尔兰语的 luib，意为“草本植物”；lub-gort，意为“花园”；阿尔巴尼亚语的 labë，意为“树皮，软木”；立陶宛语的 luba，意为“木板，板材”；俄语的 lob，意为“额头，眉”；捷克语的 leb，意为“头骨”；立陶宛语的 luobas，意为“树皮”；拉脱维亚语的 luobas，意为“剥离物”；俄语的 lub，意为“树皮”；古诺尔斯语的 lyf，意为“药用植物”；古英语的 lybb，意为“毒药；魔法”）。
-
-这个词与 [lodge](https://www.etymonline.com/word/lodge) 和 [lobby](https://www.etymonline.com/word/lobby) 有关；另一个原始印欧词根可以参见 [folio](https://www.etymonline.com/word/folio)。在14世纪晚期，这个词的意义扩展到了“非常薄的金属片（特别是金片）”。与立陶宛语的 lapas（意为“叶子”）相比较，该词同样源自一个词根，这个词根在希腊语中表现为 lepos（意为“树皮”）和 lepein（意为“剥离”）。这个词也被用来形容平坦且相对宽大的表面，尤其是柔性或固定附着物的表面；“桌子侧面的铰链式翻盖”这一含义出现在16世纪50年代。短语 turn over a (new) leaf（意为“开始新的、更好的生活”）最早出现在1590年代，1570年代则以 turn the leaf 的形式出现，源于书籍的含义。在昆虫学中，leaf-hopper（意为“跳叶虫”）出现于1847年；而 leaf-cutter（意为“切叶蚁”）则出现在1816年。
+## leaf(n.)
+葉子的英語單詞爲 leaf，指植物的葉子、書頁或紙張，源自原始日耳曼語 \*lauba-（也指古撒克遜語 lof 、古諾爾斯語 lauf 、古弗里斯蘭語 laf 、荷蘭語 loof 、古高地德語 loub 、德語 Laub 和哥特語 laufs），可能源自原始印歐語言 \*leub(h)-（也指古愛爾蘭語 luib 的“草本植物”、lub-gort 的“花園”； 阿爾巴尼亞語 labë 的“樹皮、軟木”； 立陶宛語 luba 的“木板”、俄語 lob 的“前額、眉毛”、捷克語 leb 的“頭骨”； 立陶宛語 luobas 的“樹皮”、拉脫維亞語 luobas 的“剝皮”、俄語 lub 的“樹皮”； 古諾爾斯語 lyf 的“草藥”、古英語 lybb 的“毒藥； 魔法”）。
+與 [lodge](https://www.etymonline.com/tw/word/lodge) 和 [lobby](https://www.etymonline.com/tw/word/lobby) 有關； 另一個原始印歐語言詞根見 [folio](https://www.etymonline.com/tw/word/folio)。14世紀後期擴展到非常薄的金屬片（尤其是金子）。比較立陶宛語 lapas 的“葉子”，源自希臘語 lepos 的“樹皮”、lepein 的“剝皮”。還用於平坦而相對寬廣的表面，尤其是柔性或安裝附件的表面； 指“桌子側面的鉸鏈翻蓋”的意思來源於1550年代。短語 turn over a (new) leaf（1590年代； 1570年代爲 turn the leaf）指“開始新的、更好的生活方式”，是對書本意義的引用。在昆蟲中， leaf-hopper 源自1847年； leaf-cutter 源自1816年。
 
 ---
-## leaf (related entry 1)
-### leaf(v.)
-
-“翻动（书页）”，1660年代，源自 [leaf](https://www.etymonline.com/word/leaf)（名词）。表示“长出叶子或枝叶”的意思始于1610年代。相关词汇：Leafed；leaved；leafing。
+## leaf(v.)
+“翻閱（書頁）”，1660年代，源自 [leaf](https://www.etymonline.com/tw/word/leaf)（名詞）。“長出葉子或葉狀物”於1610年代出現。相關詞彙： Leafed（長出葉子的）； leaved（有葉子的）； leafing（長出葉子）。
 
 ---

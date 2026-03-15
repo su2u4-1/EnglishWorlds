@@ -1,14 +1,10 @@
 # benefit
 
-## Origin and history of benefit
-### benefit(n.)
-
-14世纪晚期，benefet，意为“善行或高尚行为；有帮助或友好的行动”，也指“有益的事物；优势，利益”。这个词源于盎格鲁-法语的benfet（古法语bienfait），进一步追溯到拉丁语的benefactum，意思是“善行”，由bene facere构成，其中bene意为“好”（参见[bene-](https://www.etymonline.com/word/bene-)），facere则是“做”（源自原始印欧词根[*dhe-](https://www.etymonline.com/word/*dhe-)，意为“放置，做”）。而“为某个值得同情的人或慈善事业筹款的公开表演或娱乐活动”这一含义则出现在1680年代。
+## benefit(n.)
+14世紀晚期， benefet，“好的或高貴的行爲； 有益或友好的行動”，也指“有益的事物； 優勢，利潤”，源自盎格魯-法語 benfet（古法語 bienfait），源自拉丁語 benefactum “好事”，源自 bene facere，由 bene “好”（見 [bene-](https://www.etymonline.com/tw/word/bene-))和 facere “做”（源自 PIE 詞根 [*dhe-](https://www.etymonline.com/tw/word/*dhe-) “放置，放置”）組成。1680年代，“公共表演或娛樂活動，爲某些值得同情的人或慈善事業籌集資金”的含義出現。
 
 ---
-## benefit (related entry 1)
-### benefit(v.)
-
-“行善，提供帮助”，这个表达出现在15世纪晚期，源自 [benefit](https://www.etymonline.com/word/benefit)（名词）。相关词汇包括 Benefited（已受益），benefiting（正在受益）。
+## benefit(v.)
+"對...有益，爲...服務"，15世紀晚期，來自 [benefit](https://www.etymonline.com/tw/word/benefit)（名詞）。相關詞彙： Benefited； benefiting。
 
 ---

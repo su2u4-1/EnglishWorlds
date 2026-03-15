@@ -1,8 +1,6 @@
 # insatiable
 
-## Origin and history of insatiable
-### insatiable(adj.)
-
-“无法满足或平息的；过于贪婪的”，这个词最早出现在15世纪，写作insaciable，源自古法语insaciable，意为“贪婪的”（15世纪，现代法语为insatiable），也可能直接来自拉丁语insatiabilis，意为“无法满足的”。其中，in-表示“否定，不”的意思（源自原始印欧语词根[*ne-](https://www.etymonline.com/word/*ne-)，意为“不”），而satiabilis则来自satiare，意为“填满，满足”，其词根satis意为“足够”（同样源自原始印欧语词根[*sa-](https://www.etymonline.com/word/*sa-)，意为“满足”）。相关词汇包括Insatiably（无法满足地）和insatiableness（贪得无厌）。
+## insatiable(adj.)
+「無法滿足或安撫；過度貪婪」，這個詞最早出現在15世紀，寫作 insaciable，來自古法語 insaciable，意指「狼吞虎嚥」，在15世紀的現代法語中則為 insatiable。它也可能直接源自拉丁語 insatiabilis，意為「無法滿足」，由 in-（表示「不」或「相反」的前綴，源自原始印歐語詞根 [*ne-](https://www.etymonline.com/tw/word/*ne-)，意為「不」）和 satiabilis（來自 satiare，意為「填滿，滿足」）組成，而 satis 則意為「足夠」，同樣來自原始印歐語詞根 [*sa-](https://www.etymonline.com/tw/word/*sa-)，意指「滿足」。相關詞彙包括 Insatiably（無法滿足地）和 insatiableness（貪得無厭）。
 
 ---

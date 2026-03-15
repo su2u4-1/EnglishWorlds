@@ -1,8 +1,6 @@
 # quickly
 
-## Origin and history of quickly
-### quickly(adv.)
-
-15世纪中期，quickli 意为“生动的、活泼的、栩栩如生的”，来源于 [quick](https://www.etymonline.com/word/quick)（形容词）+ [-ly](https://www.etymonline.com/word/-ly)（第二种形式），与晚期古英语的 cwiculice（意为“有活力地、敏锐地”）相比较。其“迅速地、在短时间内”的含义大约始于公元1200年。
+## quickly(adv.)
+15世紀中期， quickli，“生動的，栩栩如生的”，源自 [quick](https://www.etymonline.com/tw/word/quick)（形容詞）+ [-ly](https://www.etymonline.com/tw/word/-ly)（2），並可與古英語 cwiculice “有活力地，敏銳地”相比較。意思是“迅速地，在短時間內”，始於公元1200年左右。
 
 ---

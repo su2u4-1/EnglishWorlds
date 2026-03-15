@@ -1,8 +1,6 @@
 # phenomenon
 
-## Origin and history of phenomenon
-### phenomenon(n.)
-
-在1570年代，这个词的意思是“直接观察到的事实，显现或被感知的事物，某种特定场合下观察到的规律性事实”。它源自晚期拉丁语的 phænomenon，而更早则来自希腊语的 phainomenon，意为“显现或被看见的事物”。这个词是希腊语动词 phainesthai（意为“出现”）的中性现在分词形式，而 phainein 则是“使显现，展示”的意思，来自原始印欧语词根 [*bha-](https://www.etymonline.com/word/*bha-) (1)，意为“发光”。到了1771年，这个词开始被用来指代“非凡的事件”。在哲学领域，它被用来表示“经验的直接对象或显现”（1788年）。复数形式是 phenomena。
+## phenomenon(n.)
+1570年代，“直接觀察到的事實，出現或被感知的事物，事件”，特別是在某些場合觀察到的一種常規事實，源自於拉丁語 phænomenon，來自希臘語 phainomenon “出現或被看到的東西”，中性現在分詞的名詞用法 phainesthai “出現”， phainein “顯露，使出現，展示”的被動語態（來自 PIE 詞根 [*bha-](https://www.etymonline.com/tw/word/*bha-)（1）“發光”）。記錄了“非凡事件”的含義（1771年）。在哲學中，“經驗的外觀或直接對象”（1788年）。複數形式爲 phenomena。
 
 ---

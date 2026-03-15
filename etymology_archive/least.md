@@ -1,8 +1,6 @@
 # least
 
-## Origin and history of least
-### least(adj.)
-
-古英语 læst, earlier læsest "最小的，权力或地位最低的"（[little](https://www.etymonline.com/word/little) (形容词) 的最高级），源自原始日耳曼语最高级 \*laisista-，来自原始印欧语词根 \*leis- (2) "小"（参见 [less](https://www.etymonline.com/word/less)）。限定短语 at least "不说超过确实真实的" 是中英语 æt læstan，源自"在最低程度"的概念。作为名词，"可接受的最小数量或程度"，起源于12世纪早期；作为副词，古英语 læst "在最小程度上"。
+## least(adj.)
+古英語 læst，早期爲 læsest，意爲“最小的，地位或權力最低的”（[little](https://www.etymonline.com/tw/word/little) 的最高級形式），源自原始日耳曼語的最高級 \*laisista-，源自 PIE 詞根 \*leis-（2）“小”（參見 [less](https://www.etymonline.com/tw/word/less)）。限定短語 at least “不說比肯定更多的話”是中古英語 æt læstan，源於“最低程度”。作爲名詞，“最小可允許的數量或程度”，早在12世紀初就有了； 作爲副詞，古英語 læst “最少程度”。
 
 ---

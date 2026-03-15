@@ -1,10 +1,7 @@
 # alert
 
-## Origin and history of alert
-### alert(adv.)
-
-“on the watch”这个短语出现在1610年代，源自法语alerte，意为“警觉的”（17世纪）。它来自介词短语à l'erte，意思是“在警戒中”，而这个短语又源自意大利语all'erta，意为“到高度”。其中的erta指的是“瞭望台，高塔”，是女性名词erto的名词形式，来自动词ergere，意为“举起”，而该动词又源自拉丁语erigere，意思是“竖起”（参见[erect](https://www.etymonline.com/word/erect) (adj.)）。
-
-作为形容词，这个词在1712年被记录；作为名词，它在1796年首次出现，意为“警觉的态度”（如on the alert）；到1803年，又被用来表示“警报”或“警告报告”。作为动词的用法则出现在1864年。相关词汇包括Alerted（已警告）、alerting（正在警告）。
+## alert(adv.)
+"on the watch," 1610年代，源自法語 alerte "警惕的"（17世紀），來自介詞短語 à l'erte "在觀察中"，源自意大利語 all'erta "到高處"。第二個元素來自 erta "瞭望塔，高塔"，是 erto 的名詞用法，是 ergere 的過去分詞，源自拉丁語 erigere "升起"（參見 [erect](https://www.etymonline.com/tw/word/erect)（形容詞））。
+形容詞的使用可以追溯到1712年； 名詞作爲"警惕的態度"（如 on the alert）的意思可以追溯到1796年； 作爲"警告報告"的意思可以追溯到1803年。動詞的使用可以追溯到1864年。相關詞彙： Alerted； alerting。
 
 ---

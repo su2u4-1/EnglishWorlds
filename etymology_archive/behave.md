@@ -1,8 +1,6 @@
 # behave
 
-## Origin and history of behave
-### behave(v.)
-
-在15世纪初，这个词开始作为反身动词使用，意思是“以某种方式举止或表现自己”。它由前缀 [be-](https://www.etymonline.com/word/be-)（表示强调）和 [have](https://www.etymonline.com/word/have)（在这里意为“以某种方式拥有或表现自己”）结合而成。这种用法与德语的 sich behaben 和法语的 se porter 类似。古英语中有一个相关的复合词 behabban，原意是“包含”。现代英语中 behave 的意义可能是从 behabban 演变而来的，暗含了“自我约束”的概念。在早期现代英语中，这个词有时也用作及物动词，意思是“管理”或“指挥”。相关词汇包括 Behaved（过去式）和 behaving（现在分词）。
+## behave(v.)
+15世紀初，反身動詞，表示“以特定方式表現或表現”（自己），來自於 [be-](https://www.etymonline.com/tw/word/be-) 強調前綴+ [have](https://www.etymonline.com/tw/word/have)，意爲“以特定方式擁有或承擔（自己），表現”（比較德語 sich behaben，法語 se porter）。同源的古英語複合詞 behabban 的意思是“包含”，而現代意義的 behave 也可能是通過“自我剋制”的概念從 behabban 演變而來的。在早期現代英語中，它也可以是及物動詞，“管理，經營，行爲”。相關： Behaved； behaving。
 
 ---

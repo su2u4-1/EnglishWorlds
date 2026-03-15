@@ -1,16 +1,11 @@
 # constant
 
-## Origin and history of constant
-### constant(adj.)
-
-这个词最早出现在14世纪晚期，意思是“坚定不移、坚韧不拔；耐心、不可动摇；在思想上坚定或固定”。它源自古法语 constant（14世纪），或者直接来自拉丁语 constantem（主格 constans），意为“站立坚定、稳定、忠诚”，是动词 constare 的现在分词，意为“共同站立”。这个词的构成来自拉丁语的 com（意为“与……一起”或“共同”，参见 [con-](https://www.etymonline.com/word/con-)）和 stare（意为“站立”），而其更远的词源可以追溯到原始印欧语根 [*sta-](https://www.etymonline.com/word/*sta-)，意为“站立、使坚固或保持不变”。
-
-在15世纪初，这个词开始被用来表示“对某人或某事的坚定忠诚”。在描述动作和状态时，16世纪40年代起有了“固定、不变”的意思；而在1650年代，它又被用来形容“持续、持久”。1817年，这个词被用来表示“定期发生”。相关词汇还有 Constantly。
+## constant(adj.)
+“14世紀後期，意味着堅定不移的，有耐心的，不可動搖的； 思想堅定的”，源自14世紀的古法語 constant 或直接源自拉丁語 constantem（名詞 constans），“堅定不移的、穩定的、忠誠的”，是 constare （“站在一起”）的現在分詞，從合併的 com “與，一起”（參見 [con-](https://www.etymonline.com/tw/word/con-)）+ stare “站立”而來，源自 PIE 詞根 [*sta-](https://www.etymonline.com/tw/word/*sta-) “站立，使或保持堅定”。
+“對某人或事業堅定不移的”這一意義始見於15世紀早期。關於行爲和狀態，“固定的，不變的”（1540年代）； “持續的，經久不息的”（1650年代）。「有規律地重複出現」的含義可追溯至1817年。相關詞彙： Constantly。
 
 ---
-## constant (related entry 1)
-### constant(n.)
-
-在数学和物理学中，1832年起用来表示“假定在整个过程中保持不变的量”，这个用法源自 [constant](https://www.etymonline.com/word/constant)（形容词），该词在数学领域的使用可以追溯到1753年。后来，1856年出现的一般意义“不会改变的事物”是对这一概念的比喻性扩展。
+## constant(n.)
+1832年在數學和物理學中，“假定在整個過程中保持不變的量”，源自 [constant](https://www.etymonline.com/tw/word/constant)（形容詞），該詞在數學中的使用可以追溯到1753年。一般意義上的“不受變化影響的事物”（1856年）是從此引申出來的比喻。
 
 ---

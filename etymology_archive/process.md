@@ -1,22 +1,15 @@
 # process
 
-## Origin and history of process
-### process(n.)
-
-14世纪初，proces，意为“正在进行的状态”（如in process），源自古法语proces，意为“旅程；持续发展；法律审判”（13世纪），直接来源于拉丁语processus，意为“向前推进，进展”，来自procedere的过去分词形式“向前走”（参见[proceed](https://www.etymonline.com/word/proceed)）。
-
-“行动过程或方法，持续的行动或一系列事件”的含义出现在14世纪中期；而“为了实现某种结果而进行的连续且规律的系列行动”（现代主要含义）则始于1620年代。“从某物主体突出部分”的意思，特别是指自然的附属物，出现于1570年代。法律上“诉讼程序的进展，任何法律行动的全部过程”的含义早在14世纪初就有记录；因此，due process（正当程序）在15世纪中期被视为法律上的一种权利，意为“公正对待”。
+## process(n.)
+14世紀初， proces，“進行中”的事實（如 in process）來自古法語 proces “旅程； 連續，發展； 法律審判”（13世紀），直接源自拉丁語 processus “前進，進展，進步”，來自 procedere 的過去分詞詞幹“前進”（參見 [proceed](https://www.etymonline.com/tw/word/proceed)）。
+“行動方式或方法，連續的行動或一系列行動或事件”的意思來自14世紀中期； “連續而規律的一系列行動旨在實現某種結果”的意思（主要現代意義）來自1620年代。特別是自然附屬物的“從主體的主體中突出的部分”的意思來自1570年代。法律上“訴訟中的行動方式，任何法律行動中的全部程序”的意義可追溯至14世紀初； 因此，作爲一種權利被認爲是“公正待遇”的 due process（15世紀中期）。
 
 ---
-## process (related entry 1)
-### process(v.1)
-
-1530年代，表示“对某人提起法律诉讼，召唤到法庭上”，源自法语 processer，意为“起诉”，而 proces 则可参考 [process](https://www.etymonline.com/word/process) (n.)。到1881年，这个词的意义扩展为“通过特殊程序进行准备或处理，受到特殊程序的限制”，源自英语中的名词。提到人时，指“登记并检查”，这一用法在1935年开始流行，主要用于美国军队。相关词汇包括 Processed 和 processing。
+## process(v.1)
+1530年代，“開始採取法律行動，傳喚到法庭上”，源自法語詞語 processer “prosecute”，源自 proces（參見 [process](https://www.etymonline.com/tw/word/process)（n.））。“通過特殊程序準備或處理”是從1881年開始的英語名詞的意思。對於個人來說，“註冊和檢查”，在1935年引用於美國軍隊。相關： Processed； processing。
 
 ---
-## process (related entry 2)
-### process(v.2)
-
-“列队行进，游行”，这个词最早出现在1814年。它是一个口语化或幽默的逆向构词，源自[procession](https://www.etymonline.com/word/procession)（游行，列队行进）[OED]。重音在第二个音节。早期的动词形式是procession（1540年代）。
+## process(v.2)
+"走行列"，1814年，是從 [procession](https://www.etymonline.com/tw/word/procession) [OED]中的一種口語或幽默的反構詞法。重音在第二個音節。更早的動詞是 procession（1540年代）。
 
 ---

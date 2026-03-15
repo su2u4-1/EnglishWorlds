@@ -1,16 +1,12 @@
 # defer
 
-## Origin and history of defer
-### defer(v.1)
+## defer(v.1)
+「延遲，推遲，延期」，14世紀晚期，differren，deferren，來自古法語 diferer（14世紀）以及直接來自拉丁語 differre「分開，散開，分散」；也有「不同，區別」的意思；還有「推遲，延期」的意思，來自同化形式的 dis-「遠離」（參見 [dis-](https://www.etymonline.com/tw/word/dis-)）+ ferre「承載，攜帶」（來自原始印歐語詞根 [*bher-](https://www.etymonline.com/tw/word/*bher-#etymonline_v_52553) (1)「攜帶」）。
 
-“延迟，推迟，延期”，14世纪晚期，differren，deferren，来自古法语diferer（14世纪）以及直接来自拉丁语differre“分开携带，散开，分散”；也有“不同，区别”；也有“推迟，延期”的意思，来自dis-“远离”（参见[dis-](https://www.etymonline.com/word/dis-)）的同化形式 + ferre“携带，运送”（来自原始印欧语词根[*bher-](https://www.etymonline.com/word/*bher-) (1) “携带”）。
-
-词源上与[differ](https://www.etymonline.com/word/differ)相同；它们的拼写和发音从15世纪开始有所区别，可能部分是由于这个词与delay的联系。相关词：Deferred; deferring。
+詞源上與 [differ](https://www.etymonline.com/tw/word/differ) 相同；它們的拼寫和發音從15世紀開始有所區分，可能部分是因為這個詞與 delay 的聯想。相關詞：Deferred; deferring。
 
 ---
-## defer (related entry 1)
-### defer(v.2)
-
-“yield, offer, render”，15世纪中期，“留给他人判断或决定”，源自古法语 deferer（意为“屈服，服从”，14世纪，现代法语为 déférer），进一步追溯至拉丁语 deferre（意为“带走，转移，授予”），由 de（意为“向下，离开”，参见 [de-](https://www.etymonline.com/word/de-)）和 ferre（意为“携带”）构成，源自原始印欧语根 [*bher-](https://www.etymonline.com/word/*bher-) (1)（意为“携带”）。拉丁语中还包含“将某事提交给某人”的意思。相关词汇：Deferred; deferring。
+## defer(v.2)
+"屈服，提供，呈現"，15世紀中期，意爲“將決定權留給他人”，源自古法語 deferer “屈服，順從”（14世紀，現代法語 déférer），源自拉丁語 deferre “帶走，轉移，授予”，源自 de “向下，遠離”（見 [de-](https://www.etymonline.com/tw/word/de-)) + ferre “攜帶”，源自 PIE 詞根 [*bher-](https://www.etymonline.com/tw/word/*bher-)（1）“攜帶”。拉丁動詞中也有“將（事情）提交給某人”的意思。相關詞彙： Deferred; deferring。
 
 ---

@@ -1,8 +1,6 @@
 # generate
 
-## Origin and history of generate
-### generate(v.)
-
-大约在1500年，“产生”最初是指“生育后代”，可能是从[generation](https://www.etymonline.com/word/generation)（世代、繁殖）这个词反向构成的，或者直接源自拉丁语generatus，这是generare（生育、产生）的过去分词，意为“生育、产生”。这个词的根源来自genus（种族、类别），而其词源可以追溯到原始印欧语根[*gene-](https://www.etymonline.com/word/*gene-)，意为“生育、繁殖”，与生育以及家庭和部落群体相关联。从1560年代起，这个词也开始用于描述自然力量、条件、物质等。相关词汇包括Generated（已产生）和generating（正在产生）。
+## generate(v.)
+約於1500年，“生育”（後代），是從 [generation](https://www.etymonline.com/tw/word/generation) 反推而來的詞語，或者源自拉丁語 generatus，是 generare 的過去分詞，“生育，產生”，源自 genus “種族，種類”（源自 PIE 詞根 [*gene-](https://www.etymonline.com/tw/word/*gene-) “分娩，生育”，派生詞指代生育和家族和部落羣體）。指自然力量、條件、物質等的用法可追溯至1560年代。相關詞語： Generated； generating。
 
 ---

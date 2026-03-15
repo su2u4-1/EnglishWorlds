@@ -495,10 +495,9 @@ draw: 畫、繪製
 dream: 夢境、夢想
 dreamt: 做夢、夢想
 dropped: 丟棄、放棄
-due to: 應付、欠款、由於
+due to: 因為、應付、欠款、由於
 due: 到期的、應支付的
 during: 在...時、在...期間、在...過程中
-dut to: 因為、由於
 dynamic: 動力的、動態的
 dynamically: 動態地
 e.g.: 例如、舉例來說
@@ -837,6 +836,7 @@ integrated: 整合的
 intensive: 密集的
 intent: 意圖、目的
 intention: 意圖
+inter-: 中間、之間
 inter: 互相、交叉、介於...之間
 interact: 互動
 interaction: 互動
@@ -954,6 +954,7 @@ mediate: 中間的、過渡的
 megabytes: MB、兆字節
 merging: 合併、融合
 methodology: 方法論
+micro-: 微小的
 mid: 中
 middle: 中部的、中間的
 might: (may - might - might)、(可能性較小)、可能

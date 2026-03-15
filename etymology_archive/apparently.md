@@ -1,8 +1,6 @@
 # apparently
 
-## Origin and history of apparently
-### apparently(adv.)
-
-14世纪晚期，意为“明显地，公开地”，由 [apparent](https://www.etymonline.com/word/apparent)（明显的）+ [-ly](https://www.etymonline.com/word/-ly)（副词后缀）构成。1550年代起，开始用于“显然”的意思；1560年代又引申为“看起来……（但不一定真实）”；到1846年，进一步发展为“据判断所能得出的结论”。
+## apparently(adv.)
+14世紀晚期，「明顯地，公開地」，源自[apparent](https://www.etymonline.com/tw/word/apparent) + [-ly](https://www.etymonline.com/tw/word/-ly#etymonline_v_32027) (2)。1550年代起意為「明顯地」；1560年代起意為「在所有外表上」（但不一定「真的」）；1846年起意為「儘可能判斷」。
 
 ---

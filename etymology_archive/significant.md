@@ -1,10 +1,7 @@
 # significant
 
-## Origin and history of significant
-### significant(adj.)
-
-1570年代，表示“具有或传达某种意义”，源自拉丁语 significantem（主格 significans），是动词 significare 的现在分词，意为“使人知晓，指示”（参见 [signify](https://www.etymonline.com/word/signify)）。在此意义上，早期还有 [significative](https://www.etymonline.com/word/significative) 这个词；另外，significate（形容词）也曾用于“被指示的，表示的”（15世纪初）。
-
-自1590年代起，该词被用来表示“作为标志或指示”。它常被理解为“具有特殊或隐秘的意义”，因此在1761年被引申为“重要的，重大的”。相关词汇包括 Significantly。科学上的 significant figure 出现于1680年代。Significant other 则在1961年被证实，在心理学中指“患者生活中最有影响力的另一半”。
+## significant(adj.)
+1570年代，“具有或傳達意義”，源自拉丁語 significantem（主格 significans），現在分詞 significare “使知道，指示”（見 [signify](https://www.etymonline.com/tw/word/signify)）。早期在同樣的意義上是 [significative](https://www.etymonline.com/tw/word/significative)； 還有 significate（形容詞）“被指示，被表示”（15世紀早期）。
+從1590年代開始，“作爲標誌或指示”。通常“具有特殊或祕密的含義”，因此“重要，有分量”（1761年）。相關： Significantly。科學上的 significant figure 來自1680年代。心理學上的 Significant other 於1961年被證明是“患者世界中最有影響力的其他人”。
 
 ---

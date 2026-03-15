@@ -1,16 +1,12 @@
 # phase
 
-## Origin and history of phase
-### phase(n.)
+## phase(n.)
+1705年，「月相」，指的是月亮（或水星、金星）在特定時間呈現的特定重複外觀。這個詞是從現代拉丁語的phases（phasis的複數形式）回溯形成的，源自希臘語phasis，意為「星星的外觀」、「月亮的相位」，來自phainein，意指「顯示、使出現」（源自原始印歐語詞根[*bha-](https://www.etymonline.com/tw/word/*bha-#etymonline_v_52589) (1)，意為「閃耀」）。
 
-1705年，“月相，月亮（或水星、金星）在特定时间呈现的特定周期性外观”这个词是从现代拉丁语phases（phasis的复数形式）回溯形成的，源自希腊语phasis，意为“星星的外观”或“月亮的相位”，而其词根phainein则意为“显示，显现”（来自原始印欧语词根[*bha-](https://www.etymonline.com/word/*bha-) (1)，意为“发光”）。
-
-拉丁语单数phasis从1660年起在英语中被用来指代月亮的每一个相位。到1841年，这个词的通用（非月球相关）意义——“某一特定时间的外观、阶段或发展状态”——也得到了证实。而“暂时的困难时期”（特别是指青少年时期）这一含义则始于1913年。
+拉丁語單數phasis自1660年起在英語中被用來指代月亮的各個相位。到了1841年，這個詞的普遍（非月亮相關）意義「外觀、外貌、特定時間的發展階段」也得到了證實。1913年起，它還被用來指代「暫時的困難時期」，特別是指青少年所經歷的階段。
 
 ---
-## phase (related entry 1)
-### phase(v.)
-
-“使同步，调整某物的相位以实现同步”，这个意思出现在1895年，来源于[phase](https://www.etymonline.com/word/phase)（名词），在物理学中指“在周期性运动或变化中某一特定阶段或时刻”（1861年）。早期曾被错误拼写为[faze](https://www.etymonline.com/word/faze)。1949年起，它还被用来表示“逐步实施”，因此出现了phase in（1954年，意为“逐步引入”）和phase out（1954年，意为“按计划逐步淘汰”）。相关词汇还有：Phased（已分阶段实施）；phasing（分阶段进行）。
+## phase(v.)
+"同步，調整相位以同步"，1895年，來自 [phase](https://www.etymonline.com/tw/word/phase)（物理學中“運動或變化的循環序列中的特定階段或點”的意義，1861年）。早期作爲 [faze](https://www.etymonline.com/tw/word/faze) 的錯誤拼寫。意思是“逐漸實施”，始於1949年，因此有 phase in “逐漸引入”（1954年）， phase out “計劃階段逐漸取出”（1954年）。相關： Phased； phasing。
 
 ---

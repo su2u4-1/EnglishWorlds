@@ -1,8 +1,6 @@
 # expansion
 
-## Origin and history of expansion
-### expansion(n.)
-
-1610年代，指“任何被展开的东西”；1640年代，意为“扩展的行为”。这个词源自法语 expansion，而法语又源自晚期拉丁语 expansionem（主格形式为 expansio），意思是“扩展、展开”。它是一个名词，表示从拉丁语 expandere（意为“展开、伸展、扩展”）派生的动作名词。这个词的构成可以分解为 ex（意为“向外”，参见 [ex-](https://www.etymonline.com/word/ex-)）和 pandere（意为“展开、伸展”，源自原始印欧语词根 [*pete-](https://www.etymonline.com/word/*pete-)，意为“扩展”）。
+## expansion(n.)
+"1610年代，指“展開的任何東西”； 1640年代，指“擴張的行爲”，源自法語 expansion，來自晚期拉丁語 expansionem（主格 expansio）“展開”，是拉丁語 expandere 的動名詞形式，意爲“展開，展開，擴張”，由 ex “向外”（見 [ex-](https://www.etymonline.com/tw/word/ex-))和 pandere “展開，伸展”（來自 PIE 詞根 [*pete-](https://www.etymonline.com/tw/word/*pete-) 的鼻化形式“展開”）組成。
 
 ---

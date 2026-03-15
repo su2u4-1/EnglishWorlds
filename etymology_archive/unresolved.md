@@ -1,8 +1,6 @@
 # unresolved
 
-## Origin and history of unresolved
-### unresolved(adj.)
-
-1570年代起，用来形容“未决”的状态（特别是问题和疑虑），源自 [un-](https://www.etymonline.com/word/un-) (1) 表示“否定”或“非”，加上 [resolve](https://www.etymonline.com/word/resolve)（动词）的过去分词形式。到了1590年代，这个词的意思扩展为“意见不定，行动犹豫”。1850年左右，又被用来描述“未能分离成明显的组成部分”。相关词汇包括 Unresolvable（1610年代）。
+## unresolved(adj.)
+1570年代起，用來形容「未決定的」（主要指問題或疑惑），由 [un-](https://www.etymonline.com/tw/word/un-)（1）「不」加上 [resolve](https://www.etymonline.com/tw/word/resolve)（動詞）的過去分詞構成。到1590年代，這個詞的意思演變為「意見不明，行動不確定」。到了1850年，它又被用來形容「未能分辨出其組成部分」（在視覺上）。相關詞彙包括 Unresolvable（1610年代）。
 
 ---

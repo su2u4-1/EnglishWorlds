@@ -1,8 +1,6 @@
 # activities
 
-## Origin and history of activities
-### activities(n.)
-
-"educational exercises, schoolwork," 1923年，美国英语，来源于 [activity](https://www.etymonline.com/word/activity)。
+## activities(n.)
+"教育練習，學校作業"，1923年，美國英語，來自 [activity](https://www.etymonline.com/tw/word/activity)。
 
 ---

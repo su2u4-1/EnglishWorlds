@@ -1,10 +1,7 @@
 # component
 
-## Origin and history of component
-### component(n.)
-
-在1640年代，componentem（主格形式为componens）这个词开始被用来表示“构成部分或元素”。它源自拉丁语动词componere，意为“将多个部分组合成一个整体”。这个动词又由com（意为“与……一起”或“共同”，参见[com-](https://www.etymonline.com/word/com-)）和ponere（意为“放置”，参见[position](https://www.etymonline.com/word/position)（名词））组合而成。相关词汇包括Componential。
-
-1896年起，这个词专门用来指“自行车、汽车等的机械部件”。作为形容词时，表示“构成的，组成部分的”，这一用法始于1660年代。
+## component(n.)
+1640年代，“組成部分或元素”（早期爲“一組人中的一個”，1560年代），源自拉丁語 componentem（主格 componens），現在分詞 componere “將幾個部分組合成一個整體”，由 com “一起，共同”（見 [com-](https://www.etymonline.com/tw/word/com-))和 ponere “放置”（見 [position](https://www.etymonline.com/tw/word/position)（n.））組成。相關詞彙： Componential。
+“自行車、汽車等的機械部件”意義始於1896年。作爲形容詞，“組成的成分，進入組成的”始於1660年代。
 
 ---

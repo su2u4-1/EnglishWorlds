@@ -1,18 +1,12 @@
 # sort
 
-## Origin and history of sort
-### sort(n.)
-
-14世纪晚期，sorte，意为“人、动物等的群体；某种类型或品种的人或动物”，源自古法语sorte，意为“类别、种类”，进一步追溯到拉丁语sortem（主格sors），意指“命运、运气；份额、部分；等级、类别；性别、阶级，或者是神谕、预言”。这个词的原始印欧语根[*ser-](https://www.etymonline.com/word/*ser-)（2）意为“排列、排队”。
-
-在通俗拉丁语中，这个词的意义演变经历了几个阶段：最初指“命运所给予的东西”，后来演变为“运气、状况”，再到“等级、阶级、秩序”。到了15世纪中期，它还被用来表示“物品的类别、群体或种类；某种事物的类型或样式”。虽然在中古英语中曾有“某人特定的命运或运气”的经典用法，但如今已不再使用。计算机领域中“将数据按顺序排列”的含义始于1958年，源自动词。这个词与[assort](https://www.etymonline.com/word/assort)（分类）、[consort](https://www.etymonline.com/word/consort)（陪伴、结交）、[sorcery](https://www.etymonline.com/word/sorcery)（魔法）相关，但与[resort](https://www.etymonline.com/word/resort)（度假胜地）无关。
-
-口语中，sort of用作表达犹豫或“在某种程度上”的修饰语，早在1790年就有记录；有时缩写为sorta或sorter。而Out of sorts（状态不佳）则出现在1620年代，可能最初的意思是“缺货、缺乏设备”。在最初的引用中，它与out of tune（走音）并列。排版术语sort则仅在1660年代出现。
+## sort(n.)
+14世紀晚期， sorte，“一羣人、動物等； 人或動物的種類或品種”，源自古法語 sorte “階級，種類”，來自拉丁語 sortem（主格 sors）“命運； 份額，部分； 等級，類別； 性別，階級，神諭回答，預言”，源自 PIE 詞根 [*ser-](https://www.etymonline.com/tw/word/*ser-)（2）“排列”。
+在俗語拉丁語中，意義的演變是從“命運分配給一個人的東西”，到“財富，狀況”，再到“等級，階級，秩序”。後來（15世紀中期）也指“一組，一類或一類物品； 事物的種類或品種； 圖案，設計”。中古英語中的“特定人的命運或命運”一詞現已過時。計算機中“將（數據）排列成序列的行爲”是從1958年開始的，源自動詞。與 [assort](https://www.etymonline.com/tw/word/assort)， [consort](https://www.etymonline.com/tw/word/consort)， [sorcery](https://www.etymonline.com/tw/word/sorcery) 有關，但與 [resort](https://www.etymonline.com/tw/word/resort) 無關。
+口語中，作爲表達猶豫或“在某種程度上”的限定詞的 sort of 可追溯至1790年； 有時縮寫爲 sorta， sorter。1620年代開始使用的 Out of sorts “不在通常的良好狀態”可能具有“缺貨，缺乏設備”的字面意義。在最初的引文中，它與 out of tune 配對。排版 sort 僅在1660年代得到證實。
 
 ---
-## sort (related entry 1)
-### sort(v.)
-
-大约在14世纪中期，sorten这个词出现，最初意为“根据类型或质量进行排列”，到1400年左右，它的意思扩展为“按类别进行分类”。这个词源自古法语的sortir，意为“分配、分类、整理”，而古法语又来源于拉丁语sortiri，意思是“抽签、分配、选择”。拉丁语中的sors则表示“签、命运、注定的事物、份额”。（参见[sort](https://www.etymonline.com/word/sort) (n.)）。在某些用法中，这个动词可能是从名词派生而来，或者是[assort](https://www.etymonline.com/word/assort)的简化形式。这个词常常与副词out搭配使用。到1948年，它还被用来表示“解决（问题）、澄清（混淆）”。相关词汇包括Sorted（已分类）、sorter（分类者）、sorting（分类过程）。
+## sort(v.)
+14世紀中期， sorten，意爲“按類型或質量排列”，約1400年，“按類別分類”，源自古法語 sortir “分配，分類，分類”，源自拉丁語 sortiri “抽籤，分割，選擇”，源自 sors “籤，分配的東西； 命運，命運； 份額，部分”（見 [sort](https://www.etymonline.com/tw/word/sort)（名詞））。在某些意義上，動詞來自名詞，或者是 [assort](https://www.etymonline.com/tw/word/assort) 的縮寫形式。經常與 out（副詞）一起使用。到1948年，“解決（問題），澄清（混亂）”。相關： Sorted； sorter； sorting。
 
 ---

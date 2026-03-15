@@ -1,8 +1,6 @@
 # inside-out
 
-## Origin and history of inside-out
-### inside-out(adj.)
-
-“with the in side being out”，大约1600年，来源于 [inside](https://www.etymonline.com/word/inside)（名词）+ [out](https://www.etymonline.com/word/out)（介词）。虽然形式上是反向的，但意义相同的 outside-in 早在1771年就有记载。
+## inside-out(adj.)
+"裏面向外," 大約1600年，來自 [inside](https://www.etymonline.com/tw/word/inside)（名詞）+ [out](https://www.etymonline.com/tw/word/out)（介詞）。形式相反但意義相同的 outside-in 於1771年被證實。
 
 ---

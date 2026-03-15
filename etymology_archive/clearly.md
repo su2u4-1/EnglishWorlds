@@ -1,8 +1,6 @@
 # clearly
 
-## Origin and history of clearly
-### clearly(adv.)
-
-大约公元1300年，最初用于描述视觉和语言，意为“清晰地，毫不含糊”，由 [clear](https://www.etymonline.com/word/clear)（形容词）和 [-ly](https://www.etymonline.com/word/-ly)（副词后缀）组合而成。1560年代起，它开始表示“显然”。作为插入语，用于论证时表示“显而易见”，首次记录于1867年。
+## clearly(adv.)
+大約1300年，用於視覺和言語，“以清晰的方式，沒有模糊不清的地方”，來自 [clear](https://www.etymonline.com/tw/word/clear)（形容詞）+ [-ly](https://www.etymonline.com/tw/word/-ly)（2）。意思是“顯然”的，來自1560年代； 作爲論點中的插入語，“顯然”，記錄於1867年。
 
 ---

@@ -1,8 +1,6 @@
 # initialize
 
-## Origin and history of initialize
-### initialize(v.)
-
-“准备好投入使用”，这个词在1957年出现，来源于 [initial](https://www.etymonline.com/word/initial)（形容词）+ [-ize](https://www.etymonline.com/word/-ize)。早些时候，这种构词方式也被用来表示“用首字母代替名字”（1837年）和“用首字母指定”（1833年）。相关词汇包括：Initialized（已初始化）、initializing（正在初始化）、initialization（初始化，1957年以现代意义出现）。
+## initialize(v.)
+"使準備運作"，1957年，來自 [initial](https://www.etymonline.com/tw/word/initial)（形容詞）+ [-ize](https://www.etymonline.com/tw/word/-ize)。早期曾使用相同的構詞法來表示“使用縮寫代替名稱”（1837年）； “用縮寫指定”（1833年）。相關詞彙： Initialized； initializing； initialization（1957年以現代意義使用）。
 
 ---

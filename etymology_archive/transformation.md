@@ -1,8 +1,6 @@
 # transformation
 
-## Origin and history of transformation
-### transformation(n.)
-
-大约在公元1400年，transformacioun这个词出现，意思是“形式、性质或外观的变化”，尤其指“外貌或形态的超自然变化”。它源自古法语的transformation, transformacion，并直接来自教会拉丁语的transformationem（主格为transformatio），意为“形状的变化”。这个名词是由动词transformare（意为“形状的变化，变形”）的过去分词词干派生而来的（参见[transform](https://www.etymonline.com/word/transform)）。另一个变体transformance（1610年代）已不再使用。
+## transformation(n.)
+大約在公元1400年，transformacioun這個詞出現，意指「形式、性質或外觀的變化」，特別是指「外觀或形態的超自然改變」。它源自古法語的transformation, transformacion，並直接來自教會拉丁語的transformationem（主格為transformatio），意為「形狀的變化」。這是一個名詞，表示從過去分詞詞幹transformare（意為「形狀的變化，蛻變」，參見[transform](https://www.etymonline.com/tw/word/transform)）衍生而來的行為名詞。另一個變體transformance（約1610年代）已經過時，不再使用。
 
 ---

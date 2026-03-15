@@ -1,20 +1,13 @@
 # middle
 
-## Origin and history of middle
-### middle(adj.)
-
-古英语中的 middel，意为“距离极限或边界同等远；中间的”，源自原始西日耳曼语 \*midla-（同源词还有古弗里斯语的 middel、古萨克森语的 middil、中低地德语、荷兰语的 middel、古高地德语的 mittil，以及现代德语的 mittel）。这个词可以追溯到原始日耳曼语的 \*medj，进一步源自印欧语根 [*medhyo-](https://www.etymonline.com/word/*medhyo-)，意为“中间”。
-
-Middle finger（中指）指的是第三根手指（拇指算作第一根），这个称呼起源于古英语晚期。Middle school（初中）最早出现在1838年，原意是“中产阶级学校，专为中产阶级儿童设立的学校”；而指代介于小学和高中之间的学校的含义则出现在1960年。Middle management（中层管理）指的是高层管理之下的管理层，最早记录于1941年。
-
-Middle-of-the-road（中庸之道）在比喻意义上最早出现在1894年，最初用于政治领域。泥土路的边缘可能会被冲刷得不平整，因此行驶在中间的部分相对更安全，但这里的中间可能更倾向于“较少受到袭击”的意思。Middle way（中道，指温和的道路）在比喻意义上出现于公元1200年左右。Middle ground（折中方案）指的是“在极端之间的妥协或中立地带”，最早记录于1961年。Middle-sized（中等大小）则出现在1620年代。
-
-在美国历史上，Middle States（中部州，1784年）指的是介于新英格兰和南方之间的州（纽约、新泽西、宾夕法尼亚、特拉华）。而 Middle America（中部美国，1968年）则特指“沉默的大多数”，即被视为同质化的、通常保守的中产阶级群体。
+## middle(adj.)
+“Old English middel, 意爲“距離極端或限制相等的； 中間的”，源自於 Proto-West Germanic \*midla-（也是 Old Frisian middel, Old Saxon middil, Middle Low German, Dutch middel, Old High German mittil, German mittel 的來源），源自於 Proto-Germanic \*medj，源自於 PIE 詞根 [*medhyo-](https://www.etymonline.com/tw/word/*medhyo-) “中間”。
+Middle finger 意爲“第三個手指”（以拇指爲第一），晚期古英語稱之爲此。 Middle school 於1838年被證實，最初指“中產階級學校，爲中產階級兒童開設的學校”； 指小學和高中之間的年級學校的意義始於1960年。 Middle management，指高級管理層以下的層次，始於1941年。
+Middle-of-the-road 在比喻意義上始於1894年，最初是指政治； 土路的邊緣可能被沖刷，因此不太安全，但這裏的概念可能是中間地帶“不容易遭到伏擊”。比喻意義上的 Middle way 指“中庸之道”的路徑，始於公元前1200年。 Middle ground 指“在極端之間妥協的地方”，始於1961年。 Middle-sized 意爲“中等大小”，始於1620年代。
+在美國曆史上， Middle States（1784）指的是新英格蘭和南部之間的地區（紐約，新澤西，賓夕法尼亞，特拉華）。 Middle America 指“沉默的大多數，通常被視爲同質化羣體的保守中產階級”，始於1968年。
 
 ---
-## middle (related entry 1)
-### middle(n.)
-
-"离两端、极限或边界等距离的点或部分"，源自古英语 middel，来自 [middle](https://www.etymonline.com/word/middle)（形容词）。在古英语中指“人体的中间部分”。大约公元1300年起，用来表示“三个中的第二个”。
+## middle(n.)
+"中間點或部分，與極端、限制或極端距離相等"，古英語 middel，來自 [middle](https://www.etymonline.com/tw/word/middle)（形容詞）。在古英語中指“人體的中部”。從公元1300年開始用作“三個中的第二個”。
 
 ---

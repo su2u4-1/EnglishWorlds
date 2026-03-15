@@ -1,10 +1,7 @@
 # multiple
 
-## Origin and history of multiple
-### multiple(adj.)
-
-“涉及多个部分或关系；由多个完整个体组成”，这个意思在1640年代出现，源自法语 multiple（14世纪），再往前追溯到晚期拉丁语 multiplus，意为“多样的”。它又来自拉丁语 multi-，意思是“许多，很多”（参见 [multi-](https://www.etymonline.com/word/multi-)），加上 -plus，表示“-倍”（参见 [-plus](https://www.etymonline.com/word/-plus)）。
-
-作为名词，这个词在1680年代的算术中出现，指“通过将一个数乘以一个整数得到的数”，最初是形容词转化而来的。Multiple choice（多项选择题）这个说法在1915年被记录，用来指从多个选项中选择答案的问题。Multiple exposure（多重曝光）指“同一胶卷的重复曝光”，最早见于1891年。在心理学中，multiple personality（多重人格）这个术语在1886年被使用。慢性进行性疾病 multiple sclerosis（多发性硬化症）则是在1877年被称呼的，因为这种病症通常是以斑块形式出现的（参见 [sclerosis](https://www.etymonline.com/word/sclerosis)）。
+## multiple(adj.)
+"涉及許多部分或關係； 由多個完整個體組成"，1640年代，來自法語 multiple（14世紀），源自晚期拉丁語 multiplus “多樣的”，源自拉丁語 multi- “許多，大量”（見 [multi-](https://www.etymonline.com/tw/word/multi-)) + -plus “倍數”（見 [-plus](https://www.etymonline.com/tw/word/-plus)）。
+名詞源自1680年代的算術，“通過乘以整數而產生的數字”，源自形容詞。1915年， Multiple choice 指選擇題，其中受試者從幾個選項中選擇答案。1891年， Multiple exposure 指“同一張膠片的重複曝光”。在心理學中， multiple personality 於1886年被證實。由於它出現在斑塊中（見 [sclerosis](https://www.etymonline.com/tw/word/sclerosis)），慢性進行性疾病 multiple sclerosis 於1877年被稱爲這個名字。
 
 ---

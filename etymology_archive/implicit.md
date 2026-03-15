@@ -1,8 +1,6 @@
 # implicit
 
-## Origin and history of implicit
-### implicit(adj.)
-
-在1590年代，implicite这个法语词传入英语，源自拉丁语的implicitus，这是implicatus的变体，意为“纠缠的、困惑的、涉及的”。它的词根implicare意为“纠缠、涉及”，由前缀in-（表示“进入、在……之中”）和plicare（意为“折叠”）结合而成。前者源自原始印欧语词根[*en](https://www.etymonline.com/word/*en)（意为“在……之中”），后者则源自[*plek-](https://www.etymonline.com/word/*plek-)（意为“编织”）。大约在1600年左右，这个词开始被用来形容“对权威的绝对信任（尤其是宗教信仰），不加质疑”。
+## implicit(adj.)
+1590年代，“暗示的，基於推論的”，源自法語 implicite，直接源自拉丁語 implicitus，後來變體爲 implicatus “糾纏，混亂，涉及”的過去分詞，源自 implicare “糾纏，涉及”，由 in-（源自 PIE 詞根 [*en](https://www.etymonline.com/tw/word/*en) “在”）和 plicare “摺疊”（源自 PIE 詞根 [*plek-](https://www.etymonline.com/tw/word/*plek-) “編織”）的同化形式組成。從1600年代開始，“來自完全信任（權威），毫不懷疑”的意思（尤其是指信仰）。
 
 ---

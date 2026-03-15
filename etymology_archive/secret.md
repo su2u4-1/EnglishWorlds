@@ -1,28 +1,18 @@
 # secret
 
-## Origin and history of secret
-### secret(n.)
-
-14世纪末，“人类无法理解的事物”；15世纪初，“不为大众所知的事物”。这个词源自拉丁语 secretum，意为“秘密；神秘；隐藏的事物；秘密交谈”，也有“隐退，孤独”的意思。它是名词形式，来自 secretus，意为“被分离、撤退；隐藏、隐蔽、私密”。这个词本身是过去分词形容词，源自 secernere，意为“分开、分离、排除”。其中，se- 表示“没有、分离”，可以理解为“独自”（参见 [se-](https://www.etymonline.com/word/se-)），而 cernere 则意为“分离”，其词源可追溯到原始印欧语根 [*krei-](https://www.etymonline.com/word/*krei-)，意为“筛分”，因此引申为“区分、辨别”。
-
-在英语中，“故意隐藏或隐蔽的事物；不应被揭示的秘密”这一含义出现在15世纪中期。1738年，这个词又引申为“解决某个难题的关键或原则”，可能源自“对外行人隐藏的方法或过程”这一概念（15世纪末）。
-
-另一种形式 secre，来自古法语变体 secret，在14世纪到16世纪间较为常见，似乎最初使用频率更高。它也曾作为形容词的变体。
-
-短语 Open secret，意为“众所周知的事情；任何人都可以了解的秘密”，出现于1828年。keep (a) secret（保守秘密）则出现在15世纪中期。Secrets（身体部位，因礼仪要求需遮掩的部分）则可追溯至1530年代。
+## secret(n.)
+14世紀末，“人類無法理解的事物”； 15世紀初，“一般知識中隱藏的事物”； 源自拉丁語 secretum “祕密； 神祕的事物； 隱藏的東西； 私密的對話”，也指“隱居，獨處”，是 secretus 的名詞形式，意爲“分開，隔離； 隱藏，掩藏，私密”。這是 secernere 的過去分詞形容詞，意爲“分開，劃分； 排除”，源自 se- “沒有，分開”，本意爲“獨自一人”（參見 [se-](https://www.etymonline.com/tw/word/se-)）+ cernere “分離”（源自 PIE 詞根 [*krei-](https://www.etymonline.com/tw/word/*krei-) “篩子”，因此意爲“辨別，區分”）。
+英語中“刻意隱藏或掩藏的事物； 不應該或不應該被揭示的事物”的意思始於15世紀中葉。1738年開始出現“解決某個困難的關鍵或原則”的意義，可能是通過“對外行人隱藏的方法或過程”的概念（15世紀末）而來。
+另一種形式 secre，源自 secret 的古法語變體，在14世紀至16世紀很常見，似乎最初更爲頻繁。它也是一個形容詞的變體。
+Open secret “許多人都知道的事實或事實； 任何感興趣的人都可以瞭解的祕密”出自1828年。keep (a) secret 的用法始於15世紀中葉。Secrets “體面要求隱藏的身體部位”出現在1530年代。
 
 ---
-## secret (related entry 1)
-### secret(v.)
-
-及物动词，意为“保守秘密，隐藏， conceal”（在《牛津英语词典》中标记为“已废弃”），起源于1590年代，来自 [secret](https://www.etymonline.com/word/secret)（名词）。相关词汇：Secreted（已隐藏），secreting（正在隐藏）。
+## secret(v.)
+及物動詞，意爲“保密，隱瞞，隱藏”（在 OED 中標記爲“過時”），起源於1590年代，源自 [secret](https://www.etymonline.com/tw/word/secret)（名詞）。相關詞彙： Secreted（過去分詞）； secreting（現在分詞）。
 
 ---
-## secret (related entry 2)
-### secret(adj.)
-
-14世纪晚期，“被分开或隐藏、隐蔽的”，源自法语 secret，这是名词用法转化为形容词，来自拉丁语 secretum，意为“秘密，隐藏的事物”（参见 [secret](https://www.etymonline.com/word/secret) (n.)）。
-
-Secret agent 这个词记录于1715年；secret service 出现于1737年，指“政府负责打击伪造及其他秘密进行的政治和民事犯罪的部门”；secret police 则在1823年被提及。Secret weapon 这个词则出现在1590年代。
+## secret(adj.)
+14世紀晚期，“被分開、隱藏、隱匿”，來自法語 secret，名詞的形容詞用法，源自拉丁語 secretum “祕密，隱藏的事物”（見 [secret](https://www.etymonline.com/tw/word/secret) （名詞））。
+Secret agent 記錄於1715年； secret service 出現在1737年，指“政府部門，涉及假幣和其他祕密的政治和民事犯罪”； secret police 於1823年出現。Secret weapon 出現於1590年代。
 
 ---

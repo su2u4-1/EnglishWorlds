@@ -1,16 +1,10 @@
 # encounter
 
-## Origin and history of encounter
-### encounter(n.)
-
-大约在公元1300年，encounter一词开始用来表示“对抗者的会面”或“对峙”。这个词源自古法语的encontre，意为“会面”、“战斗”或“机会”（12世纪）。它最初是作为介词或副词使用的，表示“反对”或“对抗”，源自晚期拉丁语的incontra，意思是“在……前面”。而这个拉丁词又由in-（表示“在……之中”，源自原始印欧语词根[*en](https://www.etymonline.com/word/*en)，意为“在”）和contra（意为“反对”）组合而成（参见[contra](https://www.etymonline.com/word/contra)，作为介词和副词的用法）。
-
-在心理学中的现代用法始于1967年，得益于美国心理学家卡尔·罗杰斯的研究。Encounter group（对话小组）这一概念也可以追溯到1967年。
+## encounter(n.)
+約於1300年，“對抗，衝突的會面”，源自古法語 encontre “會面； 戰鬥； 機會”，是介詞/副詞 encontre 的名詞用法，意爲“反對，對抗”，源自晚期拉丁語 incontra “在前面”，源自拉丁語 in- “在”（源自 PIE 詞根 [*en](https://www.etymonline.com/tw/word/*en) “在”）和 contra “反對”（見 [contra](https://www.etymonline.com/tw/word/contra)（介詞，副詞））。現代心理學中的用法始於1967年，源自美國心理學家卡爾·羅傑斯的工作。1967年有 Encounter group 的記錄。
 
 ---
-## encounter (related entry 1)
-### encounter(v.)
-
-大约公元1300年，encounter的意思是“作为对手相遇”，这个词源自古法语的encontrer，意为“相遇、碰面；对抗、斗争、反对”。而encontre则指“相遇、战斗、机会”（12世纪），它本身是一个名词，源自介词/副词encontre，意为“反对、对抗”，又追溯到晚期拉丁语的incontra，意思是“在……面前”。这个词的构成来自拉丁语的in-（意为“在……之中”，源自原始印欧语词根[*en](https://www.etymonline.com/word/*en)，表示“在”）和contra（意为“反对”）。在英语中，这个词最初的含义是“偶然或意外相遇”，大约在16世纪初期开始出现。相关词汇包括Encountered（过去分词）和encountering（现在分词）。
+## encounter(v.)
+約在公元1300年，“作爲對手相遇”，來自於古法語詞語 encontrer “相遇，偶然遇見； 對抗，戰鬥”，源自於12世紀的名詞用法 encontre “（指）一場相逢； 一次打鬥； （指）機會”，是介詞/副詞 encontre “反對，對抗”從晚期拉丁文 incontra “在……前面”中擴展而來的，來自於拉丁詞語 in-  “在……裏面”（來自於原始印歐語言根 [*en](https://www.etymonline.com/tw/word/*en) “在”） +  contra “反對，對抗”（參見 [contra](https://www.etymonline.com/tw/word/contra)）。在英語中，首次記錄到弱化的“偶然相遇”意思是在16世紀初期。相關詞語： Encountered， encountering。
 
 ---

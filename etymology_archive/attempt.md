@@ -1,14 +1,10 @@
 # attempt
 
-## Origin and history of attempt
-### attempt(v.)
-
-14世纪晚期，“寻求或尝试做某事，努力去完成”，源自古法语 atempter（14世纪），更早的形式是 atenter，意为“尝试，试图，测试”（现代法语为 attenter）。这个词源自拉丁语 attemptare，意思是“尝试，试验；干预，寻求影响；攻击，袭击”（同源词还有意大利语 attentare，古普罗旺斯语，葡萄牙语 attentar，西班牙语 atentar）。它由 ad（意为“向……，朝……”，参见 [ad-](https://www.etymonline.com/word/ad-)）和 temptare（意为“尝试”，参见 [tempt](https://www.etymonline.com/word/tempt)）结合而成。相关词汇包括 Attempted（已尝试）和 attempting（正在尝试）。
+## attempt(v.)
+14世紀晚期，“尋求或嘗試做，努力執行”，源自古法語 atempter（14世紀），早期爲 atenter “嘗試，試驗”（現代法語 attenter），源自拉丁語 attemptare “嘗試，試驗； 篡改，試圖影響； 攻擊，襲擊”（源頭還包括意大利語 attentare，古普羅旺斯語，葡萄牙語 attentar，西班牙語 atentar），源自 ad “向，朝”（見 [ad-](https://www.etymonline.com/tw/word/ad-))和 temptare “嘗試”（見 [tempt](https://www.etymonline.com/tw/word/tempt)）。相關詞彙： Attempted； attempting。
 
 ---
-## attempt (related entry 1)
-### attempt(n.)
-
-1530年代，指在某些困难或不确定的任务中付出的努力，这个意思来源于 [attempt](https://www.etymonline.com/word/attempt)（动词）。而“通过暴力手段企图实现某事”的含义则出现在1580年代，特别是指对他人生命的袭击。
+## attempt(n.)
+1530年代，“在某些困難或不確定的努力中付出的努力”，源自 [attempt](https://www.etymonline.com/tw/word/attempt)（動詞）。“通過暴力實現某事的努力”一詞源於1580年代，尤其是指對某人生命的攻擊。
 
 ---

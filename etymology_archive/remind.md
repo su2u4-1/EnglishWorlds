@@ -1,8 +1,6 @@
 # remind
 
-## Origin and history of remind
-### remind(v.)
-
-在1640年代，这个词的意思是“记起，回忆起（某事）”，这种用法现在已经不常见了。到了1650年代，它被用来表示“使（某人）想起（某事），提醒”。这个词由前缀 [re-](https://www.etymonline.com/word/re-)（意为“再次”）和动词 [mind](https://www.etymonline.com/word/mind)（意为“记住”）组合而成，属于拉丁语和日耳曼语的混合词。相关词汇包括 Reminded（过去式）和 reminding（现在分词）。
+## remind(v.)
+1640年代，“記得，回憶（某事）”（現已過時）； 1650年代，“使（某人）想起（某事），使（某事）回憶起來”； 源自 [re-](https://www.etymonline.com/tw/word/re-) “再次”和 [mind](https://www.etymonline.com/tw/word/mind)（動詞）。這是一種拉丁-日耳曼混合語。相關詞彙： Reminded； reminding。
 
 ---

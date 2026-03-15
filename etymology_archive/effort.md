@@ -1,14 +1,12 @@
 # effort
 
-## Origin and history of effort
-### effort(n.)
-
-这个词最早出现在15世纪末，意思是“艰苦的尝试，费力的努力”。它源自法语的 effort，而法语的这个词又来自古法语的 esforz，意指“力量，冲劲，强度，能力”。这个词是动名词，来源于 esforcier，意思是“强迫自己，努力去做”。它可以追溯到俗拉丁语的 \*exfortiare，意为“展现力量”，这个词也为意大利语的 sforza 提供了词源。进一步追溯，它由拉丁语的 ex（意为“向外”，参见 [ex-](https://www.etymonline.com/word/ex-)）和 fortis（意为“强壮的”，参见 [fort](https://www.etymonline.com/word/fort)）组合而成。
+## effort(n.)
+15世紀晚期，“艱苦的嘗試，努力的努力”，來自法語 effort，源自古法語 esforz “力量，衝動，力量”，動名詞來自 esforcier “強迫，努力”，源自通俗拉丁語 \*exfortiare “展示力量”（意大利語 sforza 的來源），源自拉丁語 ex “出”（參見 [ex-](https://www.etymonline.com/tw/word/ex-)) + 拉丁語 fortis “強壯”（參見 [fort](https://www.etymonline.com/tw/word/fort)）。
 
 > Effort is only effort when it begins to hurt. [José Ortega y Gasset, writing of Goethe in Partisan Review, vol. xvi, part ii, 1949]
 
-> 只有当努力开始带来痛苦时，这才算真正的努力。[何塞·奥尔特加·加塞特在1949年《游击队评论》第16卷第2期中谈歌德]
+> 只有當努力開始傷害時，努力纔是努力。[何塞·奧爾特加·伊·加塞特，在《黨派評論》第十六卷第二部分，1949年]
 
-相关词汇：Efforts，指“自愿的努力”，也可以指“努力的结果”。
+相關： Efforts “自願努力”，也指“努力的結果”。
 
 ---

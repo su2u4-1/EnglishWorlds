@@ -1,12 +1,8 @@
 # adjust
 
-## Origin and history of adjust
-### adjust(v.)
-
-这个词最早出现在14世纪晚期，写作 ajusten，意思是“纠正，修正”。它源自古法语的 ajuster 或 ajoster，意为“添加；组装；校准，测量，调节”。这些词又来自晚期拉丁语的 adiuxtare，意思是“使靠近”，由 ad（意为“向……”，参见 [ad-](https://www.etymonline.com/word/ad-)）和拉丁语的 iuxta（意为“在旁边，靠近”，源自原始印欧语根 [*yeug-](https://www.etymonline.com/word/*yeug-)，意为“结合”）构成。
-
-到了16世纪，法语中的拼写被纠正为 adjuster，但这种学究式的努力并没有被广泛接受，现代法语仍然使用 ajouter。这个变化受到了民间词源的影响，给人一种它来自 ad- + iustus（意为“公正，公平”）的错觉。
-
-英语大约在1600年左右重新借用了这个词，最初的意思是“安排，解决，整理”，直接来自法语的 adjuster，意指“将事物正确地结合在一起，整理好”。到了1660年代，这个词的意义扩展为“将某物安排成符合标准或其他事物”。在保险领域的专用意义则出现在1755年（参见 [adjuster](https://www.etymonline.com/word/adjuster)）。短语 adjust to（意为“适应，习惯于”）首次出现在1924年。相关词汇包括 Adjusted（已调整）和 adjusting（正在调整）。
+## adjust(v.)
+14世紀晚期， ajusten，意爲“糾正，補救”，源自古法語 ajuster， ajoster，意爲“添加； 組裝； 校準，測量，調節”，源自晚期拉丁語 adiuxtare，意爲“靠近”，源自 ad（見 [ad-](https://www.etymonline.com/tw/word/ad-)）和拉丁語 iuxta，意爲“下一個，靠近”（來自 PIE 詞根 [*yeug-](https://www.etymonline.com/tw/word/*yeug-) “連接”）。
+在16世紀，法語被更正爲 adjuster，但這種學究式的努力被拒絕了，現代法語使用 ajouter。受民間詞源學的形式和意義影響，好像來自 ad- + iustus “公正的，公平的，公正的”。
+英語在約1600年以“安排，解決，組成”的意義重新借用了這個詞，來自法語 adjuster “適合（東西）適當地放置，整理東西”。意爲“安排（某物）以符合（標準或其他事物）”的含義來自1660年代。保險意義來自1755年（見 [adjuster](https://www.etymonline.com/tw/word/adjuster)）。到1924年， adjust to “適應”已被證實。相關： Adjusted； adjusting。
 
 ---

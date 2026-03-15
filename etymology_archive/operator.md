@@ -1,8 +1,6 @@
 # operator
 
-## Origin and history of operator
-### operator(n.)
-
-1590年代，指“从事机械或外科手术的人”，这个词是从动词 [operate](https://www.etymonline.com/word/operate) 变来的，或者源自晚期拉丁语 operator，意为“工人”。1828年起，这个词还被用来指“精明能干地经营业务的人”。而“电话总机操作员”这一特定含义则出现在1884年，最初是指“电报操作员”，这个意思可以追溯到1847年。
+## operator(n.)
+1590年代，“執行機械或外科手術的人”，是 [operate](https://www.etymonline.com/tw/word/operate)（v.）的代詞形式，或來自晚期拉丁語 operator “工人”。“精明經營業務的人”的意思始於1828年。特定意義上的“電話交換臺操作員”（1884年）源於早期的“電報員”（1847年）。
 
 ---

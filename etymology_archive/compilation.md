@@ -1,8 +1,6 @@
 # compilation
 
-## Origin and history of compilation
-### compilation(n.)
-
-大约在15世纪中期，“编纂的东西”，也指“编纂的行为，即将不同人所说或写的内容汇集并加以改编，以阐述某一主题”。这个词源于古法语 compilacion，意为“编纂，集合”，而其更早的来源是拉丁语 compilationem（主格形式为 compilatio），意指“编纂”，字面意思是“掠夺”。它是从动词 compilare（参见 [compile](https://www.etymonline.com/word/compile)）的过去分词词干演变而来的。
+## compilation(n.)
+15世紀中期，“編制的東西”，也指“編制行動，將不同人說或寫的東西彙集起來，以闡述一個主題”，源自古法語 compilacion “編制，收集”，來自拉丁語 compilationem（主格 compilatio）“編制”，字面意思爲“掠奪”，是 compilare（見 [compile](https://www.etymonline.com/tw/word/compile)）的過去分詞詞幹的動作名詞。
 
 ---

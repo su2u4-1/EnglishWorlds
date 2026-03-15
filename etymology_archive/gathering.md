@@ -1,8 +1,6 @@
 # gathering
 
-## Origin and history of gathering
-### gathering(n.)
-
-大约12世纪中期，出现了gadering这个词，意思是“人们的集合，聚集的行为”。这个词源于晚期古英语的gaderung，意指“聚集在一起，联合，集合，集会”，是由动词[gather](https://www.etymonline.com/word/gather)演变而来的动名词。
+## gathering(n.)
+12世紀中期，"gadering"，意爲"人們的集會，聚集的行爲"，源自古英語晚期的"gaderung"，意爲"聚集，聯合，收集，集會"，是"[gather](https://www.etymonline.com/tw/word/gather)"（動詞）的動名詞。
 
 ---

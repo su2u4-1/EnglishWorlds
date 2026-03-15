@@ -1,10 +1,7 @@
 # conversion
 
-## Origin and history of conversion
-### conversion(n.)
-
-这个词最早出现在14世纪中期，最初与宗教相关，指的是“从罪恶中彻底转变，走向对上帝的爱与信仰的全新生活方向”。它源自古法语的 conversion，意为“变化、转变、进入宗教生活的过程；生活方式、行为习惯；居住地、住所；性行为”。而古法语又源自拉丁语的 conversionem（主格为 conversio），意指“旋转、回转；改变、转变”，这个名词形式来自于动词 convertere，意为“转动、变换”。它由 com（意为“共同、一起”，参见 [con-](https://www.etymonline.com/word/con-)）和 vertere（意为“转动”，源自原始印欧语词根 [*wer-](https://www.etymonline.com/word/*wer-) (2)，意为“转动、弯曲”）结合而来。
-
-在英语中，“从一种宗教转变为另一种宗教（尤其是基督教）”的含义大约出现在1400年左右。到15世纪初，这个词的普遍意义发展为“从一种状态转变为另一种状态的过程或结果”。而在建筑用途方面的应用则始于1921年。Conversion disorder（“转化障碍”），指的是“歇斯底里症”，最早记录于1946年，据信是弗洛伊德创造的术语，并在1994年的《精神障碍诊断与统计手册》第四版中出现。至于 Conversion therapy（“转化疗法”），专指针对同性恋的治疗方法，则是在1979年被提及的。
+## conversion(n.)
+14世紀中葉，最初用於宗教領域，指“從罪惡轉向愛神，徹底改變精神、目的和生活方向的根本性轉變”，源自古法語 conversion “改變、轉化、進入宗教生活； 生活方式、行爲； 住所、居所； 性交”，源自拉丁語 conversionem（主格 conversio）“旋轉、轉動； 改變、轉化”，是 convertere “轉向； 轉化”的動作名詞，源自 com “與、一起”（見 [con-](https://www.etymonline.com/tw/word/con-))和 vertere “轉動”（源自 PIE 詞根 [*wer-](https://www.etymonline.com/tw/word/*wer-)（2）“轉動、彎曲”）。
+“改變宗教信仰（尤指改信基督教）”的一般意義始見於15世紀初。指建築物的使用，始於1921年。Conversion disorder “癔症”（1946年有記錄，但據說是弗洛伊德創造的詞語）曾在 DSM-IV（1994年）中出現。Conversion therapy 指針對同性戀的“轉化療法”，最早見於1979年。
 
 ---

@@ -1,8 +1,6 @@
 # related
 
-## Origin and history of related
-### related(adj.)
-
-大约在1600年，[relate](https://www.etymonline.com/word/relate)（动词）被用作“叙述，讲述”的意思。到了1702年，它又被用作形容词，表示“通过血缘或婚姻关系相连”。相关词：Relatedness。
+## related(adj.)
+大約1600年，“背誦，敘述”； 1702年，“血緣或婚姻關係”，過去分詞形容詞來自 [relate](https://www.etymonline.com/tw/word/relate)（動詞）在各種意義上。相關： Relatedness。
 
 ---

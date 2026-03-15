@@ -1,8 +1,6 @@
 # insulate
 
-## Origin and history of insulate
-### insulate(v.)
-
-1530年代，意为“使成为岛屿”，源自晚期拉丁语 insulatus，意为“像岛屿一样”，来自 insula，意为“岛屿”（参见 [isle](https://www.etymonline.com/word/isle)）。1785年起，开始有“置于孤立状态，使（某人或某物）与周围环境脱离”的意思。1742年起，在电学和化学领域，指“通过非导体阻止电流或热量传导”。相关词汇包括 Insulated（绝缘的）、insulating（绝缘的，隔离的）。
+## insulate(v.)
+1530年代，“使成爲島嶼”，源自晚期拉丁語 insulatus “像島嶼一樣製造”，來自 insula “島嶼”（見 [isle](https://www.etymonline.com/tw/word/isle)）。“將某人或某物置於孤立的情況中，使其與周圍環境分離”的意義始於1785年。電學/化學意義上的“通過插入非導體阻止電流或熱量”的意義始於1742年。相關詞彙： Insulated； insulating。
 
 ---

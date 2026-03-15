@@ -1,10 +1,6 @@
 # accessible
 
-## Origin and history of accessible
-### accessible(adj.)
-
-大约在公元1400年，accessible这个词开始被用来表示“能够接近的，易于到达的”。它源自古法语的accessible，并直接借自晚期拉丁语的accessibilis，这个词是从拉丁语的accessus演变而来的，意思是“接近、靠近，进入”。而accessus又来自accedere，意为“接近、前往、靠近、进入”（参见[accede](https://www.etymonline.com/word/accede)）。
-
-到了1640年代，这个词的含义进一步发展为“易于到达”。而在艺术或写作领域，它在1961年被用来表示“易于理解”。相关词汇还有Accessibility。
+## accessible(adj.)
+約於1400年，“提供進入的機會，能夠被接近或到達”，源自古法語 accessible，直接源自晚期拉丁語 accessibilis，是拉丁語 accessus “接近，進入； 入口”的動詞形容詞，源自 accedere “接近，前往，靠近，進入”（參見 [accede](https://www.etymonline.com/tw/word/accede)）。 “易於到達”的意思來自1640年代； 關於藝術或寫作，“能夠被輕鬆理解”，則是在1961年（在寫作或藝術通常被故意製作得不易理解之前，這個詞並不需要）。相關詞彙： Accessibility。
 
 ---

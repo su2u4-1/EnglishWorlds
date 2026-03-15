@@ -1,8 +1,6 @@
 # calculation
 
-## Origin and history of calculation
-### calculation(n.)
-
-14世纪晚期，calculacioun，意为“通过数字进行计算的艺术、方式或实践”，也指“制作星象图的过程”。这个词源于晚期拉丁语的calculationem（主格calculatio），意为“计算、估算、核算”，是由动词calculare（“计算、估算”）的过去分词词干派生而来。拉丁语的calculus原意是“计算、账目”，最初指的是“用于计数的小石子”，它是calx（属格calcis）的 diminutive 形式，意为“石灰石”（参见[chalk](https://www.etymonline.com/word/chalk) (n.)）。这个词在15世纪初被记录为“计算的结果，问题的解决方案”。
+## calculation(n.)
+14世紀晚期， calculacioun，“用數字計算的藝術、方式或實踐”，還包括“製作占星圖的過程”，源自於拉丁語 calculationem（主格 calculatio）“計算、算賬、覈算”，是 calculare “計算、覈算”的動作名詞，源自於拉丁語 calculus “覈算、賬目”，最初指“用於計數的小石子”，是 calx（屬格 calcis）“石灰石”的小型形式（參見 [chalk](https://www.etymonline.com/tw/word/chalk)（名詞））。早在15世紀初就有“計算結果、問題的解決方案”的意思。
 
 ---

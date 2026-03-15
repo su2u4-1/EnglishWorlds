@@ -1,8 +1,6 @@
 # simplification
 
-## Origin and history of simplification
-### simplification(n.)
-
-“使简单的行为或过程”，出现在1680年代，源自法语 simplification，意为“简化的行为或过程”，来自 simplifier（参见 [simplify](https://www.etymonline.com/word/simplify)）。也有可能是在英语中从 simplify 发展而来。
+## simplification(n.)
+"簡化的行爲或事實," 1680年代, 源自法語詞彙 simplification "簡化的行爲或過程", 這個詞源自 simplifier (詳見 [simplify](https://www.etymonline.com/tw/word/simplify)), 或者是在英語中衍生出的 simplify。
 
 ---

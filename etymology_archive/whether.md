@@ -1,12 +1,10 @@
 # whether
 
-## Origin and history of whether
-### whether(conj., adv.)
+## whether(conj., adv.)
+「哪一個，兩者之中哪一個」，古英語的 hwæðer、hweðer 表示「兩者之中哪一個；無論哪一個」，暗示選擇的含義，源自原始日耳曼語 \*gihwatharaz。這個詞被重建為來自疑問詞根 \*khwa-，意為「誰」（來自印歐語根 [*kwo-](https://www.etymonline.com/tw/word/*kwo-)，是關係代詞和疑問代詞的詞幹），加上比較後綴 \*-theraz.
 
-“哪个，两者中的哪个；哪一个”，古英语中是 hwæðer 或 hweðer，表示在两个选项中进行选择。这源自原始日耳曼语 \*gihwatharaz，可以追溯到疑问词根 \*khwa-（意为“谁”，来自原始印欧语词根 [*kwo-](https://www.etymonline.com/word/*kwo-)，是关系代词和疑问代词的词干）加上比较后缀 \*-theraz.
+它的比較形式是 [either](https://www.etymonline.com/tw/word/either)。在古英語中也用作代詞和形容詞。短語 whether or not（也可寫作 whether or no）最早出現於1650年代。
 
-它的比较形式是 [either](https://www.etymonline.com/word/either)，在古英语中也用作代词和形容词。短语 whether or not（也可写作 whether or no）最早出现在1650年代。
-
-在古撒克逊语中有同源词 hwedar，古诺尔斯语中是 hvarr，哥特语中是 huaþar，古高地德语中是 hwedar，它们都表示“两者中的哪个”。在现代德语中，weder 意为“都不”。此外，超越日耳曼语的同源词还有梵语 katarah、阿维斯陀语 katara-、希腊语 poteros、拉丁语 uter（意为“两者中的哪个，任一者”）、立陶宛语 katras（意为“两者中的哪个”）以及古教会斯拉夫语 koteru（意为“哪个”）。
+在古薩克森語 hwedar、古北歐語 hvarr、哥特語 huaþar、古高地德語 hwedar 中也有同源的複合詞，意為「兩者之中哪一個」。德語的 weder 則意為「兩者都不是」。此外，在日耳曼語系之外，梵語的 katarah、阿維斯陀語的 katara-、希臘語的 poteros、拉丁語的 uter（意為「兩者之中哪一個，任一者」）、立陶宛語的 katras（意為「兩者之中哪一個」）、古教會斯拉夫語的 koteru（意為「哪一個」）中也能找到類似的表達。
 
 ---

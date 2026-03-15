@@ -1,8 +1,6 @@
 # classification
 
-## Origin and history of classification
-### classification(n.)
-
-1772年，指“分类的行为，形成一个类别或将其划分为类别的行为”，这个名词来源于拉丁语的[classify](https://www.etymonline.com/word/classify)，或者源自法语的classification。1789年起，它还指“分类的结果”。
+## classification(n.)
+1772年，“分類行動，形成類別或劃分爲類別的行爲”，是 [classify](https://www.etymonline.com/tw/word/classify) 的拉丁詞幹或來自法語 classification 的動作名詞。意思是“分類的結果”來自1789年。
 
 ---

@@ -1,8 +1,6 @@
 # available
 
-## Origin and history of available
-### available(adj.)
-
-15世纪中期，[avail](https://www.etymonline.com/word/avail) + [-able](https://www.etymonline.com/word/-able)构成，最初意为“有益的”，后来引申为“有效的，能够产生预期效果的”。“可供使用的，随时可用的”这一意义始于1827年。相关词汇：Availably。
+## available(adj.)
+15世紀中期，“有益的”，也指“有效的，能夠產生所需效果的”，源自 [avail](https://www.etymonline.com/tw/word/avail) 和 [-able](https://www.etymonline.com/tw/word/-able)。 “可供使用的，能夠被利用的”意義始見於1827年。 相關詞彙： Availably。
 
 ---

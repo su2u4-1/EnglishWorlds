@@ -1,8 +1,6 @@
 # elementary
 
-## Origin and history of elementary
-### elementary(adj.)
-
-14世纪晚期，形容词“elementary”意指“具有四大元素之一的特性”，源自拉丁语 elementarius，意为“属于元素或基础知识”，进一步源自 elementum（参见 [element](https://www.etymonline.com/word/element)）。1540年代起，它被用来表示“基础的，涉及基本原理”；而1620年代则演变为“简单”的意思。在 elementary school（1841年）中，它保留了“基础”的含义。
+## elementary(adj.)
+"元素的，基本的"，14世紀晚期，源自拉丁語 elementarius，意爲"屬於元素或基礎知識"，源自 elementum（參見 [element](https://www.etymonline.com/tw/word/element)）。"基本的，涉及基本原理"的意思來自1540年代； "簡單的"的意思來自1620年代。在 elementary school（1841）中，它具有"基礎的"意義。
 
 ---

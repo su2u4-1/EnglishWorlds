@@ -1,8 +1,6 @@
 # complicated
 
-## Origin and history of complicated
-### complicated(adj.)
-
-1640年代，作为形容词使用，意指“由相互连接的部分组成，不简单”，源自 [complicate](https://www.etymonline.com/word/complicate)。到了1650年代，它引申出“难以解决的，错综复杂的，令人困惑的，难以解释或理解的”这一比喻意义。相关词汇包括 Complicatedness。
+## complicated(adj.)
+1640年代，“由相互連接的部分組成，不簡單”的過去分詞形容詞來自 [complicate](https://www.etymonline.com/tw/word/complicate)。比喻意義上的“不容易解決，錯綜複雜，難以解釋或理解”始於1650年代。相關詞彙： Complicatedness。
 
 ---

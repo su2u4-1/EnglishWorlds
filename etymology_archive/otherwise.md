@@ -1,8 +1,6 @@
 # otherwise
 
-## Origin and history of otherwise
-### otherwise(adv.)
-
-这个词源自古英语短语 on oðre wisan，意思是“以另一种方式”（参见 [other](https://www.etymonline.com/word/other) + [wise](https://www.etymonline.com/word/wise) (n.)）。在中英语中，这个短语演变为 oþre wise，到14世纪中期变成了 oþerwise。大约1400年起，它作为形容词使用。在中英语中，还有 otherwhere，意为“在其他地方”；otherwhat，意为“其他东西”（发音）。
+## otherwise(adv.)
+源自古英語短語 on oðre wisan “以其他方式”（見 [other](https://www.etymonline.com/tw/word/other) + [wise](https://www.etymonline.com/tw/word/wise)（n.）），在中古英語中變成了 oþre wise，14世紀中期變成了 oþerwise。作爲形容詞出現於公元1400年左右。中古英語中還有 otherwhere “在別處”； otherwhat “其他東西”（代詞）。
 
 ---

@@ -1,8 +1,6 @@
 # optimization
 
-## Origin and history of optimization
-### optimization(n.)
-
-1857年，指“使最佳化的行为或过程”，是从 [optimize](https://www.etymonline.com/word/optimize) 演变而来的名词形式。
+## optimization(n.)
+1857年，“使最優化的行爲或過程”，是 [optimize](https://www.etymonline.com/tw/word/optimize) 的動作名詞。
 
 ---

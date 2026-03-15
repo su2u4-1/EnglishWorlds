@@ -1,8 +1,6 @@
 # mechanism
 
-## Origin and history of mechanism
-### mechanism(n.)
-
-1660年代起，mechanismus（来自现代拉丁语）一词用来指“控制或利用自然力量的机器、引擎或其他装置的结构”。这个词源于希腊语的mēkhanē，意为“机器、工具、设备”（参见[machine](https://www.etymonline.com/word/machine) (n.)）。到了1670年代，它还被用来泛指“任何类型的机械装置或机构”。
+## mechanism(n.)
+1660年代，“用於控制或利用自然力的機器、引擎或其他裝置的結構”，源自現代拉丁語 mechanismus，源自希臘語 mēkhanē “機器、儀器、設備”（參見 [machine](https://www.etymonline.com/tw/word/machine)（n.））。 “任何類型的機械裝置或機構”的意義始於1670年代。
 
 ---

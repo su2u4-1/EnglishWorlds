@@ -1,14 +1,10 @@
 # guide
 
-## Origin and history of guide
-### guide(v.)
-
-14世纪晚期，意为“引导、领导、指挥”，源自古法语 guider（“引导、领导、指挥”，14世纪），早期形式为 guier，可能来自法兰克语 \*witan（“指引道路”）或其他类似的日耳曼语词汇，追溯到原始日耳曼语 \*witanan（“照看、保护、归因于、责备”），这也是德语 weisen（“展示、指点”）、古英语 witan（“责备”）、wite（“罚款、惩罚”）等词的来源。其词根来自原始印欧语 [*weid-](https://www.etymonline.com/word/*weid-)（“看、视”）。法语词的形式受到古普罗旺斯语 guidar（名词，意为“引导者、领导者”）或意大利语 guidare（“引导”）的影响，这两者同样源自上述词汇。相关词汇包括 Guided（过去分词，“被引导”）、guiding（现在分词，“引导中”）。Guided missile（导弹）指的是能够在飞行中改变航向的导弹，首次出现于1945年。
+## guide(v.)
+14世紀晚期，“引導，指導，引領”，源自古法語 guider “引導，領導，引領”（14世紀早期），更早的是 guier，源自法蘭克人的 \*witan “指路”或類似的日耳曼語源，源自原始日耳曼語 \*witanan “照看，保護，歸因於，責備”（源頭還包括德語 weisen “展示，指出”，古英語 witan “責備”， wite “罰款，處罰”），源自 PIE 詞根 [*weid-](https://www.etymonline.com/tw/word/*weid-) “看到”。法語單詞的形式受到古普羅旺斯語 guidar（n.）“指南，領袖”或意大利語 guidare 的影響，兩者都來自同一來源。相關： Guided； guiding。1945年出現的 Guided missile 是一種能夠在飛行中改變航向的導彈。
 
 ---
-## guide (related entry 1)
-### guide(n.)
-
-14世纪中期，指“引导他人的人”，源自古法语 guide，14世纪的动名词形式，来自 guider（参见 [guide](https://www.etymonline.com/word/guide) (v.)）。在书名中出现于1610年代；“关于当地景点的信息书”的含义始于1759年。在18世纪的法国，类似于“傻瓜书”或“白痴指南”的书籍被称为 guid' âne，字面意思是“引导驴”。Guide-dog（导盲犬）首次出现于1932年。
+## guide(n.)
+14世紀中葉，“指引道路的人”，源自14世紀的古法語 guide，是 guider（見 [guide](https://www.etymonline.com/tw/word/guide)（v.））的動名詞。從17世紀開始用於書名； 指“關於當地景點信息的書籍”始於1759年。在18世紀的法國，一個“傻瓜指南”或“白癡指南”書籍會被稱爲 guid' âne，字面意思是“指引的驢子”。1932年開始有針對盲人的 Guide-dog。
 
 ---

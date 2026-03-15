@@ -1,10 +1,8 @@
 # enclose
 
-## Origin and history of enclose
-### enclose(v.)
+## enclose(v.)
+也可以寫作 inclose；在14世紀初，使用 enclosen，意指「用牆壁、圍欄或其他障礙物圍住一片土地、一座城鎮、一棟建築等」，這個詞源自 [en-](https://www.etymonline.com/tw/word/en-#etymonline_v_8621) (1) 加上 [close](https://www.etymonline.com/tw/word/close) (動詞)，部分來自古法語的 enclos，是 enclore 的過去分詞，意為「圍住；限制；包含」。
 
-也可以写作 inclose；早在14世纪，出现了 enclosen 这个形式，意思是“用墙、篱笆或其他障碍物将一块土地、一个城镇或建筑物围起来”。这个词来源于 [en-](https://www.etymonline.com/word/en-) (1) 和 [close](https://www.etymonline.com/word/close) (v.)，部分受古法语 enclos 的影响，enclore 的过去分词，意为“围住；限制；包含”。
-
-“将荒地或公地围起来以便耕作，或将其私有化”这一特定含义大约出现在1500年左右。而“将文件与信件一起寄送”的意思则始于1707年。相关词汇包括 Enclosed 和 enclosing。
+「為了耕作而圍起荒地或公地，或將其私有化」這一特定意義出現於約1500年。而「將文件與信件一同寄送」的含義則始於1707年。相關詞彙包括 Enclosed 和 enclosing。
 
 ---

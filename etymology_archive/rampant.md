@@ -1,8 +1,6 @@
 # rampant
 
-## Origin and history of rampant
-### rampant(adj.)
-
-大约公元1300年，raumpaunt意为“站立在后腿上”，通常用于形容纹章中的狮子，因此也引申为“凶猛、贪婪”（14世纪晚期）。这个词源于古法语的rampant, rampans，是动词ramper（意为“攀爬、登上”）的现在分词形式（参见[ramp](https://www.etymonline.com/word/ramp) (v.)）。“肆意生长”这一含义（如在running rampant中）最早出现在1610年代，可能源于“凶猛性格”的概念，或者保留了古法语的原意。相关词汇：Rampantly。
+## rampant(adj.)
+公元1300年左右， raumpaunt，指的是“站在後腿上”（就像一個紋章上的獅子經常這樣做），因此也指“兇猛的，貪婪的”（14世紀晚期），源自古法語 rampant, rampans，是 ramper 的現在分詞形式，意爲“攀爬，爬升”（參見 [ramp](https://www.etymonline.com/tw/word/ramp)（動詞））。在 running rampant 中，“無節制地生長”的意義在1610年代被記錄下來，可能是通過“兇猛的性情”的概念，或者保留了更古老的法語意義。相關詞彙： Rampantly。
 
 ---

@@ -1,8 +1,6 @@
 # inclose
 
-## Origin and history of inclose
-### inclose(v.)
-
-这是 [enclose](https://www.etymonline.com/word/enclose)（参见该词条）的另一种形式。
+## inclose(v.)
+“[enclose](https://www.etymonline.com/tw/word/enclose)” 的另一種形式（詳見相關詞條）。
 
 ---

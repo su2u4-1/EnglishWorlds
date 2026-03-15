@@ -1,8 +1,6 @@
 # similar
 
-## Origin and history of similar
-### similar(adj.)
-
-“具有共同特征的”，16世纪10年代（更早的形式是 similary，16世纪60年代），源自法语 similaire，进一步追溯到中世纪拉丁语的扩展形式，源自拉丁语 similis，意为“相似的，像的，同类的”。这一词根来自古拉丁语 semol，意为“在一起”（源自原始印欧语根 [*sem-](https://www.etymonline.com/word/*sem-) (1)，意为“一；作为一个，一起”）。名词形式“相似之物”出现在16世纪50年代。相关词汇：Similarly。
+## similar(adj.)
+"具有共同特徵的"，1610年代（早期 similary，1560年代），源自法語 similaire，源自拉丁語 similis 的中世紀拉丁語擴展形式，意爲“相似的，類似的”，源自古拉丁語 semol “一起”（來自 PIE 詞根 [*sem-](https://www.etymonline.com/tw/word/*sem-)（1）“一個； 作爲一個，與...一起”）。名詞“相似之處”來自1650年代。相關： Similarly。
 
 ---

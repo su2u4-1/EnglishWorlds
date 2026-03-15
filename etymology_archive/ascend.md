@@ -1,10 +1,8 @@
 # ascend
 
-## Origin and history of ascend
-### ascend(v.)
+## ascend(v.)
+14世紀末，ascenden，意指「向上移動」，源自拉丁語 ascendere，意為「攀爬、上升」，用於描述行星和星座時，指的是「從地平線升起」，引申義則是「上升、達到」。這個詞由 ad（意為「向……」；參見 [ad-](https://www.etymonline.com/tw/word/ad-)）和 scandere（意為「攀爬」；參見 [scan](https://www.etymonline.com/tw/word/scan#etymonline_v_22839) (v.)）組成。
 
-14世纪晚期，ascenden，意为“向上移动”，源自拉丁语 ascendere，意为“向上攀登，登上”，用于描述行星和星座时，指的是“从地平线升起”，引申义为“上升，达到”。这个词由 ad（意为“向……”，参见 [ad-](https://www.etymonline.com/word/ad-)）和 scandere（意为“攀登”，参见 [scan](https://www.etymonline.com/word/scan) (v.)）组合而成。
-
-“向上倾斜”的意思始于1832年。相关词汇包括 Ascended 和 [ascending](https://www.etymonline.com/word/ascending)。古英语中有一个词是 stigan（参见 [sty](https://www.etymonline.com/word/sty) (v.)）。
+「向上傾斜」的意思出現於1832年。相關詞彙包括 Ascended 和 [ascending](https://www.etymonline.com/tw/word/ascending)。古英語中有一個詞是 stigan（參見 [sty](https://www.etymonline.com/tw/word/sty#etymonline_v_49217) (v.)）。
 
 ---

@@ -1,8 +1,6 @@
 # extraneous
 
-## Origin and history of extraneous
-### extraneous(adj.)
-
-“不属于某物或不适合某物；虽然附着但不是内在或本质的，外来的”，这个词最早出现在1630年代，源自拉丁语 extraneus，意为“外部的，陌生的”，字面意思是“在外的，从外来的”（作为名词则指“陌生人”），来自 extra，意为“在外，外部”（参见 [extra-](https://www.etymonline.com/word/extra-)）。它与 [strange](https://www.etymonline.com/word/strange) 是同源词。相关词汇：Extraneously。
+## extraneous(adj.)
+"不屬於或適當於某物的； 不是內在或本質的，儘管附屬； 外來的"，1630年代，源自拉丁語 extraneus "外部的，陌生的"，字面意思是"沒有，來自外部"（作爲名詞，指"陌生人"），來自 extra "在...之外"（參見 [extra-](https://www.etymonline.com/tw/word/extra-)）。是 [strange](https://www.etymonline.com/tw/word/strange) 的同源詞。相關詞彙： Extraneously。
 
 ---

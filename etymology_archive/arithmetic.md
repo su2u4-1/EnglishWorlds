@@ -1,10 +1,7 @@
 # arithmetic
 
-## Origin and history of arithmetic
-### arithmetic(n.)
-
-“计算的艺术，最基础的数学分支”，这个词最早出现在13世纪中期，写作 arsmetike，源自12世纪的古法语 arsmetique，再往前追溯到拉丁语 arithmetica，最终源于希腊语 arithmetikē (tekhnē)，意为“计数的艺术”，其中 arithmetikos 意指“与计算相关的，算术的”，而 arithmos 则是“数字，计数，数量”的意思，这个词来自原始印欧语 \*erei-dhmo-，是 [*re-](https://www.etymonline.com/word/*re-)（意为“推理，计数”）的变体。
-
-在民间词源的影响下，英语中出现了 arsmetrik 这个形式，最初被认为源自中世纪拉丁语 ars metrica。不过，这个拼写在16世纪初的英语（尽管 arsmetry 从1590年代起就有记录）和法语中被纠正。古英语中，算术的本土表达是 tælcræft，字面意思是“计数的技艺”。
+## arithmetic(n.)
+"計算藝術，數學中最基礎的分支，"公元13世紀中葉， arsmetike，源自古法語 arsmetique（12世紀），源自拉丁語 arithmetica，源自希臘語 arithmetikē (tekhnē) "(the) counting (art)"， arithmetikos 的女性形式，意爲"計算的，算術的"，源自 arithmos "數字，計數，數量"（源自 PIE \*erei-dhmo-， [*re-](https://www.etymonline.com/tw/word/*re-) 的詞根的帶後綴變體，意爲"推理，計數"）。
+arsmetrik 的形式基於對中世紀拉丁語 ars metrica 的民間詞源學派生； 16世紀早期，英語中的拼寫錯誤得到了糾正（儘管 arsmetry 可追溯到1590年代），法語也是如此。古英語中的本土形式是 tælcræft，字面意思是"講述的技藝"。
 
 ---

@@ -1,8 +1,6 @@
 # during
 
-## Origin and history of during
-### during(prep.)
-
-“在……期间”，最早出现在14世纪末，写作 duryng（之前形式为 durand，大约14世纪中期），是一个已不再使用的动词 duren 的现在分词，意为“持续、忍耐、继续存在”。这个动词源自古法语 durer，而古法语又来自拉丁语 durare，意思是“变硬、持续”，其词根 durus 意为“坚硬”，可以追溯到原始印欧语词根 [*deru-](https://www.etymonline.com/word/*deru-)，意为“坚固、稳定”。例如，During the day 可以理解为“白天持续的时候”。这种介词用法实际上是从拉丁语的一个结构转移过来的，类似于拉丁语中的绝对时态（比如 durante bello，意为“在战争持续期间”）。
+## during(prep.)
+"在...期間，貫穿...的整個過程中"，14世紀晚期， duryng（早期爲 durand，14世紀中期），是已經廢棄的動詞 duren（意爲“持續，持久，繼續存在”）的現在分詞形式（13世紀中期），該動詞源自古法語 durer，源自拉丁語 durare “變硬”，源自 durus “硬”的詞根（源自 PIE 詞根 [*deru-](https://www.etymonline.com/tw/word/*deru-) “堅定，堅實，穩固”）。During the day 意爲“在白天持續存在”，介詞用法是拉丁語獨立格的英語轉化（比較 durante bello “在戰爭期間（字面意思爲‘持續戰爭’）”）。
 
 ---

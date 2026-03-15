@@ -1,8 +1,6 @@
 # illustration
 
-## Origin and history of illustration
-### illustration(n.)
-
-约1400年，意为“光辉”；15世纪初，意为“显现”；15世纪中期，意为“精神启示”，来自古法语illustration（意为“幻影，外观”，13世纪）和拉丁语illustrationem（主格illustratio，意为“生动的表现”，特别是在书写中），字面意思是“启迪”，源自过去分词词干illustrare（意为“照亮，使明亮，启蒙”）；引申义为“清晰化，揭示，解释；装饰，使杰出”，来自同化形式的in-（意为“在……中”，源自印欧语根[*en](https://www.etymonline.com/word/*en)）+ lustrare（意为“使明亮，照亮”），源自印欧语根[*leuk-](https://www.etymonline.com/word/*leuk-)（意为“光，亮”）的后缀形式。“在头脑中清晰化的行为”的心理意义始于1580年代。“插图”的意义始于1816年。
+## illustration(n.)
+約1400年，"一種閃耀； " 15世紀初，"一種顯現； " 15世紀中葉，"一種精神上的啓示"，源自古法語 illustration "幻象，出現"（13世紀）和直接源自拉丁語 illustrationem（主格 illustratio）"生動的表現"（在寫作中），字面上是"一種啓蒙"，源自 illustrare 的過去分詞詞幹"照亮，使明亮，照明"； 比喻地是"使清晰，揭示，解釋； 裝飾，使顯著"，源自 in- 的同化形式"在"（源自 PIE 詞根 [*en](https://www.etymonline.com/tw/word/*en) "在"）+ lustrare "使明亮，照明"，源自 PIE 詞根 [*leuk-](https://www.etymonline.com/tw/word/*leuk-) "光，亮度"的後綴形式。"在心中使清晰的行爲"的心理意義可追溯至1580年代。"說明性圖片"的意思可追溯至1816年。
 
 ---

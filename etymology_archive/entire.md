@@ -1,8 +1,6 @@
 # entire
 
-## Origin and history of entire
-### entire(adj.)
-
-14世纪中期，形容事物时表示“完整的，完好的”。这个词源于古法语 entier，意为“完整的，未破损的，完好的，完整的”，而古法语又源自拉丁语 integrum，意为“完整性”（主格形式为 integer，具体可以参考 [integer](https://www.etymonline.com/word/integer)）。相关词汇还有 Entireness。
+## entire(adj.)
+14世紀中期，用於事物，“整個的，完整的”，來自古法語 entier “整個的，未破損的，完整的”，源自拉丁語 integrum “完整”（主格 integer； 參見 [integer](https://www.etymonline.com/tw/word/integer)）。相關詞彙： Entireness。
 
 ---

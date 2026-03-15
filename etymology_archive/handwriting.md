@@ -1,13 +1,11 @@
 # handwriting
 
-## Origin and history of handwriting
-### handwriting(n.)
-
-也作 hand-writing，意为“用手书写；某人特有的书写形式”，起源于15世纪早期，来自[hand](https://www.etymonline.com/word/hand) (n.) + [writing](https://www.etymonline.com/word/writing)，翻译自拉丁语 manuscriptum，相当于希腊语 kheirographia。早期单独使用 [hand](https://www.etymonline.com/word/hand) (n.) 表示“书写，书写风格”；古英语中有 handgewrit 表示“书写；书面文字”。Southey 使用 uglyography 表示“糟糕的书写”。
+## handwriting(n.)
+也作 hand-writing，「用手書寫；一個人特有的書寫形式」，15世紀早期，來自 [hand](https://www.etymonline.com/tw/word/hand) (名詞) + [writing](https://www.etymonline.com/tw/word/writing)，翻譯自拉丁語 manuscriptum，相當於希臘語 kheirographia。早期僅為 [hand](https://www.etymonline.com/tw/word/hand) (名詞)「筆跡，書寫風格」；而古英語中有 handgewrit「筆跡；一份書寫」。蘇賽使用 uglyography 表示「糟糕的書寫」。
 
 
 > An ordinary note in his [Horace Greeley's] handwriting is said to have been used for a long time as a railroad pass, then as a servant's recommendation, and finally taken to a drug-store as a doctor's prescription. [Frank Leslie's Magazine, August 1884]
 
-> 据说他 [Horace Greeley] 的一张普通笔记曾长期被用作铁路通行证，然后作为仆人的推荐信，最后被带到药店当作医生的处方。[Frank Leslie's Magazine, August 1884]
+> 據說，他[霍勒斯·格里利]筆跡的普通便條長期被用作鐵路通行證，然後作為僕人的推薦信，最後被拿到藥店作為醫生的處方。[《弗蘭克·萊斯利雜誌》，1884年8月]
 
 ---

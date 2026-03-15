@@ -1,14 +1,10 @@
 # dynamic
 
-## Origin and history of dynamic
-### dynamic(adj.)
-
-到1812年，“与不处于平衡状态的机械力相关，指产生运动的力”（与static相对），这个词源自法语dynamique，由德国数学家戈特弗里德·莱布尼茨（Gottfried Leibnitz，1646-1716）于1691年引入，最初来自希腊语dynamikos，意为“有力的”，而dynamis则意为“力量”，源自dynasthai，意为“能够，有力量，足够强大”，其具体来源尚不明确。该词在1856年（在爱默生的作品中）被引申为“积极的，有效的，充满活力的”。相关词汇：Dynamically。
+## dynamic(adj.)
+1812年，“涉及到不平衡力學力量，涉及到產生運動的力量”（相反於 static），源自法語 dynamique，由德國數學家戈特弗裏德·萊布尼茨（Gottfried Leibniz，1646-1716）於1691年引入，來自希臘語中的 dynamikos “有力量的”，來自 dynamis “力量”，源於 dynasthai “有能力，有權力，足夠強大”，其來源不明。比喻意義上的“積極的，有效的，充滿活力的”始於1856年（在愛默生的作品中）。相關詞彙： Dynamically。
 
 ---
-## dynamic (related entry 1)
-### dynamic(n.)
-
-“能量；动力”，这个词最早出现在1894年，源自[dynamic](https://www.etymonline.com/word/dynamic)（形容词）。而作为“相互作用的方式”则是在1978年开始使用的。
+## dynamic(n.)
+"精力； 動力"，1894年，來自 [dynamic](https://www.etymonline.com/tw/word/dynamic)（形容詞）。作爲"相互作用方式"，於1978年。
 
 ---

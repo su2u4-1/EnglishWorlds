@@ -1,14 +1,10 @@
 # desire
 
-## Origin and history of desire
-### desire(v.)
-
-“希望或渴望，表达想要获得的愿望”，大约公元1200年，desiren，源自古法语desirrer（12世纪）“希望，渴望，期盼”，进一步追溯到拉丁语desiderare“渴望，期望；要求，期待”。最初的意思可能是“等待星星带来的东西”，源自短语de sidere“来自星星”，其中sidus（属格sideris）意为“天体，星星，星座”（但参见[consider](https://www.etymonline.com/word/consider)）。相关词汇：Desired；desiring。
+## desire(v.)
+“希望或渴望，表達獲得願望的願望”，約1200年， desiren，源自古法語 desirrer（12世紀）“願望，渴望，渴望”，源自拉丁語 desiderare “渴望，希望； 要求，期望”，最初的意義可能是“等待星星帶來的東西”，來自短語 de sidere “來自星星”，來自 sidus（屬格 sideris）“天體，星星，星座”（但參見 [consider](https://www.etymonline.com/tw/word/consider)）。相關： Desired； desiring。
 
 ---
-## desire (related entry 1)
-### desire(n.)
-
-大约公元1300年，desir一词的含义是“渴望或向往；一种情感，指向对某物的获得或占有；感官欲望，肉体欲望，色欲”。这个词源于古法语的desirer（参见[desire](https://www.etymonline.com/word/desire) (v.)）。而“所渴望之物”的意思则出现在14世纪中期。
+## desire(n.)
+約於1300年，指“渴望或嚮往； 指向獲得或擁有某物的情感； 感官的慾望，生理的慾望，慾望”，源自古法語 desir，源自 desirer（見 [desire](https://www.etymonline.com/tw/word/desire)（動詞））。指“渴望的東西”約於14世紀中葉出現。
 
 ---

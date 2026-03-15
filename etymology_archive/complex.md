@@ -1,16 +1,11 @@
 # complex
 
-## Origin and history of complex
-### complex(adj.)
-
-1650年代起，complex这个词被用来形容“由互相连接的部分组成，通过简单事物或元素的组合形成的”，最初源自法语complexe，意为“复杂的、错综复杂的”。而法语又是从拉丁语complexus演变而来的，原意是“包围、环绕”。这个词的过去分词complecti则有“环抱、拥抱”的意思，后来引申为“紧紧抓住、掌握、理解”。它由两个部分构成：com（意为“与……一起、共同”，参见[com-](https://www.etymonline.com/word/com-)）和plectere（意为“编织、编辫子、缠绕、交织”），而plectere又源自原始印欧语（PIE）\*plek-to-，这是[*plek-](https://www.etymonline.com/word/*plek-)的词干形式，意指“编织”。
-
-1715年，这个词首次被用来表示“复杂、错综复杂、难以分析”。而complex sentence（复杂句），指的是包含一个或多个从句以及主句的句子结构，则可以追溯到1776年。
+## complex(adj.)
+1650年代，“由簡單的事物或元素組合而成的，由相互連接的部分組成的”來自法語 complexe “複雜的，複雜的，錯綜複雜的”（17世紀），源自拉丁語 complexus “環繞，包圍”， complecti 的過去分詞“環繞，擁抱”，在轉移使用中，“緊緊抓住，掌握，理解”，來自 com “與，一起”（見 [com-](https://www.etymonline.com/tw/word/com-)) + plectere “編織，編織，編織，纏繞”，來自 PIE \*plek-to-, 詞根 [*plek-](https://www.etymonline.com/tw/word/*plek-) “編織”。
+“涉及，錯綜複雜，複雜，不易分析”的含義首次記錄於1715年。Complex sentence，指除主句外還包含一個或多個從屬子句的句子，始於1776年。
 
 ---
-## complex (related entry 1)
-### complex(n.)
-
-1650年代，指“由相互关联的部分构成的整体”，源自形容词 [complex](https://www.etymonline.com/word/complex)。拉丁语 completus 作为名词时意为“包围、拥抱、连接、关系”。心理学上“被压抑思想的连接群体”这一概念是由卡尔·荣格于1907年提出的。
+## complex(n.)
+1650年代，“由相互連接的部分組成的整體”，源自 [complex](https://www.etymonline.com/tw/word/complex)（形容詞）。拉丁語 completus 作爲名詞的意思是“環繞，包含，連接，關係”。心理學上“被壓抑的思想的相互連接的羣體”的意義由卡爾·榮格於1907年確立。
 
 ---

@@ -1,10 +1,8 @@
 # surely
 
-## Origin and history of surely
-### surely(adv.)
+## surely(adv.)
+大約在公元1300年，seurli這個詞出現，意思是「沒有危險或受傷、損失等風險」，由[sure](https://www.etymonline.com/tw/word/sure)（形容詞，意為「確定的」）和[-ly](https://www.etymonline.com/tw/word/-ly)（副詞後綴，表示方式）組成。這個詞在14世紀晚期開始被用來表達「沒有恐懼或焦慮；確定地、自信地或有保證地」的意思，也可以解釋為「真實地、以真誠的方式」。
 
-大约在公元1300年，seurli这个词出现，意思是“没有危险或受伤、损失等风险”，它来源于形容词[sure](https://www.etymonline.com/word/sure)（意为“安全的”）加上后缀[-ly](https://www.etymonline.com/word/-ly)（表示方式）。这个词在14世纪晚期被记录下来，意指“没有恐惧或焦虑；充满确定性、自信或保证”，同时也可以表示“真实地，诚实地”。
-
-从14世纪中期开始，这个词常用来修饰陈述，表达“确实，肯定，当然”的意思（例如，surely you jest，意为“你一定是在开玩笑”）。它“常被用来像[doubtless](https://www.etymonline.com/word/doubtless)一样，带有怀疑或质疑的语气”[《世纪词典》]。
+從14世紀中期起，這個詞常用來修飾陳述，並帶有「確實、肯定地」的語氣（例如surely you jest，意為「你肯定是在開玩笑」）。根據《世紀詞典》的說法，「這個詞經常像[doubtless](https://www.etymonline.com/tw/word/doubtless)（無疑地）一樣，用於表達懷疑或質疑的語氣」。
 
 ---

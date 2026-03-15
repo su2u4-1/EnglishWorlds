@@ -1,24 +1,19 @@
 # machine
 
-## Origin and history of machine
-### machine(n.)
+## machine(n.)
+1540年代，"任何類型的結構"，源自中古法語 machine "裝置，發明"，源自拉丁語 machina "機器，引擎，軍事機器； 裝置，詭計； 工具"（還有西班牙語 maquina，意大利語 macchina），源自希臘語 makhana，多利克方言變體的雅典方言 mēkhanē "裝置，工具，機器"； 也指"策略，狡詐"，傳統上（Watkins）源自 PIE \*magh-ana- "使能夠的東西"，源自詞根 [*magh-](https://www.etymonline.com/tw/word/*magh-) "能夠，有力量"。但是 Beekes 基於形式上的理由，反對將其與日耳曼語和斯拉夫語中的詞彙聯繫起來。他認爲希臘詞是孤立的，並且確信它是古希臘語。
+現代主要意義上的"由移動部件組成的裝置，用於施加機械力量"（1670年代）可能源於17世紀中葉的"器械，設備"和"軍事攻城塔"的意義。它逐漸被應用於不需要工人的力量或技巧的裝置。
+從17世紀到19世紀，還指"車輛； 驛站或郵車； 船舶"，從1901年開始，還指"汽車"。在19世紀晚期的俚語中，這個詞同時用於"陰莖"和"陰道"，是爲數不多的受到這樣榮譽的詞之一。
+政治意義上的"政黨的工作成員嚴密組織，以確保自己及其同伴的主導地位"是美國俚語，可以追溯到1876年。Machine age , 一個以廣泛使用機械裝置爲特徵的時代，可以追溯到1882年，儘管有以下這段話：
 
-1540年代起，machine一词用于指代“任何结构”。这个词源自中法语machine，意为“装置、器械”。而中法语又源自拉丁语machina，意指“机器、引擎、军事器械；装置、诡计；工具”。这个词在西班牙语中变为maquina，在意大利语中则是macchina。更早的词源可以追溯到希腊语makhana，这是多利亚方言中对雅典方言mēkhanē的变体，意为“装置、工具、机器”，同时也有“巧妙的设计、诡计”的意思。传统上（如Watkins所述），这个词被认为源自原始印欧语（PIE）\*magh-ana-，意为“使能之物”，其词根[*magh-](https://www.etymonline.com/word/*magh-)则表示“能够、拥有力量”。不过，Beekes对此提出异议，他认为这个词与日耳曼语和斯拉夫语的相关词汇联系不大，认为希腊语中的machina是一个孤立的词汇，可能是前希腊语词汇。
+> The idea of remodelling society at public meetings is one of the least reasonable which ever entered the mind of an agitator: and the notion that the relations of the sexes can be re-arranged and finally disposed of by preamble and resolution, is one of the latest, as it should have been the last, vagary of a machine age. ["The Literary World," Nov. 1, 1851]
 
-现代意义上，machine指“由运动部件构成的机械装置，用于施加机械动力”，这个用法大约在1670年代形成，可能源于17世纪中期对“设备、器具”和“军事攻城塔”的描述。随着时间推移，这个词逐渐被用来指代那些不依赖工人力量或技能即可运作的装置。
+> 在公開會議上重塑社會的想法是一個最不合理的想法，它是一個煽動者頭腦中最新的，也應該是最後的幻想：通過前言和決議來重新安排和最終解決性別關係的觀念，是機械時代的最新幻想。["The Literary World," Nov. 1, 1851]
 
-在17世纪到19世纪，这个词还被用来指代“交通工具；驿马车或邮政马车；船只”。而从1901年起，它专指“汽车”。有趣的是，在19世纪晚期的俚语中，这个词还被用来指代“阴茎”和“阴道”，算是为数不多的几种特殊用法之一。
-
-在政治领域，machine指“政党内为了确保自身及其同盟的主导地位而严格组织起来的工作成员”，这个用法是美国俚语，最早可以追溯到1876年。Machine age,即“机器时代”，指的是机械装置广泛应用的时期，最早见于1882年。不过，早在此之前就有这样的观点：
-
-> 在公众会议上重塑社会的想法，是任何鼓动者心中最不合理的念头之一；而认为两性关系可以通过前言和决议来重新安排并最终解决的观念，则是机器时代最新、也应是最后一种荒谬想法。[摘自《文学世界》，1851年11月1日]
-
-Machine for living (in)意为“居所”，这是对勒·柯布西耶1923年提出的machine à habiter（“居住机器”）的翻译。
+Machine for living  (in) "房屋"翻譯爲勒·柯布西耶的 machine à habiter（1923年）。
 
 ---
-## machine (related entry 1)
-### machine(v.)
-
-大约在15世纪中期，machine 这个词开始用于“决定，解决”这样的意思，这主要源自古法语和拉丁语的用法。它来自拉丁语的 machina，意为“机器，发动机，军事装备；装置，诡计；工具”。而拉丁语又源自希腊语的 makhana，这是多利亚方言对雅典方言 mēkhanē 的变体，意指“装置，工具；巧妙的设计，诡计”（参见 [machine](https://www.etymonline.com/word/machine) (n.)）。而“将机器应用于……，通过机器制造或形成……”的意思则出现在1878年。相关词汇包括：Machined（已加工），machining（加工）。
+## machine(v.)
+15世紀中期，“決定，解決”，源自古法語和拉丁語用法，來自拉丁語 machina “機器，引擎，軍事機器； 裝置，詭計； 工具”，源自希臘語 makhana，多利克方言變體的雅典語 mēkhanē “裝置，工具； 發明，狡猾”（參見 [machine](https://www.etymonline.com/tw/word/machine)（n.））。意思是“應用機械，通過機器製造或形成”始於1878年。相關詞彙： Machined； machining。
 
 ---

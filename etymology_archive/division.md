@@ -1,10 +1,7 @@
 # division
 
-## Origin and history of division
-### division(n.)
-
-14世纪晚期，divisioun，意为“将事物分离成部分、份额或份子的行为；与其余部分分开的部分；在情感或利益上存在分歧的状态”。这个词源于古法语的division，直接来自拉丁语的divisionem（主格divisio），是名词形式，表示“分割”的动作，源自过去分词dividere（参见[divide](https://www.etymonline.com/word/divide) (v.)）。
-
-在军事领域，“军队、舰队或船员的一个部分”这一意义出现在16世纪90年代。数学上“与乘法相反的运算”这一含义则出现在14世纪晚期。数学除法符号据说是由英国数学家约翰·佩尔（John Pell，1611-1685）发明的，他曾在剑桥和阿姆斯特丹教授数学。
+## division(n.)
+14世紀晚期， divisioun，“將某物分成部分、份額或份額的行爲； 與他人在觀點或利益上不一致的狀態”，源自古法語 division，直接源自拉丁語 divisionem（主格 divisio），是 dividere 的動作名詞形式，“分開”（見 [divide](https://www.etymonline.com/tw/word/divide)（v.））。
+軍事意義上的“軍隊、艦隊或船員的一部分”來自1590年代。數學上“乘法的逆運算”是從14世紀晚期開始的。據說數學除號是由英國數學家約翰·佩爾（John Pell，1611-1685）發明的，他曾在劍橋和阿姆斯特丹任教。
 
 ---

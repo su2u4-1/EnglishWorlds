@@ -1,14 +1,10 @@
 # straightforward
 
-## Origin and history of straightforward
-### straightforward(adj.)
-
-“直接向前推进”这个意思在1807年出现，来源于 [straight](https://www.etymonline.com/word/straight)（形容词1）+ [forward](https://www.etymonline.com/word/forward)（副词）。在语言上，1806年起引申为“诚实、正直、坦率”。相关词汇包括 Straightforwardly（坦率地）、straightforwardness（坦率、直率）。
+## straightforward(adj.)
+1550年代，“直接向前，正好在前面”，來自 [straight](https://www.etymonline.com/tw/word/straight)（adj.1）+ [forward](https://www.etymonline.com/tw/word/forward)（adv.）。關於語言的引用，始於1806年。相關詞彙： Straightforwardly； straightforwardness。
 
 ---
-## straightforward (related entry 1)
-### straightforward(adv.)
-
-1550年代，straightforwards（带有副词性属格 -s），意为“直接在前方”，源自副词短语；参见 [straight](https://www.etymonline.com/word/straight) (adv.) + [forward](https://www.etymonline.com/word/forward) (adv.)。到1807年作为“直接向前，正前方”使用。
+## straightforward(adv.)
+1550年代，straightforwards（带有副词性属格-s），意为“直接在前方”，源自副词短语；参见[straight](https://www.etymonline.com/tw/word/straight#etymonline_v_55711) (adv.) + [forward](https://www.etymonline.com/tw/word/forward#etymonline_v_11833) (adv.)。到1807年作为“直接向前，正前方”。
 
 ---

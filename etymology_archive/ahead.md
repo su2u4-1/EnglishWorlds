@@ -1,8 +1,6 @@
 # ahead
 
-## Origin and history of ahead
-### ahead(adv.)
-
-1620年代起，表示“在前面，处于首位”，源自 a-，意为“在……上”（参见 [a-](https://www.etymonline.com/word/a-) (1)），加上 [head](https://www.etymonline.com/word/head) (n.)，意指“前面”。最初用于航海术语（与 astern 相对）。“向前，继续前进”的意思（如在 go ahead 中）始于1640年代。
+## ahead(adv.)
+1620年代，“在前面，向前”，來自 a- “在……上面”（參見 [a-](https://www.etymonline.com/tw/word/a-)（1））和 [head](https://www.etymonline.com/tw/word/head)（n.）“前面”。最初用於航海（與 astern 相對）。“向前，前進”的意思（如 go ahead)）源於1640年代。
 
 ---

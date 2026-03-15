@@ -1,10 +1,8 @@
 # surround
 
-## Origin and history of surround
-### surround(v.)
+## surround(v.)
+早在15世紀，surrounden這個詞就出現了，意思是「淹沒、溢出」（這個意義現在已經不再使用）。它來自盎格魯法語的surounder，是古法語soronder或suronder的變體，意指「溢出、充滿；超越、主宰」。這又源於晚期拉丁語的superundare，「溢出」的意思，而拉丁語的super則是「在……之上」（參見[super-](https://www.etymonline.com/tw/word/super-)），加上undare，「波浪般流動」，這又來自unda，「波浪」。這一系列詞彙都可以追溯到原始印歐語根[*wed-](https://www.etymonline.com/tw/word/*wed-#etymonline_v_52591) (1)，意指「水；潮濕」，可以與[abound](https://www.etymonline.com/tw/word/abound)進行比較。
 
-在15世纪初，surrounden这个词的意思是“淹没，泛滥”，不过这个意思现在已经不再使用了。它来源于盎格鲁法语的surounder，而这又是古法语soronder或suronder的变体，意为“泛滥，充盈；超越，主宰”。这个词最终源自晚期拉丁语的superundare，意思是“泛滥”，由拉丁语的super（意为“在上方”，可参见[super-](https://www.etymonline.com/word/super-)）和undare（意为“波浪般流动”，来自unda，即“波浪”，其原始印欧词根为[*wed-](https://www.etymonline.com/word/*wed-) (1)，意指“水；湿”，可与[abound](https://www.etymonline.com/word/abound)对比）构成。
-
-到了1610年代，这个词开始有了“包围，围住，四面封闭”的意思。这一变化受到法语中“主宰”这一比喻意义的影响，同时也因为与[round](https://www.etymonline.com/word/round)的发音相似，从17世纪起影响了英语拼写，尽管两者并无直接关联。它在英语中的真正亲属词包括[abound](https://www.etymonline.com/word/abound)和[redound](https://www.etymonline.com/word/redound)。从1680年代起，这个词又有了“环绕，像边界一样包围”的新意思。相关词汇包括Surrounded（被包围）和surrounding（包围的）。
+到了1610年代，這個詞開始有了「包圍、圍住，或從四面八方封閉起來」的意思，這一轉變受到法語中「主宰」的比喻意義影響，同時也因為與[round](https://www.etymonline.com/tw/word/round)的發音聯想而改變了拼寫。儘管如此，這兩者之間並沒有實質上的聯繫。它在英語中的真正相關詞包括[abound](https://www.etymonline.com/tw/word/abound)和[redound](https://www.etymonline.com/tw/word/redound)。到了1680年代，surround被用來表示「環繞，像邊界一樣包圍」。相關詞彙還有Surrounded（被包圍）和surrounding（包圍的）。
 
 ---

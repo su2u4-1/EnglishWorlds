@@ -1,8 +1,6 @@
 # torn
 
-## Origin and history of torn
-### torn
-
-这是动词 [tear](https://www.etymonline.com/word/tear) 的过去分词形式，源自古英语 getoren。
+## torn
+[tear](https://www.etymonline.com/tw/word/tear)（動詞）的過去分詞； 來自古英語的 getoren。
 
 ---

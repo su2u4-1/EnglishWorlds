@@ -1,18 +1,14 @@
 # scent
 
-## Origin and history of scent
-### scent(v.)
+## scent(v.)
+14世紀末期，“senten”，最初是一個狩獵術語，“通過嗅覺發現氣味”，來自古法語“sentir”，意爲“感覺、嗅、觸摸、品嚐、認識、感知、向某人示愛”，源自拉丁語“sentire”，意爲“用感官感知、發表意見或感受”（見名詞 [sense](https://www.etymonline.com/tw/word/sense)）。
 
-这个词最早出现在14世纪晚期，写作senten，起初是个狩猎术语，意思是“嗅到气味，通过嗅觉感知”。它源自古法语sentir，意为“感受，嗅闻，触摸，品尝；意识到，察觉；与……调情”。而古法语又来自拉丁语sentire，意思是“感受，通过感官感知；表达观点或情感”（参见[sense](https://www.etymonline.com/word/sense) (n.)）。
+17世紀，不合邏輯的 -c- 出現了，或許在這種情況下是受到了 ascent 、descent 等的影響，或受到 science 的影響。但這樣的插入在早期現代英語中是一種規律，它還產生了 [scythe](https://www.etymonline.com/tw/word/scythe)，有一段時間甚至威脅着確立 scite 和 scituate。
 
-17世纪时，词中出现了不符合词源的-c-，可能受到ascent、descent等词的影响，或者受到science的影响。不过，这种插入在早期现代英语中并不罕见，也出现过[scythe](https://www.etymonline.com/word/scythe)，一度还威胁要形成scite和scituate。
-
-1550年代起，这个词开始被用作比喻。1690年代，它被用作及物动词，意为“使某物带有气味，赋予香气，熏香”。相关词汇包括[Scented](https://www.etymonline.com/word/Scented)（有香气的）和scenting（散发香气）。
+從1550年代開始的比喻用法。及物動詞“使氣味孕育、使香氣四溢、使香”，始於1690年代。相關詞彙： [Scented](https://www.etymonline.com/tw/word/scented)， scenting。
 
 ---
-## scent (related entry 1)
-### scent(n.)
-
-大约在1400年，sent这个词最初指的是“气味，能够被嗅到的东西”（特别是动物经过时留下的气味痕迹，猎犬用来追踪的线索），也有“感知，感觉”的意思（这是词源上的解释），来源于[scent](https://www.etymonline.com/word/scent)（动词）。这个词常常被用作比喻，指代任何类型的追寻或探究。几乎总是用于形容愉悦的气味；而“香水，从花卉等提炼出的芳香液体”这一含义则是在15世纪晚期（由凯克斯顿提出）才出现的。
+## scent(n.)
+約於1400年， sent，“氣味，可以聞到的東西”（尤指獵犬追蹤動物時留下的痕跡），還有“感知，感覺”（詞源意義）； 源自 [scent](https://www.etymonline.com/tw/word/scent)（動詞）。常用於各種追求或探究的比喻。幾乎總是指令人愉悅的氣味； “香水，從花等中蒸餾出的芳香液體”的意義在15世紀後期（卡克斯頓）出現。
 
 ---

@@ -1,22 +1,17 @@
 # fashion
 
-## Origin and history of fashion
-### fashion(n.)
-
-大约公元1300年，fasoun 这个词出现，意指“物理构成或组成；形状，外观”。它源自古法语的 façon、fachon、fazon，这些词的意思包括“面容，外貌；构造，设计；完成的事物；美丽；特征，风格”（12世纪）。而这些古法语词又源自拉丁语 factionem（主格为 factio），意为“制作或完成某物，准备某事”，同时也指“一群人共同活动”。这个词的根源可以追溯到拉丁语动词 facere，意为“制造，做”，而它又源自原始印欧语词根 [*dhe-](https://www.etymonline.com/word/*dhe-)，意为“放置，设定”。
-
-到了14世纪末，这个词特别指“风格，方式”，用于描述制作、服装或装饰的特点。因此，在15世纪末，它又引申为“流行的习俗；某个特定时间和地点的服装与装饰风格”。而“符合时尚，符合社会潮流”这一意义则出现在17世纪30年代。
+## fashion(n.)
+約於1300年， fasoun，“物理構造或組成； 形狀，外觀”，源自於古法語 façon， fachon， fazon “面容，外貌； 結構，圖案，設計； 完成的事情； 美麗； 方式，特徵”，源自於拉丁語 factionem（主格 factio）“製造或做，準備”，也指“一羣人一起行動”，源自於 facere “製造”（源自於 PIE 詞根 [*dhe-](https://www.etymonline.com/tw/word/*dhe-) “放置，放置”）。
+特別是指製作、服裝或裝飾的“風格，方式”（14世紀晚期）； 因此，“盛行的習俗； 在某個地方和時間盛行的服裝和裝飾方式”（15世紀晚期）。意思是“好的風格，符合時尚社會口味”始於1630年代。
 
 > To call a fashion wearable is the kiss of death. No new fashion worth its salt is wearable. [Eugenia Sheppard, New York Herald Tribune, Jan. 13, 1960]
 
-> 如果说某种时尚是可穿戴的，那就是它的死刑宣判。没有一种真正有价值的新时尚是可以穿戴的。[尤金妮亚·谢泼德，《纽约先驱论坛报》，1960年1月13日]
+> 稱一種時尚爲可穿戴的是致命的。沒有值得一試的新時尚是可穿戴的。[尤金妮亞·謝潑德，《紐約先驅論壇報》，1960年1月13日]
 
-在中古英语中，这个词也拼写为 faschyoun、facune、faction 等等。Fashion plate（1851年）最初指的是“流行杂志中展示最新或流行服饰的整版插图”，这个词来源于印刷时使用的版画。到了1920年代，这个词的引申义“衣着考究的人”开始流行。After a fashion（“在某种程度上”）则出现在1530年代。莎士比亚（约公元1600年）同时使用了 in fashion（“流行”）和 out of fashion（“过时”）。
+在中古英語中也拼寫爲 faschyoun， facune， faction 等。 Fashion plate（1851年）最初是指“流行雜誌中展示流行或最新服裝風格的整頁圖片”，指的是它所印刷的排版版塊。到20世紀20年代，出現了“穿着得體的人”的轉義意義。 After a fashion “在一定程度上”始於1530年代。莎士比亞（約1600年）既有 in fashion，也有 out of fashion。
 
 ---
-## fashion (related entry 1)
-### fashion(v.)
-
-“形成，塑造”，15世纪初的用法；参见 [fashion](https://www.etymonline.com/word/fashion) (n.)。相关词：Fashioned（已塑造），fashioning（正在塑造）。
+## fashion(v.)
+"形成，賦予形狀"，早在15世紀; 參見 [fashion](https://www.etymonline.com/tw/word/fashion)（n.）。 相關： Fashioned; fashioning。
 
 ---

@@ -1,8 +1,6 @@
 # judicious
 
-## Origin and history of judicious
-### judicious(adj.)
-
-大约在1600年，“具有良好判断力；谨慎、审慎”，也指“表现出良好判断力，经过仔细规划”。这个词来源于法语 judicieux（16世纪），或者直接源自中世纪拉丁语 iudiciosus，意为“审慎的，明智的”。它的词根来自拉丁语 iudicium，意为“判断”，而 iudicem 则是“法官”的意思（参见 [judge](https://www.etymonline.com/word/judge) (n.)）。相关词汇包括 Judiciously（审慎地）和 judiciousness（审慎性）。
+## judicious(adj.)
+大約1600年，“有明智的判斷力； 小心謹慎”，也指“表現出明智的判斷力，經過仔細計劃”，源自法語 judicieux（16世紀）或直接源自中世紀拉丁語 iudiciosus “謹慎的，明智的”，源自拉丁語 iudicium “判斷”，源自 iudicem “法官”（參見 [judge](https://www.etymonline.com/tw/word/judge)（n.））。相關詞彙： Judiciously； judiciousness。
 
 ---

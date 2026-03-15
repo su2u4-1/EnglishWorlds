@@ -1,16 +1,11 @@
 # breach
 
-## Origin and history of breach
-### breach(n.)
-
-古英语 bryce “断裂，破裂行为”，来自原始日尔曼语 \*brukiz（也是古弗里西亚语 breke “爆裂， crack，房屋拆除”，古沙克逊语 bruki，古高地德语 bruh，中世纪荷兰语 broke 的来源），是一个名词，源自 \*brekanan（古英语 brecan “粉碎，爆裂；伤害，违反，破坏，缩减”的来源；参见 [break](https://www.etymonline.com/word/break) (v.)）。这个英语词受到了古法语同源词 breche “突破，开放，缺口”的影响，来自法兰克语或其他日尔曼语源。最终来自印欧词根 [*bhreg-](https://www.etymonline.com/word/*bhreg-) “打破”。
-
-“违反，违犯，规则破坏等”的比喻意义在古英语中已经存在。“通过破裂形成的开放”是在14世纪晚期。“友好关系破裂”出现在1570年代。Breach of contract 至少出现于1660年代；breach of peace “违反公共秩序”出现在1670年代；breach of promise（通常指婚约承诺）出现在1580年代。
+## breach(n.)
+古英語中的 bryce 指的是“斷裂，破裂的行爲”，源自原始日耳曼語 \*brukiz（也指古弗里斯蘭語 breke 的“爆裂，裂縫，拆毀（房屋）”，古撒克遜語 bruki，古高地德語 bruh，中古荷蘭語 broke），是 \*brekanan 的名詞形式（古英語中的源詞 brecan 指的是“粉碎，爆裂； 傷害，侵犯，破壞，削減”； 參見 [break](https://www.etymonline.com/tw/word/break)（動詞））。這個英語詞彙受到了古法語同源詞 breche 的影響，該詞源自法蘭克語或其他日耳曼語源。最終源自 PIE 詞根 [*bhreg-](https://www.etymonline.com/tw/word/*bhreg-) 的“打破”。
+在古英語中，這個詞的比喻意義是“違規，違反，違反規則等”。late 14c 開始有“破裂產生的開口”的意思。與友好關係的“破裂”意義可追溯至1570年代。至少從1660年代開始有 Breach of contract 的意思； breach of peace 的“違反公共秩序”意義可追溯至1670年代； breach of promise（通常指婚約）的意思可追溯至1580年代。
 
 ---
-## breach (related entry 1)
-### breach(v.)
-
-“制造破裂或开口”，1570年代，来自 [breach](https://www.etymonline.com/word/breach) (n.)。相关词：Breached；breaching。
+## breach(v.)
+“在……打開或破壞”，1570年代，來自 [breach](https://www.etymonline.com/tw/word/breach)（n.）。相關詞： Breached； breaching。
 
 ---

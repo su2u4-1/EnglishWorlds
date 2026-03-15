@@ -1,16 +1,11 @@
 # direct
 
-## Origin and history of direct
-### direct(v.)
-
-14世纪末，directen，意为“将（信件、文字）写给某人”或“指明或告知某物的方向”。这个词源于拉丁语 directus，是 dirigere 的过去分词，意思是“使直，整理；给予特定方向，直线发送；引导”。它的构成来自 dis-（表示“分开”或“离开”，参见 [dis-](https://www.etymonline.com/word/dis-)）和 regere（意为“引导，指导，保持直线”，源自原始印欧词根 [*reg-](https://www.etymonline.com/word/*reg-)，表示“沿直线移动”）。可以与 [dress](https://www.etymonline.com/word/dress) 和 [address](https://www.etymonline.com/word/address) 进行比较。
-
-“将某物指向或瞄准某个地点或物体”的意思大约出现在公元1400年左右。“管理、规范行为，规定某人的行动或行为方式”的含义则出现在15世纪初。“命令，规定”的意思出现在1650年代。“在信封外部写明目的地”的用法在17世纪时已出现。至于在戏剧、电影等方面，“监督和控制制作”的意思可以追溯到1913年。相关词汇包括 Directed（已指导）和 directing（正在指导）。
+## direct(v.)
+14世紀末， directen，“給某人寫信或稱呼（信件、文字）”，還有“指示或告知某個方向”，源自拉丁語 directus 的過去分詞 dirigere，“整理，安排； 給某物一個特定的方向，直線發送； 引導”，無論是指向某物還是根據某物，都來自 dis- 的“分開”（參見 [dis-](https://www.etymonline.com/tw/word/dis-)）+ regere 的“指導，保持直線”（源自 PIE 詞根 [*reg-](https://www.etymonline.com/tw/word/*reg-) “直線移動”）。參見 [dress](https://www.etymonline.com/tw/word/dress)； [address](https://www.etymonline.com/tw/word/address)。
+“指向或瞄準某個地方或物體”的意思可追溯至約1400年。早在15世紀初，就有“管理，調節行爲，規定行爲或行動”的意思。1650年代開始有“命令，規定”的意思。17世紀開始出現了“在信封外面寫上目的地”的意思。關於戲劇、電影等，“監督和控制製作”，這一意思可追溯至1913年。相關詞彙： Directed； directing。
 
 ---
-## direct (related entry 1)
-### direct(adj.)
-
-大约在公元1400年，direct这个词开始表示“直的，笔直的，不弯曲的”，它源自13世纪的古法语，并直接借自拉丁语的directus，意为“笔直的”。这个词最初是拉丁语动词dirigere的过去分词形式，意思是“使笔直”。其中，前缀dis-表示“分开”或“离开”（参见[dis-](https://www.etymonline.com/word/dis-)），而regere则意为“指导，管理，保持笔直”，其词源可以追溯到原始印欧语根[*reg-](https://www.etymonline.com/word/*reg-)，意指“沿直线移动”。到了1580年代，这个词又引申出“简单，明了，不含糊”的意思。
+## direct(adj.)
+約於1400年，“直的，不彎曲的”，源自古法語 direct（13世紀），直接源自拉丁語 directus “直的”，是 dirigere “使直”的過去分詞形式，由 dis- “分開”（見 [dis-](https://www.etymonline.com/tw/word/dis-))和 regere “指導，保持直線”（源自 PIE 詞根 [*reg-](https://www.etymonline.com/tw/word/*reg-) “沿直線移動”）組成。意思是“簡單明瞭的，不含糊的”，始於1580年代。
 
 ---

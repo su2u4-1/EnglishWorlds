@@ -1,18 +1,14 @@
 # task
 
-## Origin and history of task
-### task(n.)
+## task(n.)
+14世紀初，taske，「作為義務強加的勞動量」，來自古北法語tasque（12世紀，古法語tasche，現代法語tâche）「義務，稅收」，源自俗拉丁語\*tasca「義務，評估」，是中世拉丁語taxa的轉位，後者是從拉丁語taxare「評估，估計，評價」（參見[tax](https://www.etymonline.com/tw/word/tax#etymonline_v_7646) (v.)）的逆構詞。是[tax](https://www.etymonline.com/tw/word/tax#etymonline_v_43945) (n.)的雙語詞；也可比較[taste](https://www.etymonline.com/tw/word/taste)。
 
-14世纪早期， taske，“作为义务强加的劳动量”，来自古北法语 tasque（12世纪，古法语 tasche，现代法语 tâche）“义务，税收”，源自粗俗拉丁语 \*tasca“义务，评估”，是中世纪拉丁语 taxa的变位，后者是来自拉丁语 taxare“评估，估计，评定”（参见 [tax](https://www.etymonline.com/word/tax) (v.)）。是 [tax](https://www.etymonline.com/word/tax) (n.) 的双重词；也比较 [taste](https://www.etymonline.com/word/taste)。
+「任何必須完成的工作」的普遍意義記錄於1590年代。中世英語中也有「稅」的意思（約1400年）；這種用法已經過時，但短語take (one) to task（1680年代）保留了一種更接近tax的意義。
 
-“任何必须完成的工作”的一般意义记录于1590年代。也在中古英语中作为“税”（约1400年）；这已过时，但短语 take (one) to task（1680年代）保留了更接近 tax 的意义。
-
-德语 Tasche“口袋”来自同一粗俗拉丁语来源（通过古高地德语 tasca），推测意义演变从“由某些权威强加的工作量”，到“为该工作支付”，再到“工资”，再到“放钱的口袋”，最后到“任何口袋”。
+德語Tasche「口袋」來自相同的俗拉丁語來源（通過古高地德語tasca），其意義演變可推測從「某些權威強加的工作量」，到「為該工作支付」，再到「工資」，到「放錢的口袋」，最後到「任何口袋」。
 
 ---
-## task (related entry 1)
-### task(v.)
-
-1520年代，意为“强加任务”；1590年代，指“使人承担负担，施加压力”，源自 [task](https://www.etymonline.com/word/task)（名词）。早期还有一个现已废弃的意思，即“征税，罚款”（14世纪末），源自中古英语中 task（名词）的用法。从1570年代起，开始用于“责备，批评”。相关词汇：Tasked；tasking。
+## task(v.)
+1520年代起，表示「強加任務於某人」；1590年代則有「使負擔，施加壓力」的意思，來自名詞 [task](https://www.etymonline.com/tw/word/task)。早期還有一個現在已經過時的用法，指「徵稅，罰款」（14世紀末），源自中古英語中 task 的意義。從1570年代開始，還有「責備，挑剔」的意思。相關詞彙包括 Tasked 和 tasking。
 
 ---

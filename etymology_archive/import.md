@@ -1,16 +1,12 @@
 # import
 
-## Origin and history of import
-### import(v.)
+## import(v.)
+在15世紀初，出現了importen這個詞，意指「象徵、表達、傳達意義」。它源自拉丁語importare，意為「引入、傳遞、從國外帶來」。這個詞由in-（意為「進入、之中」，來自原始印歐語根[*en](https://www.etymonline.com/tw/word/*en)，意指「在」）和portare（意為「攜帶」，來自原始印歐語根[*per-](https://www.etymonline.com/tw/word/*per-#etymonline_v_52579) (2)，意為「引導、通過」）組成。
 
-早在15世纪，importen这个词就出现了，意思是“表示、显示、承载或传达某种意义”。它源自拉丁语的importare，意为“引入、传达、从国外带来”。这个词由in-（意为“进入、之中”，源自原始印欧语词根[*en](https://www.etymonline.com/word/*en)，意为“在”）和portare（意为“携带”，来自原始印欧语词根[*per-](https://www.etymonline.com/word/*per-) (2)，意为“引导、通过”）结合而成。
-
-在英语中，“从另一状态或地方带来”的意思，特别是“从国外进口货物”，大约在1540年代开始被记录。到了1580年代，这个词又发展出了“重要”的含义。相关词汇包括Imported（已进口的）和importing（正在进口）。
+在英語中，「從另一個地方或國家帶來」的含義，特別是「從國外進口商品」，最早可追溯到1540年代。到了1580年代，這個詞又演變出「具有重要性」的意思。相關詞彙包括Imported（已進口的）和importing（進口中）。
 
 ---
-## import (related entry 1)
-### import(n.)
-
-1580年代，指“结果，重要性”；1680年代，又指“被引入的事物”。这两个意思都源自 [import](https://www.etymonline.com/word/import)（动词）。
+## import(n.)
+1580年代，“後果，重要性”； 1680年代，“被進口的東西”； 兩者都來自 [import](https://www.etymonline.com/tw/word/import)（動詞）。
 
 ---

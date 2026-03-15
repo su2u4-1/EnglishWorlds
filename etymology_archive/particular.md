@@ -1,14 +1,10 @@
 # particular
 
-## Origin and history of particular
-### particular(adj.)
-
-在14世纪晚期，这个词的意思是“与单一事物或人相关；只针对某些而非所有”。它源自古法语 particuler（14世纪，现代法语为 particulier），直接借自晚期拉丁语 particularis，意为“部分的，关于小部分的”。而拉丁语 particula 则意指“小块或部分，颗粒，微小的东西”，是 pars（属格 partis）的 diminutive 形式，意为“一部分，片段，分割”。这个词的原始印欧语根 [*pere-](https://www.etymonline.com/word/*pere-)(2) 意为“给予，分配”。到了15世纪晚期，它又发展出了“独特的，特殊的，显著不同于常规或普通”的含义。1814年，这个词进一步演变为“精确的，挑剔的，严格的，对细节高度关注”的意思。
+## particular(adj.)
+“14世紀後期，指涉及單個事物或人； 僅適用於某些而非所有人的”來自於古法語 particuler（14世紀，現代法語 particulier），直接源自於晚期拉丁語 particularis “關於一部分的，涉及一小部分的”，源自於拉丁語 particula “小部分，穀粒，一點點”的，是 pars（複數爲 partis）的指小部分、碎片或劃分的指波斯語根詞 [*pere-](https://www.etymonline.com/tw/word/*pere-) （2）“授予，分配”），意爲“奇特的，獨特的，與通常或平常不同的”在15世紀後期出現。1814年出現了“精確的，苛求的，細心的，注意細節的”的含義。
 
 ---
-## particular (related entry 1)
-### particular(n.)
-
-14世纪晚期，particuler，意为“整体的一部分或一个特定的部分，个别的情况、特征或因素；身体的一个器官或部分”，源自形容词[particular](https://www.etymonline.com/word/particular)。1530年代起，该词还用于表示“单个实例或事项”；而particulars（细节）一词则出现在约1600年，意指“陈述中的小细节”。
+## particular(n.)
+14世紀晚期， particuler，“整體的一部分或部分，個別情況、特徵或因素； 器官或身體的一部分”，源自 [particular](https://www.etymonline.com/tw/word/particular)（形容詞）。意思是“單個實例或事項”來自1530年代； particulars “陳述的細節”來自大約1600年。
 
 ---

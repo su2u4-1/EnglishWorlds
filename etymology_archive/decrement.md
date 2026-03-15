@@ -1,8 +1,6 @@
 # decrement
 
-## Origin and history of decrement
-### decrement(n.)
-
-1620年代，指“减少的行为或状态”；1660年代，指“因逐渐消耗而损失的数量”。这个词源于拉丁语 decrementum，意为“减少”，来自 decrescere，意思是“变少，减少”。其中，de 表示“离开，远离”（参见 [de-](https://www.etymonline.com/word/de-)），而 crescere 则是“生长”的意思，源自原始印欧语词根 [*ker-](https://www.etymonline.com/word/*ker-) (2)，意为“生长”。
+## decrement(n.)
+"1620年代，指減少的行爲或狀態； 1660年代，指逐漸浪費而失去的數量，源自拉丁語 decrementum “減少”，來自 decrescere 的詞幹，“變得更少，減少”，由 de “遠離”（見 [de-](https://www.etymonline.com/tw/word/de-))和 crescere “生長”（源自 PIE 詞根 [*ker-](https://www.etymonline.com/tw/word/*ker-)（2）“生長”）組成。
 
 ---

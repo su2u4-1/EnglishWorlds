@@ -1,12 +1,8 @@
 # construction
 
-## Origin and history of construction
-### construction(n.)
-
-14世纪晚期，construccioun一词指“理解的方式；在翻译中理解单词排列的方式”（这个意思现在已经过时）。它源自拉丁语的constructionem（主格形式为constructio），意为“将东西放在一起，建筑物”，是一个名词，表示“构建”这一动作，来自construere，意为“将东西堆积在一起，建造，制造， erect”。这个词又可以分解为com（意为“与， together”，参见[con-](https://www.etymonline.com/word/con-)）和struere（意为“堆积”，源自原始印欧语\*streu-，是[*stere-](https://www.etymonline.com/word/*stere-)的扩展形式，意为“扩展”）。
-
-在英语中，这个词最初与[construe](https://www.etymonline.com/word/construe)相关，后来发展出“对文本的解释或阐释”（15世纪晚期）以及“法律文件中单词的解释”这一定义，这种用法在议会语言中仍然存在（例如，“您对这一条款的解释是什么？”）。同时也可以参考[constructionist](https://www.etymonline.com/word/constructionist)。
-
-从15世纪初起，它开始被用来表示“建筑或制造的行为”；到1707年，又引申为“事物的构造方式或形式”；1796年时，进一步发展为“构建的结果，建筑物”。相关词汇包括Constructional和constructionally。
+## construction(n.)
+14世紀晚期， construccioun，“構建的行爲； 翻譯中理解單詞排列的方式”（現已過時），源自拉丁語 constructionem（主格 constructio）“放置或組合，建築”，動名詞形式，來自 construere 的過去分詞詞幹“堆積在一起，積累； 建造，製造”，來自 com 的同化形式“與，一起”（參見 [con-](https://www.etymonline.com/tw/word/con-)) + struere “堆積”（來自 PIE \*streu-, 擴展形式的根 [*stere-](https://www.etymonline.com/tw/word/*stere-) “散佈”）。
+英語中最古老的意義與 [construe](https://www.etymonline.com/tw/word/construe) 相伴，導致了“解釋或解讀文本”的含義（15世紀晚期）和“法律文件中單詞的解釋”，這在議會語言中仍然存在（“你對這個條款的解釋是什麼？”）； 還可以參考 [constructionist](https://www.etymonline.com/tw/word/constructionist)。
+從15世紀初開始，“建造或製造的行爲”； 從1707年開始，“事物建造或製造的方式或形式”； 從1796年開始，“被建造的東西，結構”。相關： Constructional; constructionally。
 
 ---

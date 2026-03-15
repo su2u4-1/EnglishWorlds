@@ -1,18 +1,14 @@
 # interest
 
-## Origin and history of interest
-### interest(n.)
+## interest(n.)
+15世紀中葉，表示“法律要求或權利； 關注點； 好處，優勢，有影響（有利）”，來源於古法語 interest “損害，失利，危害”（現代法語 intérêt），源於拉丁語名詞用法 interest “它很重要，它有所區別”，第三人稱單數現在時態，來自 interresse “涉及，有區別，很重要”，字面意思是“處於中間”，源於 inter “之間”（見 [inter-](https://www.etymonline.com/tw/word/inter-)）+ esse “存在”（源於 PIE 詞根 [*es-](https://www.etymonline.com/tw/word/*es-) “存在”）。法語和英語中“利潤，優勢”方面的詞義發展並不完全清楚。
 
-在15世纪中期，interest这个词的意思是“法律上的权利或索赔；关心的事物；利益或好处，受到影响（通常是积极的）”。它源自古法语的interest，意为“损害、损失或伤害”（现代法语为intérêt）。这个词又来自拉丁语的interest，意思是“重要性”或“有影响”，是interresse的第三人称单数现在时形式，意为“关心、影响或重要”，字面意思是“处于……之间”。它由inter（意为“之间”，参见[inter-](https://www.etymonline.com/word/inter-)）和esse（意为“存在”或“成为”，源自原始印欧语根[*es-](https://www.etymonline.com/word/*es-)，意为“存在”）构成。这个词在法语和英语中演变为“利润或优势”的含义并不十分明确。
+較早的中古英語單詞是 interesse（14世紀晚期），來自盎格魯-法語 interesse “在法律上涉及的事情”，源自中世紀拉丁語詞彙 interesse “損失的補償”，是與拉丁語 interresse 相對的（類比德語 Interesse，源自同樣的中世紀拉丁語來源）。
 
-在中世纪早期英语中，interesse（14世纪末）是更早的用法，来自盎格鲁法语的interesse，意为“某人法律上关心的事务”，又源自中世纪拉丁语的interesse，意思是“损失的补偿”。这个词是拉丁语interresse的名词用法（与德语的Interesse相似，均源自同一中世纪拉丁语词汇）。
-
-在金融领域，interest最早指“借出资金所收取的费用”，出现在1520年代。最初，这个概念与usury（教会法下非法的高利贷）有所区别，因为它通常指“因债务人违约而应支付的补偿”。在1620年代，这个词还被用来表示“个人或自私的考虑”。1670年代，它被用来指“多个利益相关者共同关注的商业事务”。1771年，这个词首次被用来表达“好奇心，某事与自己相关的感觉，或欣赏与同情的态度”。interest group（利益集团）这个词出现于1907年；而interest rate（利率）则在1868年被记录。
+“支付借貸費用”的金融意義（1520年代）早期區別於基於“拖欠債務的賠償”而被教會法所禁止的 usury。指“個人或自私的考慮”的含義可追溯到1620年代。指“多人關注的商業”，在1670年代出現。首次證明具有“好奇，認爲某事關注自己，欣賞或同情方面的考慮”的意義是在1771年。Interest group 可追溯到1907年， interest rate 在1868年被證明。
 
 ---
-## interest (related entry 1)
-### interest(v.)
-
-“引起兴趣，吸引注意力”，大约在1600年出现，早期形式为 interesse（1560年代），源自名词（参见 [interest](https://www.etymonline.com/word/interest) (n.)）。可能也受到 interess'd 的影响，这是 interesse 的过去分词。
+## interest(v.)
+使產生興趣，引起注意，大約在1600年，早期的形式爲 interesse（1560年代），源自名詞（參見 [interest](https://www.etymonline.com/tw/word/interest)（n.））。也可能來自或受到 interess'd 的影響，它是 interesse 的過去分詞。
 
 ---

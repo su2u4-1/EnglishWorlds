@@ -1,8 +1,6 @@
 # artifact
 
-## Origin and history of artifact
-### artifact(n.)
-
-1821年，artefact，意为“人工制作的物品，任何由人类技艺制造或改造的东西”。这个词源于意大利语的artefatto，再追溯到拉丁语的arte，意思是“凭借技艺”（这是ars的属格形式，意为“艺术”；参见[art](https://www.etymonline.com/word/art) (n.)），加上factum，意为“制造的东西”，源自facere，意为“制造，做”（来自原始印欧语根[*dhe-](https://www.etymonline.com/word/*dhe-)，意为“放置，设定”）。这个词在德语中早在1791年就有记录。英语中带有-i-的拼写形式最早出现在1884年，受到拉丁语词干的影响（如artifice）。最初，这个词用于解剖学，指手术等造成的人工条件；在考古学中的应用则始于1885年（德语中早在1875年就有相关记录）。
+## artifact(n.)
+1821年， artefact，“人工製造，任何由人類藝術製作或修改的東西”，源自意大利語 artefatto，源自拉丁語 arte “通過技能”（ars “藝術”的與格形式； 參見 [art](https://www.etymonline.com/tw/word/art)（n.））+ factum “製造的東西”，源自 facere “製造，做”（來自 PIE 詞根 [*dhe-](https://www.etymonline.com/tw/word/*dhe-) “設置，放置”）。這個詞在德語中的使用可以追溯到1791年。英語拼寫中的 -i- 在1884年被證明，受到拉丁詞幹的影響（如 artifice）。最初是解剖學中用來表示手術等引起的人工條件的詞； 英語中考古學的應用可以追溯到1885年（在德語中可以追溯到1875年）。
 
 ---

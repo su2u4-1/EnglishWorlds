@@ -1,20 +1,18 @@
 # family
 
-## Origin and history of family
-### family(n.)
+## family(n.)
+15世紀初，「一個家庭的僕人」，來自拉丁語familia「家庭僕人，家務人員總稱，家庭中的僕人」，因此也指「家庭成員，莊園，財產；家庭，包括親戚和僕人」，由famulus「僕人，奴隸」抽象名詞形成，該詞源不明。
 
-15世纪初，“一个家庭的仆人”，来自拉丁语 familia “家庭仆人，佣人总称，一个家庭中的仆人”，因此也指“家庭成员，庄园，财产；家庭，包括亲属和仆人”，这个抽象名词由 famulus “仆人，奴隶”派生，来源不明。
+拉丁語中該詞很少用於「父母與其子女」的意義，這一意義使用domus（參見[domestic](https://www.etymonline.com/tw/word/domestic#etymonline_v_13921) (adj.)）。famulus的衍生詞包括famula「女僕，女仆」，famulanter「像僕人一樣」，famulitas「奴隸制」，familiaris「家庭的，私人的」，familiaricus「家庭奴隸的」，familiaritas「密切的友誼」。
 
-拉丁词很少用来表示“父母和他们的孩子”，对此使用 domus（参见 [domestic](https://www.etymonline.com/word/domestic) (adj.)）。famulus 的派生词包括 famula “女仆，女佣”，famulanter “以仆人的方式”，famulitas “奴役”，familiaris “家庭的，私人性质的”，familiaricus “家庭奴隶的”，familiaritas “亲密友谊”。
+在英語中，「構成一個家庭的集體，受一位首領和一個家庭政府的統治，包括父母、子女和僕人，有時甚至包括寄宿者或膳宿者」[Century Dictionary]的意義始於1540年代。1660年代起作為「父母與其子女，不論是否共同居住」，也在更廣泛的意義上，「血緣親近的人，包括姑姨、舅舅、表兄弟姐妹」；更早指「那些從共同祖先、家族、血統中衍生的人」（1580年代）。因此，「根據共同特徵分類的任何事物群體」（1620年代）；作為科學分類，介於屬和目之間，始於1753年。
 
-在英语中，“集体构成一个家庭，统一由一个首领和一个家庭管理，包括父母、孩子和仆人，有时甚至包括租户或寄宿者”的意义来自1540年代。从1660年代起，指“父母与孩子，不论是否共同居住”，也更一般地指“血缘关系密切的人，包括叔 aunt、舅 uncle、表兄弟姐妹”；更早指“那些从共同祖先、家族、血统中继承而来的”（1580年代）。因此，“任何基于共同特征被归类为亲属的事物群体”（1620年代）；作为科学分类，介于属和目之间，从1753年起。
+拉丁語familia在古英語中常被解釋為hired, hyred「家庭，家族，隨從」（參見[hide](https://www.etymonline.com/tw/word/hide#etymonline_v_9237) (n.2)），也被hiwscipe, hiwræden, hiwan「家庭、家族或宗教社團的成員」解釋，這與古諾爾斯語hjon「家庭成員；已婚夫婦，男女；家傭」，以及古高地德語hiwo「丈夫」，hiwa「妻子」，也與立陶宛語šeimyna「家庭」，哥特語haims「村莊」，古英語ham「村莊，家」（參見[home](https://www.etymonline.com/tw/word/home#etymonline_v_12115) (n.)）有關。一個15世紀的詞彙表中，對於拉丁語familia，中英語有a menge，來自盎格魯法語maisnie「家庭，對封建領主個人事務的全體侍從」。
 
-拉丁语 familia 在古英语中常被解释为 hired, hyred “家庭，家族，随员”（参见 [hide](https://www.etymonline.com/word/hide) (n.2)），也被 hiwscipe, hiwræden, hiwan “家庭、家族或宗教团体的成员”所解释，这与古诺尔斯语 hjon “家庭成员；已婚夫妇，男人和妻子；家庭仆人”，以及古高德语 hiwo “丈夫”，hiwa “妻子”相同，也与立陶宛语 šeimyna “家庭”，哥特语 haims “村庄”，古英语 ham “村庄，家”相同（参见 [home](https://www.etymonline.com/word/home) (n.)）。一份15世纪的词汇表中，对于拉丁语 familia，中英语 a menge，来自盎格鲁法语 maisnie “家庭，全部随从封建领主个人机构的全体成员”。
-
-作为形容词从1600年左右开始；1807年起有“适合家庭”的意义。Family values 记录于1966年。短语 in a family way “怀孕”出现于1742年。Family circle 是1809年；family man “ devoted to wife and children, man inclined to lead a domestic life” 是1856年（更早意为“小偷”，1788年，来自 family 在小偷兄弟会的俚语意义）。Family tree “祖先关系图”证明于1752年。
+作為形容詞從1600年左右開始；1807年起有「適合家庭」的意義。Family values於1966年被記錄。短語in a family way「懷孕」始於1742年。Family circle是1809年；family man「致力於妻子和孩子的男人，傾向於過家庭生活的男人」是1856年（早期意為「小偷」，1788年，來自family在「竊賊兄弟會」的俚語意義）。Family tree「祖先關係圖」始於1752年。
 
 > He was dressed in his best Coat, which had served him in the same Capacity before my Birth, and possibly, might be but little short in Antiquity, to the Root of his third Family Tree; and indeed, he made a venerable Figure in it. ["A Genuine Account of the Life and Transactions of Howell ap David Price, Gentleman of Wales," London, 1752]
 
-> 他穿着他最好的外套，这件外套在我出生之前已经以同样的身份服役，可能在古老程度上与他的第三个家族树的根部没有太大差别；的确，他在其中看起来很庄重。 [《A Genuine Account of the Life and Transactions of Howell ap David Price, Gentleman of Wales》，伦敦，1752年]
+> 他穿著他最好的外套，這件外套在我出生之前就已經以同樣的身份服務於他，並且可能在古老程度上，對他的第三個家族樹的根部還不遜色；事實上，他在其中顯得十分威嚴。[《霍威爾·阿普·戴維·普萊斯，威爾士紳士的生活與事蹟的真實記述》，倫敦，1752年]
 
 ---

@@ -1,10 +1,7 @@
 # descendant
 
-## Origin and history of descendant
-### descendant
-
-15世纪中期，作为形容词时意为“向下延伸”；到1600年左右，作为名词时指“从任何程度的祖先那里衍生出的个体”，源自13世纪法语 descendant，是 descendre 的现在分词，意为“下降” （参见 [descend](https://www.etymonline.com/word/descend)）。
-
-尽管有时形容词使用 descendent，名词使用 descendant，但在所有用法中，descendant 似乎更为普遍，自1900年以来在书籍中出现的频率是其竞争者的五倍。可以对比 [dependant](https://www.etymonline.com/word/dependant)。在占星术中，指“西方地平线或第七宫的边界”，约1680年代。
+## descendant
+15世紀中期（形容詞）“向下延伸”； 約1600年（名詞）“任何程度上從祖先傳下來的個體”，源自法語 descendant（13世紀），是 descendre “下來”（見 [descend](https://www.etymonline.com/tw/word/descend)）的現在分詞。
+儘管傾向於使用 descendent 作爲形容詞，使用 descendant 作爲名詞，但在所有用法中， descendant 似乎正在取得優勢，並且自1900年以來印刷的書籍中出現的次數比其競爭對手多5倍。比較 [dependant](https://www.etymonline.com/tw/word/dependant)。在占星術中，“第七宮的西方地平線或分界線”，1680年代。
 
 ---

@@ -1,8 +1,6 @@
 # newly
 
-## Origin and history of newly
-### newly(adv.)
-
-古英语中的 niwlice 意思是“最近，近来”；它由 [new](https://www.etymonline.com/word/new)（新）和 [-ly](https://www.etymonline.com/word/-ly)（副词后缀）组合而成。类似的构词方式在德语中是 neulich，在丹麦语中是 nylig，在瑞典语中是 nyligen。
+## newly(adv.)
+古英語 niwlice “最近，最近； ”參見 [new](https://www.etymonline.com/tw/word/new) + [-ly](https://www.etymonline.com/tw/word/-ly)（2）。德語 neulich，丹麥語 nylig，瑞典語 nyligen 也有類似的構詞方式。
 
 ---

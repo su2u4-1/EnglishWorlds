@@ -1,22 +1,20 @@
 # sentence
 
-## Origin and history of sentence
-### sentence(n.)
+## sentence(n.)
+公元前1200年，“教義，權威教學； 權威聲明”，源自古法語 sentence “判斷，決定； 意義； 格言，箴言； 權威聲明”（12世紀），直接源自拉丁語 sententia “思想，思維方式，觀點； 判斷，決定”，也指“表達的思想； 格言，諺語”，這是一個不規則的（分化的）形式，來自 sentire 的現在分詞 sentientem，“持有意見，感覺，感知”（參見 [sense](https://www.etymonline.com/tw/word/sense)（n.））。意義路徑可能是“在頭腦中的感知方式”到“觀點”到“決定，判斷”。
+早在14世紀初，它就被證明是“上帝或權威人士做出的判斷； 也指特定法律意義上的“裁決，法院判決”。它自14世紀末開始被記錄爲“理解，智慧； 有益的主題材料”，這個意義已經過時，但在喬叟的作品中經常出現。
+它自14世紀末開始被證明是“信件、書籍、演講等的主題或內容”，也用於指書面作品中的一段。15世紀中期開始出現“語法上完整的語句”這個意義（“意義”，然後是“用語言表達的意義”）。
 
-大约在公元1200年，sentence 这个词开始出现，最初的意思是“教义，权威的教导；权威的宣告”。它源自古法语 sentence，意指“判断，决定；意义；格言，箴言；权威声明”（12世纪），同时也直接借自拉丁语 sententia，原意为“思想，思维方式，观点；判断，决定”，还可以指“表达出的思想；格言，谚语”。这个词的形成有些不规则，可能源自 sentientem，即 sentire 的现在分词，意为“持有某种观点，感受，感知”（参见 [sense](https://www.etymonline.com/word/sense) (n.)）。其意义演变的路径或许是“心中感知的方式”逐渐转变为“观点”，再到“决定，判断”。
+> A sentence is a sound in itself on which other sounds called words may be strung. You may string words together without a sentence-sound to string them on just as you may tie clothes together by the sleeves and stretch them without a clothes line between two trees, but — it is bad for the clothes. [Robert Frost, letter to John T. Bartlett, Feb. 22, 1914]
 
-在14世纪初，这个词被用来指“上帝或权威人士所作出的判断”。它在法律领域的特定用法，如“法庭上的裁决，判决”，也在这一时期出现。从14世纪晚期起，sentence 还被用来表示“理解，智慧；具有启发性的主题”，这一意义在乔叟的作品中较为常见，但现已不再使用。
+> 一句話本身就是一種聲音，其他聲音（稱爲單詞）可以串在上面。你可以把單詞串在一起，沒有句子聲音來串它們，就像你可以把衣服的袖子系在一起，把它們拉伸，而不需要在兩棵樹之間拉衣服線，但是——這對衣服不好。[羅伯特·弗羅斯特，致約翰·T·巴特利特的信，1914年2月22日]
 
-同样在14世纪晚期，这个词开始用来指“信件、书籍、演讲等的主题或内容”，并且也可以指书面作品中的某一段落。到了15世纪中期，sentence 的意义进一步发展为“语法上完整的陈述”，即“意义”，后来又特指“用语言表达的意义”。
+> That sentences in Authors, like haires in an horse-taile, concurre in one root of beauty and strength, but being pluckt out one by one, serve onely for springes and snares. [Donne]
 
-> 句子本身就是一个声音，其他被称为单词的声音可以像串珠一样串在这个声音上。你可以在没有句子声音的情况下将单词串在一起，就像你可以不借助晾衣绳，只用衣袖将衣服绑在一起并拉伸它们，但——这样对衣服不好。[罗伯特·弗罗斯特，致约翰·T·巴特利特的信，1914年2月22日]
-
-> 作者的句子就像马尾中的头发，都是美丽与力量的根源，但一根一根地拔掉，只能用作捕捉和陷阱。[约翰·多恩]
+> 作者的句子就像馬尾辮中的頭髮一樣，具有美麗和力量的共同根源，但是一次拔出一個，只能用於彈弓和陷阱。[唐恩]
 
 ---
-## sentence (related entry 1)
-### sentence(v.)
-
-大约在公元1400年，sentencen这个词出现，意思是“作出判断”。它来源于名词[sentence](https://www.etymonline.com/word/sentence)，或者是从古法语的sentenciir演变而来，进一步追溯则是源自中世纪拉丁语的sententiare，意为“宣判”。而拉丁语的sententia则是“判断”或“意见”的意思。特别是指“判刑”或“定罪”（即判处惩罚）这一含义，最早出现在1590年代。相关词汇包括：Sentenced（已判刑）、sentencing（判刑过程）。
+## sentence(v.)
+約於1400年，"sentencen"，意爲"作出判斷"，源自 [sentence](https://www.etymonline.com/tw/word/sentence)（名詞）或古法語 sentenciir，源自中世紀拉丁語 sententiare，意爲"宣判"，源自拉丁語 sententia。具體指"判刑"是在1590年代。相關詞彙： Sentenced； sentencing。
 
 ---

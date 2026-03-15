@@ -1,10 +1,7 @@
 # determination
 
-## Origin and history of determination
-### determination(n.)
-
-在14世纪中期，determinacioun这个词出现，意思是“决策，法律诉讼中的判决，明确或权威的司法裁定”。它源自古法语的déterminacion，意为“决心，解决方案，定义”（14世纪），并直接来自中世纪拉丁语的determinationem（主格为determinatio），意为“结论，界限”。这个名词的构成是由拉丁语determinare（意为“封闭，限制，设定界限”）的过去分词词干派生而来（参见[determine](https://www.etymonline.com/word/determine)）。
-
-1670年代，该词的含义扩展为“明确确定的行动”；而“确定的结果，结论”则出现在1560年代。1650年代，该词被用来表示“朝着目标或终点的固定方向”，最初多用于物理学或解剖学领域。1680年代，它还引申出“意志坚定，朝着某个目标的决心”这一比喻意义。1822年，这个词进一步发展为“果断的品质，作为性格特征的坚定决心”。
+## determination(n.)
+14世紀中期， determinacioun，“在法律訴訟中的決定，明確或權威的司法解決”，源自於古法語 déterminacion “決定，解決，定義”（14世紀）和直接源自於中世紀拉丁語 determinationem（主格 determinatio）“結論，邊界”，動作名詞，來自於拉丁語 determinare “封閉，界定，設定限制”（參見 [determine](https://www.etymonline.com/tw/word/determine)）。
+“明確確定的行動”意義來自於1670年代； “確定的結果，結論”的意義來自於1560年代。作爲“朝着目標或終點的固定方向”，最早出現於1650年代，最初用於物理學或解剖學； 比喻意義上的“意志朝着目標的固定，關於某事的精神決定狀態”來自於1680年代； “堅定的品質，作爲性格特徵的決定性”一般意義是在1822年之後。
 
 ---

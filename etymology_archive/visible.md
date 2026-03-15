@@ -1,10 +1,8 @@
 # visible
 
-## Origin and history of visible
-### visible(adj.)
+## visible(adj.)
+大約在14世紀中期，「可被視覺感知的，能夠被看見的」這個意思開始出現，源自古法語的 visable、visible，意指「可感知的」（12世紀），並直接來自拉丁語的 visibilis，意為「可以被看見的」，其根源是 visus，這是 videre 的過去分詞，意為「看見」（參見 [vision](https://www.etymonline.com/tw/word/vision)）。在古英語中，這個詞的表達是 eagsyne。
 
-大约在14世纪中期，这个词的意思是“能够被看见，肉眼可见”。它源自古法语的 visable 和 visible，意为“可感知的”，可以追溯到12世纪。更早的来源则是拉丁语的 visibilis，意为“可以被看见的”，而这个词又来自 visus，即 videre（意为“看见”）的过去分词（参见 [vision](https://www.etymonline.com/word/vision)）。在古英语中，这个词的表达是 eagsyne。
-
-到了1610年代，这个词又被用来表示“可以被心智感知的”。到了1950年代，它的意思转变为“公众知名，广受关注”。相关词汇还有 Visibly。
+到了1610年代，這個詞開始用來指「可以被心智感知的」。到了1950年代，則演變為「在公眾中突出，廣為人知」。相關詞彙包括 Visibly。
 
 ---

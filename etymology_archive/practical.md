@@ -1,12 +1,8 @@
 # practical
 
-## Origin and history of practical
-### practical(adj.)
-
-15世纪初，practicale 意为“与行动、实践或使用相关的；应用的”，由 [-al](https://www.etymonline.com/word/-al) (1) 后缀构成，前面加上了 practic (形容词) “处理实际事务的，应用的，而非仅仅理论的”（15世纪初），或者 [practic](https://www.etymonline.com/word/practic) (名词) “方法，实践，使用”（14世纪末）。
-
-在某些情况下，这个词直接源自古法语 practique (形容词) “适合行动的”，早期形式为 pratique（13世纪），以及中世纪拉丁语 practicalis，来源于晚期拉丁语 practicus “实用的，积极的”，再往前追溯到希腊语 praktikos “适合行动的，适合商业的；务实的，实际的；积极的，有效的，精力充沛的”，其词根 praktos 意为“完成；待完成”，是动词形容词 prassein（雅典方言 prattein）“做，行动，实施，完成；结束，成功”的变形，字面意思是“穿越，旅行”，源自原始印欧语 \*per(h)- “穿越，跨越”，是词根 [*per-](https://www.etymonline.com/word/*per-) (2) “引导，通过”的扩展。
-
-当用来形容人时，通常指“其知识来源于实践而非理论”，这一用法出现在1660年代。名词形式“专注于某一学科实践的考试或课程”则出现在1934年。Practical joke（恶作剧）指“为了让某人感到烦恼并嘲笑他而进行的恶作剧”，始于1771年，意指“付诸实践的玩笑”（早期称为 handicraft joke，1741年）。
+## practical(adj.)
+早在15世紀初，“practicale 與實際行動、實踐或使用有關； 應用”的含義已經存在，其中 [-al](https://www.etymonline.com/tw/word/-al#etymonline_v_32845) (1)與早期的 practic (adj.)“處理實際問題，應用，不僅僅是理論”(15世紀初)或 [practic](https://www.etymonline.com/tw/word/practic#etymonline_v_47321) (n.)“方法，實踐，用途”(14世紀晚期)有關。
+在某些情況下，這個詞源於古法語 practique (adj.)“適合行動”，早期的 pratique (13世紀)和中世紀拉丁語 practicalis，源自晚期拉丁語 practicus “實際的，積極的”，來自希臘語 praktikos “適合行動，適合商業； 商業化，實際的； 積極的，有效的”，源自 praktos “完成的； 將要完成的”，是 prassein (雅典 prattein)的動詞形容詞，意爲“做，行動，實現； 結束，成功”，字面意思是“通過，旅行”，源自 PIE \*per(h)- “穿過，橫跨”，是 [*per-](https://www.etymonline.com/tw/word/*per-#etymonline_v_52579) (2)“引導，越過”的擴大。
+對於技能或職業，指“知識來源於實踐而不是理論”的人，可以追溯到1660年代。名詞“專門用於實踐某一學科的考試或課程”是在1934年出現的。Practical joke “爲了惹惱某人並在他的費用上引起笑聲而玩的惡作劇”源於1771年的“將玩笑變成行動”的概念(早期的 handicraft joke, 1741)。
 
 ---

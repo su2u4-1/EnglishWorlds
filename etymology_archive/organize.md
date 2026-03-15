@@ -1,12 +1,10 @@
 # organize
 
-## Origin and history of organize
-### organize(v.)
+## organize(v.)
+大約在公元1400年，organisen這個詞出現在醫學寫作中，指的是身體或其部分的發展，意指「構建、建立、製作或修改，使其展現生命過程；賦予其器官」。這個詞源自古法語的organiser，直接來自中世紀拉丁語的organizare，而最終源自拉丁語的organum，意為「工具、器官」（參見[organ](https://www.etymonline.com/tw/word/organ)）。
 
-大约在公元1400年，organisen这个词出现在医学写作中，指的是身体或其部分的发育，意思是“构建、建立、制造或修改，使其展现生命过程；赋予器官”。这个词源于古法语的organiser，直接来自中世纪拉丁语的organizare，而拉丁语的organum则意为“工具，器官”（参见[organ](https://www.etymonline.com/word/organ)）。
+到了1590年代，這個詞的用法擴展到了任何系統的佈局和安排，不論是生物還是非生物。到了1630年代，它被證實用於一般意義上，指「構建並使其運行，形成一個由相互依賴和協調部分組成的整體」。
 
-到了1590年代，这个词的意义扩展到了任何系统的配置和排列，无论是生物的还是非生物的。到1630年代，它被用来表示“构建并使其运转良好，将其形成一个由相互依赖和协调部分组成的整体”。
-
-到1880年，这个词在不及物动词中被用来表示“形成有机结构或明确的形态”。相关词汇包括[Organized](https://www.etymonline.com/word/Organized)（已组织），organizing（正在组织），organizable（可组织的）。
+1880年起，它在不及物動詞中被用來表示「假設有機結構或明確的形態」。相關詞彙包括[Organized](https://www.etymonline.com/tw/word/organized)（已組織）、organizing（正在組織）、organizable（可組織的）。
 
 ---

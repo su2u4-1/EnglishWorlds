@@ -1,8 +1,6 @@
 # postscript
 
-## Origin and history of postscript
-### postscript(n.)
-
-“对已完成的书面或印刷作品所做的补充”，特别指在信件结尾已签署后添加的段落，起源于1550年代，源自拉丁语 post scriptum，意为“书写之后”（与 postscribere “在后书写”相比较），由 post 意为“之后”（参见 [post-](https://www.etymonline.com/word/post-)）和 scribere 的中性过去分词“书写”构成，来自原始印欧语词根 [*skribh-](https://www.etymonline.com/word/*skribh-)，意为“切割”。
+## postscript(n.)
+"附加在書面或印刷作品中的內容"，特別是在作者已經結束並簽署了信件的情況下添加的段落，1550年代，源自拉丁語 post scriptum "後寫"（比較 postscribere "後寫"），來自 post "後"（見 [post-](https://www.etymonline.com/tw/word/post-))和 scribere "寫"的中性過去分詞（來自 PIE 詞根 [*skribh-](https://www.etymonline.com/tw/word/*skribh-) "切割"）。
 
 ---

@@ -1,10 +1,7 @@
 # internal
 
-## Origin and history of internal
-### internal(adj.)
-
-这个词最早出现在15世纪，意思是“向内延伸”。它源自中世纪拉丁语的 internalis，而这又来自拉丁语的 internus，意为“内部的、向内的、内在的”。在比喻意义上，它还可以表示“国内的”。这个词的前身是拉丁语之前的形式 \*interos 和 \*interus，意思是“在内部、向内”，它们源自原始印欧语的 \*en-ter-，这个词根也衍生出了古教会斯拉夫语的 anter、梵语的 antar（意为“内部、之间”）、古高地德语的 unter（意为“之间”），以及古英语的 under（在某些用法中有“向下”的意思）。从词根 [*en](https://www.etymonline.com/word/*en)（意为“在……之中”）派生出的比较级形式也为这个词的演变提供了基础。
-
-“位于内部”的意思大约在1590年代开始流行。后来，这个词还专门用来指代一个国家的国内事务，比如 internal revenue（国内税收）。这个用法出现在1795年，表达的概念是“与主题本身相关；独立于其他事物”。而 internal-combustion（内燃机）这个词则是在1884年被创造出来，用来描述那些燃料在内部燃烧的发动机。相关词汇还有 Internally（内部地）。
+## internal(adj.)
+15世紀初，“向內部延伸”，源自中世紀拉丁語 internalis，源自拉丁語 internus “內部的，向內的，內部的”，比喻爲“國內的”，擴展自拉丁語 \*interos， \*interus “內部的，向內的”，源自 PIE \*en-ter-（源頭還包括古教會斯拉夫語 anter，梵語 antar “內部，之間”，古高地德語 unter “之間”，以及古英語 under 的“向下”意義）； 是 [*en](https://www.etymonline.com/tw/word/*en) “內部”的帶後綴（比較級）形式。
+“位於內部”的意思始於1590年代。指“與國家內部事務有關的”（如 internal revenue）始於1795年； 概念是“與主題本身有關； 獨立於其他人。”指內燃機中燃料在其中燃燒的 Internal-combustion，始於1884年。相關： Internally。
 
 ---

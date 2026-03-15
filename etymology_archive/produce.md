@@ -1,16 +1,11 @@
 # produce
 
-## Origin and history of produce
-### produce(v.)
-
-15世纪初，producen，意为“发展、进行、延伸、延长”，源自拉丁语producere，意为“引导或带出、延伸”，比喻义为“促进、赋能；伸展、延伸”。这个词由pro（意为“在前、向前”，源自原始印欧语根[*per-](https://www.etymonline.com/word/*per-) (1)，意为“向前”，因此引申为“在前面、之前、向外”）和ducere（意为“带领、引导”，源自原始印欧语根[*deuk-](https://www.etymonline.com/word/*deuk-)，意为“引导”）构成。
-
-“使某物存在或产生”的意思出现在15世纪晚期。“将（戏剧）搬上舞台”的用法始于1580年代。对于动物或植物，“繁殖、产出、分娩”这一含义出现于1520年代。“通过精神或体力劳动引起、产生或实现”的意思则出现在1630年代。在政治经济学中，“创造价值；使商品、制造品等处于可以定价的状态”的说法出现于1827年。相关词汇有：Produced（已生产）、producing（正在生产）。
+## produce(v.)
+15世紀早期， producen，意爲“發展，進行，延伸，延長”，源自拉丁語 producere，意爲“引導或產生，拉出”，比喻意義爲“促進，授權； 伸展，延伸”，由 pro（源自 PIE 詞根 [*per-](https://www.etymonline.com/tw/word/*per-)（1），意爲“向前”，因此“在前面，在前面，向前”）和 ducere（源自 PIE 詞根 [*deuk-](https://www.etymonline.com/tw/word/*deuk-)，意爲“引導”）組成。
+“創造或存在”一詞出現在15世紀晚期。戲劇“上演”的意義來自1580年代。對於動物或植物，“生成，產生，生育，分娩”是在1520年代。意爲“通過精神或身體勞動引起，影響或實現”的含義始於1630年代。在政治經濟學中，“創造價值； 將商品，製造品等帶入可以命令價格的狀態”於1827年出現。相關： Produced； producing。
 
 ---
-## produce (related entry 1)
-### produce(n.)
-
-“生产的东西”，1690年代起源于 [produce](https://www.etymonline.com/word/produce)（动词），最初发音与其相同。特指“农业产品”（与制造商品区分开来）的含义始于1745年。
+## produce(n.)
+“產物，生產出的物品”，來自於 [produce](https://www.etymonline.com/tw/word/produce)（v.）一詞，最初與其重音相同。特指“農業產品”（與製造業產品區分開來）的意義始於1745年。
 
 ---

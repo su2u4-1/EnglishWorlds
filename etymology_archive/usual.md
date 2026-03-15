@@ -1,10 +1,8 @@
 # usual
 
-## Origin and history of usual
-### usual(adj.)
+## usual(adj.)
+14世紀末，「普遍認可」；15世紀中，「常見的」，來自古法語 usuel，「流通的，通用的（指錢幣），有效的」（13世紀），直接源自晚期拉丁語 usualis，「普通的」，來自拉丁語 usus，「習俗」（參見 [use](https://www.etymonline.com/tw/word/use#etymonline_v_4571) (v.)）。
 
-14世纪晚期，这个词的意思是“普遍认可的”；到15世纪中期，它又发展为“常见的”。这个词源于古法语 usuel，意为“流行的、通用的（尤其指货币）”，可以追溯到13世纪。它也直接源自晚期拉丁语 usualis，意为“普通的”，而拉丁语 usus 则意为“习惯、惯例”（参见 [use](https://www.etymonline.com/word/use) (v.)）。
-
-短语 as usual，意为“以常见的方式”，最早出现在1716年。The usual suspects 这个说法则出自克劳德·雷恩斯在1942年电影《卡萨布兰卡》中饰演的法国警察局长的一句台词。
+短語 as usual，「以常見的方式」記載於1716年。The usual suspects 來自克勞德·雷恩斯（Claude Rains 飾演法國警察督察）在《卡薩布蘭卡》（1942年）中的一句台詞。
 
 ---

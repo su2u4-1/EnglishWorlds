@@ -1,10 +1,7 @@
 # consequence
 
-## Origin and history of consequence
-### consequence(n.)
-
-14世纪末，“逻辑推理，结论”这个意思源自古法语 consequence，意为“结果”（13世纪，现代法语为 conséquence）。它来自拉丁语 consequentia，是一个抽象名词，源自动词 consequi 的现在分词，意为“跟随，继而发生”。这个词又可以拆分为 com（意为“与，一起”，参见 [con-](https://www.etymonline.com/word/con-)）和 sequi（意为“跟随”，源自原始印欧语词根 [*sekw-](https://www.etymonline.com/word/*sekw-) (1)，意为“跟随”）。
-
-“从某个行为或过程所产生的结果”这一含义大约出现在公元1400年左右。而“重要性，意义”这一用法则出现在1590年代，源于其“充满后果”的概念。
+## consequence(n.)
+14世紀末，指“邏輯推論、結論”，來自古法語“consequence”（13世紀，現代法語“conséquence”），源自拉丁語“consequentia”，抽象名詞來自“consequi”的現在分詞詞幹，該詞意爲“之後跟隨”，來自於“com”的同化形式，該詞意爲“一起”，參見“[con-](https://www.etymonline.com/tw/word/con-)”，加上“sequi”即“跟隨”（源自於印歐語系的根源“[*sekw-](https://www.etymonline.com/tw/word/*sekw-)” (1)“跟隨”）。
+“由任何行爲或行徑決定的結果或發展的事情”的意思始自1400年左右。 “重要性，意義”的意思（1590年代）源自於“充滿後果”的概念。
 
 ---

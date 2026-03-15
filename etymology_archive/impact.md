@@ -1,14 +1,10 @@
 # impact
 
-## Origin and history of impact
-### impact(v.)
-
-大约在1600年，最初的意思是“紧紧压入某物”。这个词源自拉丁语 impactus，是 impingere 的过去分词，意为“推入、撞击”。它由 in-（意为“进入、在……之上”，源自原始印欧语词根 [*en](https://www.etymonline.com/word/*en)，意为“在”）和 pangere（意为“固定、牢牢钉住”，源自原始印欧语词根 [*pag-](https://www.etymonline.com/word/*pag-)，意为“固定”）结合而来。这个词最初的意思在 [impacted](https://www.etymonline.com/word/impacted)（受影响的、被压迫的）牙齿中得以保留。1916年，这个词首次被用来表示“猛烈撞击某物”。而“对……产生强烈影响”的比喻意义则出现在1935年。相关词汇还有 Impacting。
+## impact(v.)
+大約1600年，“緊密地壓入某物”，源自拉丁語 impactus，是 impingere 的過去分詞，“推入，驅入，撞擊”，由 in-（來自 PIE 詞根 [*en](https://www.etymonline.com/tw/word/*en) “在”）和 pangere “固定，扣緊”（來自 PIE 詞根 [*pag-](https://www.etymonline.com/tw/word/*pag-) “扣緊”）的同化形式組成。原始意義在 [impacted](https://www.etymonline.com/tw/word/impacted) 牙齒中得以保留。 “強烈撞擊某物”的意義首次記錄於1916年。 “對某物產生強烈影響”的比喻意義始於1935年。 相關詞彙： Impacting。
 
 ---
-## impact (related entry 1)
-### impact(n.)
-
-1738年，[impact](https://www.etymonline.com/word/impact)（动词）引申出“碰撞，撞击，物体之间的相互作用”这一意思。到了1817年（科尔律治），它又被用来比喻“强烈的印象”。
+## impact(n.)
+1738年，“碰撞，撞擊一物體到另一物體的行爲”，源自 [impact](https://www.etymonline.com/tw/word/impact)（動詞）。比喻意義上的“有力印象”始於1817年（柯勒律治）。
 
 ---

@@ -1,12 +1,8 @@
 # secondary
 
-## Origin and history of secondary
-### secondary(adj.)
-
-14世纪晚期，secondarie，意为“属于第二等级的；非主要或首要的；在重要性或权威上居第二位的；质量或价值较低的；从属于其他事物，依赖于主要特性的作用。”这个词源于古法语的secondaire，直接来自拉丁语的secundarius，意指“与第二等级相关的，劣等的”，而拉丁语的secundus则可以参考[second](https://www.etymonline.com/word/second)（形容词）。
-
-与[primary](https://www.etymonline.com/word/primary)（形容词）或[principal](https://www.etymonline.com/word/principal)（形容词）相对。在颜色方面，这一用法源于1831年的旧理论；在学校或教育领域，则始于1809年。形容某一性别特有但不必需用于繁殖的特征，最早见于1780年。相关词汇包括：Secondarily（副词，意为“其次”）；secondariness（名词，意为“次要性”）。
-
-作为名词使用始于15世纪中期，最初指“次要重要性或依赖于主要事物的事物或地点”；到了1590年代，又指“代表或副手”。在美国足球中，“防守后卫线”的含义出现于1955年。
+## secondary(adj.)
+十四世紀晚期，“ secondarie ”的意思是“屬於第二類； 不是主要的或首要的； 重要性或權威性次於其他事物； 品質較低或不如其他事物； 依附於行動主體的基本品質”，源自古法語“ secondaire ”並直接來自拉丁語“ secundarius ”，意爲“屬於第二類，次等的”，源於“ secundus ”（參見 [second](https://www.etymonline.com/tw/word/second#etymonline_v_23074) (adj.)）。
+和“ [primary](https://www.etymonline.com/tw/word/primary) ”（adj.）或“ [principal](https://www.etymonline.com/tw/word/principal) ”（adj.）形成對比。在舊理論下，“關於顏色”，始於1831年； 在指學校或教育時，始於1809年。在指對一性別獨特但並非生殖所必需特徵時，始於1780年。相關詞語： Secondarily;， secondariness 。
+名詞用法，十五世紀中期指“次要的事物或地方或依賴主要事物的地方”； 1590年代指“代表或代理人”。美式橄欖球中“defensive backfield”的意思是在1955年以前確定的。
 
 ---

@@ -1,8 +1,6 @@
 # optimize
 
-## Origin and history of optimize
-### optimize(v.)
-
-1844年，[optimist](https://www.etymonline.com/word/optimist)一词衍生出“充当乐观主义者，对某事持最乐观的看法”的意思。到1857年，它还被用来表示“充分利用，发展到极致”。相关词汇包括Optimized（已优化）和optimizing（正在优化）。
+## optimize(v.)
+1844年，“表現樂觀主義，對事情持最有希望的看法”，這是從 [optimist](https://www.etymonline.com/tw/word/optimist) 反推出來的。意思是“充分利用，發揮到極致”，可追溯至1857年。相關詞彙： Optimized； optimizing。
 
 ---

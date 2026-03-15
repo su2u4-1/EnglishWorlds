@@ -1,10 +1,7 @@
 # legacy
 
-## Origin and history of legacy
-### legacy(n.)
-
-14世纪晚期，legacie，“被派遣执行任务的人群”，来自中世纪拉丁语legatia，源自拉丁语legatus“大使，特使，代表”，名词用法来源于legare “带着使命发送，任命为代表，通过遗嘱任命”（参见[legate](https://www.etymonline.com/word/legate)）。
-
-“遗嘱留下的财产，遗赠”这一意义出现在15世纪中期的苏格兰。Legacy-hunter始见于1690年代。法语legs“遗赠”是古法语lais的错误拼写（参见[lease](https://www.etymonline.com/word/lease) (n.)）。法语legacie仅在16世纪有据可查。
+## legacy(n.)
+14世紀晚期， legacie，“派遣使命的人羣”，源自中世紀拉丁語 legatia，來自拉丁語 legatus “大使，使節，代表”，是 legare 的過去分詞的名詞用法，“委派代表，任命代表，通過遺囑任命”（見 [legate](https://www.etymonline.com/tw/word/legate)）。
+“遺產，遺贈”一詞出現在15世紀中期的蘇格蘭。1690年代出現了“Legacy-hunter”一詞。法語 legs “遺產”是舊法語 lais 的拼寫錯誤（見 [lease](https://www.etymonline.com/tw/word/lease)（n.））。法語 legacie 僅在16世紀出現。
 
 ---

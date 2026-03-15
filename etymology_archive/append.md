@@ -1,10 +1,7 @@
 # append
 
-## Origin and history of append
-### append(v.)
-
-14世纪晚期，appenden，意为“作为财产或权利归属”，源自13世纪的古法语apendre，意思是“归属、依赖（于）；附着（于）；悬挂，挂起”，并直接来源于拉丁语appendere，意为“使悬挂（于某物）；称量”，由ad（意为“向……”，参见[ad-](https://www.etymonline.com/word/ad-)）和pendere（意为“悬挂、使悬挂；重量；支付”，源自原始印欧词根[*(s)pen-](https://www.etymonline.com/word/*%28s%29pen-)，意为“拉、伸、旋转”）构成。
-
-“悬挂、作为吊坠附着”的意思出现在1640年代；“作为附录附加”的用法则记录于1843年。《牛津英语词典》指出，这个词在1500年左右已基本废弃，因此后来的及物用法可能是从拉丁语或法语重新借用的。相关词汇包括Appended（已附加）、appending（正在附加）。
+## append(v.)
+14世紀末， appenden，“作爲財產或權利的歸屬”，源自13世紀的古法語 apendre “屬於，依賴（於）； 附着（自己）； 懸掛，掛起”，直接源自拉丁語 appendere “使懸掛（在某物上）； 稱量”，由 ad “到”（參見 [ad-](https://www.etymonline.com/tw/word/ad-)）+ pendere “懸掛，使懸掛； 重量； 支付”（源自 PIE 詞根 [*(s)pen-](https://www.etymonline.com/tw/word/*(s)pen-) “拉，伸，旋轉”）。
+“懸掛，附着爲吊墜”的意思可追溯至1640年代； “作爲附錄附加”之意首次記錄於1843年。《牛津英語詞典》稱該詞在約1500年前已經過時，因此這些後來的及物動詞意義是從拉丁語或法語重新借用的。相關詞彙： Appended； appending。
 
 ---

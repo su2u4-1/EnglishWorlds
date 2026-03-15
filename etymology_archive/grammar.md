@@ -1,20 +1,18 @@
 # grammar
 
-## Origin and history of grammar
-### grammar(n.)
+## grammar(n.)
+在14世紀末，「拉丁語法，拉丁語規則」的意思，來自古法語 gramaire，意指「語法；學問」，特別是拉丁語和語言學的知識，也有「（魔法）咒語，咒語，胡言亂語」的含義（12世紀，現代法語 grammaire）。這是一種「不規則的半流行採用」，[OED, 2nd ed. 1989]，源自拉丁語 grammatica，「語法，語言學」，可能是通過某種未記錄的中世紀拉丁語形式 \*grammaria 演變而來。
 
-14世纪末，“拉丁语语法，拉丁语规则”，源自古法语 gramaire，意为“语法；学问”，尤其指拉丁语和语言学，也有“（魔法）咒语，咒语，胡言乱语”（12世纪，现代法语 grammaire）。这个词是对拉丁语 grammatica（“语法，语言学”）的“非正式半通俗化采纳”[牛津英语词典，第二版，1989年]，可能通过一种未记录的中世纪拉丁语形式 \*grammaria 演变而来。
+這個詞的古典拉丁語來源於希臘語 grammatike (tekhnē)，「（藝術）文字的技藝」，既指語言學，也指文學，涵蓋範圍非常廣泛。它是 grammatikos（形容詞）的陰性形式，意為「與文字或學問相關的，精通學問的」，來自 gramma，「字母」（參見 [-gram](https://www.etymonline.com/tw/word/-gram)）。在古英語中，這個詞的對應詞是 stæfcræft（參見 [staff](https://www.etymonline.com/tw/word/staff#etymonline_v_21963) (n.)）。
 
-古典拉丁语中的这个词源自希腊语 grammatike (tekhnē)，意为“（文字的）艺术”，既指语言学，也广泛指文学。它是 grammatikos（形容词）“与文字或学问相关，精通文字”的阴性形式，来自 gramma（“字母”，参见 [-gram](https://www.etymonline.com/word/-gram)）。在古英语中，这个词的一个解释是 stæfcræft（参见 [staff](https://www.etymonline.com/word/staff) (n.)）。
+在拉丁語和希臘語中，這個詞的涵義要廣泛得多；將其意義限制為「系統性地描述語言規則和用法」的狹義解釋，是後來的發展。
 
-在拉丁语和希腊语中，这个词的含义要广泛得多；将其限制为“语言规则和用法的系统性描述”是后期古典时期的演变。
+直到16世紀，這個詞的使用仍然主要限於拉丁語；到了16世紀末，開始用來指英語，隨後演變為「語言規則，說話者和寫作者必須遵循的規範」（1580年代）。「語法學著作」的含義出現於1520年代。
 
-直到16世纪，这个词的使用仅限于拉丁语；到16世纪末，开始用于英语，随后引申为“语言规则，讲者和作者必须遵循的规范”（1580年代）。“语法学著作”的含义出现在1520年代。
+在「魔法」的意義上，可以參考 [gramary](https://www.etymonline.com/tw/word/gramary)。這一演變特別體現了黑暗時代的特徵：最初指「學問總論，特定於學者階層的知識」，這其中包括占星術和魔法。因此，它還衍生出「隱秘知識」（15世紀末的英語），並在蘇格蘭演變為 [glamour](https://www.etymonline.com/tw/word/glamour)（參見該詞）。
 
-关于“魔法”含义，可以与 [gramary](https://www.etymonline.com/word/gramary) 进行比较。这一演变体现了黑暗时代的特征：最初指“学习的总称，知识精英特有的学问”，其中包括占星术和魔法；因此，它在英语中逐渐演变出“神秘知识”的次要含义（15世纪末），并在苏格兰发展为 [glamour](https://www.etymonline.com/word/glamour)（参见）。
+最初的 grammar-school（14世紀末）是一所教授拉丁語的學校，學生們首先需要背誦語法。1842年，在美國，這個詞被用來指一種分級學校，介於初等教育和中等教育之間，英語語法是其中一門必修課。
 
-grammar-school（14世纪末）最初是教授拉丁语的学校，学生们通过背诵语法来学习。1842年，这个词在美国被用于分级教育体系，指的是介于初级和中级之间的学校，英语语法是其中一门必修课。
-
-这个词最早出现在姓氏中（12世纪末），例如 Robertus Gramaticus 和 Richard le Gramarie，由此演变出现代姓氏 Grammer。
+這個詞最早出現在姓氏中（12世紀末），例如 Robertus Gramaticus 和 Richard le Gramarie，這些名字最終演變為現代姓氏 Grammer。
 
 ---

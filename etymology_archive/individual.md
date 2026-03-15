@@ -1,18 +1,14 @@
 # individual
 
-## Origin and history of individual
-### individual(adj.)
-
-在15世纪初，individualis（来自中世纪拉丁语）一词的意思是“一个不可分割的整体，无法分离的存在”，通常用来形容三位一体的神秘概念。这个词源于拉丁语的individuus，意为“不可分割的”，由in-（表示“否定”或“相反”，参见[in-](https://www.etymonline.com/word/in-) (1)）和dividuus（意为“可分割的”，源自dividere，即“分开”，参见[divide](https://www.etymonline.com/word/divide) (v.)）组合而成。最初的含义如今已不再使用，这个词在1600年之前并不常见，而15世纪的例子可能是个别现象。到了1610年代，这个词逐渐演变为“单一的，独立的，指一个人或物”的意思；而“仅供一个人使用”的含义则出现在1889年。
+## individual(adj.)
+15世紀初，“一體不可分割的”（指三位一體）來自中世紀拉丁語 individualis，來自拉丁語 individuus “不可分割的”，來自 in- “不，相反的”（參見 [in-](https://www.etymonline.com/tw/word/in-)（1））+ dividuus “可分割的”，來自 dividere “分割”（參見 [divide](https://www.etymonline.com/tw/word/divide)（v.））。原始意義現已過時； 這個詞在1600年前並不常見，15世紀的例子可能是個例外。指“單一的，獨立的，只有一個人或物”的意思來自17世紀； 指“爲一個人而設計的”的意思來自1889年。
 
 > Individual views a person as standing alone, or persons as standing separately before the mind: as, the rights of the individual; the rights of individuals: it is incorrect to use individual for person unemphatically ; as, there were several individuals in the room. [Century Dictionary]
 
-> Individual 这个词强调一个人独立存在，或者将几个人视为彼此独立的个体。例如，individual 的权利；individuals 的权利。在不强调的情况下，使用 individual 来替代 person 是不正确的；比如，可以说房间里有几个 individuals。 [《世纪词典》]
+> Individual 將一個人視爲獨立的，或將人們在思想中分開：例如， individual 的權利； individuals 的權利：使用 individual 來代替 person 是不正確的； 例如，房間裏有幾個 individuals。[世紀詞典]
 
 ---
-## individual (related entry 1)
-### individual(n.)
-
-“单个物体或事物”，大约在1600年出现，源自 [individual](https://www.etymonline.com/word/individual)（形容词）。表示“单个个体”（与群体等相对）的意思出现在1640年代。口语中“人”的意思从1742年起被记录。拉丁语 individuum 作为名词意为“原子，无法分割的粒子”，而在中英语中，individuum 被用来指“某一物种的个体成员”（15世纪初）。
+## individual(n.)
+“單個物體或事物”，大約於1600年，源自 [individual](https://www.etymonline.com/tw/word/individual)（形容詞）。意思是“單個人類”（與羣體等相對）。俚語意義上的“人”可追溯至1742年。拉丁語 individuum 作爲名詞的意思是“原子，不可分割的粒子”，在中古英語中， individuum 被用來表示“物種中的個體成員”（15世紀早期）。
 
 ---

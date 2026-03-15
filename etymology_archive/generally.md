@@ -1,8 +1,6 @@
 # generally
 
-## Origin and history of generally
-### generally(adv.)
-
-“包括所有人；一般来说，不具体指某些事物”，这个用法出现在14世纪中期，来源于 [general](https://www.etymonline.com/word/general)（形容词）+ [-ly](https://www.etymonline.com/word/-ly)（副词后缀）。
+## generally(adv.)
+"包括每個人； 以一般的方式，不涉及具體細節"，14世紀中期，來自 [general](https://www.etymonline.com/tw/word/general)（形容詞）+ [-ly](https://www.etymonline.com/tw/word/-ly)（2）。
 
 ---

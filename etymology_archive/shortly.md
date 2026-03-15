@@ -1,8 +1,6 @@
 # shortly
 
-## Origin and history of shortly
-### shortly(adv.)
-
-中古英语的 shortli 意思是“短时间内”，源自古英语的 scortlice，意为“简短地”。在晚期古英语中，它还可以表示“在短时间内；简洁地”。可以参考 [short](https://www.etymonline.com/word/short)（形容词）和 [-ly](https://www.etymonline.com/word/-ly)（词尾形式）。到1815年，这个词的意思演变为“简短地，生硬地”。
+## shortly(adv.)
+中古英語 shortli，意爲“短暫地”，源自古英語 scortlice，意爲“簡短地”，同時在晚期古英語中也表示“在短時間內； 簡潔地”； 參見 [short](https://www.etymonline.com/tw/word/short)（形容詞）+ [-ly](https://www.etymonline.com/tw/word/-ly)（2）。1815年開始表示“簡短地，突然地”。
 
 ---

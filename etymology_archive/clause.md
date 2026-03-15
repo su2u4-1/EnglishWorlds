@@ -1,12 +1,11 @@
 # clause
 
-## Origin and history of clause
-### clause(n.)
+## clause(n.)
+約於1200年，“句子，書面作品的簡短段落”，源自於12世紀的古法語 clause “規定”（在法律文件中），來自於中世紀拉丁語 clausa “結論”，用於古典拉丁語 clausula “結尾，結束，終止”的意義，也指“句子或法律論證的結尾”，來自於 clausa，是 claudere 的過去分詞的女性名詞，意爲“關閉，關上，結束”（參見 [close](https://www.etymonline.com/tw/word/close)（v.））。
+語法意義上的“一個較小的句子，它們聯合形成一個複雜或複合句子”的含義始於約1300年。法律意義上的“獨特條件，規定或條款”在14世紀後期記錄在英語中。這個詞在拉丁語和法語之間的“結束”的意義大多消失了，但在中古英語中偶爾可以找到。
 
-大约在公元1200年，clause这个词开始被用来表示“一个句子，或一段简短的书面表达”。它源自古法语的clause，意为“法律文件中的条款”或“约定”。这个词又可以追溯到中世纪拉丁语的clausa，意为“结论”，并且在古典拉丁语中有“结束，终止”的意思，通常指“句子的结束”或“法律论证的终结”。它来自于clausa，这是一个阴性名词，源自动词claudere，意为“关闭，结束”。（参见[close](https://www.etymonline.com/word/close) (v.)）
+> A clause differs from a phrase in containing both a subject and its predicate, while a phrase is a group of two or more words not containing both these essential elements of a simple sentence. [Century Dictionary]
 
-在语法学中，clause指的是“构成复杂句或并列句的较小句子单元”，这个用法大约出现在公元1300年左右。到了14世纪晚期，这个词在英语中还被用来表示“独立的条件、条款或附加说明”，即法律意义上的“条款”。虽然在拉丁语和法语中，表示“结束”的含义逐渐淡化，但在中古英语中偶尔仍能见到。
-
-> A clause（从句）与a phrase（短语）不同，因为前者包含主语和谓语，而后者则是一个不包含这两个基本成分的词组。 [Century Dictionary]
+> “從句與短語的區別在於它包含主語和謂語，而短語是不包含這些簡單句子的兩個或更多單詞的組合。”[世紀詞典]
 
 ---

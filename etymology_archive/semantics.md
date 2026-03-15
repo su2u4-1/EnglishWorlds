@@ -1,8 +1,6 @@
 # semantics
 
-## Origin and history of semantics
-### semantics(n.)
-
-“语言意义的研究；语言符号与其意义之间关系的科学。”这个定义出现在1893年，源自法语 sémantique（1883年）。可以参见 [semantic](https://www.etymonline.com/word/semantic)（同时也可以查看 [-ics](https://www.etymonline.com/word/-ics)）。在这个意义上，它取代了 semasiology（1847年），该词来自德语 Semasiologie（1829年），而德语又源自希腊语 sēmasia，意为“意义、表意”。
+## semantics(n.)
+"語言中的意義研究； 語言符號與其意義之間關係的科學"，起源於1893年，源自法語 sémantique（1883）； 參見 [semantic](https://www.etymonline.com/tw/word/semantic)（也參見 [-ics](https://www.etymonline.com/tw/word/-ics)）。在這個意義上，它取代了 semasiology（1847），源自德語 Semasiologie（1829），源自希臘語 s ē masia “意義，含義”。
 
 ---

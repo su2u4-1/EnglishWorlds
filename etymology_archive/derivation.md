@@ -1,10 +1,7 @@
 # derivation
 
-## Origin and history of derivation
-### derivation(n.)
-
-在15世纪初，derivacioun这个词最初在医学领域使用，意为“抽离或转移，偏离”。它源自14世纪的古法语dérivation，直接来自拉丁语derivationem（主格为derivatio），意指“引导离开，转向其他方向”，同时也指“词的派生，词源学”。这个名词的构成源自动词derivare，意思是“引导或抽离”（参见[derive](https://www.etymonline.com/word/derive)）。
-
-在英语中，表示“词语从其更原始的词根或词干的发展或形成过程的描绘或追溯，词语的起源或历史说明”的语法意义出现在15世纪中期。大约1600年，这个词被广泛用于表示“起源，后裔”。而“从某个来源抽取或接收的行为或事实”的含义则出现在1650年代。
+## derivation(n.)
+15世紀初， derivacioun，最初在醫學中是一個現已廢棄的意義，指的是“抽取或轉移，轉向”，源自14世紀的古法語 dérivation，直接源自拉丁語 derivationem（nominative derivatio），“引導，轉移”，還有“詞源，詞源學”的意思，是從過去分詞詞幹 derivare “引導或抽取”（參見 [derive](https://www.etymonline.com/tw/word/derive)）。
+在英語中，語法意義上的“繪製或追蹤一個詞在其發展或形成過程中從其更原始的詞根或詞幹中的過程，一個詞的起源或歷史的陳述”起源於15世紀中葉。一般意義上的“起源，血統”可追溯到1600年左右； 從1650年代開始，“從源頭抽取或接收的行爲或事實”的意思也出現了。
 
 ---

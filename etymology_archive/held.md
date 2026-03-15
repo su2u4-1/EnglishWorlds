@@ -1,8 +1,6 @@
 # held
 
-## Origin and history of held
-### held
-
-古英语中，heold 是动词 [hold](https://www.etymonline.com/word/hold) 的过去式和过去分词形式。
+## held
+古英語中，“heold”的過去式和過去分詞，意爲“[hold](https://www.etymonline.com/tw/word/hold)”（動詞）。
 
 ---

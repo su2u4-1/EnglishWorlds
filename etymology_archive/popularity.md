@@ -1,8 +1,6 @@
 # popularity
 
-## Origin and history of popularity
-### popularity(n.)
-
-“被人民喜爱或受欢迎的状态或特质”，大约公元1600年，源自法语 popularité（15世纪），参见 [popular](https://www.etymonline.com/word/popular) + [-ity](https://www.etymonline.com/word/-ity)。古典拉丁语中的 popularitas 意为“同胞关系，来自同一国家的人”。Popularity contest 这个词组最早出现在1880年。
+## popularity(n.)
+"被人民所喜愛的事實或狀態，受歡迎的個性或品質"，約1600年源自法語 popularité（15世紀），參見 [popular](https://www.etymonline.com/tw/word/popular) 和 [-ity](https://www.etymonline.com/tw/word/-ity)。古典拉丁語的 popularitas 意味着“同胞，屬於同一國家的人”。 Popularity contest 於1880年開始出現。
 
 ---

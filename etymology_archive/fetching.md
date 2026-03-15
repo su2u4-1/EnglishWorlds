@@ -1,8 +1,6 @@
 # fetching
 
-## Origin and history of fetching
-### fetching(adj.)
-
-1580年代，形容词“crafty, scheming”（狡诈的，阴险的）源自动词 [fetch](https://www.etymonline.com/word/fetch)（v.），在其扩展意义中指“将某物带入期望的关系或状态”。到1880年，这个词又发展出“alluring, fascinating”（迷人的，吸引人的）这一新意义，源自大约1600年该动词在“诱惑，吸引，迷住”中的用法。相关词汇：Fetchingly。
+## fetching(adj.)
+1580年代，“狡猾的，陰險的”，是由 [fetch](https://www.etymonline.com/tw/word/fetch)（動詞）的一種擴展意義構成的現在分詞形容詞，這裏的意思是“將某物帶入或引入所需的關係或狀態”。 “迷人的，迷人的”一詞始於1880年，源自動詞的意義“吸引，吸引，迷住”（約1600年）。 相關： Fetchingly。
 
 ---

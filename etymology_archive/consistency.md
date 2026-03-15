@@ -1,10 +1,7 @@
 # consistency
 
-## Origin and history of consistency
-### consistency(n.)
-
-在1590年代，consistentia这个词源自中世纪拉丁语，字面意思是“坚固的状态”或“共同站立”。它直接来源于拉丁语的consistentem（主格consistens），是动词consistere的现在分词，意为“站稳、保持不动、停下”。这个词由com（意为“与……一起”或“共同”，参见[con-](https://www.etymonline.com/word/con-)）和sistere（意为“放置”或“站立”，是stare的使役形式，意为“站立”或“保持不动”）结合而来，最终源自原始印欧语词根[*sta-](https://www.etymonline.com/word/*sta-)，意为“站立”或“使坚固”。
-
-1650年代，这个词开始被用来表示“与某事物达成一致或和谐的状态”；1716年，它又被引申为“坚定地遵循原则或行动模式”；1787年，进一步发展为“系统各部分之间的和谐联系”。
+## consistency(n.)
+1590年代，“物質的堅固性”，源自中世紀拉丁語 consistentia，字面意思是“站在一起”，或直接來自拉丁語 consistentem（consistens 主格）， consistere 的現在分詞形式，意爲“站穩，採取站立姿勢，停止，停頓”，由 com “與，一起”（見 [con-](https://www.etymonline.com/tw/word/con-))和 sistere “放置”組成，是 stare “站立，站立” 的使役形式，源自 PIE 詞根 [*sta-](https://www.etymonline.com/tw/word/*sta-) “站立，使堅固或保持堅固”。
+意思是“與某物的一致或和諧狀態”來自1650年代； 意思是“穩定地堅持原則，行動模式等”來自1716年。意思是“系統部分之間的和諧連接”來自1787年。
 
 ---

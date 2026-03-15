@@ -1,8 +1,6 @@
 # difficult
 
-## Origin and history of difficult
-### difficult(adj.)
-
-大约在1400年，"不容易，需要或依赖努力；麻烦的，艰难的"，显然是从[difficulty](https://www.etymonline.com/word/difficulty)非词源性地回形成的。法语中有difficile，拉丁语中有difficilis。用于形容人时，指"难以取悦"，始于1580年代。相关词：Difficultly。
+## difficult(adj.)
+約於1400年，指“不容易的，需要或依賴努力的； 麻煩的，艱鉅的”，顯然是一個非詞源學的反構詞，源自 [difficulty](https://www.etymonline.com/tw/word/difficulty)。法語中有 difficile，拉丁語中有 difficilis。關於人，“難以取悅”的用法始於1580年代。相關詞彙： Difficultly。
 
 ---

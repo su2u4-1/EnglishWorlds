@@ -1,12 +1,12 @@
 # assembly
 
-## Origin and history of assembly
-### assembly(n.)
+## assembly(n.)
+約於1300年，“一羣人的聚集，爲某種目的而聚集的羣體”，源自古法語 asemblee， assemblee “集會，聚集； 聯合，婚姻”，是 assembler “集合”（見 [assemble](https://www.etymonline.com/tw/word/assemble)）的女性過去分詞名詞化。 “聚集在一起”的意義可追溯至15世紀初； “組裝零件或物體的行爲”始於1914年，正如 assembly line 一樣。
 
-大约公元1300年，asemblee和assemblee这两个词从古法语中引入，意指“集合、聚会”，最初用来描述一群人因某种目的而聚集在一起的情景。这些词源自动词assembler，意为“集合、聚集”。到了15世纪初，这个词逐渐演变为“集合在一起”的意思。1914年，它又被用来专门指“部件或物体的组装过程”，同时也出现了assembly line（流水线）这一新词。
+> Perhaps the most interesting department in the whole factory, to the visitor, is the final assembly. In this division, all the assembled units meet the assembly conveyor at the point where they are needed. At the start of the track a front axle unit, a rear axle unit and a frame unit are assembled. This assembly is then started in motion by means of a chain conveyor, and as it moves down the room at a constant speed of eight feet per minute, each man adds one part to the growing chassis or does one operation, which is assigned to him, so that when the chassis reaches the end of the line, it is ready to run on its own power. ["The Story of an Automobile Factory," in "Universal Book of Knowledge and Wonders," 1917]
 
-> 对于参观者来说，工厂中最有趣的部门可能就是最后的组装车间。在这里，所有组装好的单元都会在需要的地方与组装输送机汇合。在生产线的起点，前轴单元、后轴单元和车架单元会被组装在一起。这个组装过程通过链式输送机启动，随着它以每分钟八英尺的恒定速度向前移动，每位工人都会向不断成长的底盘添加一个部件，或者完成一个分配给他的操作。这样，当底盘到达生产线的尽头时，它就能独立运转了。——摘自《汽车工厂的故事》，收录于《知识与奇迹大全》，1917年
+> 也許對於參觀者來說，整個工廠中最有趣的部門就是最終裝配部門。在這個部門中，所有組裝好的部件都在需要它們的地方與裝配傳送帶相遇。在軌道的起點，前軸單元、後軸單元和框架單元被組裝在一起。然後，通過鏈式傳送帶啓動這個組裝，當它以每分鐘8英尺的恆定速度沿着房間移動時，每個人都會向不斷增長的底盤添加一個零件或執行分配給他的一個操作，以便當底盤到達線的末端時，它已經準備好自己的動力了。[“汽車工廠的故事”，收錄於“知識和奇蹟的通用書”，1917年]
 
-在学校环境中，“全体学生聚集进行展示”的意思始于1932年。早在14世纪中期，这个词就被用来指代“为讨论而聚集”，因此在一些州（最早的殖民地）立法机构中，它被用作下议院的名称（大约1680年代）。在17世纪到18世纪期间，assemblies（社交舞会）成为上层社交生活的重要组成部分，这些舞会通常是由参与者订阅费用赞助的，旨在“礼貌的男女之间”举行。
+學校的意義，“所有學生爲演示而聚集”，始於1932年。從14世紀中葉開始，作爲“討論會的聚集”，因此在美國一些州（早期殖民地）立法機構的下議院中使用該名稱（1680年代）。在17世紀至18世紀， assemblies “在有教養的男女之間的跳舞舞會，通常由參與者的訂閱支付”是社交生活的一個重要特徵。
 
 ---

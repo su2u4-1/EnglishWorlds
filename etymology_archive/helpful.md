@@ -1,8 +1,6 @@
 # helpful
 
-## Origin and history of helpful
-### helpful(adj.)
-
-14世纪晚期，由 [help](https://www.etymonline.com/word/help)（名词）和 [-ful](https://www.etymonline.com/word/-ful) 组合而成。相关词汇包括 Helpfully（有帮助地）、helpfulness（乐于助人）。
+## helpful(adj.)
+14世紀晚期，來自 [help](https://www.etymonline.com/tw/word/help)（名詞）+ [-ful](https://www.etymonline.com/tw/word/-ful)。相關詞彙： Helpfully； helpfulness。
 
 ---

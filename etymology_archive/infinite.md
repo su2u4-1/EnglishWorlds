@@ -1,8 +1,6 @@
 # infinite
 
-## Origin and history of infinite
-### infinite(adj.)
-
-这个词最早出现在14世纪晚期，意思是“永恒的，无限的”，后来也用来形容“数量极其庞大的”。它源自古法语的 infinit，意为“无尽的，无法测量的”，而直接来自拉丁语的 infinitus，意思是“无边无际的，无法限制的，数不胜数的”。这个拉丁词由 in-（表示“否定”或“相反”，参见 [in-](https://www.etymonline.com/word/in-) (1)）和 finitus（意为“有限的，明确的”，来自 finis，即“终点”，参见 [finish](https://www.etymonline.com/word/finish) (v.)）构成。名词形式“无限的事物”出现在1580年代。
+## infinite(adj.)
+14世紀晚期，“永恆的，無限的”，也指“數量極大”，源自古法語 infinit “無限的，無邊的”，直接源自拉丁語 infinitus “無限的，無限制的，無數的，無數的”，由 in- “不，相反的”（見 [in-](https://www.etymonline.com/tw/word/in-)（1））和 finitus “定義，明確的”組成，源自 finis “結束”（見 [finish](https://www.etymonline.com/tw/word/finish)（v.））。名詞“無限的東西”來源於1580年代。
 
 ---

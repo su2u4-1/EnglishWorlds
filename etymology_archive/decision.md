@@ -1,10 +1,8 @@
 # decision
 
-## Origin and history of decision
-### decision(n.)
+## decision(n.)
+15世紀中期，decisioun，意為「決定的行為」，來自古法語 décision（14世紀），源自拉丁語 decisionem（主格 decisio）「決定、解決、協議」，是來自過去分詞詞幹 decidere 的行為名詞，意為「決定、確定」，字面意思是「切斷」，來自 de「離開」（參見 [de-](https://www.etymonline.com/tw/word/de-)）+ caedere「切割」（來自原始印歐語根 [*kae-id-](https://www.etymonline.com/tw/word/*kae-id-)「打擊」）。
 
-15世纪中期，decisioun，“决定的行为”，来自古法语décision（14世纪），源自拉丁语decisionem（主格decisio）“决定、解决、协议”，是动词过去分词词干decidere“决定、确定”的名词形式，字面意思是“切断”，由de“离开”（参见[de-](https://www.etymonline.com/word/de-)）+ caedere“切割”（来自原始印欧语词根[*kae-id-](https://www.etymonline.com/word/*kae-id-)“打击”）。
-
-“案件中的最终判决或意见”的含义始于1550年代。“性格决定的品质，迅速做出决定的能力”的含义在1781年得到证实；“决心，目的的确定”的意义在1886年出现。Decision-making（形容词）在1946年被记录。
+「案件中的最終判決或意見」的意思始於1550年代。「性格決斷的品質，能夠迅速做出決定的能力」的意思在1781年得到證實；「決心，目的的確定」的意義在1886年出現。Decision-making（形容詞）在1946年被記錄。
 
 ---

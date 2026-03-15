@@ -1,8 +1,6 @@
 # assignment
 
-## Origin and history of assignment
-### assignment(n.)
-
-14世纪晚期，指“命令、请求、指示”，源自古法语 assignement，意为“（法律上的）分配（如嫁妆等）”，进一步追溯至晚期拉丁语 assignamentum，这是一个名词，来源于拉丁语 assignare/adsignare 的过去分词，意为“分配、指派、授予”（参见 [assign](https://www.etymonline.com/word/assign)）。“任命某职”的含义出现在15世纪中期；而“分配给某人的任务或委托”的意思则是在1848年出现的。
+## assignment(n.)
+14世紀晚期，“命令，請求，指令”，來自古法語 assignement “（法律上的）分配（嫁妝等）”，源自晚期拉丁語 assignamentum，是拉丁語 assignare/adsignare 的動名詞，意爲“分配，指定，授予”（參見 [assign](https://www.etymonline.com/tw/word/assign)）。“任命到職位”的意思是15世紀中期； “分配給某人的任務，委託”是1848年的意思。
 
 ---

@@ -1,8 +1,6 @@
 # iterative
 
-## Origin and history of iterative
-### iterative(adj.)
-
-“涉及重复”，15世纪晚期来源于法语 iteratif（约1400年），源自晚期拉丁语 iterativus，进一步追溯到拉丁语 iterat-，即 iterare 的过去分词，意为“再做一次，重复”（参见 [iteration](https://www.etymonline.com/word/iteration)）。作为名词，“迭代词”出现于1839年。相关词汇：Iteratively。
+## iterative(adj.)
+"涉及重複的"，15世紀晚期，來自法語 iteratif（約1400年），源自晚期拉丁語 iterativus，源自 iterat-，拉丁語 iterare 的過去分詞詞幹，意爲"再做，重複"（見 [iteration](https://www.etymonline.com/tw/word/iteration)）。作爲名詞，"迭代詞"，1839年首次出現。相關詞： Iteratively。
 
 ---

@@ -1,8 +1,6 @@
 # decide
 
-## Origin and history of decide
-### decide(v.)
-
-14世纪晚期，英文中出现了“决定”这个词，最初的意思是“解决争端，裁定争议”。这个词源于古法语的 decider，而古法语又源自拉丁语的 decidere，意为“决定，裁定”，字面意思是“切断”。这个词由两个部分构成：de（表示“离开”或“去掉”，参见 [de-](https://www.etymonline.com/word/de-)）和 caedere（意为“切割”，源自原始印欧语词根 [*kae-id-](https://www.etymonline.com/word/*kae-id-)，意为“打击”）。关于拉丁语中的元音变化，可以参考 [acquisition](https://www.etymonline.com/word/acquisition)。最初的含义强调了“一举解决困难”的能力。到1830年，这个词还发展出了“下定决心，做出决定”的意思。相关词汇包括 [Decided](https://www.etymonline.com/word/Decided)（已决定）和 deciding（正在决定）。
+## decide(v.)
+14世紀晚期，“解決爭端，確定爭議”，源自古法語 decider，源自拉丁語 decidere，“決定，確定”，字面意思是“切斷”，來自 de “斷開”（見 [de-](https://www.etymonline.com/tw/word/de-)）+ caedere “切割”（源自 PIE 詞根 [*kae-id-](https://www.etymonline.com/tw/word/*kae-id-) “打擊”）。關於拉丁語元音變化，請參見 [acquisition](https://www.etymonline.com/tw/word/acquisition)。意義是“一下子解決困難”。1830年有“下定決心”的意思。相關詞彙： [Decided](https://www.etymonline.com/tw/word/decided)； deciding。
 
 ---

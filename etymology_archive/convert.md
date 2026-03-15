@@ -1,16 +1,11 @@
 # convert
 
-## Origin and history of convert
-### convert(v.)
-
-大约公元1300年，“从一种宗教转变为另一种宗教”，尤其是指皈依基督教。这个词源于古法语的 convertir，意为“转向、改变、转化、皈依”，而其更早的来源是俗拉丁语的 \*convertire，最终源自拉丁语的 convertere，意为“转变、改变”。这个词由 com（意为“与、共同”，参见 [con-](https://www.etymonline.com/word/con-)）和 vertere（意为“转动”）结合而成，追溯到原始印欧语根 [*wer-](https://www.etymonline.com/word/*wer-) (2)（意为“转动、弯曲”）。
-
-在古英语中，这个拉丁动词被翻译为 gecyrren，来自 cierran（意为“转向、返回”）。到14世纪晚期，它还被用来表示“一种形式或物质转变为另一种”的一般意义。15世纪晚期，它又被引申为“从一种用途或目的转向另一种”的及物用法。相关词汇包括 Converted（已转变）和 converting（正在转变）。
+## convert(v.)
+公元1300年左右，“從一種宗教轉向另一種”，尤其是基督教，源自古法語詞彙 convertir “轉向，朝向； 改變，轉化； 皈依，贏得”，源自俗拉丁語 \*convertire，源自拉丁語 convertere “轉向，轉化”，來自於合併形式 com “和，一起”（見 [con-](https://www.etymonline.com/tw/word/con-)）和 vertere “旋轉”（來自於 PIE 根詞 [*wer-](https://www.etymonline.com/tw/word/*wer-)（2）“旋轉，彎曲”）。
+古英語中用 gecyrren 表示這個拉丁動詞， cierran 則表示“轉向，返回”。普遍意義上的“變爲另一種形式或物質，轉化”來自於14世紀後期。及物動詞“從一種用途或目的地轉向另一種”源自於15世紀後期。相關詞彙： Converted； converting。
 
 ---
-## convert (related entry 1)
-### convert(n.)
-
-1560年代，指“信仰从一种宗教转变为另一种宗教的人”，源自 [convert](https://www.etymonline.com/word/convert)（动词）。早期形式为 convers（14世纪初），来自古法语 converse（名词）。一般（非宗教）意义上指“从一种观点或实践转变为另一种的人”始于1640年代。
+## convert(n.)
+1560年代，“信仰從一種宗教轉變爲另一種的人”，源自 [convert](https://www.etymonline.com/tw/word/convert)（動詞）。早期的詞彙是 convers（14世紀初），源自古法語 converse（名詞）。一般（非宗教）意義上的“從一種觀點或做法轉變的人”源自1640年代。
 
 ---

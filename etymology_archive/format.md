@@ -1,14 +1,10 @@
 # format
 
-## Origin and history of format
-### format(n.)
-
-1840年起，format（格式）一词用于描述书籍的“形状和大小”，这个词是通过18世纪的法语借入的，最终源自现代拉丁语的liber formatus，意为“以特定形状和大小构成的书籍”。它来自动词formare的过去分词，意为“构成”，而forma则意指“形状，外形”（参见[form](https://www.etymonline.com/word/form) (n.)）。这个词在1955年被扩展用于计算机领域。
+## format(n.)
+這個詞最早出現在1840年，指的是書籍的「形狀和大小」，是通過法語 format（18世紀）引入的，最終源自現代拉丁語 liber formatus，意思是「以特定形狀和大小製成的書」。這個詞來自於動詞 formare 的過去分詞，意為「形成」，而 forma 則意指「形狀，形式」（參見 [form](https://www.etymonline.com/tw/word/form#etymonline_v_11807) (n.)）。到了1955年，這個詞被延伸用於計算機領域。
 
 ---
-## format (related entry 1)
-### format(v.)
-
-“arrange into a format”，1964年首次用于电子计算领域，源自 [format](https://www.etymonline.com/word/format)（名词）。相关词汇包括 Formatted 和 formatting。
+## format(v.)
+"格式化，將...排列成一種格式"，1964年，指電子計算，來自 [format](https://www.etymonline.com/tw/word/format)（名詞）。相關詞彙： Formatted； formatting。
 
 ---

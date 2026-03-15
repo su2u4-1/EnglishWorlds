@@ -1,18 +1,12 @@
 # regard
 
-## Origin and history of regard
-### regard(n.)
-
-在14世纪中期，regard（或regart）这个词的意思是“考虑”或“判断”。它源自古法语的regarder，意为“注意”或“关注”。这个词由前缀re-（在这里可能是一个强调前缀）和garder（意为“看”或“留心”）组合而来，后者则源自某种日耳曼语（参见[guard](https://www.etymonline.com/word/guard) (n.)）。
-
-到了14世纪晚期，这个词的其他含义也逐渐形成，包括“外观”、“尊重”、“敬意”以及“基于可敬品质的友好感情”。短语in regard to出现在15世纪中期（乔叟曾使用过at regard of）。
+## regard(n.)
+14世紀中期，“考慮； 判斷”，來自古法語 regard， regart，源自 regarder “注意到”，由 re-，這裏可能是一個強調前綴，+ garder “看，留意”，來自日耳曼語言（參見 [guard](https://www.etymonline.com/tw/word/guard)（n.））。
+“外觀，外表； 尊重，尊敬，好感，源於對可尊敬品質的考慮”所有含義都在14世紀後期記錄下來。短語 in regard to 來自15世紀中期（喬叟使用 at regard of）。
 
 ---
-## regard (related entry 1)
-### regard(v.)
-
-大约在14世纪中期，出现了regarden这个词，意思是“认为某事是这样”或“某事以某种方式存在”。这个词源于古法语的regarder，意为“看、注意”。其中的re-可能是一个强调前缀，而garder则来自于某种日耳曼语，意为“看、留心”（参见[guard](https://www.etymonline.com/word/guard) (n.)）。
-
-“认为重要或感兴趣”的意思出现在1510年代。“注视、观察”的含义则出现在1520年代，同时期还出现了“对某事表示尊重”的意思。从1610年代起，这个词又被用来表示“以某种感情看待”或“对某事有某种感情”。相关词汇包括Regarded（被认为）和regarding（关于）。
+## regard(v.)
+14世紀中期， regarden，“考慮”（某事是這樣或某種方式），源自古法語 regarder “看，注意到”，來自 re-，這裏可能是一個強調前綴，加上 garder “看，留意”，來自日耳曼語言（參見 [guard](https://www.etymonline.com/tw/word/guard#etymonline_v_14338) (n.)）。
+“認爲重要或有趣”的意義來自1510年代。 “看待，觀察”的意思來自1520年代，就像“對某事保持一定的尊重”一樣。從1610年代開始，“看待”（帶有某種感覺），“擁有或表現出某種感覺”。 相關： Regarded； regarding。
 
 ---

@@ -1,62 +1,49 @@
 # port
 
-## Origin and history of port
-### port(n.1)
-
-“一个海湾、海岬、入海口或大水体的凹处，船只可以在此装卸货物并避风避雨；无论是自然的还是人工的港口。”古英语中的 port 指“港口、海港，是船只装卸货物的常驻地”；同时也可以指“一个城镇、集市或城市”，这一用法受到古法语 port 的影响，后者意为“海港、港口；山口”。古英语和古法语的词汇都源自拉丁语 portus，意为“港口、海港”，引申义为“避风港、庇护所”（在古拉丁语中也有“房屋”的意思；晚期拉丁语中则指“仓库”），最初的含义是“入口、通道”，与 porta（“城门、门、入口”）相关，源自原始印欧语 \*prtu-（“通行、通道”），是词根 [*per-](https://www.etymonline.com/word/*per-)(2)（“引导、穿越”）的派生形式。
+## port(n.1)
+“港灣，海灣，入口或深水處，在這裏船隻可以裝卸貨物，避風避浪停靠； 無論是天然的還是人造的，都稱爲港口。” 古英語“port”意爲“港口，海港，船隻爲了裝卸貨物常到訪的地方”，還可以表示“市鎮，市區，城市”。而古法語“port”則表示“海港，港口，山口”。古英語和古法語的兩個詞都源自拉丁語“portus”，意爲“港口，海港”，比喻意義上還可指“庇護所，避難所”（在早期拉丁語中還表示“房子”； 在晚期拉丁語中還表示“倉庫”），最初和“進入，通路”有關，與“porta”（源自 PIE“\*prtu-”，表示“通道，過道”的完整形式），意爲“城門，門，門道”同源（源自根詞“[*per-](https://www.etymonline.com/tw/word/*per-) (2) ” 也表示“引導，通過”）。
 
 > [I]in law, a place where persons and merchandise are allowed to pass into and out of the realm and at which customs officers are stationed for the purpose of inspecting or appraising imported goods. In this sense a port may exist on the frontier, where the foreign communication is by land. [Century Dictionary]
 
-> [I] 在 law 中，指允许人员和货物进出某个地区的地方，海关官员在此检查或评估进口货物。因此，港口可以设在边境地区，尤其是通过陆路与外国进行交流的地方。[世纪词典]
+> “[I]在 law，是指允許人和貨物出入該國境內並常有海關人員駐紮進行進口商品的檢查或估價的地方。在這個意義上，港口在邊境上也可以存在，這時外國交通是通過陸路進行的。 [世紀詞典]
 
-“避难所、庇护所”的引申义在英语中早在15世纪初就有记录；短语 any port in a storm（“风雨中任何避难所都可接受”）出现在1749年。port of call（“停靠港”）指船只在航程中定期停靠的港口，首次记录于1810年。动词“将……运送或带入港口”的用法出现在1610年代。
-
----
-## port (related entry 1)
-### port(n.2)
-
-大约公元1300年（13世纪中期开始用于姓氏），porte，意为“门，入口，通道；城镇或堡垒的城门”，也用于特定城门的名称。这个词源自古法语的porte，意为“门，入口”，而其拉丁语根源则是porta，意为“城门，门，入口”，与portus（“港口”）同源，均源自原始印欧语根[*per-](https://www.etymonline.com/word/*per-)（2），意为“引导，穿越”。古英语中也偶尔使用port来表达类似意思，直接借自拉丁语，但中英语中的这个词似乎是通过法语新借入的。
-
-“舷窗，船体侧面的开口”这一意义始见于14世纪中期；在古代战舰中，指的是船侧面用于瞄准炮火的炮口。至于“进入身体的部位”这一医学意义，出现于1908年，可能是[portal](https://www.etymonline.com/word/portal)的缩写。在计算机领域，“信号进出数据传输系统的地方”这一含义始见于1979年，源自1953年电子学中对“信号进出网络或设备的终端对”的早期用法，这个用法也可能是portal的缩写。
+比喻意義上的“庇護所，位置或處境”在15世紀早期的英語中已有記錄； 表示“任何避難所在逆境中都是受歡迎的”這一說法的詞組“any port in a storm”，始於1749年。一次定期停靠的商船的拜訪（1810）稱爲“port of call”。1610年代出現了“將船隻開進港口”的動詞。
 
 ---
-## port (related entry 2)
-### port(n.3)
-
-“姿态、举止、风度、行为举止”，大约公元1300年起使用，源自古法语 port，意为“举止、风度”，而 port 则来自 porter，意为“携带、承载”。这一词汇可以追溯到拉丁语 portare，同样意为“携带”，而其词源则是原始印欧语根 [*per-](https://www.etymonline.com/word/*per-)(2)，意指“引导、穿越”。大约1400年起，这个词开始被用来指代“外在表现”；到了1520年代，它还曾被用来表达一种如今已不常见的“状态、风格、机构”的意义。
+## port(n.2)
+公元1300年左右（家族姓氏中有半世紀前）， porte，指“一個門，一個地方的入口，一個門戶； 一個城鎮或堡壘的門”，也用於特定門的名稱，起源於古法語 porte “門，入口”，源自拉丁語 porta “城門，門； 門戶，入口”，同 portus “港口”，源自 PIE 詞根 [*per-](https://www.etymonline.com/tw/word/*per-) （2）“引導，通過”。古英語中也有意思相同的偶爾使用的 port，源自拉丁語，但中古英語中的這個單詞似乎是通過法語的新藉詞。
+“舷窗，船舷上的開口”這個意思在14世紀中葉出現； 在舊軍艦中，是指通過船舷上的孔洞瞄準大炮的狹縫。醫學上“物質進入體內的部位”這個意思在1908年出現，可能是指 [portal](https://www.etymonline.com/tw/word/portal) 的縮寫。在計算機中，“信號進入或離開數據傳輸系統的位置”，出現於1979年，早在電子學（1953年）中用於“一對終端，信號進入或離開網絡或設備的地方”，這也可能是 portal 的縮寫。
 
 ---
-## port (related entry 3)
-### port(n.4)
+## port(n.3)
+「姿態、舉止、風度、神態、儀態」，大約在公元1300年出現，來自古法語 port，意指「舉止、風度」，源自 porter，意為「攜帶」，再往上追溯到拉丁語 portare，同樣是「攜帶」的意思（這也是 [port](https://www.etymonline.com/tw/word/port) (v.2) 的來源），最終來自原始印歐語根 [*per-](https://www.etymonline.com/tw/word/*per-) (2) ，意指「引導、穿越」。到了公元1400年左右，這個詞開始用來指「外在的表現」；到了1520年代，則出現了一種現在已經過時的用法，指「狀態、風格、機構」。
 
-“船的左侧”（从船尾向前看），1540年代，可能源于“面向港口的一侧”（当船停靠时）；因此与[port](https://www.etymonline.com/word/port)（名词1）相关。在古老的船只上，舵桨通常在右侧，因此它们会在另一侧靠岸。为了避免与[starboard](https://www.etymonline.com/word/starboard)混淆，这个词在日常使用中取代了[larboard](https://www.etymonline.com/word/larboard)；1844年海军部正式命令如此，1846年美国海军部也发布了通知。从1857年起作为形容词使用。
+---
+## port(n.4)
+"船的左側"（從船尾向前看），1540年代，可能來自於“面向港口的一側”（當船靠泊時）的概念； 因此來自於 [port](https://www.etymonline.com/tw/word/port)（n.1）。在舊式船隻上，舵柄在右側，因此它們會系在另一側的碼頭上。它取代了 [larboard](https://www.etymonline.com/tw/word/larboard) 在常用語中的使用，以避免與 [starboard](https://www.etymonline.com/tw/word/starboard) 混淆； 1844年海軍部令和1846年美國海軍部通知正式如此。作爲形容詞的用法始於1857年。
 
 > U. S. Navy Department, Washington, Feb. 18, 1846.
 
 > It having been repeatedly represented to the Department that confusion arises from the use of the words "larboard" and "starboard"' in consequence of their similarity of sound, the word "port" is hereafter to be substituted for "larboard." George Bancroft, Sec. of the Navy.
 
-> 美国海军部，华盛顿，1846年2月18日。
+> 美國海軍部，華盛頓，1846年2月18日。
 
-> 多次向海军部反映，由于“larboard”和“starboard”发音相似，使用这两个词会造成混淆，因此今后将用“port”替代“larboard”。乔治·班克罗夫特，海军部长。
+> 由於“左舷”和“右舷”的發音相似，已經多次向本部門報告使用這些詞語會導致混淆，因此“港口”一詞將在此後代替“左舷”。喬治·班克羅夫特，海軍部長。
 
 > The whalemen are the only class of seamen who have not adopted the term port instead of larboard, except in working ship. The larboard boat was this boat to their great-grandfathers, and it is so with the present generation. More especially is this the case in the Atlantic and South Pacific fleets; but recently the term port-boat has come into use in the Arctic fleet. [Fisheries of U.S., V. ii. 243, 1887]
 
-> 捕鲸者是唯一一个在工作船上仍未采用“port”而坚持使用“larboard”的海员群体。对他们的曾祖父来说，larboard boat就是这艘船，现今的世代也是如此。尤其是在大西洋和南太平洋舰队中，但最近在北极舰队中也开始使用port-boat这个词。[《美国渔业》，第二卷，243页，1887年]
+> 捕鯨人是唯一沒有采用“港口”代替“左舷”一詞的海員階層，除了在工作船上。左舷船對他們的曾祖父來說就是這艘船，對現在的一代人也是如此。尤其是在大西洋和南太平洋艦隊中更是如此； 但最近“港口船”一詞在北極艦隊中開始使用。[美國漁業，第二卷，第243頁，1887年]
 
 ---
-## port (related entry 4)
-### port(n.5)
-
-这种甜美的深红葡萄酒起源于1690年代，名字源自Oporto，即葡萄牙西北部城市，早期葡萄酒正是从这里运往英国的。最初的名称是O Porto，意为“港口，海港”（参见[port](https://www.etymonline.com/word/port) (n.1)）。
+## port(n.5)
+一種甜味深紅色葡萄酒，起源於1690年代，縮寫自 Oporto，這個城市位於葡萄牙西北部，最初將葡萄酒運往英國； 這個名字最初是 O Porto，意爲“港口，海港”（參見 [port](https://www.etymonline.com/tw/word/port)（n.1））。
 
 > French wines were the favourite drink, but the War of the Revolution for a time almost excluded them, and the Methuen Treaty of 1703, which admitted the wines of Portugal at a duty of one-third less than those of France, gradually produced a complete change in the national taste. [W.E.H. Lecky, "A History of England in the Eighteenth Century," 1878]
 
-> 法国葡萄酒曾是人们的最爱，但由于革命战争，法国酒一度几乎被排除在外。1703年的《梅休条约》允许葡萄牙葡萄酒以比法国酒低三分之一的关税进入英国，这逐渐改变了人们的饮酒偏好。[W.E.H. Lecky, "A History of England in the Eighteenth Century," 1878]
+> 法國葡萄酒是最受歡迎的飲料，但是革命戰爭一度將它們排除在外，而1703年的梅修恩條約，將葡萄牙葡萄酒的關稅比法國葡萄酒低三分之一，逐漸改變了國民口味。[W.E.H. Lecky，《十八世紀英國史》，1878年]
 
 ---
-## port (related entry 5)
-### port(v.)
-
-“携带，承载，传达”，这个词在1560年代出现，来源于法语 porter，而法语又源自拉丁语 portare，意为“携带，承载，带来，传送”。在某些情况下，它还可以引申为“象征，预示”（这也是西班牙语 portar 的来源）。这个词与 porta（“门，入口”）和 portus（“港口”）相关，这些词都源自原始印欧语 \*prto-，这是 [*per-](https://www.etymonline.com/word/*per-)（“引导，穿越”）的派生形式。1620年代，这个词开始用于表示“以军事方式携带（步枪等）”。相关词汇包括 Ported（过去式），porting（进行时）。拉丁语动词 portare 还衍生出许多现代英语词汇，如 [deport](https://www.etymonline.com/word/deport)（驱逐），[export](https://www.etymonline.com/word/export)（出口），[import](https://www.etymonline.com/word/import)（进口），[report](https://www.etymonline.com/word/report)（报告），[support](https://www.etymonline.com/word/support)（支持），[important](https://www.etymonline.com/word/important)（重要的），最终甚至演变出 [sports](https://www.etymonline.com/word/sports)（运动）这个词。
+## port(v.)
+"承載，承擔，傳遞"，1560年代，來自法語 porter，源自拉丁語 portare “搬運，承擔，帶來，傳遞”，也有比喻意義，“預示”（源頭同樣包括西班牙語 portar），與 porta “大門”， portus “港口”同源（來自 PIE \*prto-，帶後綴形式的詞根 [*per-](https://www.etymonline.com/tw/word/*per-) （2）“引領，通過”）。 "以軍事方式攜帶（步槍等）"的含義來源於1620年代。相關： Ported； porting。拉丁動詞是很多現代英語單詞的源頭，包括 [deport](https://www.etymonline.com/tw/word/deport)， [export](https://www.etymonline.com/tw/word/export)， [import](https://www.etymonline.com/tw/word/import)， [report](https://www.etymonline.com/tw/word/report)， [support](https://www.etymonline.com/tw/word/support)， [important](https://www.etymonline.com/tw/word/important) 和最終的 [sports](https://www.etymonline.com/tw/word/sports)。
 
 ---

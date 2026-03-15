@@ -1,18 +1,12 @@
 # cost
 
-## Origin and history of cost
-### cost(n.)
-
-大约在公元1200年，cost这个词在英语中开始被用来表示“价格，价值”。它源自古法语的cost，意为“费用，支出，代价；艰难，麻烦”（12世纪，现代法语为coût）。这个词可以追溯到俗拉丁语的\*costare，再往前则是拉丁语的constare，字面意思是“站在……之上”或“与……一起”。这个词在历史上有很多比喻义，其中之一就是“花费”，它来自于com（意为“与，一起”，参见[co-](https://www.etymonline.com/word/co-)）和stare（意为“站立”）的结合，后者源自原始印欧语根[*sta-](https://www.etymonline.com/word/*sta-)，意为“站立，稳固”。
-
-在现代英语中，当有人说某物的价格是stands at X dollars时，实际上就是在表达“售价为X美元”。而“为某物或服务支付的等价价格，支出”这一含义大约出现在公元1300年。短语cost of living（生活成本）则起源于1889年。至于count the cost（算计代价，考虑后果），它的使用可以追溯到1800年。
-
-在一些短语中，比如at all costs（不惜一切代价），可能受到已废弃的名词cost的影响。这个古词在古英语中意为“方式，行动方针”，来自古英语的cyst（选择，选定的事物）。可以对比晚期古英语的alre coste（无论如何，千方百计）。
+## cost(n.)
+約於1200年，“價格，價值”，源自古法語 cost “成本，支出，開支； 困難，麻煩”（12世紀，現代法語 coût），源自通俗拉丁語 \*costare，源自拉丁語 constare，字面意思是“站在”（或與之），具有廣泛的比喻意義，包括“花費”，源自 com “與，一起”（見 [co-](https://www.etymonline.com/tw/word/co-)) + stare “站立”，源自 PIE 詞根 [*sta-](https://www.etymonline.com/tw/word/*sta-) “站立，使或保持堅定”。
+這個習語與現代英語中的用法相同，當有人說某物 stands at X dollars 時，意思是“以 X 美元出售”。 “給出物品或服務的等價價格，支出的金錢”這個意思始於公元1300年。Cost of living 始於1889年。1800年已經有了“count the cost”的用法，意思是“預先考慮可能的後果”。
+在 at all costs 等短語中，可能會受到過時的 cost（名詞）“方式，方式，行動方式”的影響或回聲，源自古英語 cyst “選擇，選舉，選擇的事物”。比較晚期的古英語 alre coste “以任何方式，總之”。
 
 ---
-## cost (related entry 1)
-### cost(v.)
-
-“be the price of”这个短语，通常也指“需要花费特定的时间或劳动，或以（痛苦、损失等）为代价”。这个用法可以追溯到14世纪晚期，源自古法语的coster（现代法语为coûter），意为“花费”，而这个词又来自cost（参见[cost](https://www.etymonline.com/word/cost) (n.)）。相关词汇还有Costing。
+## cost(v.)
+"be the price of," 也可以泛指“需要花費指定的時間或勞動，或以（痛苦、損失等）爲代價”，14世紀晚期，源自古法語 coster（現代法語 coûter）的“花費”，源自 cost（參見 [cost](https://www.etymonline.com/tw/word/cost)（n.））。相關詞彙： Costing。
 
 ---

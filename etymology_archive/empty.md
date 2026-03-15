@@ -1,24 +1,16 @@
 # empty
 
-## Origin and history of empty
-### empty(adj.)
-
-大约在公元1200年，源自古英语的 æmettig，最初用来形容人时，意为“闲暇的、未被占用的、未婚的”（这些意义现在已不再使用）。在形容容器时，意为“空的”；在形容地方时，意为“无人占据的”。这个词的词根来自 æmetta，意指“闲暇”。
-
-Watkins 解释说，这个词可能源自原始日耳曼语的 \*e-mot-ja-，其中的前缀含义不明确，后半部分 \*mot- 则意为“能力、闲暇”，可能源自原始印欧语词根 [*med-](https://www.etymonline.com/word/*med-)，意思是“采取适当措施”。在多种语言中，从“闲暇”到“空无一物、无人占据”的意义演变都能找到类似的例子，比如现代希腊语的 adeios，意为“空的”，最初的意思是“无畏的自由”，源自 deios（意为“恐惧”）。正如 Buck 所说：“形容词 adeios 最初可能是用来形容那些享有自由、不受责任束缚的人，他们闲暇而无人占据，后来这个词才被扩展到形容那些无人占据的物体。”
-
-其中的 -p- 是一个悦耳的插入音。用来形容“缺乏力量或效果”的词汇大约在14世纪中期出现。相关词汇包括 Emptier。而 empty-nester 这一比喻意义则可以追溯到1960年。
+## empty(adj.)
+大約公元1200年，源自古英語的  æmettig，形容人“有空閒，未被佔用； 未婚”（這些義項現已廢棄），也可以形容器皿“空無一物”，地方“未被佔領”，源自  æmetta  的“空閒”之意。
+華金斯（Watkins）解釋說，它可能來自原始日耳曼語的  \*e-mot-ja-，具有不確定含義的前綴和日耳曼語的  \*mot-  “能力，閒暇”，可能來自於巴基埃根（PIE）詞根  [*med-](https://www.etymonline.com/tw/word/*med-)  “採取適當的措施”。從“有空閒”到“沒有容納物，未被佔用”的意義演變在幾種語言中都有體現，例如現代希臘語中的  adeios  “空的”，最初是“沒有恐懼”，來自於  deios  的“恐懼”。 [巴克（Buck）]說：“形容人有空閒，沒有工作，因此沒有被佔用的  adeios  首先可能被用來形容人，而後擴展到未被佔用的物體上。”
+-p-  是音韻插入。中古英語中，“失去力量或效力”的詞語等，“失去作用或效果”，14世紀中葉。相關詞彙： Emptier 。 empty-nester  的比喻意義最早可追溯到1960年。
 
 ---
-## empty (related entry 1)
-### empty(n.)
-
-“一个空的东西”，指的是原本应该是满的东西，1865年起使用，来源于 [empty](https://www.etymonline.com/word/empty)（形容词）。最初用于描述驳船、货车、邮件袋等。
+## empty(n.)
+“空的東西”，指原本或預期應該是滿的，始於1865年，源自 [empty](https://www.etymonline.com/tw/word/empty)（形容詞）。最初用於駁船、貨車、郵袋等。
 
 ---
-## empty (related entry 2)
-### empty(v.)
-
-这个词起源于1520年代，来自形容词 [empty](https://www.etymonline.com/word/empty)。它取代了中古英语的 empten，而后者又源自古英语的 geæmtigian。相关词汇包括 Emptied（已清空）和 emptying（正在清空）。
+## empty(v.)
+1520年代，來自 [empty](https://www.etymonline.com/tw/word/empty)（形容詞）； 取代中古英語 empten，源自古英語 geæmtigian。相關詞彙： Emptied； emptying。
 
 ---

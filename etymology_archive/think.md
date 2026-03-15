@@ -1,26 +1,22 @@
 # think
 
-## Origin and history of think
-### think(v.)
+## think(v.)
+中古英語的thinken，源自兩個古英語動詞，雖然來自同一個史前語源，但形式和意義各異。
 
-中古英语中的thinken，源自两种古英语动词，它们都来自同一个史前词源，但形式和意义各有不同。
+Thinken (1)「呈現（某物）的外觀」來自古英語的þyncan、þincan。而Thinken (2)「運用理智，思考」則源自古英語的þencan。從語法上看，þencan是þyncan的使役形式。在中古英語中，這兩者的形式逐漸融合，而來自þyncan「似乎」的意義則被吸收或遺失，但在[methinks](https://www.etymonline.com/tw/word/methinks)「我覺得」中得以保留。
 
-Thinken (1) “呈现（某物）的外观”来自古英语的þyncan、þincan。而Thinken (2)，“运用理性，思考”则源自古英语的þencan。语法上，þencan是þyncan的使役形式。在中古英语中，这两者的形式逐渐融合，而þyncan“似乎”的意义被吸收或遗失，但在[methinks](https://www.etymonline.com/word/methinks)“在我看来”中得以保留。
+「在心中自言自語」（thinken (2)）的意義在古英語中是þencan，意為「想像，心中構思；考慮，沉思，記住；打算，願望，渴望」（過去式þohte，過去分詞geþoht）。這個詞可能最初的意思是「使自己出現」，來自原始日耳曼語的\*thankjanan（同源詞還包括古弗里西語的thinka，古薩克斯語的thenkian，古高地德語的denchen，德語的denken，古斯堪的納維亞語的þekkja，哥特語的þagkjan）。
 
-“在心中自言自语”（thinken (2)）的意义在古英语中是þencan“想象，心中构思；考虑，沉思，记住；打算，愿望，渴望”（过去式þohte，过去分词geþoht），可能最初的意思是“使自己想起”，源自原始日耳曼语\*thankjanan（同源词还有古弗里斯语thinka、古撒克逊语thenkian、古高地德语denchen、现代德语denken、古诺尔斯语þekkja、哥特语þagkjan）。
+古英語的þyncan「似乎，出現」（過去式þuhte，過去分詞geþuht）是中古英語thinken (1)的來源。據推測，它來自原始日耳曼語的\*thunkjan（同源詞還包括德語的dünken，däuchte）。
 
-古英语的þyncan“似乎，显得”（过去式þuhte，过去分词geþuht）是中古英语中thinken (1)的来源。它被重构为源自原始日耳曼语\*thunkjan（同源词还有德语的dünken、däuchte）。
+這兩者都源自原始印歐語的\*tong-「思考，感受」（Watkins），這也是[thought](https://www.etymonline.com/tw/word/thought)和[thank](https://www.etymonline.com/tw/word/thank)的詞根。Boutkan則認為這個詞沒有印歐語源，拒絕了已提出的同源詞，並建議它可能來自某種底層語言。
 
-这两个词都源自原始印欧语\*tong-“思考，感觉”（Watkins），它也是[thought](https://www.etymonline.com/word/thought)和[thank](https://www.etymonline.com/word/thank)的词根。Boutkan则认为这个词没有印欧语的起源，拒绝了提出的同源词，并建议它可能来自某种底层语言。
+中古英語中的Thinken (1)還可以表示「錯誤或虛假地看起來」或「看起來合適或恰當」。它經常以不定式用法出現，並帶有間接賓語，就像在[methinks](https://www.etymonline.com/tw/word/methinks)中一樣。
 
-在中古英语中，Thinken (1)有时也表示“错误或虚假地看似”或“看似合适或恰当”。它常常以非人称形式使用，带有间接宾语，例如在[methinks](https://www.etymonline.com/word/methinks)中。
-
-短语think twice“犹豫，再考虑”出现于1898年；think on one's feet“迅速适应变化的环境”则出现在1935年；think so“持这种观点”可追溯到1590年代；think (something) over“反复思考”则出现在1847年。短语think up“发明，编造，创作”起源于15世纪初。现代用法可能始于19世纪。I tink，代表方言或外语发音的“I think”，出现于1767年。
+短語think twice「猶豫，重新考慮」出現於1898年；think on one's feet「迅速適應變化的環境」則出現於1935年；think so「持有該觀點」可追溯至1590年代；而think (something) over「持續思考」則出現於1847年。短語think up「發明，編造，創作」出現於15世紀初。現代用法可能始於19世紀。I tink，代表方言或外來語音的「I think」，出現於1767年。
 
 ---
-## think (related entry 1)
-### think(n.)
-
-“长时间思考的行为”，1834年，来自 [think](https://www.etymonline.com/word/think) (v.)。
+## think(n.)
+「长时间思考的行为」，1834年，来自 [think](https://www.etymonline.com/tw/word/think#etymonline_v_10759) (v.)。
 
 ---

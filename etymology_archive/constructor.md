@@ -1,8 +1,6 @@
 # constructor
 
-## Origin and history of constructor
-### constructor(n.)
-
-“builder”这个词最早出现在1751年，源自中世纪拉丁语的“constructor”，是由拉丁语“construere”演变而来的，意思是“将东西堆积在一起，积累；建造，制造， erect”。这个词的构成可以拆解为：前缀com（意为“与，一起”，参见[con-](https://www.etymonline.com/word/con-)）和struere（意为“堆积”，源自原始印欧语\*streu-，是[*stere-](https://www.etymonline.com/word/*stere-)的扩展形式，意指“传播”）。
+## constructor(n.)
+"建築師"，1751年，源自中世紀拉丁語 constructor，是拉丁語 construere 的代詞，意爲“堆積在一起，積累； 建造，製造，豎立”，由拉丁語 com “與，一起”（見 [con-](https://www.etymonline.com/tw/word/con-))和 struere “堆積”（來自 PIE \*streu-, 擴展形式爲 [*stere-](https://www.etymonline.com/tw/word/*stere-) “散佈”的根）。
 
 ---

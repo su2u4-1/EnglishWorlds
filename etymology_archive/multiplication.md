@@ -1,8 +1,6 @@
 # multiplication
 
-## Origin and history of multiplication
-### multiplication(n.)
-
-大约在14世纪中期，multiplicacioun 这个词出现，意指“任何在大小、数量或金额上的增加；数量增加的行为或过程”。它源自古法语的 multiplicacion（12世纪），意思是“乘法、复制；多样性、繁多”。而古法语又源自拉丁语的 multiplicationem（主格为 multiplicatio），这是一个名词，表示“通过过去分词词干 multiplicare（意为‘乘以、增加’）构成的动作名词”（参见 [multiply](https://www.etymonline.com/word/multiply)）。在算术中，“一个数字被视为另一个数字的运算符的过程”这一含义大约在14世纪末开始被记录。
+## multiplication(n.)
+14世紀中期， multiplicacioun，“尺寸、數量或數量的任何增加； 增加數量的行爲或過程”，源自古法語 multiplicacion（12世紀）“乘法，複製； 多樣性，多樣性”，源自拉丁語 multiplicationem（格 multiplicatio），動作名詞，來自 multiplicare 的過去分詞詞幹“乘以，增加”（見 [multiply](https://www.etymonline.com/tw/word/multiply)）。算術意義上的“將一個數字視爲另一個數字的運算符的過程”可追溯至14世紀晚期。
 
 ---

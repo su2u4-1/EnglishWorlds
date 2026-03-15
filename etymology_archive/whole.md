@@ -1,22 +1,16 @@
 # whole
 
-## Origin and history of whole
-### whole(adj.)
+## whole(adj.)
+中古英語的 hole 來自古英語的 hal，意思是「完整的、整體的；未受傷的、安全的；健康的、癒合的、健全的；真誠的、直率的」。這個詞源自原始日耳曼語的 \*haila-，意指「未損壞的」，在古撒克遜語中是 hel，古諾爾斯語是 heill，古弗里西語是 hal，中古荷蘭語是 hiel，現代荷蘭語是 heel，古高地德語和德語則是 heil，意為「救贖、福祉」。這一切都源自原始印歐語的 \*kailo-，意思是「完整的、未受傷的、吉祥的」，在古教會斯拉夫語中是 celu，意為「完整的、完全的」。相關詞可以參見 [health](https://www.etymonline.com/tw/word/health)。
 
-中古英语的 hole 源自古英语的 hal，意为“完整的，整体的；未受伤的，安全的；健康的，治愈的；真诚的，直率的”。它可以追溯到原始日耳曼语的 \*haila-，意为“未损坏的”，这个词在古撒克逊语（hel）、古诺尔斯语（heill）、古弗里斯语（hal）、中古荷兰语（hiel）、现代荷兰语（heel）以及古高地德语和现代德语（heil，意为“救赎，福祉”）中都有类似的形式。它的更早起源可以追溯到原始印欧语的 \*kailo-，意为“完整的，未受伤的，吉祥的”，在古教会斯拉夫语中则演变为 celu，意为“完整的，完全的”。（参见 [health](https://www.etymonline.com/word/health)）。
-
-15世纪初期，[wh-](https://www.etymonline.com/word/wh-) 的拼写形式逐渐发展起来。whole number（整数）的用法出现在14世纪初。Whole milk（全脂牛奶）则始于1782年。On the whole（总体而言，考虑到所有事实或情况）出现在17世纪90年代。短语 whole hog 的具体含义可以参考 [hog](https://www.etymonline.com/word/hog)（名词）。而 With whole wits 是中古英语中表达“神志清醒”的一种说法，流行于15世纪初。
+帶有 [wh-](https://www.etymonline.com/tw/word/wh-) 的拼寫形式在15世紀初期出現。whole number 這個用法可以追溯到14世紀早期。Whole milk 則出現於1782年。On the whole，意指「考慮所有事實或情況」，始於1690年代。至於短語 whole hog，可以參見 [hog](https://www.etymonline.com/tw/word/hog)（名詞）。而 With whole wits 是中古英語中表達「神智健全」的方式，流行於15世紀初期。
 
 ---
-## whole (related entry 1)
-### whole(n.)
-
-“整个身体或公司；全部数量”，出现在14世纪晚期，来源于 hole，与 [whole](https://www.etymonline.com/word/whole)（形容词）相关。早期的意思包括“健康，疗法，治愈”（约公元1200年）和“幸福，繁荣”（约公元1300年）。
+## whole(n.)
+「整個身體或公司；全部數量」，出現於14世紀晚期，來自 hole，源自 [whole](https://www.etymonline.com/tw/word/whole)（形容詞）。早期意義包括「健康，療法，治癒」（約公元1200年）；「幸福，繁榮」（約公元1300年）。
 
 ---
-## whole (related entry 2)
-### whole(adv.)
-
-“整体上，一起；总共，全部”，约公元1300年，源自[whole](https://www.etymonline.com/word/whole)（形容词）。
+## whole(adv.)
+「在一個身體中，一起；總共，全部」，約公元1300年，來自[whole](https://www.etymonline.com/tw/word/whole)（形容詞）。
 
 ---

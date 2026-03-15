@@ -1,8 +1,6 @@
 # oriented
 
-## Origin and history of oriented
-### oriented(adj.)
-
-“具有特定方向性”，1918年，作为过去分词形容词使用，源自 [orient](https://www.etymonline.com/word/orient)（动词）。
+## oriented(adj.)
+“有特定方向的”，1918年，來自 [orient](https://www.etymonline.com/tw/word/orient)（v.）的過去分詞形容詞。
 
 ---

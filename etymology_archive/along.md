@@ -1,10 +1,7 @@
 # along
 
-## Origin and history of along
-### along(adv., prep.)
-
-中古英语词源自古英语的 andlang，意思是“整个的，连续的；延伸的”（形容词），也可以表示“在……旁边”（介词）。这个词由 and-（意为“对立的，反对的”，源自原始日耳曼语的 \*andi-、\*anda-，再追溯到印欧语根 \*anti，意为“反对”，其词根 [*ant-](https://www.etymonline.com/word/*ant-) 则表示“前面，额头”）和 lang（意为“长”，参见 [long](https://www.etymonline.com/word/long) (adj.)）组合而成。
-
-这个词的用法受到了古诺尔斯语同源词 endlang 的影响。在古英语中，作为介词的意义扩展为“贯穿整个长度”。大约在1200年左右，它被用来表示“纵向地”位置，而在1300年左右则表示“向前”的运动。1580年代，这个词还引申出“陪伴，一起”的意思。All along（始终，一直）这个表达则可以追溯到1690年代。
+## along(adv., prep.)
+中古英語，源自古英語 andlang，意爲“整個的，連續的； 延伸的”（形容詞），也可表示“沿着”（介詞）； 由 and- “相反的，對抗的”（源自原始日耳曼語 \*andi-， \*anda-，源自 PIE 語言的 \*anti “反對”，是詞根 [*ant-](https://www.etymonline.com/tw/word/*ant-) “前面，前額”的位置格單數）和 lang “長”（參見 [long](https://www.etymonline.com/tw/word/long)（形容詞））組成。
+受其古諾爾斯語同源詞 endlang 的影響而加強。在古英語中，介詞的意義擴展到“貫穿整個長度”。關於位置，“沿着長度”，始於公元1200年； 關於運動，“向前”，始於公元1300年。意爲“在一起，共同”的含義始於1580年代。 All along 意爲“貫穿整個”，始於1690年代。
 
 ---

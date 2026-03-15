@@ -1,8 +1,6 @@
 # meanwhile
 
-## Origin and history of meanwhile
-### meanwhile(n.)
-
-同时，mean while，14世纪晚期的意思是“在此期间，两个特定时间段之间的间隔”。它来源于 [mean](https://www.etymonline.com/word/mean)（形容词2）“中间的，过渡的” + [while](https://www.etymonline.com/word/while)（名词）。从14世纪晚期起，它作为副词使用，表示“在某段时间内”或“期间”。作为名词时，正确写法是两个词，但在副词使用后，通常会合并为一个词。
+## meanwhile(n.)
+同時也是 mean while，公元14世紀後期，指“指定時間之間的時間間隔”，源於 [mean](https://www.etymonline.com/tw/word/mean)（adj.2）"中間的，中間的" + [while](https://www.etymonline.com/tw/word/while)（n.）。從14世紀後期起作爲副詞使用，“在一定時間內或期間”。作爲名詞應該是兩個詞，但通常作爲副詞後寫成一個單詞。
 
 ---

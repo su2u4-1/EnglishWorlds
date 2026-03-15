@@ -1,8 +1,6 @@
 # subscript
 
-## Origin and history of subscript
-### subscript(n.)
-
-1704年，指“写在下面的东西”（较少使用），源自拉丁语 subscriptus，是 subscribere 的过去分词，意为“写在下面”（参见 [subscribe](https://www.etymonline.com/word/subscribe)）。作为形容词时，意为“写在下面”，该用法到1871年时已出现。相关词汇：Subscriptive。
+## subscript(n.)
+1704年，指「寫在下面的東西」（較少使用），來自拉丁語 subscriptus，是 subscribere 的過去分詞，意為「寫在下面」（參見 [subscribe](https://www.etymonline.com/tw/word/subscribe)）。作為形容詞時，意指「寫在下面」，出現於1871年。相關詞：Subscriptive。
 
 ---

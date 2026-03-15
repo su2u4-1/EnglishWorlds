@@ -1,8 +1,6 @@
 # innovative
 
-## Origin and history of innovative
-### innovative(adj.)
-
-“倾向于引入新事物；引入或倾向于引入创新；以创新为特征”，1796年（有一个孤立的用法可追溯至约1600年）；参见 [innovate](https://www.etymonline.com/word/innovate) + [-ive](https://www.etymonline.com/word/-ive)。相关词：Innovatively；innovativeness。
+## innovative(adj.)
+"傾向於引入新事物； 引入或傾向於引入創新； 以創新爲特徵"，1796年（1600年左右有個孤立的用法）； 參見 [innovate](https://www.etymonline.com/tw/word/innovate) + [-ive](https://www.etymonline.com/tw/word/-ive)。相關詞彙： Innovatively； innovativeness。
 
 ---

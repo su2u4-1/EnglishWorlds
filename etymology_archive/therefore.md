@@ -1,10 +1,8 @@
 # therefore
 
-## Origin and history of therefore
-### therefore(adv.)
+## therefore(adv.)
+中古英語的 ther-fore 來自古英語的 þærfore，由 [there](https://www.etymonline.com/tw/word/there) 和 fore 組成，後者是古英語和中古英語中 [for](https://www.etymonline.com/tw/word/for) 的一種變體。
 
-中古英语的 ther-fore 源自古英语的 þærfore，由 [there](https://www.etymonline.com/word/there) 和 fore 组合而成，后者是古英语和中古英语中 [for](https://www.etymonline.com/word/for) 的一种变体。
-
-自大约1800年以来，[therefor](https://www.etymonline.com/word/therefor) 通常被用来表示“为了那个，基于那个”，而 therefore 则表示“因此”。在荷兰语中有类似的构造 daarvoor，德语中是 dafür，丹麦语中是 derfor。中古英语中还有一个变体 thereforn，意为“出于那个原因”（13世纪中期）。
+自大約 1800 年以來，[therefor](https://www.etymonline.com/tw/word/therefor) 通常用來表示「因為那個，基於那個」，而 therefore 則用來表示「因此」。在荷蘭語中有類似的構造 daarvoor，德語中的 dafür，以及丹麥語的 derfor。中古英語中還有一個變體 thereforn，意為「因此」（13 世紀中期）。
 
 ---

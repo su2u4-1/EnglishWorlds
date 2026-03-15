@@ -1,8 +1,6 @@
 # insufficient
 
-## Origin and history of insufficient
-### insufficient(adj.)
-
-这个词最早出现在14世纪晚期，源自古法语的 insufficient（14世纪）或直接来自晚期拉丁语的 insufficientem（主格 insufficiens），意为“不足、不够”。它由前缀 in-（表示“不”或“相反”，参见 [in-](https://www.etymonline.com/word/in-) (1)）和 sufficientem（参见 [sufficient](https://www.etymonline.com/word/sufficient)）组合而成。最初用于描述人，意指“能力不足、无法胜任”；后来也用于描述事物，表示“缺乏必要或要求的东西”，这一用法从15世纪晚期开始出现。相关词汇：Insufficiently。
+## insufficient(adj.)
+14世紀晚期，源自於古法語 insufficient（14世紀）或直接源自於晚期拉丁語 insufficientem（主格 insufficiens）“不足的”，由 in- “不，相反”（見 [in-](https://www.etymonline.com/tw/word/in-)（1））和 sufficientem（見 [sufficient](https://www.etymonline.com/tw/word/sufficient)）組成。最初用於人，“不足的，無能的”； 用於事物，“缺乏必要或所需的東西”，始於15世紀晚期。相關詞： Insufficiently。
 
 ---

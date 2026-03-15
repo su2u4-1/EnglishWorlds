@@ -1,22 +1,24 @@
 # science
 
-## Origin and history of science
-### science(n.)
+## science(n.)
+14世紀中葉，“知道的狀態或事實； 通過學習獲得的知識； 信息； ”還有“知識的確信，確定性”，源自古法語 science “知識，學問，應用； 人類知識體系”（12世紀），源自拉丁語 scientia “知識，認識； 專業知識”，源自 sciens（屬格 scientis）“聰明的，有技能的”， scire 的現在分詞“知道”。
 
-在14世纪中期，science一词的意思是“知道的状态或事实；通过学习获得的知识或信息；对某事的了解”。它还可以表示“知识的保证，确实性，确定性”。这个词源于古法语science，意为“知识，学习，应用；人类知识的总和”（12世纪），而古法语又源自拉丁语scientia，意为“知识，了解；专业技能”。拉丁语中的scientia来自sciens（其属格形式为scientis），意指“聪明的，熟练的”，是动词scire（“知道”）的现在分词。
+拉丁動詞中最初的概念可能是“將一件事物與另一件事物分開，區分”，或者“切割”。這與 scindere “切割，分割”有關（源自 PIE 詞根 [*skei-](https://www.etymonline.com/tw/word/*skei-) “切割，分裂”； 希臘語 skhizein “分裂，撕裂”，哥特語 skaidan,，古英語 sceadan “分割，分離”）。
 
-这个拉丁动词最初的含义可能是“将一物与另一物区分开来，辨别”，或者是“切割，切开”。这与scindere（“切割，分割”）相关，后者来自原始印欧语根[*skei-](https://www.etymonline.com/word/*skei-)（“切割，分裂”），同源词还有希腊语skhizein（“分裂，撕裂，劈开”）、哥特语skaidan和古英语sceadan（“分离，区分”）。
+OED 寫道，該詞在英語中最早的意義現在僅限於神學和哲學。從14世紀末開始，它指的是“書本學問”，也指的是“特定的知識領域或學科，系統化的關於特定對象羣的知識”； 還有“技能，聰明才智； 狡猾”。從約1400年開始，它指的是“經驗性知識”； 還指“訓練所得的技能，手藝； 一門行業”。
 
-《牛津英语词典》指出，science在英语中的最早用法如今主要限于神学和哲学领域。从14世纪晚期起，它还被用来指“书本知识”，即“某一特定领域的系统化知识”或“对某一类对象的学习”。此外，它还可以表示“熟练，聪明，狡猾”。大约在1400年，这个词开始被用来指“经验知识”，即“通过训练或手艺获得的技能，或某种职业技能”。
+從14世紀末開始，它更具體的意義是“人類集體知識”，尤其是通過系統觀察、實驗和推理獲得的知識。現代（限定的）意義上的“關於特定主題或推測的一系列常規或系統觀察或命題”的概念可以追溯到1725年； 在17世紀至18世紀，這通常是 philosophy。
 
-从14世纪晚期起，science在更具体的意义上被用来指“人类的集体知识”，尤其是通过系统观察、实验和推理获得的知识。现代意义上“关于某一特定主题或推测的规律性或系统性观察与命题的总和”这一用法始于1725年。在17至18世纪，这一概念通常被称为philosophy（哲学）。
+“非藝術學科”的意義可追溯到1670年代。通常理解的區別是希臘語 epistemē 的理論真理和實現實際結果的方法（tekhnē），但有時 science 用於實際應用， art 用於技能應用。
 
-“非艺术研究”这一用法始于1670年代。人们通常将其理解为理论真理（希腊语epistemē）与实现实际结果的方法（tekhnē）之间的区别。然而，有时science也被用来指实际应用，而art则指技能的应用。
+主要的現代用法，“自然和物理科學”，通常限於對物質宇宙及其規律現象的研究，可追溯到19世紀中葉。
 
-现代主要用法是指“自然科学和物理科学”，通常限于对物质世界现象及其规律的研究。这一用法在19世纪中期确立。
+> The men who founded modern science had two merits which are not necessarily found together: Immense patience in observation, and great boldness in framing hypotheses. The second of these merits had belonged to the earliest Greek philosophers; the first existed, to a considerable degree, in the later astronomers of antiquity. But no one among the ancients, except perhaps Aristarchus, possessed both merits, and no one in the Middle Ages possessed either. [Bertrand Russell, "A History of Western Philosophy," 1945]
 
-> 创立现代科学的人们具备两种不一定同时存在的优点：在观察中表现出的巨大耐心，以及在构建假设时展现出的大胆。这第二种优点早期希腊哲学家们就具备；而第一种在古代后期的天文学家中也有相当程度的体现。然而，古代几乎没有人同时具备这两种优点，除了或许是阿里斯塔克斯；而在中世纪，更没有人具备这两者。[伯特兰·罗素，《西方哲学史》，1945年]
+> 創立現代科學的人們具有兩個不一定同時具備的優點：對觀察的極大耐心和對假設的大膽。這兩個優點早期的希臘哲學家擁有； 第一個優點在古代後期的天文學家中也存在相當程度； 但古代沒有人同時具備這兩個優點，中世紀也沒有人具備其中任何一個。[伯特蘭·羅素，《西方哲學史》，1945年]
 
-> 科学是一项社会嵌入式活动，既然人们必须参与其中，它的发展依赖于直觉、洞察力和灵感。科学随着时间的推移而变化，但这种变化并不总是朝着绝对真理的更近一步，而是反映了深受文化背景影响的环境变迁。事实并不是纯粹无瑕的信息块；文化同样影响着我们所观察到的事物及其呈现方式。此外，理论也并非从事实中必然推导而来。最具创造性的理论往往是对事实的富有想象力的构建，而这种想象力的源泉同样深受文化的影响。[斯蒂芬·杰伊·古尔德，《人类误测的序言》，1981年]
+> Science, since people must do it, is a socially embedded activity. It progresses by hunch, vision, and intuition. Much of its change through time does not record a closer approach to absolute truth, but the alteration of cultural contexts that influence it so strongly. Facts are not pure and unsullied bits of information; culture also influences what we see and how we see it. Theories, moreover, are not inexorable inductions from facts. The most creative theories are often imaginative visions imposed upon facts; the source of imagination is also strongly cultural. [Stephen Jay Gould, introduction to "The Mismeasure of Man," 1981]
+
+> 科學是一種社會嵌入的活動，因爲人們必須進行科學研究。它通過直覺、視野和直覺來進步。它的變化往往不是接近絕對真理的結果，而是文化背景的改變對其產生了強烈影響。事實並不是純粹而無瑕的信息碎片； 文化也影響我們看到事物的方式。此外，理論並不是從事實中不可避免地歸納出來的。最有創造力的理論往往是對事實施加的富有想象力的願景； 想象力的源泉也在很大程度上受到文化的影響。[斯蒂芬·傑·古爾德，《人的錯誤測量》，1981年]
 
 ---

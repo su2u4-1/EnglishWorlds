@@ -1,8 +1,6 @@
 # moreover
 
-## Origin and history of moreover
-### moreover(adv.)
-
-“beyond what has been said”，出现在14世纪晚期，常用于短语 and yit more ouer，意为“还有更多要说的”；由 [more](https://www.etymonline.com/word/more)（副词）和 [over](https://www.etymonline.com/word/over)（副词）组合而成。从14世纪晚期起，逐渐写作一个词。
+## moreover(adv.)
+"超出已經說過的," 14世紀後期，用於短語 and yit more ouer "還有更多要說的; " 來自 [more](https://www.etymonline.com/tw/word/more) (副詞) + [over](https://www.etymonline.com/tw/word/over) (副詞)。從14世紀後期開始作爲一個單詞書寫。
 
 ---

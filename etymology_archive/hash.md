@@ -1,20 +1,14 @@
 # hash
 
-## Origin and history of hash
-### hash(v.)
-
-1650年代，意为“砍碎，切成小块”，源自法语 hacher，意为“切碎”（14世纪），而其词根来自古法语 hache，意为“斧头”（参见 [hatchet](https://www.etymonline.com/word/hatchet)）。Hash browns（1926年）是 hashed browned potatoes（1886年）的缩写，省略了 -ed，类似于 mash potatoes。足球场上的 hash marks（刻度线）在1954年被称为这样，因为它们类似于 hash marks，这是军队俚语，指的是“军装袖子上的军功章”（1909年）。据说之所以这样称呼，是因为这些标记表示一个人在军队中享受免费食物的年限（即 [hash](https://www.etymonline.com/word/hash) (n.1)）。不过，也可能与 [hatch](https://www.etymonline.com/word/hatch) (v.2) 的名词形式有关。
+## hash(v.)
+1650年代，“hack，chop into small pieces”的意思來自法語 hacher “chop up”（14世紀），源自古法語 hache “ax”（見 [hatchet](https://www.etymonline.com/tw/word/hatchet)）。Hash browns（1926）是 hashed browned potatoes（1886）的縮寫，省略了 -ed，就像 mash potatoes 一樣。1954年，足球場上的 hash marks 因其與武裝部隊俚語中的 hash marks 相似而被稱爲“軍服袖子上的服務條紋”（1909），據說之所以被稱爲這個名字是因爲它們標記了一個人從軍隊獲得免費食物（即 [hash](https://www.etymonline.com/tw/word/hash)（n.1））的年數； 但也許與 [hatch](https://www.etymonline.com/tw/word/hatch)（v.2）的名詞形式有關。
 
 ---
-## hash (related entry 1)
-### hash(n.1)
-
-“将肉切成小块炖煮而成的菜肴”，1660年代，源自 [hash](https://www.etymonline.com/word/hash)（动词）。“混合物，杂乱无章”这一意义出现于1735年。在计算机领域的密码学用法始于1979年。
+## hash(n.1)
+“切成小塊的肉燉菜”，1660年代，源自於 [hash](https://www.etymonline.com/tw/word/hash)（動詞）。意思爲“混合，雜亂無章”始於1735年。在計算機中的密碼用途始於1979年。
 
 ---
-## hash (related entry 2)
-### hash(n.2)
-
-是 [hashish](https://www.etymonline.com/word/hashish) 的缩写，1959年。
+## hash(n.2)
+“哈希”縮寫自1959年的 [hashish](https://www.etymonline.com/tw/word/hashish)。
 
 ---

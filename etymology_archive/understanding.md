@@ -1,18 +1,14 @@
 # understanding
 
-## Origin and history of understanding
-### understanding(n.)
+## understanding(n.)
+古英語的 understanding 意指「理解」，這是一個動名詞，源自於 [understand](https://www.etymonline.com/tw/word/understand)（動詞）。到了14世紀末，這個詞開始被用來表示「理性的能力，普遍的認知能力」。
 
-古英语中的 understanding 意思是“理解力”，它是从动词 [understand](https://www.etymonline.com/word/understand) 派生的名词。在14世纪晚期，这个词还引申出了“理性能力，一般的认知能力”的意思。
+而「相互協議，情感上的一致」這一意義則可以追溯到1803年（來自於 better understanding、right understanding 等表達，這些在1640年代就已經有記錄）。
 
-到了1803年，这个词又被用来表示“相互理解，情感上的一致”，这个用法可以追溯到1640年代的短语 better understanding、right understanding 等。
-
-中古英语中也有 understand 这个名词，意思是“理解能力；解释或阐释”。在19世纪，understandings 这个词在俚语中被用来指代“靴子，鞋子”（1789年），有时也指“腿，脚”。
+在中古英語中，還有一個用法是 understand（名詞），意指「理解能力；解釋或詮釋」。到了19世紀，understandings 這個詞在俚語或口語中被用來指「靴子，鞋子」（1789年），也可以指「腿，腳」。
 
 ---
-## understanding (related entry 1)
-### understanding(adj.)
-
-约公元1200年，“聪明的”，也指“精神上开明的”；14世纪晚期，“有知识的，熟练的；专注的，聪明的”，现在分词形容词来自 [understand](https://www.etymonline.com/word/understand) (v.)。到1913年为“表现出同情的宽容和宽恕”。相关词： Understandingly。
+## understanding(adj.)
+約公元1200年，意為「智慧的」，也指「精神上啟蒙的」；14世紀末，意為「有知識的，熟練的；專注的，聰明的」，為現在分詞形容詞，來自 [understand](https://www.etymonline.com/tw/word/understand#etymonline_v_4488) (v.)。到1913年，意為「表現出同情的寬容和寬恕」。相關詞： Understandingly。
 
 ---

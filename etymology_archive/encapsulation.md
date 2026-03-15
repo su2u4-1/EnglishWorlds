@@ -1,8 +1,6 @@
 # encapsulation
 
-## Origin and history of encapsulation
-### encapsulation(n.)
-
-1859年，指“用胶囊包围的行为”，是从 [encapsulate](https://www.etymonline.com/word/encapsulate) 这个动词派生出的名词。到了1934年，这个词开始被用作比喻。
+## encapsulation(n.)
+1859年，“用膠囊包裹”的行爲，是 [encapsulate](https://www.etymonline.com/tw/word/encapsulate) 的動作名詞。比喻意義在1934年出現。
 
 ---

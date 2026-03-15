@@ -1,10 +1,7 @@
 # determine
 
-## Origin and history of determine
-### determine(v.)
-
-14世纪末，determinen 意为“解决、决定；明确说明；划定界限；在时间或范围上加以限制”，也有“下定决心或明确意图（做某事）”的意思。这一词源于古法语 determiner（12世纪），直接来自拉丁语 determinare，意为“封闭、限制、设定界限”。其中，de 意为“离开”（参见 [de-](https://www.etymonline.com/word/de-)），而 terminare 则是“标记结束或边界”，源自 terminus，意为“结束、界限”（参见 [terminus](https://www.etymonline.com/word/terminus)）。
-
-“作出裁决”的意思出现在15世纪初。“赋予方向或倾向”的含义也始于15世纪初。“找到（作为问题的解决方案）”的意思则出现在1640年代。相关词汇包括：Determined（已决心的）、determining（正在决定的）、determiner（决定者）。
+## determine(v.)
+14世紀晚期， determinen，“解決，確定； 明確陳述； 確定邊界； 在時間或範圍上限制”，還有“做出堅定的決定或明確的意圖”（做某事），源自12世紀的古法語 determiner，直接源自拉丁語 determinare “封閉，限制，設定限制”，來自 de “離開”（見 [de-](https://www.etymonline.com/tw/word/de-)) + terminare “標記結束或邊界”，來自 terminus “結束，限制”（見 [terminus](https://www.etymonline.com/tw/word/terminus)）。
+“作出判斷”的意思可追溯至15世紀早期。 “給予方向或傾向”的意思可追溯至15世紀早期。 “找到（作爲問題解決方案）”的意思可追溯至1640年代。 相關： Determined； determining； determiner。
 
 ---

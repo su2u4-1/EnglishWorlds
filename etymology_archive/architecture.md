@@ -1,8 +1,6 @@
 # architecture
 
-## Origin and history of architecture
-### architecture(n.)
-
-1560年代起，“建筑艺术”，特别指精美建筑的设计与构造；它强调将科学和传统的建筑规则巧妙地应用于现有材料。这一词源自法语 architecture，进一步追溯则来自拉丁语 architectura，而拉丁语中的 architectus 意为“总建筑师，首席工匠”（参见 [architect](https://www.etymonline.com/word/architect)）。“建筑物”这一意义则出现在1610年代。
+## architecture(n.)
+“建築藝術”，尤其是指精美或美麗的建築； “將科學和傳統的建造規則巧妙地應用於手邊的材料”，起源於1560年代的法語詞彙 architecture，源自拉丁語 architectura，其詞根 architectus 意爲“主建築師，首席工匠”（見 [architect](https://www.etymonline.com/tw/word/architect)）。 “建築構造”一詞始於1610年代。
 
 ---

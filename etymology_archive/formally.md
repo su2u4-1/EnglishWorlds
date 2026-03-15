@@ -1,8 +1,6 @@
 # formally
 
-## Origin and history of formally
-### formally(adv.)
-
-14世纪晚期，表示“状态良好，井然有序”，也有“以某种方式”的意思，源自 [formal](https://www.etymonline.com/word/formal) + [-ly](https://www.etymonline.com/word/-ly) (2)。1560年代起，开始用于表示“按照规定或习惯的形式”。
+## formally(adv.)
+14世紀晚期，“以良好的形式，有序地”，也指“按種類”，來自 [formal](https://www.etymonline.com/tw/word/formal) + [-ly](https://www.etymonline.com/tw/word/-ly#etymonline_v_32027) (2)。指“按規定或習慣形式”始於1560年代。
 
 ---

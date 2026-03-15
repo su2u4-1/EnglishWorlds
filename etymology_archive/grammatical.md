@@ -1,8 +1,6 @@
 # grammatical
 
-## Origin and history of grammatical
-### grammatical(adj.)
-
-1520年代，意为“与语法相关的”，源自法语 grammatical，直接借自晚期拉丁语 grammaticalis，意为“学者的”，来自 grammaticus，即“与语法相关的”（参见 [grammar](https://www.etymonline.com/word/grammar)）。相关词：Grammatically（约公元1400年）。
+## grammatical(adj.)
+1520年代，“與語法有關的”，源自法語 grammatical，直接來自晚期拉丁語 grammaticalis “學者的”，源自 grammaticus “與語法有關的”（見 [grammar](https://www.etymonline.com/tw/word/grammar)）。相關詞彙： Grammatically（約1400年）。
 
 ---

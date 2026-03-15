@@ -1,18 +1,12 @@
 # reserve
 
-## Origin and history of reserve
-### reserve(v.)
-
-这个词最早出现在14世纪中期，意思是“为了将来使用而保留或储存”。到14世纪晚期，它又发展出“将其视为自己的”这一含义。这个词源于古法语的 reserver，意为“留出、扣留”（12世纪），并直接借自拉丁语 reservare，意思是“保留、节省；保持、保护”。拉丁语中的 re- 表示“回去、向后”（参见 [re-](https://www.etymonline.com/word/re-)），而 servare 则意为“保持、拯救、保护”，其词源可以追溯到原始印欧语根 [*ser-](https://www.etymonline.com/word/*ser-) (1)，意为“保护”。“预订”这一意义则出现在1935年。相关词汇包括 [Reserved](https://www.etymonline.com/word/Reserved) 和 reserving。
+## reserve(v.)
+14世紀中期，“將某物保留或儲存以備將來使用”； 14世紀後期，“將某物視爲自己的財產”，源自古法語 reserver “留出，保留”（12世紀），直接源自拉丁語 reservare “保留，儲存； 保持，保存”，由 re- “向後”（見 [re-](https://www.etymonline.com/tw/word/re-))和 servare “保持，保存，保護”（源自 PIE 詞根 [*ser-](https://www.etymonline.com/tw/word/*ser-)（1）“保護”）組成。意思是“預訂”始於1935年。相關詞彙： [Reserved](https://www.etymonline.com/tw/word/reserved)； reserving。
 
 ---
-## reserve (related entry 1)
-### reserve(n.)
-
-在1610年代，“储备”最初指的是“储存起来的东西”，这个词可能来源于动词 [reserve](https://www.etymonline.com/word/reserve)，也可能是从法语 réserve 演变而来，该词源自 reserver，意为“留出，保留”。这个法语词又源自拉丁语 reservare，意思是“保留，保存；保持，保护”，其中 re- 表示“回，反”（参见 [re-](https://www.etymonline.com/word/re-)），而 servare 则意为“保持，保存，保护”，其词源可以追溯到原始印欧语根 [*ser-](https://www.etymonline.com/word/*ser-) (1)，意为“保护”。
-
-到了1650年代，这个词开始被用来表示“对言语或行为的自我限制；抑制情感的习惯”。1805年，它又被用来指代“为特定用途而设立的区域或地点”。1866年，这个词进一步发展出“为应对可能的开支或需求而保留的资本金额”的含义。1912年，它又被用来描述“已知存在于某一特定区域的自然资源量”。作为形容词，意为“被保留的”，这个用法出现在1719年。
-
-在军事领域，reserves（后备军）这一概念最早出现在1640年代，指的是“被暂时保留以备增援的部队”。而“国家紧急情况下的防御或辅助军事力量”的含义则是在1866年形成的。
+## reserve(n.)
+17世紀10年代，“儲備物”，來自 [reserve](https://www.etymonline.com/tw/word/reserve)（動詞）或來自法語 réserve，是從 reserver “留出，保留”中反推出來的，源自拉丁語 reservare “保留，儲存； 保持，保存”，由 re- “後退”（見 [re-](https://www.etymonline.com/tw/word/re-))和 servare “保持，保存，保護”（來自 PIE 根 [*ser-](https://www.etymonline.com/tw/word/*ser-)（1）“保護”）組成。
+“自我限制言行自由的習慣； 抑制感情的習慣”意義始於1650年代。指“爲某種特定用途而設立的區域或場所”的意義始於1805年。指“爲滿足可能的開支或需求而保留的資本金額”的意義始於1866年。指“某個特定地區已知的自然資源量”的意義始於1912年。作爲形容詞，“被保留的”，始於1719年。
+“被留作增援部隊等待行動的部隊”軍事意義始於1640年代； “國家緊急防禦或輔助軍事力量”（reserves)的意義始於1866年。
 
 ---

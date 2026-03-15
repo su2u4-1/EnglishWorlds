@@ -1,16 +1,11 @@
 # discord
 
-## Origin and history of discord
-### discord(n.)
-
-大约在13世纪初，descorde这个词出现，意思是“不友好的情感，恶意”；也指“分歧，争斗”。这个词源自古法语descorde（12世纪），意为“意见不合”，而古法语又源自拉丁语discordia，来自discors（属格discordis），意为“意见不合，争执”。拉丁语中的dis-表示“分开”（参见[dis-](https://www.etymonline.com/word/dis-)），而cor（属格cordis）则意为“心”，源自原始印欧语词根[*kerd-](https://www.etymonline.com/word/*kerd-)，同样意指“心”。
-
-而在音乐领域，这个词的含义“两个音符同时发声时的不和谐；不和谐音符的组合”则出现在14世纪末。
+## discord(n.)
+13世紀早期， descorde，“不友好的感覺，惡意； ”也指“分歧，衝突”，源自12世紀的古法語 descorde “不一致”，源自拉丁語 discordia，源自 discors（屬格 discordis）“不一致的，不和諧的”，源自 dis- “分開”（見 [dis-](https://www.etymonline.com/tw/word/dis-)) + cor（屬格 cordis）“心臟”，源自 PIE 詞根 [*kerd-](https://www.etymonline.com/tw/word/*kerd-) “心臟”。
+音樂上的意義“兩個音符在一起時缺乏和諧； 不和諧的音符組合”源自14世紀晚期。
 
 ---
-## discord (related entry 1)
-### discord(v.)
-
-大约在公元1300年，出现了discorden这个词，意思是“在意愿或观点上存在分歧，意见不合，争吵”。这个词源于13世纪的古法语discorder，并直接借自拉丁语discordare，意为“意见不合，争吵”。拉丁语中的discors（属格discordis）则表示“意见不合，争执”，它由dis-（表示“分开”，参见[dis-](https://www.etymonline.com/word/dis-)）和cor（属格cordis，意为“心”）构成，源自原始印欧语词根[*kerd-](https://www.etymonline.com/word/*kerd-)，意指“心”。
+## discord(v.)
+約於1300年， discorden，“意願或觀點不同，不同意，爭吵”，源自於古法語 discorder（13世紀）並直接源自於拉丁語 discordare “不和，不同意，爭吵”，源自於 discors（屬格 discordis）“不一致，不同意”，源自於 dis- “分開”（見 [dis-](https://www.etymonline.com/tw/word/dis-)) + cor（屬格 cordis）“心臟”，源自於 PIE 詞根 [*kerd-](https://www.etymonline.com/tw/word/*kerd-) “心臟”。
 
 ---

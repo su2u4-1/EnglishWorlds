@@ -1,8 +1,6 @@
 # automatically
 
-## Origin and history of automatically
-### automatically(adv.)
-
-这个词最早出现在1834年，意思是“非自愿地，潜意识地”。它由 automatical（参见 [automatic](https://www.etymonline.com/word/automatic) (adj.)）演变而来，加上了 [-ly](https://www.etymonline.com/word/-ly) (2) 的词尾。
+## automatically(adv.)
+1834年，“不自覺地，無意識地”，來自 automatical（見 [automatic](https://www.etymonline.com/tw/word/automatic)（形容詞））+ [-ly](https://www.etymonline.com/tw/word/-ly)（2）。
 
 ---

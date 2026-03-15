@@ -1,8 +1,6 @@
 # recur
 
-## Origin and history of recur
-### recur(v.)
-
-14世纪晚期，recuren，意为“从疾病或痛苦中恢复”（这一意义现已废弃）；15世纪中期，意为“返回”（某地或某处），源自拉丁语 recurrere，意思是“返回，跑回，急忙返回”，引申义为“回归，重现”，由 re-（意为“回，再”，参见 [re-](https://www.etymonline.com/word/re-)）+ currere（意为“跑”，源自原始印欧语词根 [*kers-](https://www.etymonline.com/word/*kers-)，意为“跑”）。最初用于形容人；后来用于思想、观念等，意为“回到脑海中”，这一用法始于1620年代。“再次发生”的意思出现在1670年代。相关词汇：Recurred（已恢复），recurring（正在恢复）。
+## recur(v.)
+14世紀晚期， recuren，“從疾病或痛苦中恢復”（現已過時）； 15世紀中期，“返回”（到或進入一個地方），源自拉丁語 recurrere “返回，跑回來，匆忙返回”，比喻意義上是“迴歸，再次發生”，由 re- “向後，再次”（見 [re-](https://www.etymonline.com/tw/word/re-))和 currere “奔跑”（源自 PIE 詞根 [*kers-](https://www.etymonline.com/tw/word/*kers-) “奔跑”）組成。最初指人； 應用於思想、觀念等，“回到頭腦中”，記錄於1620年代。意思是“再次發生”，始於1670年代。相關： Recurred； recurring。
 
 ---

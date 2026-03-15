@@ -1,8 +1,6 @@
 # iteration
 
-## Origin and history of iteration
-### iteration(n.)
-
-“再次说或做某事，反复进行；重复的表达或发生”，这个词出现在15世纪晚期，源自拉丁语 iterationem（主格 iteratio），意为“重复”，是一个名词，表示从动词 iterare（意为“再做一次，重复”）的过去分词形式派生而来。这个动词又来自拉丁语 iterum，意思是“再一次”，而其更早的起源可以追溯到原始印欧语 \*i-tero-，源自代词根 \*i-（参见 [yon](https://www.etymonline.com/word/yon)）。
+## iteration(n.)
+"一種再次說或做，或者一遍又一遍的重複； 重複的話語或事件"，15世紀晚期，源自拉丁語 iterationem（主格 iteratio）"重複"，動作名詞，來自 iterare "再做一次，重複"的過去分詞詞幹，源自 iterum "再次"，來自 PIE \*i-tero-，源自代詞根 \*i-（參見 [yon](https://www.etymonline.com/tw/word/yon)）。
 
 ---

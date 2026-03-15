@@ -1,10 +1,8 @@
 # among
 
-## Origin and history of among
-### among(prep.)
+## among(prep.)
+「在……之中」，這個用法出現於12世紀初，源自古英語的 onmang，在晚期古英語中有時寫作 amang，實際上是 ongemang 的縮寫，意指「在……之中，期間」，來自短語 on gemang，字面意思是「在（某人或某物的）群體或陪伴中」，由 on（參見 [a-](https://www.etymonline.com/tw/word/a-#etymonline_v_3) (1)）和 gemengan（意為「混合」）組成。這個第二部分來自原始日耳曼語的 \*mangjan，意指「揉捏在一起」，可能源自印歐語系詞根 [*mag-](https://www.etymonline.com/tw/word/*mag-)（意為「揉捏，塑造，適合」）的一種鼻音化形式。
 
-“in, in the midst of”这个词组出现在12世纪初，源自古英语的 onmang，在晚期古英语中有时简化为 amang，它是 ongemang 的缩写，意为“在……之中，期间”，来自短语 on gemang，字面意思是“在（某人）之中”或“在（某人）陪伴下”，由 on（参见 [a-](https://www.etymonline.com/word/a-) (1)）和 gemengan（意为“混合”）构成。第二个成分源自原始日耳曼语 \*mangjan，意为“揉捏在一起”，可能来自印欧语根 [*mag-](https://www.etymonline.com/word/*mag-)（意为“揉捏，塑造，适合”）的鼻化形式。
-
-这个词的复合前缀 ge- 在12世纪被省略，演变为 onmong、amang，最终形成现代英语的 among。可以对比古撒克逊语的 angimang（意为“在……之中，期间”）和古弗里斯语的 mong（意为“在……之中”）。
+這個表示集合的前綴 ge- 在12世紀被省略，最終演變為 onmong、amang 和 among。可以參考古薩克森語的 angimang（意為「在……之中，當中」）和古弗里斯語的 mong（意為「在……之中」）。
 
 ---

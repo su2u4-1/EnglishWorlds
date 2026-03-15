@@ -1,10 +1,8 @@
 # suffice
 
-## Origin and history of suffice
-### suffice(v.)
+## suffice(v.)
+十四世紀初，suffisen（不及物動詞）意指「對某一目的足夠」。到了十四世紀末，這個詞轉變為及物動詞，意為「對某人的願望或需求足夠」。它源自古法語的 sofire，意為「足夠，滿足」（現代法語為 suffire），而古法語又來自拉丁語 sufficere，原意是「放在下面，為其奠定基礎；作為替代品提供；足夠，適合」。這個詞由 sub（意為「直到」，參見 [sub-](https://www.etymonline.com/tw/word/sub-)）和 facere 的結合形式構成，後者意為「做，製作」（源自原始印歐語根 [*dhe-](https://www.etymonline.com/tw/word/*dhe-)，意為「放置，設置」）。
 
-14世纪初，suffisen（不及物动词）意为“足够满足某一目的”；到14世纪晚期，这个词发展为及物动词，意指“足以满足某人的愿望或需求”。它源自古法语的 sofire，意思是“足够，令人满意”（现代法语为 suffire），而古法语又源自拉丁语 sufficere，原意是“放在下面，打下基础；作为替代品提供；足够，适宜”。这个词由 sub（意为“直到”——参见 [sub-](https://www.etymonline.com/word/sub-)）和 facere（意为“做，制造”，源自原始印欧词根 [*dhe-](https://www.etymonline.com/word/*dhe-)，意为“放置，设定”）组合而成。
-
-相关词汇包括：Sufficed; sufficing; sufficable。短语 suffice it to say（17世纪90年代）是英语中少数保留至今的虚拟语气表达。
+相關詞彙包括：Sufficed; sufficing; sufficable。短語 suffice it to say（十七世紀九十年代）是英語中罕見的虛擬語氣表達。
 
 ---

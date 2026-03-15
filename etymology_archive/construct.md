@@ -1,14 +1,10 @@
 # construct
 
-## Origin and history of construct
-### construct(v.)
-
-1660年代，指“将各部分按其正确的位置和顺序组装起来”。这个词源于拉丁语 constructus，是 construere 的过去分词，意思是“将东西堆积在一起，积累；建造，制造，竖起”。它由 com（意为“与，一起”，参见 [con-](https://www.etymonline.com/word/con-)）和 struere（意为“堆积”，源自原始印欧语 \*streu-，是 [*stere-](https://www.etymonline.com/word/*stere-) 的扩展形式，意为“传播”）组合而成。1755年起，这个词还引申出“在脑海中构思和形成”的意思。相关词汇包括 Constructed（已构建）和 constructing（正在构建）。
+## construct(v.)
+1660年代，“將部分物品放在適當的位置和順序中組合在一起”，源自拉丁語 constructus，是 construere 的過去分詞，“堆積在一起，積累； 建造，製造，豎立”，由 com（見 [con-](https://www.etymonline.com/tw/word/con-))和 struere “堆積”（來自 PIE \*streu-, 擴展形式爲 [*stere-](https://www.etymonline.com/tw/word/*stere-) “散佈”的根）的同化形式組成。 “在頭腦中設計和形成”的意義來自1755年。 相關： Constructed; constructing。
 
 ---
-## construct (related entry 1)
-### construct(n.)
-
-在语言学中，1871年起指“构成短语的词组”；在心理学中，1890年起指“由感官印象在脑海中形成的对象”（C.L. Morgan）；而在更广泛的意义上，1933年起指“任何构造物”。这个词来自于动词 [construct](https://www.etymonline.com/word/construct) 或其派生形容词，发音上有所变化，以便区分名词和动词（类似于 produce、detail、project、compress 等词）。
+## construct(n.)
+1871年，語言學上的“組成短語的一組詞語”； 1890年，心理學上的“由感官印象構成的心裏對象”(C.L. Morgan)； 1933年，普遍意義上的“任何建構”； 源自 [construct](https://www.etymonline.com/tw/word/construct) (動詞)或其派生形容詞，通過改變發音以區分名詞和動詞(如 produce, detail, project, compress 等)。
 
 ---

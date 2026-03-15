@@ -1,8 +1,6 @@
 # lexical
 
-## Origin and history of lexical
-### lexical(adj.)
-
-“与语言词汇相关的”，这个词最早出现在1833年，源自希腊语 lexikos（意为“与词语相关”）的拉丁化形式（参见 [lexicon](https://www.etymonline.com/word/lexicon)），再加上后缀 [-al](https://www.etymonline.com/word/-al) (1)。相关词汇还有 Lexically。
+## lexical(adj.)
+"與語言詞彙相關的"，1833年，來自希臘語 lexikos 的拉丁化形式，意爲"涉及單詞"（見 [lexicon](https://www.etymonline.com/tw/word/lexicon)）+ [-al](https://www.etymonline.com/tw/word/-al)（1）。相關詞： Lexically。
 
 ---

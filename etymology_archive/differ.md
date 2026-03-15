@@ -1,10 +1,8 @@
 # differ
 
-## Origin and history of differ
-### differ(v.)
+## differ(v.)
+14世紀晚期，“不同，不同，不同或不同”，源於14世紀的舊法語 differer，直接來自拉丁語 differre “分開，不同”，來自拉丁語的吸收形式 dis- “分開，遠離”（參見 [dis-](https://www.etymonline.com/tw/word/dis-)）＋ ferre “承受，承載”，源自源自 PIE 詞根 [*bher-](https://www.etymonline.com/tw/word/*bher-)（1）“攜帶”。意思是“不同意，持相反意見”始於16世紀60年代。
 
-14世纪晚期，differ的意思是“不同、不相似、独特或多样”，这个词源自古法语的differer（14世纪），直接来自拉丁语的differre，意为“分开、不同”。它由拉丁语的前缀dis-（表示“分开、离开”，参见[dis-](https://www.etymonline.com/word/dis-)）和动词ferre（意为“承载、携带”）组合而成，后者源自原始印欧语词根[*bher-](https://www.etymonline.com/word/*bher-) (1)，意指“携带”。“不同意见、意见相左”的意思出现于1560年代。
-
-自1500年左右起，拉丁语中存在的两种含义在英语中逐渐分化，形成了不同的拼写和用法（可能基于重音的不同）。其中，[defer](https://www.etymonline.com/word/defer)（动词1）保留了一种含义，而differ（不及物动词）则承载了另一种。相关词汇包括Differed（过去式）和differing（现在分词）。
+自1500年以來，在英語中擁有兩個不同的意義和拼寫（可能基於不同的重音）。其中， [defer](https://www.etymonline.com/tw/word/defer)（及物動詞）擁有一組含義，而 differ（不及物動詞）擁有其餘的含義。相關： Differed; differing。
 
 ---

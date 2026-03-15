@@ -1,14 +1,10 @@
 # gather
 
-## Origin and history of gather
-### gather(v.)
-
-古英语中的 gadrian 和 gædrian 意思是“团结、达成一致、集合；聚集、收集、储存”，可以用于花朵、思想或人们的集合。这些词源自原始日耳曼语的 \*gaduron，意为“聚集、联合”。它们的衍生词包括古英语的 gæd（意为“友谊、陪伴”）和 gædeling（意为“伙伴”），以及中低地德语的 gadderen、古弗里斯语的 gaderia、荷兰语的 gaderen（意为“聚集”）和 gade（意为“配偶”），德语的 Gatte（意为“丈夫”），还有哥特语的 gadiliggs。这些词可能源自原始印欧语的 \*ghedh-，意思是“联合、结合”（参见 [good](https://www.etymonline.com/word/good) (adj.)）。在1500年代，拼写从 -d- 变为 -th-，反映了发音的变化（类似于 father）。相关词汇包括 Gathered 和 [gathering](https://www.etymonline.com/word/gathering)。
+## gather(v.)
+古英語 gadrian， gædrian 意爲“團結、協議、集合； 聚集、收集、儲存”（及物與不及物），可用於花朵、思想、人等。源自原始日耳曼語 \*gaduron，意爲“聚集、聯合”（還源自古英語 gæd “交情、伴侶”、gædeling “伴侶”； 中低地德語 gadderen； 古弗裏西亞語 gaderia； 荷蘭語 gaderen “收集”、gade “配偶”； 德語 Gatte “丈夫”； 哥特語 gadiliggs），或許來自原始印歐語 \*ghedh- “聯合、加入”（參見 [good](https://www.etymonline.com/tw/word/good)（形容詞））。從 -d- 改爲 -th- 的拼寫是在16世紀，反映出更早的發音變化（如同 [father](https://www.etymonline.com/tw/word/father)）。相關詞彙： Gathered； [gathering](https://www.etymonline.com/tw/word/gathering)。
 
 ---
-## gather (related entry 1)
-### gather(n.)
-
-“在布料中打褶或折叠”，1660年代，源自 [gather](https://www.etymonline.com/word/gather) (v.)。
+## gather(n.)
+"摺疊或摺疊布料"，1660年代，來自 [gather](https://www.etymonline.com/tw/word/gather)（動詞）。
 
 ---

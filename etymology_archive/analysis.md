@@ -1,10 +1,8 @@
 # analysis
 
-## Origin and history of analysis
-### analysis(n.)
+## analysis(n.)
+在1580年代，「將任何複雜的事物分解為簡單元素」的意思（與[synthesis](https://www.etymonline.com/tw/word/synthesis)相對），源自15世紀的中古拉丁語analysis，而這又來自希臘語analysis，「通過分析解決問題」，字面意思是「分解、鬆開、釋放」，是一種動名詞，源自analyein，「鬆開、釋放、解放；將船隻從錨地解放」，在亞里士多德的著作中意指「分析」，由ana（意為「向上、向回、貫穿」；參見[ana-](https://www.etymonline.com/tw/word/ana-)）和lysis（意為「鬆開」）組成，後者來自lyein（意為「解開」），其原始印歐語根[*leu-](https://www.etymonline.com/tw/word/*leu-)則有「鬆開、分開、切開」的意思。
 
-1580年代起，[synthesis](https://www.etymonline.com/word/synthesis)的对立词，指将复杂事物分解为简单元素。这一词源于15世纪的中世纪拉丁语analysis，而其更早的来源则是希腊语analysis，意为“通过分析解决问题”，字面意思是“分解、松解、释放”。它是由动词analyein演变而来，意指“解开、释放、使自由”，在亚里士多德的著作中常用来表示“分析”。该词由前缀ana（意为“向上、向回、贯穿”，参见[ana-](https://www.etymonline.com/word/ana-)）和lysis（意为“松解”）构成，后者又源自lyein（意为“解开”），其原始印欧词根[*leu-](https://www.etymonline.com/word/*leu-)则有“松开、分开、切开”的意思。
-
-“分析过程结果的陈述”这一意义出现在1660年代。心理学上的用法则始于1890年。英语中曾有名词analyse（1630年代），源自法语analyse，再追溯至中世纪拉丁语analysis。短语in the final (or last) analysis（1844年）翻译自法语en dernière analyse。
+「陳述分析過程結果的聲明」這一意義出現於1660年代。心理學上的用法則始於1890年。英語中曾經也有名詞analyse（1630年代），來自法語analyse，而法語又源自中古拉丁語analysis。短語in the final (or last) analysis（1844年）翻譯自法語en dernière analyse。
 
 ---

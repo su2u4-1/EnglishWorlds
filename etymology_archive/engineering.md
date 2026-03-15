@@ -1,8 +1,6 @@
 # engineering
 
-## Origin and history of engineering
-### engineering(n.)
-
-1720年起，[engineer](https://www.etymonline.com/word/engineer)（名词）指“工程师所完成的工作”。作为一个学科领域，这一说法从1792年开始被认可。早期的相关词汇是engineership（1640年代）。1793年曾尝试使用engineery，但并未流行。
+## engineering(n.)
+1720年，“工程師完成的工作”，源自 [engineer](https://www.etymonline.com/tw/word/engineer)（n.）。作爲一門研究領域，始於1792年。早期的詞語是 engineership（1640年代）； engineery 在1793年嘗試使用，但並未流行。
 
 ---

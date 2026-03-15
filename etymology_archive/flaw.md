@@ -1,14 +1,10 @@
 # flaw
 
-## Origin and history of flaw
-### flaw(n.)
-
-14世纪初，指“雪花”，在中古英语中也可以指“火花”或“木屑”。这个词源自古诺尔斯语的 flaga，意思是“石板”或“石层”（参见 [flag](https://www.etymonline.com/word/flag) (n.2)）。可能在这里被用作一种扩展意义。古英语中有 floh stanes，但中古英语的形式更像是源自斯堪的纳维亚语。“flaw（缺陷）”和 flake（雪花）在意义上有很大的相似性，这一点很值得注意”[OED]。表示“缺陷”或“错误”的意义首次出现在1580年代，最初用于描述人的性格，后来（约1600年）也用于物品，可能是通过“从整体中断裂出的碎片”这一概念演变而来的。
+## flaw(n.)
+14世紀初，“雪花”（的一片），同時在中古英語中也指“火花； 碎片”，源自古諾爾斯語 flaga “石板，石層”（參見 [flag](https://www.etymonline.com/tw/word/flag)（n.2）），可能在此處被引申使用。古英語中有 floh stanes，但中古英語的形式表明其源自斯堪的納維亞。 “flaw 和 flake 在意義上的密切相似值得注意”[OED]。 “缺陷，錯誤”的意義首次記錄於1580年代，首先是指性格，後來（約1600年）是指物質事物； 可能是通過“斷片”概念而來。
 
 ---
-## flaw (related entry 1)
-### flaw(v.)
-
-“导致缺陷或瑕疵”，15世纪初（在 flawed 中暗示）；参见 [flaw](https://www.etymonline.com/word/flaw)（名词）。相关词：Flawing。
+## flaw(v.)
+"導致缺陷或瑕疵"，早在15世紀（隱含在 flawed 中）； 參見 [flaw](https://www.etymonline.com/tw/word/flaw)（名詞）。相關詞彙： Flawing。
 
 ---

@@ -1,10 +1,7 @@
 # destination
 
-## Origin and history of destination
-### destination(n.)
-
-在1590年代，destinationem（主格形式为destinatio）这个词源自拉丁语，意思是“目的”或“设计”，它来源于动词destinare，意为“确定、任命、选择或使之坚定”。这个词的构成可以分解为前缀de-（表示“完全”或“正式”，具体参见[de-](https://www.etymonline.com/word/de-)）和词根-stinare，后者与stare（意为“站立”）相关，追溯至原始印欧语词根\*steno-，是词根[*sta-](https://www.etymonline.com/word/*sta-)（“站立”或“使坚定”）的派生形式。
-
-到了1650年代，这个词开始被用来表示“某物被指定或任命的目的”。而“预定的旅程、航行或传输的终点”这一意义则出现在1813年，实际上是place of destination（1787年）这个短语的缩写，意指“某物被指向或预定的地点”。
+## destination(n.)
+1590年代，“任命，指定”的意思，源自拉丁語 destinationem（主格 destinatio）“目的，設計”，來自 destinare 的過去分詞詞幹“決定，任命，選擇，使堅定或牢固”，來自 de- “完全，正式”（見 [de-](https://www.etymonline.com/tw/word/de-)) + -stinare（與 stare “站立”有關），源自 PIE \*steno-, 詞根 [*sta-](https://www.etymonline.com/tw/word/*sta-) “站立，使或保持堅定”。
+從1650年代開始，“任命或指定的目的”。意思爲“旅程，航行或傳輸的預定終點”（1813年）是 place of destination（1787年）的縮寫，“指定或指向某物的地方”。
 
 ---

@@ -1,22 +1,15 @@
 # due
 
-## Origin and history of due
-### due(adj.)
-
-大约在14世纪中期，due这个词的意思是“习惯性的、定期的、正确的、合适的”。到了14世纪晚期，它又引申为“应付的、作为义务应支付的、因情况或条件而应有的”。这个词源于古法语的deu，是devoir（意为“欠债”）的过去分词，而devoir又源自拉丁语debere，原意是“欠某人”，字面意思是“将某物留给某人”，由de-（意为“离开”，参见[de-](https://www.etymonline.com/word/de-)）和habere（意为“拥有”，源自原始印欧词根[*ghabh-](https://www.etymonline.com/word/*ghabh-)，意为“给予或接受”）组合而成。
-
-当用来描述行为时，due在14世纪晚期的意思是“尽责的、细心的”。到1833年，它又发展出“应当被期待或被期望”的含义。短语in due time（“在适当的时候”）最早出现在14世纪晚期。Due to这个表达则出现在15世纪初，最初意为“应得的、应有的”，后来也用作“由于”。在1660年代，它被记录为“可归因于某种原因或起源”。尽管语法学家们对其作为介词短语的使用颇有微词，但这种用法在1897年开始流行。
+## due(adj.)
+14世紀中期，“習慣的，常規的，正確的，適當的”； 14世紀晚期，“作爲一種義務應付的，由於情況或條件而欠款的”，源自古法語 deu，是 devoir 的過去分詞，意爲“欠款”，源自拉丁語 debere，最初意爲“使某物遠離某人”，由 de- “遠離”（見 [de-](https://www.etymonline.com/tw/word/de-))和 habere “擁有”（源自 PIE 詞根 [*ghabh-](https://www.etymonline.com/tw/word/*ghabh-) “給予或接受”）組成。
+對於行動，“認真的，小心的”，14世紀晚期。意思是“可以預期或期待的”是從1833年開始的。短語 in due time “在規定的時間； 在適當的時間”始於14世紀晚期。 Due to 最早出現在15世紀初，意爲“應得的，應得的”，也有“由於”的意思。它自1660年代以來被證明是“由……引起或起源的”。它作爲介詞短語的用法（被語法學家所詬病）始於1897年。
 
 ---
-## due (related entry 1)
-### due(n.)
-
-15世纪初，“应得之物，理应获得的东西”，源自形容词 [due](https://www.etymonline.com/word/due)，也可以参考 [dues](https://www.etymonline.com/word/dues)。短语 give the devil his due，意为“公正对待一个被认为品行不端的人”，出现在1590年代。比如说，“即使他们是魔鬼，也要给他们应得的东西”[1589]。
+## due(n.)
+15世紀初，“應得的東西，應得的權利或資格”，來自 [due](https://www.etymonline.com/tw/word/due)（形容詞），還可以參考 [dues](https://www.etymonline.com/tw/word/dues)。至於 give the devil his due “對一個被認爲品行不端的人做出公正評價”，則始於1590年代。  “即使他們是魔鬼，也要給予他們應有的尊重”[1589]。
 
 ---
-## due (related entry 2)
-### due(adv.)
-
-1590年代，意为“适当地”，源自 [due](https://www.etymonline.com/word/due)（形容词）。关于方位的用法，如 due east（正东），大约从1600年起被记录，最初用于航海，表达“合适的，理应的”概念。
+## due(adv.)
+1590年代，“duly”的意思是“適當地”，源自 [due](https://www.etymonline.com/tw/word/due)（形容詞）。關於羅盤點，“直接，準確”（如 due east）的意思最早見於1600年左右，最初用於航海，源於“適合，合適”的概念。
 
 ---

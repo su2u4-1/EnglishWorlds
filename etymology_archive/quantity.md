@@ -1,10 +1,7 @@
 # quantity
 
-## Origin and history of quantity
-### quantity(n.)
-
-14世纪初，quantite，意为“数量、大小，某物在测量或范围上的程度”，源自古法语的quantite、cantite（12世纪，现代法语为quantité），直接借自拉丁语的quantitatem（主格为quantitas），意为“相对的伟大或范围”。这个词最初是作为希腊语posotes（来自posos，意为“多大？多少？”）的借译而创造的，源自拉丁语的quantus，意思是“多大？多少？什么数量？”这是一种相关的代名词形容词，来自原始印欧语根[*kwo-](https://www.etymonline.com/word/*kwo-)，构成了关系代词和疑问代词。
-
-从14世纪末起，这个词被用来指“具有数量的事物，具体的数量”；到了1610年代，又被用于具体意义上，指“被视为多或少的物体”。在韵律和格律学中，1560年代起指“发出元音或音节时所占用的相对时间”（区分长音或短音）。拉丁语的quantitatem也是意大利语quantita、西班牙语cantidad、丹麦语和瑞典语kvantitet、德语quantitat的词源。
+## quantity(n.)
+14世紀早期， quantite，“數量，大小，測量或範圍的存在”，源自古法語 quantite， cantite（12世紀，現代法語 quantité），直接源自拉丁語 quantitatem（主格 quantitas），作爲希臘語 posotes（來自 posos “多大？多少？”）的借譯而創造，源自拉丁語 quantus “多大？多少？多麼偉大？多少數量？”，相對代詞形容詞（源自 PIE 詞根 [*kwo-](https://www.etymonline.com/tw/word/*kwo-), 相對和疑問代詞的詞幹）。
+從14世紀後期開始，“具有數量的東西，具體的數量”； 從17世紀開始，具體意義上的“被視爲多多少少的物體”。在韻律和韻律學中，“發音元音或音節所佔的相對時間”（將其區分爲長音或短音）於1560年代出現。拉丁語 quantitatem 也是意大利語 quantita，西班牙語 cantidad，丹麥語和瑞典語 kvantitet，德語 quantitat 的來源。
 
 ---

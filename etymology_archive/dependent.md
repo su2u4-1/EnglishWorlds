@@ -1,16 +1,12 @@
 # dependent
 
-## Origin and history of dependent
-### dependent(adj.)
+## dependent(adj.)
+同時 "dependant" 於十四世紀末用作"依賴於存在的"，十五世紀早期用作"有條件的，與某些條件有關的"，源自古法語 "dependant"，是 "dependre" 的現在分詞形容詞，源自拉丁語 "dependere"，意爲"懸掛，下垂； 依賴，得來自"，由 "de"（見 "[de-](https://www.etymonline.com/tw/word/de-)"）+ "pendere"（源自 PIE 詞根 "[*(s)pen-](https://www.etymonline.com/tw/word/*(s)pen-)"，意爲“拉，伸展，旋轉”）組成。
 
-“dependant”这个词最早出现在14世纪晚期，意思是“依赖于生存”。到了15世纪初，它又被用来表示“取决于某种条件”或“相关的”。这个词源自古法语的“dependant”，是动词“dependre”的现在分词，意为“悬挂”或“依赖”。它的拉丁语词根“dependere”则有“悬挂、依赖、源自”的意思，分解开来可以理解为“de”（从、向下，参见 [de-](https://www.etymonline.com/word/de-)）和“pendere”（悬挂、使悬挂、称重），而后者又源自原始印欧词根 [*(s)pen-](https://www.etymonline.com/word/*%28s%29pen-)，意为“拉、伸、旋转”。
-
-关于拼写，可以参考 [dependant](https://www.etymonline.com/word/dependant)（名词）。在某些情况下，这个英语词直接来源于拉丁语的“dependentem”（主格为“dependens”），即“dependere”的现在分词。从15世纪初起，它也被用来字面表达“悬挂、垂挂”的意思。到了1640年代，这个词开始用于形容“从属的、受制于他人或需要外部帮助的”。在数学中，“dependent variable”这个术语记录于1852年。
+演變至今的拼寫方式可參見 "[dependant](https://www.etymonline.com/tw/word/dependant)"（名詞）。在某些情況下，英語單詞直接源自拉丁語 "dependentem" （主格是 "dependens" ），是 "dependere" 的現在分詞。早在15世紀即有“下垂的，垂掛的”之意。從1640年代開始用作“從屬的，受到外部支持或控制的”。"Dependent variable"在數學中的含義可追溯到1852年。
 
 ---
-## dependent (related entry 1)
-### dependent(n.)
-
-参见 [dependant](https://www.etymonline.com/word/dependant) (n.)。相关词：Dependents。
+## dependent(n.)
+見 [dependant](https://www.etymonline.com/tw/word/dependant)（名詞）。相關詞彙： Dependents。
 
 ---

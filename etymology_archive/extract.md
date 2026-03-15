@@ -1,14 +1,10 @@
 # extract
 
-## Origin and history of extract
-### extract(v.)
-
-“提取、撤回、取出、从固定位置拔出或移除，字面或比喻意义”，这个词最早出现在15世纪晚期，源自拉丁语 extractus，是动词 extrahere 的过去分词，意为“抽出”。它由 ex（意为“外、离开”，参见 [ex-](https://www.etymonline.com/word/ex-)）和 trahere（意为“拉、抽”，参见 [tract](https://www.etymonline.com/word/tract) (n.1)）组合而成。相关词汇包括 Extracted（已提取）和 extracting（正在提取）。
+## extract(v.)
+"抽出，撤回，取出，拔出或從固定位置移除，無論是字面上還是比喻上，"15世紀後期，源自拉丁語 extractus，是 extrahere 的過去分詞，意爲“抽出”，由 ex “出，從...中出來”（見 [ex-](https://www.etymonline.com/tw/word/ex-))和 trahere “拉”（見 [tract](https://www.etymonline.com/tw/word/tract)（n.1））組成。相關詞彙： Extracted； extracting。
 
 ---
-## extract (related entry 1)
-### extract(n.)
-
-15世纪中期，指“对某些已详细撰写内容的摘要或提炼”，源自晚期拉丁语 extractum，是 extractus（extrahere 的过去分词，意为“提取”）的名词形式（参见 [extract](https://www.etymonline.com/word/extract) (v.)）。而“提取物”的物理意义，特别是指“通过蒸馏或其他化学过程从物质中提取的东西”，则始于1580年代。
+## extract(n.)
+15世紀中期，“將長篇作品摘要或總結”，源自晚期拉丁語的 extractum，是 extractus 的中性名詞，它是 extrahere 的過去分詞形式，意思是“抽出”（請參閱 [extract](https://www.etymonline.com/tw/word/extract) （v.））。 物理意義上的“被提取的物質”，尤其是“通過蒸餾或其他化學過程從物質中提取的物質”來源於1580年代。
 
 ---

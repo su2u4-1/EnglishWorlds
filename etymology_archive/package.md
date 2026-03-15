@@ -1,14 +1,10 @@
 # package
 
-## Origin and history of package
-### package(n.)
-
-1530年代，指“打包的行为”，源自 [pack](https://www.etymonline.com/word/pack)（名词，意为“包裹”）+ [-age](https://www.etymonline.com/word/-age) 后缀；也可能来自荷兰语的 pakkage，意为“行李”。现代主要意义“一个捆绑的物品，一个包裹，一定数量紧密压缩或打包在一起的东西”可以追溯到1722年。Package deal（整体交易）这个表达则出现在1952年，指的是作为一个整体达成的交易。
+## package(n.)
+1530年代，“打包的行爲”，來自 [pack](https://www.etymonline.com/tw/word/pack)（n.）+ [-age](https://www.etymonline.com/tw/word/-age)； 或來自同源的荷蘭語 pakkage “行李”。現代主要意義上的“一捆、一包、一批被壓縮或打包在一起的物品”可追溯至1722年。Package deal “作爲整體達成的交易”始於1952年。
 
 ---
-## package (related entry 1)
-### package(v.)
-
-“打包成一个包裹或包装”，这个词最早出现在1915年，来源于 [package](https://www.etymonline.com/word/package)（名词）。相关词汇包括 Packaged（已打包）和 packaging（包装）。
+## package(v.)
+“打包或裝入包裹”，1915年，源自 [package](https://www.etymonline.com/tw/word/package)（n.）。相關詞彙： Packaged， [packaging](https://www.etymonline.com/tw/word/packaging)。
 
 ---

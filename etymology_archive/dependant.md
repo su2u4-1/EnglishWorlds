@@ -1,22 +1,16 @@
 # dependant
 
-## Origin and history of dependant
-### dependant(n.)
-
-15世纪初，这个词最初出现在法律领域，指的是“从另一个行为中衍生出的行为”。它来源于形容词（参见 [dependent](https://www.etymonline.com/word/dependent)），或者是法语中形容词用法的名词化形式。从1580年代起，它被用来指“依赖他人以获得支持或恩惠的人”。
-
-与其相关词 [dependence](https://www.etymonline.com/word/dependence) 类似，这个词在18世纪之前与受拉丁语影响的变体（在此情况下为 dependent，源自拉丁语 dependere）并存。然而，这个词的法语拼写（dpendant，无论是形容词还是名词）在英语中似乎更为持久，可能是因为保留两种形式（名词用 dependant，形容词用 dependent）更为方便。
-
-不过，《世纪词典》（1897年）将所有含义归入 dependent，并写道：
+## dependant(n.)
+15世紀初，最初用於法律，“源於另一行動的行動”，源自形容詞（見 [dependent](https://www.etymonline.com/tw/word/dependent)）或法語中形容詞的名詞用法。從1580年代開始，它被用作“依賴他人支持或青睞的人”。
+與其相關的 [dependence](https://www.etymonline.com/tw/word/dependence) 一樣，它與拉丁語影響下的變體（在這種情況下爲 dependent，源自拉丁語 dependere)共存到18世紀，但是對於這個詞來說，法語拼寫（對於形容詞和名詞都是 dpendant)在英語中更加持久，可能是因爲保留兩個詞，一個（dependant)用於名詞，另一個（dependent)用於形容詞。
+但是，《世紀詞典》（1897）將所有意義都歸爲 dependent，並寫道：
 
 > As the spelling of this class of words depends solely upon whether they happen to be regarded as derived directly from the French or directly from the Latin, and as usage is divided, there is no good reason for insisting upon a distinction in spelling between the noun and the adjective ....
 
-> 由于这一类词的拼写仅取决于它们是被视为直接源自法语还是直接源自拉丁语，而用法又存在分歧，因此没有充分理由在名词和形容词之间坚持拼写上的区别……
+> 由於這類單詞的拼寫僅取決於它們是直接源自法語還是直接源自拉丁語，而且用法是分裂的，因此沒有充分的理由堅持在名詞和形容詞之間堅持拼寫上的區別....
 
 ---
-## dependant (related entry 1)
-### dependant(adj.)
-
-这是 [dependent](https://www.etymonline.com/word/dependent)（参见该词条）的变体拼写。有关拼写差异的说明，请参见 [dependant](https://www.etymonline.com/word/dependant)（名词）；另请参见 [-ance](https://www.etymonline.com/word/-ance)。
+## dependant(adj.)
+這是 [dependent](https://www.etymonline.com/tw/word/dependent) 的變體拼寫（參見該詞）。有關拼寫區分，請參見 [dependant](https://www.etymonline.com/tw/word/dependant)（名詞）；另請參閱 [-ance](https://www.etymonline.com/tw/word/-ance)。
 
 ---

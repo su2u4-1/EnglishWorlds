@@ -1,10 +1,8 @@
 # vulnerable
 
-## Origin and history of vulnerable
-### vulnerable(adj.)
+## vulnerable(adj.)
+「能被傷害的」，約公元1600年起使用，源自晚期拉丁語 vulnerabilis，意為「傷害」，來自拉丁語 vulnerare，意指「刺傷、傷害、損傷、致殘」，其詞根 vulnus（屬格 vulneris）意為「傷口」。這個詞可能與 vellere（意為「拔、撕扯」，參見 [svelte](https://www.etymonline.com/tw/word/svelte)）有關，或者源自原始印歐語 \*wele-nes-，來自 \*wele-（2）「打擊、傷害」（參見 [Valhalla](https://www.etymonline.com/tw/word/Valhalla)）。
 
-“能够受伤的”，大约公元1600年开始使用，源自晚期拉丁语 vulnerabilis，意为“致伤的”，进一步追溯到拉丁语 vulnerare，意为“伤害、损伤、致伤”，而 vulnus（属格 vulneris）则意指“伤口”。这个词可能与 vellere（意为“拔、撕”——参见 [svelte](https://www.etymonline.com/word/svelte)）有关，或者源自原始印欧语 \*wele-nes-，其中 \*wele-（2）意为“打击、伤害”（参见 [Valhalla](https://www.etymonline.com/word/Valhalla)）。
-
-到1790年，这个词在描述地点时被用来表示“易受攻击”。至少在1600年左右，有一种早期用法是指“能够致伤的，危险的”。此外，还有一些早期的、现已不常用的形式，如 vulnerate（动词，意为“伤害”）大约出现于1500年，以及 vulneration（名词，意为“致伤”）大约出现在15世纪初。
+到了1790年，這個詞在描述地點時開始用來形容「易受攻擊」。至少有一個早期用法是指「能夠傷害的，危險的」（約公元1600年）。在此之前，還有一些現在已經不再使用的詞彙，如 vulnerate（動詞，意為「刺傷」，約公元1500年）和 vulneration（名詞，意為「傷害」，15世紀初）。
 
 ---

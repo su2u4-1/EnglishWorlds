@@ -1,12 +1,8 @@
 # absolute
 
-## Origin and history of absolute
-### absolute(adj.)
-
-在14世纪末，absolute 这个词的意思是“无限制的，摆脱限制的；完整的，完美的，毫无缺陷的”。此外，它还可以表示“与其他事物无关的”，这个用法出现在15世纪中期。这个词源于拉丁语 absolutus，它是动词 absolvere 的过去分词，意思包括“解放，免除；完成，结束；使分离”。其中，ab 表示“离开，远离”（参见 [ab-](https://www.etymonline.com/word/ab-)），而 solvere 则意为“松开，解开，释放，分离”。这个词的原始印欧语根 \*se-lu- 来自反身代词 \*s(w)e-（参见 [idiom](https://www.etymonline.com/word/idiom)），再加上词根 [*leu-](https://www.etymonline.com/word/*leu-)，意为“松开，分开，切开”。
-
-这个词的意义演变可能是从“分离，脱离”逐渐发展到“完美，纯粹”。在1610年代，它还被用来形容“专制的”，这是因为人们联想到“在地位上绝对的”。例如，absolute monarchy（绝对君主制）这个词最早出现在1735年，而 absolute king（绝对国王）则可以追溯到1610年代。作为语法术语，这个用法出现在14世纪末。
-
-在天文学中，Absolute magnitude（绝对星等，1902年）指的是一颗星星在距离地球10秒差距（约32.6光年）时的亮度。而科学上的 absolute value（绝对值）则起源于1907年。在形而上学中，名词 the absolute（绝对，1809年）指的是“无条件的，摆脱限制的存在；非相对的事物”。
+## absolute(adj.)
+14世紀末，“無限制的，沒有限制的； 完美的，沒有瑕疵的”； 同時也指“與其他事物無關的”（15世紀中葉），源自拉丁語 absolutus，過去分詞形式爲 absolvere，“釋放，宣判無罪； 完成，結束； 使分離”，由 ab “離開，遠離”（參見 [ab-](https://www.etymonline.com/tw/word/ab-)）和 solvere “解開，鬆開，釋放，分離”組成，源自 PIE \*se-lu-，由反身代詞 \*s(w)e-（參見 [idiom](https://www.etymonline.com/tw/word/idiom)）和詞根 [*leu-](https://www.etymonline.com/tw/word/*leu-) “解開，分開，切割”組成。
+意義的演變可能是從“分離的，脫離的”到“完美的，純粹的”。指“專制的”（1610年代）源於“地位絕對”的概念； absolute monarchy 記錄於1735年（absolute king 記錄於1610年代）。語法意義可追溯至14世紀末。
+Absolute magnitude（1902年）是指一顆星星在10秒差距（或32.6光年）距離上的亮度； 科學 absolute value 源自1907年。作爲形而上學名詞， the absolute 指“無條件或無限制的事物； 非相對的事物”，始於1809年。
 
 ---

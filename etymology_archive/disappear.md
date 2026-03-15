@@ -1,12 +1,10 @@
 # disappear
 
-## Origin and history of disappear
-### disappear(v.)
+## disappear(v.)
+早在15世紀，disaperen這個詞就出現了，意思是「停止可見，從視線中消失，不再被看到」。它來自於[dis-](https://www.etymonline.com/tw/word/dis-)，表示「做某事的反義」，加上[appear](https://www.etymonline.com/tw/word/appear)。更早的形式是disparish（15世紀初），源自法語disparaiss-，這是desapparoistre的詞幹（現代法語是disparaître）。在15世紀中期，還有unappear這個變體。
 
-早在15世纪初，disaperen这个词就出现了，意思是“停止可见，消失不见，不再被看到”。它由[dis-](https://www.etymonline.com/word/dis-)（表示“相反”）和[appear](https://www.etymonline.com/word/appear)（“出现”）组合而成。更早的形式是disparish（15世纪初），源自法语的disparaiss-，这是desapparoistre（现代法语为disparaître）的词干。15世纪中期，还有unappear这个词被使用。
+作為及物動詞，「使消失」的用法在1897年於化學領域被證實；到1948年，這個詞也開始用來形容那些令人厭煩的人。相關詞彙還包括Disappeared（已消失）、disappearing（正在消失）、disappears（消失）。
 
-这个词作为及物动词“使……消失”的用法在1897年首次出现在化学领域；到1948年，它开始被用来指代那些令人厌烦的人。相关词汇包括：Disappeared（已消失）、disappearing（正在消失）、disappears（消失）。
-
-俚语disappearing act（“消失的行为”）指的是“潜逃，逃离”的行为，最早可以追溯到1884年，可能最初是指魔术表演中的消失技巧。
+俚語disappearing act，意指「潛逃的事實，逃脫的行動」，最早出現在1884年，可能最初是指魔術表演中的消失把戲。
 
 ---

@@ -1,9 +1,7 @@
 # involve
 
-## Origin and history of involve
-### involve(v.)
-
-这个词最早出现在14世纪晚期，意思是“包围、笼罩；使模糊或不清”。它源自古法语的 involver，直接来自拉丁语的 involvere，意为“包裹、围绕、压倒”，字面意思是“卷入”。这个词由 in-（意为“在……之中”，源自原始印欧语词根 [*en](https://www.etymonline.com/word/*en)，表示“在……之中”）和 volvere（意为“滚动”，来自原始印欧语词根 [*wel-](https://www.etymonline.com/word/*wel-) (3)，意为“转动、旋转”）组合而成。到了15世纪中期，这个词开始用于表示“关心自己”。大约1600年，它首次被记录为“吸收、包含”的意思。相关词汇包括 [Involved](https://www.etymonline.com/word/Involved)（涉及）和 Involving（正在涉及）。
+## involve(v.)
+14世紀晚期，“包圍，環繞； 使模糊或不清晰”，源自古法語 involver，直接源自拉丁語 involvere “包圍，環繞，壓倒”，字面意思是“捲入”，由 in- “在”（源自 PIE 詞根 [*en](https://www.etymonline.com/tw/word/*en) “在”）和 volvere “捲動”組成，源自 PIE 詞根 [*wel-](https://www.etymonline.com/tw/word/*wel-)（3）“轉動，旋轉”。15世紀中期表示“關心自己”。1600年左右首次記錄了“包括，包含”的意義。相關詞彙： [Involved](https://www.etymonline.com/tw/word/involved)； Involving。
 
 > Obscurest night involved the sky,
 
@@ -11,10 +9,10 @@
 
 > [Cowper, "The Castaway"]
 
-> 最黑暗的夜幕笼罩着天空，
+> 最黑暗的夜晚籠罩了天空，
 
-> 大西洋的波涛怒吼着，
+> 大西洋的波濤洶涌，
 
-> [考珀，《被抛弃者》]
+> [考珀，《被遺棄者》]
 
 ---

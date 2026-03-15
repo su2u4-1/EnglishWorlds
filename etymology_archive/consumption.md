@@ -1,8 +1,6 @@
 # consumption
 
-## Origin and history of consumption
-### consumption(n.)
-
-14世纪晚期，指“因疾病导致的身体消耗，消耗性疾病，逐渐消瘦”，取代了古英语中的 yfeladl（意为“恶性疾病”）。这个词源于古法语的 consumpcion，而古法语又源自拉丁语的 consumptionem（主格形式为 consumptio），意为“消耗，浪费”。它是一个名词，表示状态，来自拉丁动词 consumere，意为“用尽，吃掉，浪费”。这个动词由前缀 com-（在这里可能起到强调作用，参见 [com-](https://www.etymonline.com/word/com-)）和 sumere（意为“取，拿”）构成。sumere 又可以追溯到 sub-（意为“在……之下”，参见 [sub-](https://www.etymonline.com/word/sub-)）和 emere（意为“购买，获取”，源自原始印欧词根 [*em-](https://www.etymonline.com/word/*em-)，意为“拿，分配”）。到了1530年代，这个词的意义扩展为“消耗的行为，物质的使用与浪费，因使用而导致的破坏”。
+## consumption(n.)
+14世紀晚期，“身體因疾病而消耗; 消耗性疾病，進行性消瘦”（取代了古英語 yfeladl “邪惡的疾病”），源自古法語 consumpcion，來自拉丁語 consumptionem（主格 consumptio）“使用，浪費”，是 consumere 的過去分詞詞幹，意爲“使用，吃，浪費”，來自 com-, 這裏可能是一個強調前綴（見 [com-](https://www.etymonline.com/tw/word/com-)），加上 sumere “拿”，來自 sub- “在...下”（見 [sub-](https://www.etymonline.com/tw/word/sub-)) + emere “購買，拿”（來自 PIE 詞根 [*em-](https://www.etymonline.com/tw/word/*em-) “拿，分配”）。指“消耗行爲，物質的使用，使用中的破壞”是在1530年代。
 
 ---

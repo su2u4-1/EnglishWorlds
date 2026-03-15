@@ -1,8 +1,6 @@
 # effective
 
-## Origin and history of effective
-### effective(adj.)
-
-14世纪晚期，意为“能实现预期目的的”，源自古法语 effectif，进一步追溯到拉丁语 effectivus，意思是“有生产力的，有效的”。这个词来自 effect-，是 efficere 的词干，意为“完成，达成”（参见 [effect](https://www.etymonline.com/word/effect) (n.)）。在军事领域，这个词的意思是“适合行动或执行任务”，大约出现在1680年代。
+## effective(adj.)
+14世紀晚期，源自古法語的 effectif，起“用於實現既定目標的”之義，起源於拉丁語的 effectivus，意爲“富有成效的、有效的”，同時源自 effect-， efficere 的詞源，指“實現、完成”（參閱 [effect](https://www.etymonline.com/tw/word/effect#etymonline_v_1015) (n.)）。在軍事特指中，意爲“適應行動或任務的”，最早見於1680年代。
 
 ---

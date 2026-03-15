@@ -1,8 +1,6 @@
 # necessarily
 
-## Origin and history of necessarily
-### necessarily(adv.)
-
-14世纪末，necesserili，意为“不可避免地，必然地，无法改变地”，源自 [necessary](https://www.etymonline.com/word/necessary)（形容词）+ [-ly](https://www.etymonline.com/word/-ly)（第二个词缀）。大约1500年起，开始用来表示“必然的结果或后果”。
+## necessarily(adv.)
+"必然地，不可避免地，以至於無法改變"，源於14世紀晚期的 necesserili，由 [necessary](https://www.etymonline.com/tw/word/necessary)（形容詞）和 [-ly](https://www.etymonline.com/tw/word/-ly)（2）組成。自1500年以來，意爲"必然的結果或後果"。
 
 ---

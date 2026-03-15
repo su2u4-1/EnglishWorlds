@@ -1,8 +1,6 @@
 # reside
 
-## Origin and history of reside
-### reside(v.)
-
-15世纪晚期，residen，意为“停留在某地”，源自古法语的resider（15世纪），直接来自拉丁语的residere，意思是“坐下、定居；留下、休息、徘徊；被留下”。这个词由re-（意为“回、再”，参见[re-](https://www.etymonline.com/word/re-)）和sedere（意为“坐”，源自原始印欧词根[*sed-](https://www.etymonline.com/word/*sed-) (1)，意为“坐”）组合而成。到1570年代，这个词的意思发展为“永久或较长时间居住”。相关词汇包括Resided（已居住）和residing（正在居住）。这个词也影响了荷兰语的resideren和德语的residiren。
+## reside(v.)
+15世紀晚期， residen，意爲“停留在一個地方”，源自15世紀的古法語 resider，直接源自拉丁語 residere，意爲“坐下，安定； 留下，休息，逗留； 被遺留”，由 re- “向後，再次”（見 [re-](https://www.etymonline.com/tw/word/re-))和 sedere “坐”（源自 PIE 根 [*sed-](https://www.etymonline.com/tw/word/*sed-)（1）“坐”）組成。意爲“永久或長時間居住”的含義可追溯至1570年代。相關詞彙： Resided； residing。荷蘭語 resideren，德語 residiren 也源自法語單詞。
 
 ---

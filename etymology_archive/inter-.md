@@ -1,10 +1,7 @@
 # inter-
 
-## Origin and history of inter-
-### inter-
-
-这个词缀在英语中使用广泛，意为“在……之间、在……之中、在……期间”，源自拉丁语的 inter（介词、副词），意思是“在……之间、在……之中”，同时也常作为前缀使用。它的词源可以追溯到原始印欧语的 \*enter，意为“在……之间、在……之中”。这个词根还衍生出梵语的 antar、古波斯语的 antar（均意为“在……之间”）、希腊语的 entera（复数，意为“肠子”）、古爱尔兰语的 eter、古威尔士语的 ithr（均意为“在……之间”）、哥特语的 undar 和古英语的 under（意为“在……之下”）。它实际上是词根 [*en](https://www.etymonline.com/word/*en) 的比较级，表示“在……之中”。
-
-在英语中，这个前缀自15世纪起就活跃地使用，既用于日耳曼语词汇，也用于拉丁语词汇。在法语中拼写为 entre-；大多数从法语借入英语的单词在16世纪被重新拼写，以符合拉丁语的拼写规则，只有 [entertain](https://www.etymonline.com/word/entertain)（娱乐）、[enterprise](https://www.etymonline.com/word/enterprise)（企业）等少数例外。在拉丁语中，这个前缀在 -l- 前的拼写逐渐演变为 intel-，因此我们看到 [intelligence](https://www.etymonline.com/word/intelligence)（智力）等词的出现。
+## inter-
+這是一個在英語中自由使用的詞綴，表示“在...之間，期間”，源自拉丁語 inter（介詞，副詞）“在...之間，中間”（也廣泛用作前綴），源自原始印歐語言 \*enter “在...之間，中間”（源頭還包括梵語 antar，古波斯語 antar “在...之間”，希臘語 entera（複數）“腸道”，古愛爾蘭語 eter，古威爾士語 ithr “在...之間”，哥特語 undar，古英語 under “在...之下”），是詞根 [*en](https://www.etymonline.com/tw/word/*en) “在...之內”的比較級。
+這個詞綴在15世紀開始在英語中使用，並與日耳曼語和拉丁語詞彙一起使用。在法語中拼寫爲 entre-； 大多數以這種形式借入英語的詞彙在16世紀重新拼寫爲拉丁語形式，除了 [entertain](https://www.etymonline.com/tw/word/entertain)， [enterprise](https://www.etymonline.com/tw/word/enterprise)。在拉丁語中，拼寫在 -l- 前轉變爲 intel-，因此有 [intelligence](https://www.etymonline.com/tw/word/intelligence) 等詞彙。
 
 ---

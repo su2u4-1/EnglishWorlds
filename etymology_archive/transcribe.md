@@ -1,10 +1,8 @@
 # transcribe
 
-## Origin and history of transcribe
-### transcribe(v.)
+## transcribe(v.)
+「抄寫下來」，出現於1550年代，源自拉丁語 transcribere，意指「複製、在另一個地方重寫、覆寫、轉移」，由 trans（意為「穿越、超越；在……之上」，參見 [trans-](https://www.etymonline.com/tw/word/trans-)）和 scribere（意為「書寫」，來自原始印歐語根 [*skribh-](https://www.etymonline.com/tw/word/*skribh-)，意為「切割」）組成。
 
-“抄写，书写”，这个词在1550年代出现，源自拉丁语 transcribere，意为“复制，重新在另一个地方书写，覆盖书写，转移”。它由 trans（意为“穿越，超越；在……之上”，参见 [trans-](https://www.etymonline.com/word/trans-)）和 scribere（意为“书写”，源自原始印欧语词根 [*skribh-](https://www.etymonline.com/word/*skribh-)，意为“切割”）组合而成。
-
-如果抄写得很糟糕，可以称之为 transcribble（托马斯·格雷在1746年的一封信中提到）。威克里夫（14世纪末）使用 transcrive，这个词来自古法语 transcrivre，是 transcrire 的一种变体。相关词汇还有：Transcribed（已抄写），transcriber（抄写员），transcribing（正在抄写）。
+如果抄寫得很糟，就可以稱之為 transcribble（托馬斯·格雷在1746年的一封信中提到）。威克里夫（14世紀末）使用 transcrive，這來自古法語 transcrivre，是 transcrire 的變體。相關詞彙包括：Transcribed（已抄寫）、transcriber（抄寫者）、transcribing（正在抄寫）。
 
 ---

@@ -1,8 +1,6 @@
 # childhood
 
-## Origin and history of childhood
-### childhood(n.)
-
-“儿童的状态；从出生到青春期的生活阶段”，来自中古英语 childhod，源自古英语 cildhad；参见 [child](https://www.etymonline.com/word/child) + [-hood](https://www.etymonline.com/word/-hood)。德语中也有类似的构词法 Kindheit。
+## childhood(n.)
+"兒童狀態； 從出生到青春期的人生階段，"中古英語的來源爲 childhod，源自古英語的 cildhad； 參見 [child](https://www.etymonline.com/tw/word/child) 和 [-hood](https://www.etymonline.com/tw/word/-hood)。德語也採用類似的構成爲 Kindheit。
 
 ---

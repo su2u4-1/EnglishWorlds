@@ -1,10 +1,7 @@
 # quotation
 
-## Origin and history of quotation
-### quotation(n.)
-
-15世纪中期，“编号”的意思，后来在1530年代演变为“边注符号”，这个名词来源于动词 [quote](https://www.etymonline.com/word/quote)，或者源自中世纪拉丁语 quotationem（主格 quotatio），它是从过去分词 quotare（意为“编号”）演变而来的。
-
-“引用或引述的行为”这一含义出现在1640年代；而“被引用的段落，作为他人发言或著作的重复部分”则出现在1680年代。至于“商品或股票的当前报价，已公布的价格”，则是在1812年出现的。Quotation mark，用于标示引用的开始和结束的符号，最早可以追溯到1777年。
+## quotation(n.)
+15世紀中期，“編號”，後來（1530年代）“邊注”，動作名詞來自 [quote](https://www.etymonline.com/tw/word/quote)（動詞），或者來自中世紀拉丁語 quotationem（格 quotatio），動作名詞來自 quotare “編號”的過去分詞詞幹。
+“引用或引述的行爲”意思來自1640年代； “引用的段落，重複或引用他人的發言或寫作”意思來自1680年代。 “商品或股票的當前價格，如公佈的價格”是從1812年開始的。 Quotation mark，引用開始和結束的標記之一，可以追溯到1777年。
 
 ---

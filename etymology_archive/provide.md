@@ -1,9 +1,7 @@
 # provide
 
-## Origin and history of provide
-### provide(v.)
-
-15世纪初，providen，意为“为未来做好准备；安排、计划；照顾、减轻需求，满足需求”，源自拉丁语providere，意思是“预见、准备、供应、具备远见”，由pro（意为“向前”，源自原始印欧词根[*per-](https://www.etymonline.com/word/*per-) (1)，“前进”）和videre（意为“看见”，源自原始印欧词根[*weid-](https://www.etymonline.com/word/*weid-)，“看见”）构成。相关词汇包括[Provided](https://www.etymonline.com/word/Provided)（已提供）；providing; providance（“提供的行为或状态”，1740年起）。在同一语境下，还有一个双胞词[purvey](https://www.etymonline.com/word/purvey)，同样源自拉丁语动词，但在古法语中变形为pourvoir。
+## provide(v.)
+15世紀早期， providen，“爲未來做準備； 安排，計劃； 照顧，滿足需求，供應需求”，源自拉丁語 providere “展望未來，準備，供應，具有遠見”，由 pro “向前”（源自 PIE 詞根 [*per-](https://www.etymonline.com/tw/word/*per-)（1）“向前”）和 videre “看見”（源自 PIE 詞根 [*weid-](https://www.etymonline.com/tw/word/*weid-) “看見”）組成。相關詞彙： [Provided](https://www.etymonline.com/tw/word/provided)； providing。早期同義詞爲 [purvey](https://www.etymonline.com/tw/word/purvey)，源自同一拉丁動詞，在古法語中變形爲 pourvoir。
 
 > No memory of having starred
 
@@ -19,18 +17,18 @@
 
 > [Robert Frost, from "Provide, Provide"]
 
-> 没有人记得曾经闪耀过，
+> 沒有成爲主角的記憶
 
-> 这并不能弥补后来的忽视，
+> 無法彌補後來的忽視
 
-> 或者让结局变得不那么艰难。
+> 或使結局變得容易
 
-> 宁愿以尊严的方式陨落，
+> 寧願端莊地離去
 
-> 身边有买来的友谊相伴，
+> 帶着買來的友誼
 
-> 总比孤身一人要好。提供，提供！
+> 也勝過一無所有。提供，提供！
 
-> [罗伯特·弗罗斯特，《Provide, Provide》]
+> [羅伯特·弗羅斯特，《提供，提供》]
 
 ---

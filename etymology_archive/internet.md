@@ -1,8 +1,6 @@
 # internet
 
-## Origin and history of internet
-### internet(n.)
-
-1984年，指“美国国防部的计算机网络连接”，是从internetwork、inter-network缩写而来，这些词自1972年起用于描述（当时假想的）由许多独立计算机组成的网络。它由[inter-](https://www.etymonline.com/word/inter-)（意为“之间”）和[network](https://www.etymonline.com/word/network)（名词，意为“网络”）组合而成。根据美联社风格指南，从2016年起，该词小写书写。
+## internet(n.)
+1984年，“美國國防部的聯網計算機網絡”，縮寫自 internetwork， inter-network，該術語自1972年起用於涉及許多獨立計算機的（當時假設的）網絡。源自 [inter-](https://www.etymonline.com/tw/word/inter-) “之間”+ [network](https://www.etymonline.com/tw/word/network)（n.）。美聯社風格指南於2016年將其首字母小寫。
 
 ---

@@ -1,24 +1,15 @@
 # break
 
-## Origin and history of break
-### break(v.)
-
-古英语中的 brecan 意思是“将固体物质猛烈地分裂成碎片或部分；伤害、违反（承诺等）、摧毁、削减；闯入、冲入；突然出现、跳出；征服、驯服”（属于第四类强变化动词，过去式为 bræc，过去分词为 brocen）。这个词源自原始日耳曼语 \*brekanan，与古弗里斯语 breka、荷兰语 breken、古高地德语 brehhan、德语 brechen 和哥特语 brikan 同源，最终源自印欧语根 [*bhreg-](https://www.etymonline.com/word/*bhreg-)，意为“打破”。
-
-这个词与 [breach](https://www.etymonline.com/word/breach)（名词）、[brake](https://www.etymonline.com/word/brake)（名词1）、[brick](https://www.etymonline.com/word/brick)（名词）密切相关。古英语中的过去式 brake 现已过时或显得古老；过去分词通常是 [broken](https://www.etymonline.com/word/broken)，但简化形式 broke 从14世纪起就有记录，并在17世纪至18世纪期间“极为常见”[OED]。
-
-在古英语中，这个词最初多用于描述骨头的断裂。过去也用于形容布、纸等物品的破损。14世纪晚期起，它还引申出“通过破坏某种封闭物逃脱”的意思。12世纪晚期，这个词开始用于不及物动词，表示“在某种力量作用下分裂成碎片或部分”。15世纪晚期，它又引申出“减少、削弱”的含义。13世纪初期，它被用来表示“首次部分性披露”。1741年起，这个词被用来描述“以某种方式破坏连续性或完整性”。至1882年，它又专门指代“将硬币或纸币兑换成较小面额的货币”。
-
-自13世纪初起，这个词开始用于描述心脏（不及物动词）；而 break (someone's) heart 则出现在14世纪晚期。Break bread（分享食物）同样起源于14世纪晚期。Break ground（开工）最早出现在17世纪，最初意为“挖掘、耕作”，而从1709年起，它又被引申为“开始实施计划”。Break the ice（打破初次见面的拘谨）大约出现在1600年，形象地描绘了陌生人相遇时的“冷漠”。Break wind 则可追溯至16世纪50年代。至于 break (something) out（1890年代）可能源自码头工作，形象地描述了在卸货前解放货物的过程。
-
-在戏剧界，break a leg（祝好运）的讽刺性表达大约出现在1948年，但据说早在1920年代就已流行。这一表达在德语中有类似的说法，如 Hals- und Beinbruch（“祝你脖子和腿都折断”），意为祝好运；意大利语中也有类似的表达 in bocca al lupo（“愿你在狼口中”）。这反映了这一行业的高度迷信（参见 [Macbeth](https://www.etymonline.com/word/Macbeth)）。根据 Farmer & Henley 的说法，17世纪时，这个表达曾被用作委婉语，专指女性“生下私生子”。
+## break(v.)
+古英語 brecan “將固體物質猛烈分裂成部分或碎片； 侵犯，違反（承諾等），破壞，縮短； 闖入，衝入； 爆發，噴出； 征服，馴服”（第四類強動詞； 過去式 bræc，過去分詞 brocen），源自原始日耳曼語 \*brekanan（源頭還包括古弗裏西亞語 breka，荷蘭語 breken，古高地德語 brehhan，德語 brechen，哥特語 brikan），源自 PIE 詞根 [*bhreg-](https://www.etymonline.com/tw/word/*bhreg-) “打破”。
+與 [breach](https://www.etymonline.com/tw/word/breach)（名詞）， [brake](https://www.etymonline.com/tw/word/brake)（名詞1）， [brick](https://www.etymonline.com/tw/word/brick)（名詞）密切相關。古老的過去式 brake 已經過時或古老； 過去分詞是 [broken](https://www.etymonline.com/tw/word/broken)，但簡化形式 broke 自14世紀以來已經被證實，並且在17世紀至18世紀“非常普遍”[OED]。
+在古英語中用於骨骼。以前也用於布料，紙張等。意思是“通過打破圍欄逃脫”始於14世紀晚期。不及物動詞的意思是“在某種力的作用下分裂成碎片或部分或變得分裂”始於12世紀晚期。意思是“減少，損害”始於15世紀晚期。最初和部分披露的意思始於13世紀早期。任何方式破壞連續性或完整性的意義始於1741年。關於硬幣或鈔票，“將其轉換爲更小的貨幣單位”，始於1882年。
+早在13世紀（不及物動詞）就涉及到心臟； 到 break (someone's) heart 是在14世紀晚期。 Break bread “分享食物”（與）始於14世紀晚期。到 break ground 是從1670年代開始的“挖掘，犁地”，從1709年開始引申爲“開始執行計劃”。到 break the ice “克服新交際中的拘束感”始於大約1600年，指陌生人的“冷漠”相遇。到 Break wind 始於1550年代。到 break (something) out（1890年代）可能是碼頭工作的形象，指在卸貨之前釋放貨物。
+具有諷刺意味的戲劇好運公式 break a leg（到1948年，據說至少可以追溯到20世紀20年代）在德語 Hals- und Beinbruch “斷頸和腿”和意大利語 in bocca al lupo 中有類似之處。高度迷信的手藝的證據（見 [Macbeth](https://www.etymonline.com/tw/word/Macbeth)）。根據法爾默和亨利，在17世紀，這個表達被委婉地用於女人，“生下私生子”。
 
 ---
-## break (related entry 1)
-### break(n.)
-
-大约公元1300年，[break](https://www.etymonline.com/word/break)（动词）开始被用来表示“破裂、强行分离或中断”的行为。break of day（黎明）的用法出现在1580年代，意指“清晨第一缕光线的出现”。而“从一种状态、地点或情况突然转变为另一种”的含义则是在1725年出现的。
-
-“短暂的工作间歇”（最初指学校课间休息）的用法始于1861年。1911年，该词被用来表示“好运气”，可能源自台球（在台球中，break指的是击打整齐排列的球并开始游戏，这一用法可追溯至1865年）。“仁慈的举动”这一含义则出现在1914年。1920年代，该词在爵士乐中被用来指“即兴演奏的乐段或独奏”。而在广播领域的用法则始于1941年。
+## break(n.)
+公元1300年左右，“打破，強制分離或分裂的行爲”，源自 [break](https://www.etymonline.com/tw/word/break)（動詞）。break of day 中“早晨第一縷光線的出現”一詞的意義可追溯到1580年代； “突然、明顯地從一種情況、地點或狀態轉變爲另一種”的意義則始於1725年。
+“工作間隔的短暫時間”（最初指學校課間休息）的意義源於1861年。1911年開始出現“幸運的一擊”的含義，可能是從檯球中的意象引申而來（檯球中的 break 撞散有序的球並開始遊戲的動作可追溯到1865年）。“仁慈的一擊”的意義始於1914年。爵士音樂中“即興段落，獨奏”的意義始於1920年代。廣播的意義始於1941年。
 
 ---

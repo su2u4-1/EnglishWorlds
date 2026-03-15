@@ -1,26 +1,18 @@
 # lying
 
-## Origin and history of lying
-### lying(n.1)
-
-“reclining”，13世纪初，源自动词 [lie](https://www.etymonline.com/word/lie)（v.2），意为“躺下”或“斜倚”。Lying-in，指“产妇卧床”，最早可追溯到15世纪中期。
+## lying(n.1)
+"躺着的"，13世紀早期，來自 [lie](https://www.etymonline.com/tw/word/lie)（v.2）"躺下"。中15世紀中期出現了 Lying-in "分娩"。
 
 ---
-## lying (related entry 1)
-### lying(n.2)
-
-“不诚实，虚假”，大约公元1300年，指“说谎”，是动名词形式，来源于 [lie](https://www.etymonline.com/word/lie)（动词1），意为“说不真实的话”。
+## lying(n.2)
+"不真實，虛假"，約1300年，"說謊"，是 [lie](https://www.etymonline.com/tw/word/lie#etymonline_v_9487) (v.1) "說不實話"的動詞名詞。
 
 ---
-## lying (related entry 2)
-### lying(adj.1)
-
-“being prostrate”，这个词源于晚期古英语，是一个现在分词形容词，来自于动词 [lie](https://www.etymonline.com/word/lie)（v.2），意为“躺下”或“俯卧”。
+## lying(adj.1)
+"俯臥的"，晚期古英語，來自 [lie](https://www.etymonline.com/tw/word/lie#etymonline_v_9488) (v.2) "躺下"的現在分詞形容詞。
 
 ---
-## lying (related entry 3)
-### lying(adj.2)
-
-“不诚实的”，13世纪初，作为现在分词形容词，源自 [lie](https://www.etymonline.com/word/lie)（动词1）“说谎”。相关词：Lyingly。
+## lying(adj.2)
+"不真實的"，13世紀初，來自 [lie](https://www.etymonline.com/tw/word/lie)（v.1）"說謊"的現在分詞形容詞。相關詞彙： Lyingly。
 
 ---

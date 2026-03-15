@@ -1,22 +1,15 @@
 # associate
 
-## Origin and history of associate
-### associate(v.)
-
-大约在15世纪中期，这个词的意思是“加入某个团体，亲密结合”（及物动词），源自拉丁语 associatus，是 associare 的过去分词，意为“与……结合”。这个词的构成可以追溯到拉丁语的 ad（意为“向……”，参见 [ad-](https://www.etymonline.com/word/ad-)）和 sociare（意为“与……联合”），而 socius 则意为“伙伴，盟友”，它源自原始印欧语词根 [*sekw-](https://www.etymonline.com/word/*sekw-) (1)，意为“跟随”。相关词汇包括 Associated（已关联）和 associating（正在关联）。
-
-这个词作为不及物动词，表示“交往，建立联系”的用法出现在17世纪40年代。早期的动词形式是 associen（14世纪末），源自古法语 associier，意为“与……关联”。
+## associate(v.)
+15世紀中葉，"結伴，親密結合"（及物動詞），源自拉丁語 associatus， associare 的過去分詞，意爲"與...結合"，來自 ad 的同化形式，意爲"向"（參見 [ad-](https://www.etymonline.com/tw/word/ad-)）+ sociare "與...結合"，源自 socius "夥伴，盟友"（源自 PIE 詞根 [*sekw-](https://www.etymonline.com/tw/word/*sekw-#etymonline_v_52631) (1) "跟隨"的後綴形式）。相關詞： Associated； associating。
+"有交往，有關聯"的不及物動詞意義始於1640年代。這個動詞的早期形式是 associen（14世紀晚期），源自舊法語 associier "與...結伴"。
 
 ---
-## associate (related entry 1)
-### associate(n.)
-
-1530年代，指“在利益或商业上有合作关系的人”，源自 [associate](https://www.etymonline.com/word/associate)（形容词）。而“被接纳为较低级别会员的人”这一含义则始于1812年。
+## associate(n.)
+1530年代，“利益或業務的合夥人”，來自 [associate](https://www.etymonline.com/tw/word/associate)（形容詞）。意思是“被允許成爲下級會員”的人，始於1812年。
 
 ---
-## associate (related entry 2)
-### associate(adj.)
-
-在15世纪初，这个词的意思是“结盟的，相关的，成对的；在某个兴趣、目标、工作或目的上联合的”。它源自拉丁语的 associatus，是 associare 的过去分词，意为“与……联合”。这个词的构成可以追溯到拉丁语的 ad（意为“向……”，参见 [ad-](https://www.etymonline.com/word/ad-)）和 sociare（意为“与……联合”），而 sociare 又来自 socius，意为“伙伴，盟友”。其词源可以追溯到原始印欧语的 \*sokw-yo-，这是 [*sekw-](https://www.etymonline.com/word/*sekw-)（意为“跟随”）的派生形式。
+## associate(adj.)
+15世紀早期，“聯盟的，連接的，成對的； 在利益、目標、職業或目的上聯合”，源自拉丁語 associatus， associare 的過去分詞，“加入”，來自於 ad “到”（見 [ad-](https://www.etymonline.com/tw/word/ad-)）和 sociare “聯合”，來自於 socius “夥伴，盟友”，源自於 PIE \*sokw-yo-， [*sekw-](https://www.etymonline.com/tw/word/*sekw-)（1）的後綴形式，“跟隨”。
 
 ---

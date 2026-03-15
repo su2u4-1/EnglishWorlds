@@ -1,26 +1,18 @@
 # express
 
-## Origin and history of express
-### express(v.1)
-
-14世纪晚期，表示“在视觉艺术中表现；用语言表达”。这个词源于古法语的 espresser 和 expresser，意为“压榨，挤出；表达自己的想法”（现代法语为 exprimer）。它可以追溯到中世纪拉丁语的 expressare，这是拉丁语 exprimere 的频用形式，意为“表现，描述，描绘，模仿，翻译”，字面意思是“压榨出来”。这个词的演变可能经历了一个中介意义，比如“在压力下成型的粘土等图像”，源自 ex（意为“外，出”）（参见 [ex-](https://www.etymonline.com/word/ex-)）+ pressare（意为“压，推”），而 pressare 又源自拉丁语 premere（意为“压，紧握，覆盖，拥挤，压缩”），其原始印欧词根是 [*per-](https://www.etymonline.com/word/*per-) (4)（意为“打击”）。相关词汇包括：Expressed（已表达），expresses（表达），expressing（正在表达），expressible（可表达的）。
+## express(v.1)
+14世紀晚期，“在視覺藝術中表現； 用言語表達”，源自古法語 espresser， expresser “擠壓出； 說出心裏話”（現代法語 exprimer），中世紀拉丁語 expressare，拉丁語 exprimere 的頻率動詞，“描繪，描述，描繪，模仿，翻譯”，字面意思是“擠壓出”（源自意大利語 espresso）； 這裏的意義演變可能是通過一箇中間意義，例如“在壓力下形成圖像的粘土等”，來自 ex “出”（見 [ex-](https://www.etymonline.com/tw/word/ex-)) + 拉丁語 pressare “壓，推”，來自拉丁語 premere “壓，緊握，覆蓋，擁擠，壓縮”（源自 PIE 根 [*per-](https://www.etymonline.com/tw/word/*per-)（4）“打擊”）。相關： Expressed； expresses； expressing； expressible。
 
 ---
-## express (related entry 1)
-### express(adj.)
-
-14世纪晚期，“明确说明的，不是暗示的，清楚表述的”，源自古法语 espres、expres（13世纪），进一步追溯到拉丁语 expressus，意为“清晰呈现的，明确的，精确表达的”，是动词 exprimere 的过去分词（参见 [express](https://www.etymonline.com/word/express) (v.1)）。此外，14世纪晚期也用作副词，意指“特别地，故意地”；在古法语中，这个词也可以作为副词使用。express 列车（1841年）最初指的是开往特定车站的列车。
+## express(adj.)
+14世紀後期，“明確陳述，不暗示，清楚地表明”來自古法語 espres， expres（13世紀），源自拉丁語 expressus “清晰呈現，明確，精確表達”的過去分詞，源自 exprimere（見 [express](https://www.etymonline.com/tw/word/express)（v.1））。同時，14世紀後期也作爲副詞，“特別地，有目的地”； 在古法語中也是副詞。1841年， express 火車最初是指到達某個車站的火車。
 
 ---
-## express (related entry 2)
-### express(v.2)
-
-“通过快递服务发送”，1716年，来源于 [express](https://www.etymonline.com/word/express)（名词）。
+## express(v.2)
+"通過快遞服務發送"，1716年，來自 [express](https://www.etymonline.com/tw/word/express#etymonline_v_50414) (n.)。
 
 ---
-## express (related entry 3)
-### express(n.)
-
-1610年代，指“特派专使”，源自 [express](https://www.etymonline.com/word/express)（形容词）。“发送金钱或包裹的业务或系统”这一意义出现于1794年。
+## express(n.)
+1610年代，“特別信使”，來自 [express](https://www.etymonline.com/tw/word/express)（形容詞）。“發送貨物或金錢的業務或系統”的意義始於1794年。
 
 ---

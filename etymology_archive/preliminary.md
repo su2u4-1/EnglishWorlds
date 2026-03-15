@@ -1,8 +1,6 @@
 # preliminary
 
-## Origin and history of preliminary
-### preliminary(adj.)
-
-“在某事之前或为更重要的事情铺垫”，这个词最早出现在1660年代，源自法语 préliminaire，直接借自中世纪拉丁语 praeliminaris，而其词根则来自拉丁语 prae（意为“在……之前”，参见 [pre-](https://www.etymonline.com/word/pre-)）和 limen（属格形式 liminis，意为“门槛”或“阈限”，参见 [limit](https://www.etymonline.com/word/limit) (n.)）。这个词最初是用来形容为结束三十年战争而进行的艰苦外交谈判。英语中最早的记录形式是 preliminaries（名词），意指“引导或介绍后续事务或事件的事物”，出现在1650年代。
+## preliminary(adj.)
+"先於某些更重要的事情之前或引導到更重要的事情"，1660年代，源自法語 préliminaire，直接源自中世紀拉丁語 praeliminaris，源自拉丁語 prae “在...之前”（見 [pre-](https://www.etymonline.com/tw/word/pre-)) + limen（屬格 liminis）“門檻”（見 [limit](https://www.etymonline.com/tw/word/limit)（n.））。這個詞起源於爲結束三十年戰爭而進行的艱苦外交談判。英語中最早被記錄的形式是 preliminaries（n.）“引導或介紹後續事項或事件的事物”，1650年代。
 
 ---

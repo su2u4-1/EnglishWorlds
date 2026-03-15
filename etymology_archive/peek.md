@@ -1,14 +1,10 @@
 # peek
 
-## Origin and history of peek
-### peek(v.)
-
-14世纪晚期，出现了piken这个词，意为“快速而狡猾地看”，其来源尚不明确。在14世纪到15世纪期间，peek、keek和peep这几个词大致都表达了相似的意思；可能它们的最终来源是中荷兰语的kieken。相关词汇包括Peeked（过去式）和peeking（现在分词）。
+## peek(v.)
+14世紀晚期， piken “偷偷地看”，一個起源不明的詞。14世紀至15世紀， peek, keek, 和 peep 這些詞都有着或多或少相同的意思； 也許最終的來源是荷蘭語 kieken。相關詞彙： Peeked； peeking。
 
 ---
-## peek (related entry 1)
-### peek(n.)
-
-“一瞥，瞥见”，1844年，来源于 [peek](https://www.etymonline.com/word/peek)（动词）。
+## peek(n.)
+"一瞥，一看"，1844年，來自 [peek](https://www.etymonline.com/tw/word/peek)（動詞）。
 
 ---

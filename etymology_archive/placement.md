@@ -1,8 +1,6 @@
 # placement
 
-## Origin and history of placement
-### placement(n.)
-
-“放置、安置或设置的行为；被放置的状态”，这个词最早出现在1835年，由动词 [place](https://www.etymonline.com/word/place)（放置）加上名词后缀 [-ment](https://www.etymonline.com/word/-ment) 组合而成。
+## placement(n.)
+"放置、安放或設置； 放置的行爲； 被放置的事實"，1835年，來自 [place](https://www.etymonline.com/tw/word/place)（v.）+ [-ment](https://www.etymonline.com/tw/word/-ment)。
 
 ---

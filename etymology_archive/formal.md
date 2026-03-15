@@ -1,8 +1,6 @@
 # formal
 
-## Origin and history of formal
-### formal(adj.)
-
-14世纪晚期，“与形式或排列有关”；在哲学和神学中，也指“与事物的形式或本质有关”。这个词源于古法语 formal、formel，意为“正式的，构成的”（13世纪），直接来自拉丁语 formalis，源自 forma，意为“形式，形状，轮廓”（参见 [form](https://www.etymonline.com/word/form) (n.)）。从15世纪初开始，表示“符合规定或标准的形式，按照公认的格式”。作为名词，大约在1600年（复数形式）指“正式的事物”；作为 formal dance（正式舞会）的简写，记录于1906年，主要在美国大学生中使用。
+## formal(adj.)
+14世紀晚期，“與形式或安排有關”； 在哲學和神學中，“與事物的形式或本質有關”，源自古法語 formal， formel “正式的，組成的”（13世紀），直接源自拉丁語 formalis，源自 forma “形式，圖案，形狀”（見 [form](https://www.etymonline.com/tw/word/form)（n.））。從15世紀初開始，“按照公認的形式，按照適當的形式”，作爲名詞，約於1600年（複數）“正式的事物”； 作爲簡稱 formal dance，1906年被美國大學生記錄。
 
 ---

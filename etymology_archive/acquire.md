@@ -1,8 +1,6 @@
 # acquire
 
-## Origin and history of acquire
-### acquire(v.)
-
-“获得，获取，取得”，这个词最早出现在15世纪中期，写作 acqueren，源自古法语 aquerre，意为“获得，赚取，采购”（12世纪，现代法语为 acquérir）。它的词源可以追溯到俗拉丁语 \*acquaerere，对应于拉丁语的 acquirere/adquirere，意为“额外获得，积累，获取”。其中，ad 意为“向……”，在这里可能起到强调作用（参见 [ad-](https://www.etymonline.com/word/ad-)），而 quaerere 则是“寻求获得”（参见 [query](https://www.etymonline.com/word/query) (v.)）。这个词在1600年左右从拉丁语重新借用，形成了现在的用法。相关词汇包括 [Acquired](https://www.etymonline.com/word/Acquired) 和 acquiring。
+## acquire(v.)
+"獲得或得到，取得"，15世紀中葉， acqueren，源自古法語 aquerre "獲得，得到，賺取，獲得"（12世紀，現代法語 acquérir），源自通俗拉丁語 \*acquaerere，對應於拉丁語 acquirere/adquirere "除了得到，積累，獲得"，源自 ad "到"，這裏可能是強調（參見 [ad-](https://www.etymonline.com/tw/word/ad-)），+ quaerere "尋求獲得"（參見 [query](https://www.etymonline.com/tw/word/query)（動詞））。在約1600年重新從拉丁語借用。相關詞彙： [Acquired](https://www.etymonline.com/tw/word/acquired)； acquiring。
 
 ---

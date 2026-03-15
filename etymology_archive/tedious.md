@@ -1,10 +1,8 @@
 # tedious
 
-## Origin and history of tedious
-### tedious(adj.)
+## tedious(adj.)
+「令人疲憊、令人厭煩、無聊得讓人煩躁」，這個詞最早出現於15世紀初，源自古法語 tedieus，而其根源則可追溯至晚期拉丁語 taediosus，意為「令人厭煩、令人厭倦、乏味的」。這又來自拉丁語 taedium，意指「疲倦、厭惡」（參見 [tedium](https://www.etymonline.com/tw/word/tedium)）。
 
-“令人疲惫的、令人厌烦的、无聊得让人烦躁”，这个词最早出现在15世纪初，源自古法语 tedieus，而其更早的来源是晚期拉丁语 taediosus，意思是“令人厌烦的、乏味的”。这个词又源自拉丁语 taedium，意指“疲倦、厌恶”（参见 [tedium](https://www.etymonline.com/word/tedium)）。
-
-最初这个词主要用来形容时间、任务、旅程、演讲等的乏味和漫长。在中古英语中，它也曾用来形容“疲惫不堪、精疲力竭”（大约1400年），这种用法现在已不再流行。到了15世纪末，这个词还引申出了“缓慢、进展缓慢”的意思。相关词汇包括 Tediously（乏味地）、tediousness（乏味性）。
+最初這個詞特別用來形容時間、任務、旅程、演講等的乏味與煩悶。在中古英語中，還有「疲憊不堪、精疲力竭」的意思（約1400年），這些用法如今已經過時。到了15世紀末，「緩慢、行進緩慢」的含義開始出現。相關詞彙包括 Tediously（乏味地）、tediousness（乏味性）。
 
 ---

@@ -1,18 +1,16 @@
 # obscure
 
-## Origin and history of obscure
-### obscure(adj.)
+## obscure(adj.)
+約公元1400年，“黑暗的”，比喻意義爲“道德上的無知； 陰沉”，源自於12世紀的古法語 obscur， oscur “黑暗的，陰雲密佈的，灰暗，不清晰”，直接源自於拉丁語 obscurus “黑暗的，昏暗的，陰影的”，比喻意義爲“未知的； 難以理解的； 難以辨別的； 來自不重要的祖先”，源於 ob “在……之上”（參見 [ob-](https://www.etymonline.com/tw/word/ob-))，加上 -scurus “覆蓋的”，源於 PIE 詞源 [*(s)keu-](https://www.etymonline.com/tw/word/*(s)keu-) “覆蓋，遮蓋”。相關詞彙： Obscurely。
 
-大约在1400年，obscure这个词的意思是“黑暗的”，引申义则是“道德上缺乏启迪的；阴郁的”。它源自古法语的obscur和oscur，意为“黑暗的、阴云密布的、阴郁的；模糊的、不清晰的”（12世纪）。同时，这个词也直接来自拉丁语的obscurus，意思是“黑暗的、阴暗的、阴影中的”，引申义则是“未知的；难以理解的；难以辨认的；出身微不足道的”。拉丁语的构成是ob（意为“覆盖”或“在……之上”，参见[ob-](https://www.etymonline.com/word/ob-)）+ -scurus（意为“覆盖的”），而-scurus又源自原始印欧语根[*(s)keu-](https://www.etymonline.com/word/*%28s%29keu-)，意思是“覆盖、隐藏”。相关词汇：Obscurely。
+“不容易理解的，不顯著或著名的，鮮爲人知的”比喻意義最早可追溯至15世紀； 意爲“模糊的，沒有清晰的形狀或輪廓，幾乎不可感知，因爲缺乏光線而不易清晰地看到的”實義在英語中的使用可追溯至16世紀90年代。
 
-在15世纪初，这个词的引申义“难以理解，无法清晰地被认知”开始流行。到了1540年代，obscure还被用来形容那些“不出名或不显赫的人，默默无闻”。而其更为字面化的意思——“轮廓模糊、缺乏清晰度、几乎无法辨认，因为光线不足而难以看清”——则在1590年代的英语中得到了证实。
+> In regard to the meaning of something said or written, obscure is general, being founded upon the figure of light which is insufficient to enable one to see with any clearness; this figure is still felt in all the uses of the word. [Century Dictionary, 1895]
 
-> 关于某些话语或文字的含义，obscure这个词通常是指由于光线不足，导致无法清晰看见的状态。这种光线不足的比喻在该词的所有用法中依然存在。[《世纪词典》，1895年]
+> 關於所說或所寫的某事的含義，《百科全書詞典》（1895）認爲， obscure 屬於一般性詞彙，基於光線不足以讓人清晰地看到某物的比喻； 這個比喻在該詞彙的所有使用中仍然可感知到。
 
 ---
-## obscure (related entry 1)
-### obscure(v.)
-
-15世纪初，obscuren，意为“覆盖（某物），使模糊”，这个词来源于[obscure](https://www.etymonline.com/word/obscure)（形容词），或者源自古法语的obscurer，再往前追溯则是拉丁语的obscurare，意思是“使变暗，变得模糊”，而这个词又源自obscurus。到了1520年代，这个词开始有了“隐藏知识或观察，伪装”的意思；而“遮蔽或掩盖”的含义则出现在1540年代。相关词汇还有：Obscured（被遮蔽），obscuring（正在遮蔽）。
+## obscure(v.)
+15世紀初， obscuren，意爲“覆蓋（某物），遮蔽”，源自於 [obscure](https://www.etymonline.com/tw/word/obscure)（形容詞），或者來自於古法語 obscurer，源自於拉丁語 obscurare，意爲“使黑暗，使昏暗，遮蔽”，源自於 obscurus。意爲“隱藏知識或觀察，僞裝”的含義始於1520年代； “遮蔽或超越”的含義始於1540年代。相關詞彙： Obscured； obscuring。
 
 ---

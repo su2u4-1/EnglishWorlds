@@ -1,8 +1,6 @@
 # operate
 
-## Origin and history of operate
-### operate(v.)
-
-大约在1600年，“生效、发挥作用、施加影响或力量”的意思开始出现。这可能是从[operation](https://www.etymonline.com/word/operation)（参见该词）反向构成的，或者源自拉丁语operatus，这是operari的过去分词，意为“工作、劳动、辛勤努力、付出心血”。在晚期拉丁语中，它还可以表示“产生效果、活跃、引起某种结果”。关于“在患者身上进行手术操作，通常使用工具”的外科手术意义，最早可以追溯到1799年。在美国英语中，“操作机器”的意思则出现在1864年。相关词汇包括Operated（已操作）和operating（正在操作）。在计算机领域，Operating system（操作系统）的说法始于1961年。
+## operate(v.)
+大約1600年，“生效，執行，施加力量或影響”的意思是從 [operation](https://www.etymonline.com/tw/word/operation)（請參見）反推出來的，或者來自拉丁語 operatus， operari 的過去分詞，“工作，勞動，辛勤勞作”（在晚期拉丁語中，“產生效果，活躍，引起”）。1799年始見手術意義上的“在病人身體上進行某些手動操作”，通常使用工具。在美國英語中，“操作機器”的意思始自1864年。相關詞彙： Operated; operating。計算機意義上的 Operating system 始自1961年。
 
 ---

@@ -1,8 +1,6 @@
 # frequently
 
-## Origin and history of frequently
-### frequently(adv.)
-
-“经常地，短时间内多次”，出现在1530年代，由 [frequent](https://www.etymonline.com/word/frequent)（形容词）+ [-ly](https://www.etymonline.com/word/-ly)（第二个词尾）组合而成。
+## frequently(adv.)
+"經常且間隔短的時間內," 來自於 [frequent](https://www.etymonline.com/tw/word/frequent) (形容詞) + [-ly](https://www.etymonline.com/tw/word/-ly#etymonline_v_32027) (2)。
 
 ---

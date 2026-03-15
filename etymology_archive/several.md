@@ -1,16 +1,17 @@
 # several
 
-## Origin and history of several
-### several(adj.)
+## several(adj.)
+15世紀初，“獨立存在，不在一起”，這個現在已經過時的意義，也是“少數的，特殊的”； 來自盎格魯-法語 several，來自古法語 seperalis “分開”，來自中世紀拉丁語 separalis “可分離的”，來自拉丁語 separ “分開，不同”，是從 separare “拉開”的反構詞，來自 se- “分開”（參見 [secret](https://www.etymonline.com/tw/word/secret)（名詞））+ parare “準備，準備好”（來自 PIE 根 [*pere-](https://www.etymonline.com/tw/word/*pere-) （1）“生產，獲得”）。
+比較盎格魯拉丁語 severalis， separalis 的變體。意思是“各種各樣的，不同的”（如 went their several ways）可追溯到1500年左右； “不止一個”的意思來自1530年代，源於該詞的法律含義，“分配給某些個體”（15世紀中葉）等。也在17世紀中葉用作“一個模糊的數詞”（OED），其中任何“不同”的概念似乎已經喪失。相關： Severalty; severality; severalfold。玩笑的序數形式 severalth 可追溯到1902年的美國口語（參見 [-th](https://www.etymonline.com/tw/word/-th)（2））。
 
-在15世纪初，这个词的意思是“独立存在，不在一起”，这种用法现在已经不再流行。它还可以表示“一小部分；特定的，特别的”。这个词源于盎格鲁法语的 several，而其更早的形式来自古法语的 seperalis，意为“分开的”。再往前追溯，它源自中世纪拉丁语的 separalis，意思是“可分离的”，而更早的拉丁语 separ 则表示“分开的，不同的”。这个词实际上是从 separare（意为“分开”）演变而来的，se- 表示“分开”（可以参见 [secret](https://www.etymonline.com/word/secret) (n.)），而 parare 则有“准备，预备”的意思，源自原始印欧语根 [*pere-](https://www.etymonline.com/word/*pere-)(1)（意为“产生，获取”）。
+> HERE we are all, by day : By night w'are hurl'd
 
-与此相关的还有盎格鲁拉丁语的 severalis，这是 separalis 的变体。大约在1500年，这个词开始被用来表示“各种各样的，多样的，不同的”，例如在短语 went their several ways 中。到了1530年代，它又发展出“多个”的意思，这一变化源于法律语境中对该词的使用，最初指“分配给特定个体的”或“属于某些人的”（15世纪中期）。此外，在17世纪中期，这个词还被用作“模糊的数字词”（根据《牛津英语词典》），此时它已经不再强调“不同”的含义。相关词汇包括 Severalty（单独拥有权）、severality（多样性）和 severalfold（多重的）。有趣的是，口语化的序数形式 severalth 出现在1902年的美式英语中（参见 [-th](https://www.etymonline.com/word/-th) (2)）。
+> By dreames, each one, into a sev'rall world.
 
-> 白天我们都在这里：到了夜晚，我们则被梦境
+> [Herrick, 1648]
 
-> 各自投射到一个独立的世界。
+> 白天我們都在這裏：夜晚我們被投入到不同的世界。
 
-> [赫里克，1648年]
+> [赫裏克，1648]
 
 ---

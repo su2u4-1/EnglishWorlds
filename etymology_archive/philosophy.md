@@ -1,16 +1,19 @@
 # philosophy
 
-## Origin and history of philosophy
-### philosophy(n.)
+## philosophy(n.)
+公元1300年左右， philosophie，"知識，學問，學術著作，知識體系"，源自古法語 filosofie "哲學，知識"（12世紀，現代法語 philosophie），直接源自拉丁語 philosophia,，又源自希臘語 philosophia "對知識的熱愛，對智慧的追求； 系統的研究"，由 philo- "熱愛"（見 [philo-](https://www.etymonline.com/tw/word/philo-)）和 sophia "知識，智慧"組成，源自 sophis "聰明的，有學問的"； 這是一個起源不明的詞語[Beekes]。中古英語中有許多拼寫變體（filozofie, phelosophie 等）。
+從14世紀中葉開始，它的意思是"處理理性思考或沉思的學科"； 從14世紀末開始，它也表示"自然科學"，還有"鍊金術，神祕知識"； 在中世紀，這個詞被理解爲包括所有推理科學。1771年有"一個人爲生活制定的行爲準則體系"的意思。現代意義上的"最高真理的體系，最基本問題的科學"的含義始於1794年。
 
-大约公元1300年，philosophie这个词出现，意指“知识、学问、学术研究、知识体系”。它源自古法语的filosofie（意为“哲学、知识”，12世纪，现代法语为philosophie），并直接借自拉丁语的philosophia，而拉丁语又源自希腊语的philosophia，字面意思是“对知识的热爱、对智慧的追求；系统的研究”。这个词由philo-（意为“热爱”，参见[philo-](https://www.etymonline.com/word/philo-)）和sophia（意为“知识、智慧”）组合而成，而sophis则意味着“聪明、博学”。值得注意的是，这个词的起源尚不明确[Beekes]。在中世纪英语中，它的拼写形式多种多样，如filozofie、phelosophie等。
+> Nec quicquam aliud est philosophia, si interpretari velis, praeter studium sapientiae; sapientia autem est rerum divinarum et humanarum causarumque quibus eae res continentur scientia. [Cicero, "De Officiis"]
 
-从14世纪中期起，这个词被用来指“理性思考或沉思的学科”；到14世纪晚期，又被用来指“自然科学”，甚至包括“炼金术、神秘知识”。在中世纪，人们普遍认为它涵盖了所有的思辨科学。1771年，这个词被用来描述“个人为生活所形成的信念体系”。而现代意义上“关于最高真理的学科，研究最根本问题的科学”则出现在1794年。
+> Nec quicquam aliud est philosophia, si interpretari velis, praeter studium sapientiae; sapientia autem est rerum divinarum et humanarum causarumque quibus eae res continentur scientia. [西塞羅， "De Officiis" ]
 
-> Nec quicquam aliud est philosophia, si interpretari velis, praeter studium sapientiae; sapientia autem est rerum divinarum et humanarum causarumque quibus eae res continentur scientia. [西塞罗，《论职责》]
+> In 1744 he made an unsuccessful attempt to obtain a professorship at Edinburgh; having failed in this, he became first a tutor to a lunatic and then secretary to a general. Fortified by these credentials, he ventured again into philosophy. [Bertrand Russell, writing of Hume, in "A History of Western Philosophy," 1945]
 
-> 1744年，他曾试图在爱丁堡大学获得一个教授职位，但未能成功。此后，他先是成为一位精神病患者的家庭教师，随后又担任一位将军的秘书。凭借这些经历，他再次投身于哲学研究。[伯特兰·罗素在《西方哲学史》中谈到休谟，1945年]
+> 1744年，他曾試圖在愛丁堡獲得教授職位，但未成功； 在此失敗後，他先是成爲一個瘋子的導師，然後成爲一位將軍的祕書。憑藉這些資歷，他再次涉足哲學領域。[伯特蘭·羅素，在《西方哲學史》（1945）中寫到休謨]
 
-> [哲学问题]当然不是经验问题；但它们的解决依赖于对我们语言运作的深入理解，并且这种理解常常会被误解所干扰。哲学的任务不是创造新的知识，而是重新组织那些我们早已熟悉的概念。哲学是一场斗争，旨在揭示我们理解中的迷惑（Verhexung），而这种迷惑往往源于语言的复杂性。[路德维希·维特根斯坦，《哲学研究》，1953年]
+> [Philosophical problems] are, of course, not empirical problems; but they are solved through an insight into the workings of our language, and that in such a way that these workings are recognized — despite an urge to misunderstand them. The problems are solved, not through the contribution of new knowledge, rather through the arrangement of things long familiar. Philosophy is a struggle against the bewitchment (Verhexung) of our understanding by the resources of our language. [Ludwig Wittgenstein, "Philosophical Investigations," 1953]
+
+> [哲學問題] 當然不是經驗問題； 但是通過對我們語言運作的洞察來解決這些問題，以一種方式來認識到這些運作—— despite 一種誤解它們的衝動。這些問題的解決不是通過新知識的貢獻，而是通過對長期熟悉的事物的整理。哲學是一場與我們的語言資源所帶來的迷惑（Verhexung）我們理解的鬥爭。[路德維希·維特根斯坦，《哲學研究》（1953）]
 
 ---

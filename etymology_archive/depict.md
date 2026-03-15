@@ -1,8 +1,6 @@
 # depict
 
-## Origin and history of depict
-### depict(v.)
-
-这个词最早出现在15世纪初，意思是“描绘、绘画、用颜色形成肖像”。它源自拉丁语 depictus，是 depingere 的过去分词，意为“描绘、绘画、素描；描述、想象”。这个词可以拆分为 de（意为“向下”，参见 [de-](https://www.etymonline.com/word/de-)）和 pingere（意为“绘画”，参见 [paint](https://www.etymonline.com/word/paint) (v.)）。到了15世纪中期，这个词的意义扩展为“用语言描绘、描述”。相关词汇包括 Depicted（已描绘）和 depicting（正在描绘）。
+## depict(v.)
+15世紀初，“描繪，繪畫，用顏色形成肖像”，源自拉丁語 depictus，過去分詞 depingere “描繪，繪畫，素描； 描述，想象”，由 de “向下”（見 [de-](https://www.etymonline.com/tw/word/de-))和 pingere “繪畫”（見 [paint](https://www.etymonline.com/tw/word/paint)（v.））組成。 “用言語描繪，描述”的擴展意義始於15世紀中期。 相關： Depicted; depicting。
 
 ---

@@ -1,12 +1,10 @@
 # fashionable
 
-## Origin and history of fashionable
-### fashionable(adj.)
-
-大约在1600年，[fashion](https://www.etymonline.com/word/fashion) + [-able](https://www.etymonline.com/word/-able)组合出现，最初意为“能够被塑造的”，后来引申为“符合流行趋势的”。到了1620年代，这个词开始用来形容“时尚的”。作为名词，它在1800年被用来指“时尚人士”。相关词汇包括：Fashionably，意指“以符合时尚、习俗或流行做法的方式；带有时尚优雅”；而fashionably late这个短语则在1809年出现，意指“故意迟到以显示时尚”。
+## fashionable(adj.)
+大約1600年，“能夠被製作”，也指“符合流行趨勢”，源自 [fashion](https://www.etymonline.com/tw/word/fashion) 和 [-able](https://www.etymonline.com/tw/word/-able)。從1620年代開始用作“時尚的”； 作爲名詞，“時尚人士”，從1800年開始。相關詞彙： Fashionably “以時尚、習俗或流行做法爲準； 以時髦的優雅方式”； fashionably late 在1809年已經出現。
 
 > She was somewhat surprised, especially as she came fashionably late, to find in the drawing-room only old Mrs. Wynne, her nephew, and a lady, who from her dress and modest appearance was evidently nobody. [Maria Edgworth, "Tales of Fashionable Life," 1809]
 
-> 她有些惊讶，尤其是她是以时尚的方式迟到的，发现客厅里只有年迈的温恩夫人、她的侄子和一位女士，从她的穿着和谦逊的外表来看，显然是个nobody。[玛丽亚·埃杰沃斯，《时尚生活故事》，1809年]
+> 她有些驚訝，特別是因爲她來得很晚，只在客廳裏見到老溫恩夫人、她的侄子和一個女士，從她的着裝和謙遜的外表來看，顯然是 nobody。[瑪麗亞·埃奇沃斯，《時尚生活故事》，1809年]
 
 ---

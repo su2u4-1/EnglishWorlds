@@ -1,8 +1,6 @@
 # minder
 
-## Origin and history of minder
-### minder(n.)
-
-“照料或照顾某物的人”，这个词在15世纪中期出现，是从动词 [mind](https://www.etymonline.com/word/mind) 派生的名词。15世纪时，它还有一个现在已废弃的意思，指的是“记忆力好的人”。
+## minder(n.)
+“照顧或照料任何事物的人”，15世紀中葉，來自於 [mind](https://www.etymonline.com/tw/word/mind)（動詞）的代詞。在現已廢棄的意義上，也指“具有良好記憶力的人”，始見於15世紀。
 
 ---

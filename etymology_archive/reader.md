@@ -1,8 +1,6 @@
 # reader
 
-## Origin and history of reader
-### reader(n.)
-
-古英语中的 rædere 指的是“顾问；为他人朗读的人；讲解员；学者；占卜者，解读者”，这是一个表示职业或角色的名词，源自 rædan（参见 [read](https://www.etymonline.com/word/read) (v.)）在不同语境下的用法。可以与荷兰语的 rader（“顾问”）和古高地德语的 ratari（“顾问”）进行比较。古英语中，女性形式是 rædistre。而“学校用的读物”这一意义则出现在1789年。
+## reader(n.)
+古英語 rædere “顧問； 爲他人朗讀的人； 講師； 學者； 占卜者，解釋者”的代詞，源自 rædan（參見 [read](https://www.etymonline.com/tw/word/read)（v.））在其各種意義上的使用。比較荷蘭語 rader “顧問”，古高地德語 ratari “顧問”。古英語的女性形式是 rædistre。指“學校閱讀書”的意思是在1789年。
 
 ---

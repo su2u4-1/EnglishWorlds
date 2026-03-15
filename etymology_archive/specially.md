@@ -1,12 +1,10 @@
 # specially
 
-## Origin and history of specially
-### specially(adv.)
-
-13世纪晚期，specialli，意为“特定目的，特殊原因”。这个词源于形容词[special](https://www.etymonline.com/word/special)加上后缀[-ly](https://www.etymonline.com/word/-ly)（第二种用法）。到了14世纪中期，它被用来表示“超过其他，特别之意”。同时，它也是[especially](https://www.etymonline.com/word/especially)的双重词。
+## specially(adv.)
+13世紀晚期， specialli，“特別目的的，出於特殊原因的”，源自 [special](https://www.etymonline.com/tw/word/special)（形容詞）+ [-ly](https://www.etymonline.com/tw/word/-ly)（2）。14世紀中期，“超過其他人，超越一切”。[especially](https://www.etymonline.com/tw/word/especially) 的雙重形式。
 
 > Special is more common than especial, which has the same meaning; but especially is for rhythmical reasons (because it occurs most frequently at the beginning of a dependent clause, where usually an unaccented particle occurs, and where, therefore, a word with an accent on the first syllable is instinctively avoided) much more common than specially. [Century Dictionary]
 
-> Special比especial更常用，尽管两者意思相同；而especially则因为韵律原因（通常在从句开头出现，那里通常是无重音的虚词，因此本能上避免使用重音在首音节的词）比specially更为普遍。[《世纪词典》]
+> Special 比 especial 更常見，意思相同； 但是，由於韻律原因（因爲它最常出現在從屬從句的開頭，通常會出現一個非重音粒子，在那裏，因此，本能地避免使用一個重音在第一個音節上的單詞）， especially 比 specially 更常見。[世紀詞典]
 
 ---

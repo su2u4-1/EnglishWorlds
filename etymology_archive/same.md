@@ -1,14 +1,9 @@
 # same
 
-## Origin and history of same
-### same(adj.)
-
-“相同的、平等的；不变的；在本质或一般特征上相同”，这个词源自原始日耳曼语 \*samaz，意为“相同”。这个词的来源也可以追溯到古撒克逊语、古高地德语、哥特语的 sama，古高地德语的 samant，德语的 samt（意为“共同、一起”），哥特语的 samana（意为“在一起”），以及荷兰语的 zamelen（意为“收集”），德语的 zusammen（意为“在一起”）。它们都源自原始印欧语 \*samos，意为“相同”，而这个词则来自于词根 [*sem-](https://www.etymonline.com/word/*sem-)（1），意为“一；作为一个，与……一起”。
-
-古英语中，这个形容词似乎除了在副词短语 swa same（意为“与……相同”，字面意思是“如此相同”）中消失了。但在中古英语中，作为“身份的普通形容词性代名词”[OED]，这个词被认为更可能（或主要）源自古诺尔语的同源词 same、samr（意为“相同”）。在其复兴过程中，它取代了同义词 [ilk](https://www.etymonline.com/word/ilk)。
-
-作为代名词时，意为“刚提到的人或物”，大约出现在公元1300年。在中古英语中，这个词还可以作为动词和形容词，意为“共同、相互”，例如 comen same（意为“聚集在一起，团结”）、kissen same（意为“互相拥抱”）。
-
-口语短语 same here（“我也是”）作为表示同意的感叹语出现于1895年。All the same（“尽管如此”）则出现在1803年，意为“尽管提到的事”。Same difference（“没有区别；相同”）这一有趣的表达方式始见于1945年。为了强调，这个词组常被扩展，例如 ilk-same（13世纪中期）；the self-same（15世纪初）；one and the same 出现在威克里夫的作品中（14世纪末），翻译自拉丁语 unus atque idem.
+## same(adj.)
+"相同的，相等的； 不變的； 在本質或一般特徵上相同"，源自原始日耳曼語 \*samaz "same"（也源自古撒克遜語、古高地德語、哥特語 sama，古高地德語 samant，德語 samt "一起，與"，哥特語 samana "一起"，荷蘭語 zamelen "收集"，德語 zusammen "一起"），源自 PIE \*samos "相同"，源自詞根 [*sem-](https://www.etymonline.com/tw/word/*sem-)（1）的帶後綴形式，意爲"一個； 作爲一個，與...一起"。
+古英語似乎除了副詞短語 swa same "與...相同"（字面意思爲"如此相同"）之外，已經失去了這個形容詞。但在中古英語中，這個詞作爲"身份的普通形容代詞" [OED]，更可能（或主要）來自古諾爾斯語的同源詞 same， samr "相同"。在它的復興中，它取代了同義詞 [ilk](https://www.etymonline.com/tw/word/ilk)。
+作爲代詞，指"剛提到的人或事物"，始於公元1300年左右。在中古英語中，它也是一個動詞和形容詞，意爲"一起，相互"（如 comen same "聚集在一起，聯合"， kissen same "相互擁抱"）。
+口語短語 same here  "我也是一樣"，作爲贊同的感嘆詞，始於1895年。  All the same 自1803年起作爲"儘管已經提到"的意思。奇怪的短語 Same difference 表示"沒有區別； 相等"，始於1945年。通常爲了強調而擴展： ilk-same（公元13世紀中期）；  the self-same （15世紀初）；  one and the sam  e 在威克里夫（公元14世紀後期）中，翻譯拉丁語 unus atque idem.
 
 ---

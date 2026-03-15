@@ -1,10 +1,7 @@
 # consist
 
-## Origin and history of consist
-### consist(v.)
-
-1520年代起，“作为由多个部分组成的整体而存在或处于某种永久状态”，这个意思来源于法语 consister（14世纪）或直接源自拉丁语 consistere，意为“站稳、保持某种姿势、停止或停留”。它由 com（意为“与、一起”，参见 [con-](https://www.etymonline.com/word/con-)）和 sistere（意为“放置”，是 stare 的使役形式，意为“站立、保持站立”）结合而来，最终可以追溯到原始印欧语词根 [*sta-](https://www.etymonline.com/word/*sta-)（意为“站立、使坚固”）。
-
-从1560年代起，of 作为介词使用，表示“由……组成”或“构成”。到了1630年代，这个词又被用来表示“一致性”或“保持一致”。相关词汇包括 Consisted（过去式，表示“由……组成”）和 consisting（现在分词，表示“正在组成”或“处于组成状态”）。
+## consist(v.)
+1520年代，“作爲由部分組成的身體永久存在”，源自法語 consister（14世紀）或直接源自拉丁語 consistere “站穩，採取站立姿勢，停止，停留”，來自 com “與，一起”（見 [con-](https://www.etymonline.com/tw/word/con-)) + sistere “放置”， stare “站立，站立”（來自 PIE 根 [*sta-](https://www.etymonline.com/tw/word/*sta-) “站立，使或保持堅定”）的使動形式。
+從1560年代開始，使用 of，表示“由...組成，由...構成”。從1630年代開始，“一致”。相關： Consisted； consisting。
 
 ---

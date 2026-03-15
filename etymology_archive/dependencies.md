@@ -1,8 +1,6 @@
 # dependencies
 
-## Origin and history of dependencies
-### dependencies(n.)
-
-“隶属于另一个国家的领土”，1680年代；参见 [dependency](https://www.etymonline.com/word/dependency)。
+## dependencies(n.)
+"屬於另一個國家的領土"，1680年代； 見 [dependency](https://www.etymonline.com/tw/word/dependency)。
 
 ---

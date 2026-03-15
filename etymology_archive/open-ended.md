@@ -1,8 +1,6 @@
 # open-ended
 
-## Origin and history of open-ended
-### open-ended(adj.)
-
-“没有预定的限制或边界”，这个词最早出现在1825年，由 [open](https://www.etymonline.com/word/open)（形容词）和 [end](https://www.etymonline.com/word/end)（名词）组合而成。
+## open-ended(adj.)
+"沒有預先確定的限制或邊界"，1825年，來自 [open](https://www.etymonline.com/tw/word/open)（adj.）+ [end](https://www.etymonline.com/tw/word/end)（n.）。
 
 ---

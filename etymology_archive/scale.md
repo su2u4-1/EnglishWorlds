@@ -1,56 +1,43 @@
 # scale
 
-## Origin and history of scale
-### scale(n.1)
-
-[鱼或蛇的皮肤鳞片] 大约公元1300年，源自古法语 escale，意为“杯子、鳞片、壳 pod、外壳”（12世纪，现代法语为 écale）。这个词可能来自法兰克语 *skala 或其他日耳曼语系的词汇，追溯到原始日耳曼语 *skæla，意为“分裂、分开”。这个词的词源也可以在荷兰语 schaal（“鳞片、外壳”）、古高地德语 scala（“壳”）、哥特语 skalja（“瓦片”）、古英语 scealu（“壳、外壳”）中找到。它们都源自原始印欧语根 [*skel-](https://www.etymonline.com/word/*skel-) (1)，意为“切割”。这个词与 [scale](https://www.etymonline.com/word/scale) (n.2)（“称重工具”）在史前时期有共同词源。
-
-在描述人类时，作为某些皮肤病的症状，这个用法可以追溯到14世纪晚期。到了1776年，这个词在植物学中被扩展用于描述叶芽等的覆盖物。比喻意义上，它也指失明后眼睛恢复视力时掉落的东西（通常是比喻），这一说法源自《使徒行传》9章18节（拉丁语 tanquam squamæ，希腊语 hosei lepides）。
+## scale(n.1)
+[魚或蛇身上的一塊皮鱗]，約於1300年，源自古法語 escale “杯子，鱗片，殼莢，外殼”（12世紀，現代法語 écale），來自法蘭克語 *skala 或其他日耳曼語源，源自原始日耳曼語 *skæla “分裂，分開”（源頭還包括荷蘭語 schaal “鱗片，殼莢”，古高地德語 scala “殼”，哥特語 skalja “瓦片”，古英語 scealu “殼，殼莢”），源自 PIE 詞根 [*skel-](https://www.etymonline.com/tw/word/*skel-)（1）“切割”。作爲 [scale](https://www.etymonline.com/tw/word/scale)（n.2）“稱重器具”的史前同源詞。
+指人類時，作爲某些皮膚疾病的一種症狀，自14世紀後期開始使用。在植物學中擴展到葉芽等的覆蓋物，最早見於1776年。作爲失明結束時從眼中掉落的東西（通常是比喻），它迴應了使徒行傳九章18節（拉丁文 tanquam squamæ，希臘文 hosei lepides）。
 
 ---
-## scale (related entry 1)
-### scale(n.2)
+## scale(n.2)
+[稱重工具] 15世紀初，這個詞最初指的是「天平的盤子」，後來延伸為整個工具（14世紀末）。更早期的意思是「飲水杯」（約公元1200年），來自古諾爾語 skal，意為「碗，飲水杯」，複數形式則指「稱重天平」。
 
-[称重工具] 15世纪初，最初指“秤盘”，后来扩展为整个称重工具；更早时指“饮水杯”（约公元1200年），源自古诺尔斯语 skal，意为“碗，饮水杯”，复数形式则指“称重秤”。
+這個詞源自原始日耳曼語 \*skæla，意為「分裂，劈開」（同源詞還包括古諾爾語 skel「貝殼」，古英語 scealu，古薩克森語 skala「飲水碗」，古高地德語 scala，德語 Schale「碗，盤子，杯子」，中古荷蘭語 scale，荷蘭語 schaal「飲水杯，碗，貝殼，天平的盤子」），其詞根來自原始印歐語 [*skel-](https://www.etymonline.com/tw/word/*skel-#etymonline_v_52764) (1)「切割」。
 
-这个词源自原始日耳曼语 \*skæla，意为“分裂，分开”，与古诺尔斯语 skel（“壳”）、古英语 scealu、古萨克森语 skala（“饮水碗”）、古高地德语 scala、德语 Schale（“碗，盘，杯”）、中荷兰语 scale、荷兰语 schaal（“饮水杯，碗，壳，称重秤的秤盘”）等词同源。它们都来自印欧语根 [*skel-](https://www.etymonline.com/word/*skel-) (1)，意为“切割”。
+這裡的聯繫意義似乎是指用作飲水杯或稱重盤的雙殼貝類（「分裂」的殼）。可以與 [scallop](https://www.etymonline.com/tw/word/scallop)（扇貝）相比較，因為它們來自同一詞根。不過，根據保羅·迪亞科努斯的說法，「飲水杯」的意義源自於一種假定的習俗，即用頭骨製作酒杯（參見 [skull](https://www.etymonline.com/tw/word/skull)）。
 
-这些词之间的联系似乎在于它们都与某种“分裂”物体有关，比如用双壳贝类的一半（“分裂”）壳作为饮水杯或称重盘；这与 [scallop](https://www.etymonline.com/word/scallop)（扇贝）一词同源。不过，保罗·迪亚科努斯认为，“饮水杯”这一意义源于用头骨制作酒杯的习俗（参见 [skull](https://www.etymonline.com/word/skull)）。
+因此，這個詞似乎與魚的 scale（鱗片）有關，但與 [scale](https://www.etymonline.com/tw/word/scale#etymonline_v_48382) (n.3)「標準測量單位」無關。
 
-因此，这个词显然与鱼的 scale（鳞片）有关，但与 [scale](https://www.etymonline.com/word/scale) (n.3)（“标准测量单位”）无关。
-
-Scales 作为黄道星座天秤座的名称，英语中最早见于1630年代。
+Scales 作為黃道星座天秤座的名稱，早在1630年代的英語中就有記載。
 
 ---
-## scale (related entry 2)
-### scale(v.1)
+## scale(v.1)
+「像用梯子一樣攀爬（牆壁）；用攻城梯攻擊」，這個用法出現於14世紀晚期，來自拉丁語 scalen，意指「梯子、樓梯」，源自 scala，進一步追溯至 \*scansla，而這又來自 scandere，意思是「攀爬、上升、登上」。這個詞的原始印歐語根被重建為 \*skand-，意指「跳躍、攀爬」，同源詞還包括梵語 skandati（「急速前進、跳躍、跳起」）、希臘語 skandalon（「絆腳石」）、中古愛爾蘭語 sescaind（「他跳起來了」）、sceinm（「跳躍、跳躍的動作」）。
 
-“通过梯子攀爬（墙壁）；用攻城梯攻击”，这个词最早出现在14世纪晚期，写作 scalen，源自拉丁语 scala，意为“梯子，楼梯”，进一步追溯则来自 \*scansla，而 scandere 则意为“攀爬”（参见 [scan](https://www.etymonline.com/word/scan) (v.)）。
-
-中世纪英语中，scale 这个词指“攻城时使用的梯子”，大约在1400年左右被记录下来，直接来源于拉丁名词。作为动词的普遍和比喻用法（如指攀登山峰、享受快乐的巅峰等）则出现在16世纪。相关词汇包括 Scaled 和 scaling。
+中古英語中的 scale（名詞）指「攻城時使用的梯子」，約在1400年被記錄下來，直接來自拉丁語名詞。這個動詞在一般和比喻意義上的使用（如攀登山峰、享受快樂的高峰等）則出現在16世紀。相關詞彙包括 Scaled（過去分詞）、scaling（現在分詞）。
 
 ---
-## scale (related entry 3)
-### scale(v.2)
-
-“去除（鱼等的）鳞片”，大约公元1400年，scalen，源自[scale](https://www.etymonline.com/word/scale)（名词1）。不及物用法“分离并以鳞片或薄层脱落”始于1520年代。相关词：Scaled；scaling。
+## scale(v.2)
+“去除（魚等的）鱗片”，約1400年， scalen，源自 [scale](https://www.etymonline.com/tw/word/scale)（n.1）。不及物動詞意爲“分離並剝落成鱗片或薄層”，始見於1520年代。相關詞彙： Scaled； scaling。
 
 ---
-## scale (related entry 4)
-### scale(v.3)
-
-1690年代起有“在天平上称重”的意思，源自 [scale](https://www.etymonline.com/word/scale)（名词第二义）。在此之前，它曾有一个现在已废弃的意思，即“比较，估计”（约公元1600年）。到1841年，它才被用来表示“按适当数量称重”。相关词汇包括 Scaled（已称重）和 scaling（称重过程）。
+## scale(v.3)
+1690年代，“在天平上稱重”，源自於 [scale](https://www.etymonline.com/tw/word/scale)（n.2）。早期有一個現在已經過時的意義，“比較，估計”（約1600年）。“按適當的數量稱出重量”的意思是在1841年之前。相關： Scaled； scaling。
 
 ---
-## scale (related entry 5)
-### scale(n.3)
+## scale(n.3)
+[測量或估算的標準] 14世紀末，「一系列登記標記；為確定沿線距離而設置的標記」（在喬叟對天文儀的描述中），源自拉丁語 scala，意為「梯子，樓梯」，來自 *scansla，源自 scandere，「攀爬」（參見 [scan](https://www.etymonline.com/tw/word/scan#etymonline_v_22839) (v.)）。
 
-[测量或估算的标准] 14世纪晚期，指“注册标记的系列；用于确定沿线距离的标记”（在乔叟对天文仪的描述中）。这个词源自拉丁语 scala，意为“梯子，楼梯”，进一步追溯自 *scansla，源于 scandere（意为“攀爬”）。（参见 [scan](https://www.etymonline.com/word/scan) (v.)）
+在古典拉丁語中，這個名詞較為罕見，雖然中古英語中有「用於攻城的梯子」（約1400年）。「一系列或一連串上升或下降的步驟」的含義出現於約1600年；而「估算標準」（如 large scale，small scale 等）的含義則來自1620年代。
 
-在古典拉丁语中，这个名词使用较少，但在中古英语中有“攻城时使用的梯子”这一说法（约公元1400年）。“一系列或连续的上升或下降步骤”这一意义出现于约1600年；而“估算标准”（如 large scale，small scale 等）则始于1620年代。
+音樂上「在特定範圍內確定且標準的音調系列」，通常是一個八度音階（1590年代），以及「表示與實際物體的比例」（1660年代）的含義，均來自意大利語 scala，源自拉丁語 scala。
 
-音乐领域中，“特定音域内的标准音列”，通常是一个八度音阶（1590年代），以及“图像与实际物体的比例”（1660年代）这两个意义，均来自意大利语 scala，而意大利语又源自拉丁语 scala。
-
-由此也衍生出动词 scale，意为“通过刻度测量或调节”（1798年）、“根据比例绘制、投影或制作”（约1885年），以及 scale down，意为“在各个方面按比例削减或减少”（约1887年）。相关词汇包括：Scaled（已缩放）、scaling（缩放中）。
+因此，也衍生出動詞 scale，意為「通過標準進行測量或調節」（1798年），「根據比例繪製、投影或製作」（約1885年），以及 scale down，「在各個部分按比例削減或減少」（約1887年）。相關詞：Scaled；scaling。
 
 ---

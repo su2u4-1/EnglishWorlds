@@ -1,10 +1,7 @@
 # collection
 
-## Origin and history of collection
-### collection(n.)
-
-在14世纪晚期，“收集的行为，聚集的实践”这个意思开始出现，源自古法语 collection（14世纪），而其词源则追溯至拉丁语 collectionem（主格 collectio），意为“聚集在一起”，是由动词 colligere（“聚集在一起”，参见 [collect](https://www.etymonline.com/word/collect)）的过去分词词干派生而来的。
-
-尤其是在1530年代，这个词常用于指为宗教或慈善目的而收集的钱款。从1400年左右起，它还被用来表示“作为整体的一组物体”；而“聚集的物品集合体”这一含义则出现在15世纪中期。1650年代，这个词又被赋予了“收取或强制支付欠款”的新意义。
+## collection(n.)
+14世紀後期，“收集行動，聚集實踐”，來自14世紀的古法語 collection，源自拉丁語 collectionem（格 collectio），意爲“聚集”，是 colligere 的過去分詞詞幹（參見 [collect](https://www.etymonline.com/tw/word/collect)）。
+特別是指從1530年代開始爲宗教或慈善目的籌集的資金。“作爲一個整體看待的一組物體”的意思可以追溯到大約1400年； “聚集物品的集合”的意思可以追溯到15世紀中期。“收到或強制收取欠款的行爲”的意思可以追溯到1650年代。
 
 ---

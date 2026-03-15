@@ -1,10 +1,7 @@
 # cubic
 
-## Origin and history of cubic
-### cubic(adj.)
-
-15世纪中期，指“第三次方的”；到1550年代，意指“立方体的形状”。这个词源于14世纪的古法语 cubique，进一步追溯到拉丁语 cubicus，再到希腊语 kybikos，最终源自 kybos，意为“立方体”（参见 [cube](https://www.etymonline.com/word/cube) (n.)）。“固体的，三维的”这一含义出现在1650年代。
-
-Cubical 这个词从1590年代开始使用，意指“与立方体相关的”。根据《牛津英语词典》，它在这个意义上“现在比 cubic 更常用”。相关词汇还有 Cubically。
+## cubic(adj.)
+15世紀中期，“三次方的”； 1550年代，“具有立方體形狀的”，源自古法語 cubique（14世紀），源自拉丁語 cubicus，源自希臘語 kybikos，源自 kybos “立方體”（見 [cube](https://www.etymonline.com/tw/word/cube)（n.））。意思爲“固體，三維的”始於1650年代。
+Cubical 在1590年代已被證實具有“與立方體有關的”含義，並根據 OED 的說法，“在這個意義上，現在比 cubic 更常用。”相關詞： Cubically。
 
 ---

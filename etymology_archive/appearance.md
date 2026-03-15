@@ -1,10 +1,7 @@
 # appearance
 
-## Origin and history of appearance
-### appearance(n.)
-
-14世纪晚期，apparaunce（来自盎格鲁-法语）或 aparance（来自古法语）意指“可见的状态或形式、外形；仅仅是表面现象”。这个词源自拉丁语 apparentia，是抽象名词，来自 aparentem，即 apparere 的过去分词，意为“显现、露面”，特别是指“被看见、公开展示自己”（参见 [appear](https://www.etymonline.com/word/appear)）。
-
-“外表、表象”这一含义从15世纪初开始出现；“显现、出现的动作”则在15世纪中期被记录；而“向公众或观众展示”这一意义则出现在17世纪70年代。短语 keeping up appearances 证实于1751年（类似意义的 save appearances 则早在1711年出现；参见 [save](https://www.etymonline.com/word/save) (v.)）。
+## appearance(n.)
+14世紀末，“可見的狀態或形式，外表； 僅僅是展示”，源自盎格魯-法語 apparaunce，古法語 aparance “外貌，展示，盛況”（13世紀），源自拉丁語 apparentia，抽象名詞，源自 aparentem，過去分詞形式的 apparere “出現在視線中，顯露出來”，尤其是“顯而易見，公開露面”（參見 [appear](https://www.etymonline.com/tw/word/appear)）。
+“外表”的意思可追溯到15世紀初； “顯現的行動”在15世紀中期出現； “公開亮相或面對觀衆”的意思始於1670年代。短語 keeping up appearances 可追溯到1751年（類似意義的 save appearances 於1711年出現； 參見 [save](https://www.etymonline.com/tw/word/save)（動詞））。
 
 ---

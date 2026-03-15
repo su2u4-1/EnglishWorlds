@@ -1,18 +1,12 @@
 # script
 
-## Origin and history of script
-### script(n.)
-
-14世纪晚期，script指的是“书面文字，书面文件”。这个词最早的形式是scrite（大约公元1300年），源自盎格鲁法语的scrit，以及古法语的escrit，意为“书写的东西，书面纸张；信用票据，欠条；契约，债券”。现代法语中对应的词是écrit。这个词直接源自拉丁语的scriptum，意思是“书写，书籍；法律；线条，标记”，它是名词形式，来自拉丁动词scribere，意为“书写”。这个词的印欧语根是[*skribh-](https://www.etymonline.com/word/*skribh-)，原意是“切割，分离，筛选”。最初的概念是在人们的石头、木头等材料上刻下符号。
-
-到1860年，这个词的意义扩展为“手写，书写的字符，书写风格”，以区别于[print](https://www.etymonline.com/word/print)（名词，印刷体）。更早之前，在排版领域，script指的是一种字体，设计成类似手写体的样子（1838年）。在戏剧中，这个词是[manuscript](https://www.etymonline.com/word/manuscript)（手稿）的缩写，首次记录于1884年。在语言学中，script被用来表示“书写系统”，这一用法出现在1883年。
-
-罗马在欧洲文明传播中的重要性，从许多凯尔特语和日耳曼语（以及罗曼语）中“书写”一词的演变中可见一斑。这些语言中的“书写”一词都源自拉丁语的scribere（法语écrire，爱尔兰语scriobhaim，威尔士语ysgrifennu，德语schreiben，荷兰语schrift）。古英语中的同源词scrifan意为“分配，指派，命令，罚款”（参见[shrive](https://www.etymonline.com/word/shrive)；还可与古诺尔斯语的skript“忏悔”比较）。现代英语则使用[write](https://www.etymonline.com/word/write)（动词）来表达这一动作。
+## script(n.)
+14世紀後期，“某物書寫，書面文件”，早期爲 scrite（約1300年），源自盎格魯-法語 scrit，古法語 escrit “書寫片段，書面紙； 信用票據，欠條； 契約，債券”（現代法語 écrit），直接源自拉丁語 scriptum “一種書寫，書籍； 法律； 線條，標記”，是 scribere 的中性過去分詞名詞用法（來自 PIE 詞根 [*skribh-](https://www.etymonline.com/tw/word/*skribh-) “切割，分離，篩選”）。最初的概念是在石頭、木頭等上刻下標記。
+“手寫，手寫字符，手寫風格”（與 [print](https://www.etymonline.com/tw/word/print)（n.）區分）的含義記錄於1860年； 早期，在印刷術中， script 是指一種刻意模仿手寫的字體（1838年）。戲劇用語，縮寫爲 [manuscript](https://www.etymonline.com/tw/word/manuscript)，始見於1884年。在語言學研究中，“一種書寫系統”，始於1883年。
+羅馬對歐洲文明的傳播的重要性在於，凱爾特語和日耳曼語（以及羅曼語）中“寫”的詞源自 scribere（法語 écrire，愛爾蘭語 scriobhaim，威爾士語 ysgrifennu，德語 schreiben “寫”，荷蘭語 schrift “書寫”）。同源的古英語 scrifan 的意思是“分配，指定，裁決，罰款”（見 [shrive](https://www.etymonline.com/tw/word/shrive)； 還可比較古諾爾斯語 skript “懺悔”）。現代英語使用 [write](https://www.etymonline.com/tw/word/write)（v.）來表達這個動作。
 
 ---
-## script (related entry 1)
-### script(v.)
-
-1935年起，表示“将书面作品改编为广播或电影”，源自 [script](https://www.etymonline.com/word/script)（名词）。到1977年，这个词还引申出了“遵循规定的步骤”这一比喻意义。相关词汇包括 Scripted（已编写的）和 scripting（编写脚本的过程）。
+## script(v.)
+1935年，"將（一部文學作品）改編成廣播或電影"，源自 [script](https://www.etymonline.com/tw/word/script)（名詞）。比喻意義上的"按照規定方向行事"，始於1977年。相關詞彙： Scripted； scripting。
 
 ---

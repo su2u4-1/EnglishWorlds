@@ -1,10 +1,7 @@
 # crucial
 
-## Origin and history of crucial
-### crucial(adj.)
-
-1706年，形容“呈十字形，像X一样”，源自法语 crucial，最初是医学术语，用来指膝关节内部交叉的韧带。这个词又来自拉丁语 crux（属格 crucis），意为“十字架”（参见 [crux](https://www.etymonline.com/word/crux)）。
-
-1830年，这个词的意义扩展为“决定性的，关键的，最终证伪两种替代假设之一”。这个用法源自逻辑学术语 Instantias Crucis，由弗朗西斯·培根在1620年提出。这个概念就像是在岔路口的十字路标，指示人们必须做出选择。
+## crucial(adj.)
+1706年，“十字形的，呈 X 形的”，來自法語 crucial，是膝關節內部的韌帶的醫學術語（交叉在一起），源自於拉丁語 crux（所有格形式爲 crucis）的“十字形”（參見 [crux](https://www.etymonline.com/tw/word/crux)）。
+“決定性的，關鍵的，最終證明兩個替代假設中的一個是錯誤的”（1830）的含義是從邏輯術語 Instantias Crucis, 擴展而來，由弗朗西斯·培根（1620）引入； 這個概念是指在分叉的路口上的十字形指路標，因此需要做出選擇。
 
 ---

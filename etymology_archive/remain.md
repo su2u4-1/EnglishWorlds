@@ -1,20 +1,13 @@
 # remain
 
-## Origin and history of remain
-### remain(v.)
-
-15世纪初，remainen，意为“在部分、数量或特性被移除或失去后仍然存在；幸存”。这个词源于盎格鲁-法语的remayn-，古法语的remain-（例如il remaint，意为“它仍然存在”），是remanoir（“停留，留下，继续存在；被留下；坚持下去”）的重读词干。该词又源自拉丁语的remanere，意为“留下，停留；被遗留；忍耐，持续，存在”（同源词还有古西班牙语的remaner，意大利语的rimanere）。其中，re-表示“返回”（参见[re-](https://www.etymonline.com/word/re-)），而manere则意为“停留，留下”（源自原始印欧词根[*men-](https://www.etymonline.com/word/*men-)(3)，意为“留下”）。
-
-同样在15世纪初，这个词还被用来表示“继续处于某人的掌控或占有之中；保持在某个地点或状态”。在数学领域，该词也在15世纪初被使用。相关词汇包括Remained（已留下），remaining（剩余的）。
+## remain(v.)
+15世紀早期， remainen，指“在部分、數量或質量失去或去除後留下來; 倖存”，源自盎格魯-法語 remayn-，古法語 remain-（例如 il remaint，“它剩下了”），重讀詞幹來自拉丁語 remanoir，意思是“逗留，居住，剩餘; 持續，保持”，源自拉丁語 remanere，“停留，留下; 被落下; 持久，持續”，（源還包括古西班牙語 remaner，意大利語 rimanere），由 re-（見 [re-](https://www.etymonline.com/tw/word/re-)）和 manere “逗留，仍然存在”（源自 PIE 詞根 [*men-](https://www.etymonline.com/tw/word/*men-) (3) ，“留下，殘留”）組成。
+15世紀早期，“繼續”用於某人的管轄或擁有； 在某個特定的地方或條件中繼續。15世紀早期在數學上出現。相關詞彙： Remained, remaining。
 
 ---
-## remain (related entry 1)
-### remain(n.)
-
-在15世纪末，remain这个词的意思是“那些留下来或幸存下来的东西”。它源自古法语的remain，是从remanoir或remaindre（意为“停留、居住、留下”）演变而来的动名词，或者是在中英语中从动词[remain](https://www.etymonline.com/word/remain)演变而来的。
-
-在英语中，更常用的名词是[remainder](https://www.etymonline.com/word/remainder)，也可以参考[remnant](https://www.etymonline.com/word/remnant)。不过，在remains这个词中，它特指“幸存物、遗物、残留部分”，大约在1500年左右开始使用，尤其是指“人死后遗留下来的身体部分，尸体”，这个意义大约从1700年开始被记录。此外，从1650年代起，它还用来指“作者留下的文学作品（特别是未发表的）”。
-
-如果用本土词汇来表达，可以用leavings。古英语中有yþlafe，意为“海浪的残留物”，是“海岸”的一种隐喻；还有daroþa lāf，意为“矛的残留物”，是指“战斗中的幸存者”的一种隐喻。
+## remain(n.)
+15世紀後期，“那些剩下或倖存下來的人”，源自古法語 remain，是從 remanoir， remaindre “停留，居住，保持，剩餘”中反推出來的（動名詞），或者在中古英語中從 [remain](https://www.etymonline.com/tw/word/remain)（v.）形成的。
+在英語中，更常見的名詞是 [remainder](https://www.etymonline.com/tw/word/remainder)（n.），也可以看到 [remnant](https://www.etymonline.com/tw/word/remnant)，除了在 remains “倖存物，遺物，某物的剩餘部分”（約1500年），特別是“人死後遺留下來的屍體”，這個意義從約1700年開始被證實。從1650年代開始，“作者留下的文學作品（尤其是未發表的作品）”。
+一個本土詞是 leavings。古英語中有 yþlafe “浪花的殘留物”，是“海岸”的一種表達方式，還有 daroþa lāf “長矛的殘留物”，是“倖存者”的一種表達方式（在戰鬥中）。
 
 ---

@@ -1,20 +1,13 @@
 # common
 
-## Origin and history of common
-### common(adj.)
-
-大约公元1300年，“属于所有人，共同拥有或使用的，普遍的，具有公共性质或特征的”这个意思开始出现。它源自古法语的 comun，意为“共同的，普遍的，自由的，开放的，公共的”（9世纪，现代法语为 commun），进一步追溯到拉丁语的 communis，意为“共同的，公共的，大家共享的；普遍的，非特定的；平易近人的，不矫揉造作的”。这个词可以追溯到重建的原始印欧语复合词 \*ko-moin-i-，意为“共同拥有的”，它由 \*ko-（意为“共同，一起”）和 \*moi-n-（\*mei- 的变体，意为“变化，移动，前进”）构成，字面意思就是“大家共享的”。
-
-这个复合词的第二部分还与拉丁语的 munia（意为“职责，公共职责，职能”）有关，这些职责与 munia（“职务”）相关。可能在古法语中受到了日耳曼语形式的影响，这种形式源自原始印欧语的 \*ko-moin-i-（比较德语的 gemein，古英语的 gemne，意为“共同的，公共的，普遍的”——参见 [mean](https://www.etymonline.com/word/mean) (adj.)）。这个词通过法兰克语传入法语。
-
-自公元1300年左右起，这个词开始被用作对女性和罪犯的贬义称呼。大约公元1400年，它又发展出“平等地属于或源自两个或多个主体”的意思。到14世纪晚期，它还被用来表示“通常的，非例外的，频繁发生的”。大约公元1400年，它又有了“普通的，不突出，属于大众”的含义；而在描述事物时，“平常的，非卓越的”这一意义则出现在14世纪晚期。
-
-短语 Common pleas（普通诉讼）出现在13世纪，源自盎格鲁法语的 communs plets，指的是一个人对另一个人的民事诉讼，与王室诉讼相对。Common prayer（公共祷告）指的是与其他信徒一起在公共场合进行的祷告，区别于个人祷告。Common stock（普通股）这一说法最早见于1888年。Common speech（普通话，14世纪晚期）指的是大众使用的语言，与拉丁语相对。Common good（公共利益，14世纪晚期）翻译自拉丁语的 bonum publicum，意为“公共福祉”。而 common room（公共休息室，1660年代）则指的是所有成员都可以共同使用的空间。
+## common(adj.)
+公元1300年左右，“belonging to all, owned or used jointly, general, of a public nature or character”一詞源自古法語 comun “common, general, free, open, public”（9世紀，現代法語 commun），源自拉丁語 communis “in common, public, shared by all or many; general, not specific; familiar, not pretentious.” 這是從重建的原始印歐語 \*ko-moin-i- “held in common”中得出的，這是一個由 \*ko- “together”和 [*mei-](https://www.etymonline.com/tw/word/*mei-)（1）的詞根的後綴形式 \*moi-n-, 組成的複合形容詞，因此字面意思是“shared by all”。
+該複合詞的第二個元素也是拉丁語 munia “duties, public duties, functions”的來源，這些職責與 munia “office”有關。也許在古法語中受到了原始印歐語 \*ko-moin-i- 的日耳曼形式的加強（比較德語 gemein，古英語 gemne “common, public, general, universal”； 參見 [mean](https://www.etymonline.com/tw/word/mean)（adj.）），這些形式通過法蘭克語傳入了法語。
+自公元1300年以來，該詞被用來貶低婦女和罪犯。意思是“pertaining equally to or proceeding equally from two or more”源自公元1400年左右。意思是“usual, not exceptional, of frequent occurrence”源自14世紀晚期。意思是“not distinguished, belonging to the general mass”源自公元1400年左右； 對於事物來說，“ordinary, not excellent”源自14世紀晚期。
+Common pleas 是13世紀的，來自盎格魯-法國語 communs plets，指一個主體對另一個主體提起的民事訴訟，與王室訴訟相對。 Common prayer 是與其他敬拜者一起公開進行的祈禱，與私人祈禱相對。 Common stock 出現於1888年。 Common speech（14世紀晚期）是指白話，與拉丁語相對。 Common good（14世紀晚期）翻譯自拉丁語 bonum publicum “the common weal.” 學院的 common room（1660年代）是所有成員都可以共同使用的房間。
 
 ---
-## common (related entry 1)
-### common(n.)
-
-大约公元1300年，“兄弟会或团体”；14世纪初，“一个社区或城镇的人们，自由民，公民”；15世纪晚期，“共同拥有的土地”。这个词源于古法语的 commune 和中世纪拉丁语的 communia，部分来自于形容词 [common](https://www.etymonline.com/word/common)。同时也可以参考 [commons](https://www.etymonline.com/word/commons)。拉丁语的 communis 意为“共同的，一般的”（形容词），也可以作为名词，表示“公有财产；国家，公社”。
+## common(n.)
+公元1300年左右，指“團體或兄弟會”； 14世紀初，“社區或城鎮的人民，自由民，市民”； 15世紀末，“共同持有的土地”，源自古法語 commune 和中世紀拉丁語 communia，部分源自 [common](https://www.etymonline.com/tw/word/common)（形容詞）。還可參考 [commons](https://www.etymonline.com/tw/word/commons)。拉丁語 communis “共同的，普遍的”（形容詞）也用作名詞，意爲“共有財產； 國家，共和國”。
 
 ---

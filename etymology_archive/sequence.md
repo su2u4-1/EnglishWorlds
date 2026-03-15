@@ -1,16 +1,11 @@
 # sequence
 
-## Origin and history of sequence
-### sequence(n.)
-
-14世纪晚期，在教会音乐中，这个词指的是在《哈利路亚》之后、福音之前诵读或演唱的乐曲。它源自古法语 sequence，意为“应答诗句”（13世纪），直接借自中世纪拉丁语 sequentia，意为“跟随、连续”，来自拉丁语 sequentem（主格 sequens），是动词 sequi 的现在分词，意为“跟随”（源自原始印欧语根 [*sekw-](https://www.etymonline.com/word/*sekw-) (1)，意为“跟随”）。
-
-在教会中，这个词部分借译自希腊语 akolouthia，来自 akolouthos，意为“跟随”。到1570年代，它被广泛用于表示“一系列按特定顺序排列的事物，连续性”。在纸牌游戏中，它也指“三张或更多同花色连续数字的牌”。到1580年代，它被用来表示“继承顺序”。在生物化学中，特别是指核酸时，首次出现于1959年。
+## sequence(n.)
+14世紀末，在教堂音樂中，指的是在哈利路亞之後、福音書之前說或唱的一首作品，源自古法語 sequence “回答的詩句”（13世紀），直接源自中世紀拉丁語 sequentia “後續，繼承”，源自拉丁語 sequentem（nominative sequens），現在分詞形式的 sequi “跟隨”（源自 PIE 詞根 [*sekw-](https://www.etymonline.com/tw/word/*sekw-)（1）“跟隨”）。
+在教堂使用中，是希臘語 akolouthia, 的部分借譯，源自 akolouthos “跟隨”。到了16世紀70年代，也指“按一定順序連續跟隨的一系列事物，繼承”，在紙牌遊戲中也指“三個或更多連續的同花色數字”。到了16世紀80年代，又指“繼承的順序”。在生物化學中，指核酸，始於1959年。
 
 ---
-## sequence (related entry 1)
-### sequence(v.)
-
-“按顺序排列”，1954年起在计算机领域使用，源自 [sequence](https://www.etymonline.com/word/sequence)（名词）。到1970年在生物化学领域也开始使用。相关词汇包括 Sequenced（已排序）、sequencing（排序过程）。
+## sequence(v.)
+"按順序排列"，1954年在計算機領域中使用，來自 [sequence](https://www.etymonline.com/tw/word/sequence)（名詞）。在生物化學中於1970年出現。相關詞彙： Sequenced； sequencing。
 
 ---

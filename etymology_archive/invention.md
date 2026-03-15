@@ -1,17 +1,13 @@
 # invention
 
-## Origin and history of invention
-### invention(n.)
-
-在15世纪初，invencioun一词的意思是“发现或发明某物”，源自13世纪的古法语invencion，直接借自拉丁语inventionem（主格为inventio），意为“发明的能力”。这个名词是由动词invenire（“发现、找到；发明、创造；弄清楚；获得、取得”）的过去分词词干构成的。该动词本身则由前缀in-（表示“在……之中”或“向……之上”，源自原始印欧语词根[*en](https://www.etymonline.com/word/*en)，意为“在”）和动词venire（“来、到达”，源自原始印欧语词根[*gwa-](https://www.etymonline.com/word/*gwa-)，意为“去、来”的派生形式）组合而成。
-
-“发明的事物”这一意义最早出现在1510年代，而“发现如何制造或完成某物的过程”则始于1530年代。
+## invention(n.)
+15世紀早期， invencioun，“發現或發明某事”，源自13世紀的古法語 invencion，直接源自拉丁語 inventionem（主格 inventio），“發明的能力”，動作名詞，來自 invenire 的過去分詞詞幹，“發現，找到； 發明，發現，設計； 確定； 獲得，賺取”，來自 in- “在，上”（來自 PIE 詞根 [*en](https://www.etymonline.com/tw/word/*en) “在”）+ venire “來”（來自 PIE 詞根 [*gwa-](https://www.etymonline.com/tw/word/*gwa-) “去，來”的一個後綴形式）。
+“發明的事物”的意義首次記錄於1510年代； “發現如何製造或做某事的行爲或過程”的意義來自1530年代。
 
 > Invention is applied to the contrivance and production of something, often mechanical, that did not before exist, for the utilization of powers of nature long known or lately discovered by investigation. Discovery brings to light what existed before, but was not known. [Century Dictionary]
 
-> Invention指的是创造和生产某种新机械或装置，利用自然界早已知晓或通过研究新发现的力量。
->  Discovery则是揭示那些曾经存在但不为人知的事物。[《世纪词典》]
+> Invention 指的是發明和生產某些以前不存在的機械設備，以利用長期以來已知或最近通過調查發現的自然力量。 Discovery 揭示了以前存在但未知的事物。[世紀詞典]
 
-在中古英语中，这个词最初的意思是“组织方法的发明”（约公元1400年），但这一用法现已废弃。如今保留“发现或发明某物”这一意义的例子包括Invention of the Cross（十字架的发现），这是一个教会节日（每年5月3日），庆祝公元326年海伦娜（君士坦丁大帝的母亲）据说发现耶稣受难十字架的事件。与之相关的古典拉丁语词inventum则意为“装置、发明”。
+中古英語中這個詞最早的意義是“組織的設計方法”（約1400年），這個意義現在已經過時。 “發現或發明某事”的意義在 Invention of the Cross 中得以保留，這是一個慶祝教堂節日（5月3日），慶祝君士坦丁的母親海倫娜在公元326年發現了耶穌受難時的十字架。相關的古典拉丁詞“設備，發明”是 inventum。
 
 ---

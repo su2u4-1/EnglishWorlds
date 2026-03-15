@@ -1,10 +1,8 @@
 # terms
 
-## Origin and history of terms
-### terms(n.)
+## terms(n.)
+「提出並供接受的提議，限制條件」，這個意思出現於14世紀初，來自於 [term](https://www.etymonline.com/tw/word/term)（名詞），當時指的是「約定，保證」。因此，像是 come to terms（達成協議，讓步）、make terms（達成一致）、on any terms（在任何條件下）等表達方式應運而生。
 
-“提出并接受的提议，限制条件”，这个意思在14世纪初期出现，源自 [term](https://www.etymonline.com/word/term)（名词），当时指的是“条款，保证”。因此，出现了像 come to terms（达成一致，妥协）、make terms（达成协议）、on any terms（在任何条件下）这样的表达。
-
-到了1540年代，这个词的意思扩展为“地位，关系，相对位置”，例如 on good（或 bad） terms（与某人的关系良好或恶劣），以及 on speaking terms（1881年，指能说话的关系）。
+到了1540年代，「地位，關係，相互關係，相對位置」的意思開始流行，像是 on good（或 bad）terms（與某人關係良好或不佳）、on speaking terms（1881年，還能交談的關係）。
 
 ---

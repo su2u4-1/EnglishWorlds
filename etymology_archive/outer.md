@@ -1,8 +1,6 @@
 # outer
 
-## Origin and history of outer
-### outer(adj.)
-
-“那是更远的地方，指的是外部或外在的；与外部相关；距离更远。”这个词在14世纪晚期出现，是 [out](https://www.etymonline.com/word/out) 的比较级（类似于 [inner](https://www.etymonline.com/word/inner)），取代了18世纪从古英语 uttera（古英语 ut 的比较级，“外面”）演变而来的形式。这些形式发展成了 [utter](https://www.etymonline.com/word/utter)（形容词），但人们不再将其与 out 关联。Outer space（外层空间）指“地球大气层之外的区域”，最早可追溯到1845年。
+## outer(adj.)
+"那是更遠的地方，那是外部的或外部的； 與外部有關的； 更遠的，"14世紀晚期，比較級 [out](https://www.etymonline.com/tw/word/out)（類比於 [inner](https://www.etymonline.com/tw/word/inner)），取代了18世紀從古英語 uttera（古英語 ut “外部”的比較級）傳承下來的形式，後者發展成 [utter](https://www.etymonline.com/tw/word/utter)（形容詞），不再被視爲與 out 有關。 Outer space “地球大氣層以外的區域”可追溯至1845年。
 
 ---

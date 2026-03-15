@@ -1,28 +1,20 @@
 # piece
 
-## Origin and history of piece
-### piece(n.1)
-
-大约公元1200年，pece这个词最初指的是“固定数量、测量单位或部分”。到了公元1300年，它的意思扩展到了“物体的碎片、整体的一部分、肉片”以及“独立的碎片、部分或段落”。这个词源自古法语的piece，意为“片段、部分、物品或硬币”（12世纪）。它又源自俗拉丁语的\*pettia，可能源自高卢语的\*pettsi（与威尔士语的peth“东西”和布列塔尼语的pez“片段、小块”相比较）。这可能来自古凯尔特语的词根\*kwezd-i-，而其原始印欧语词根\*kwezd-则意为“部分、片段”，这个词根也衍生出了俄语的chast'（“部分”）。相关词汇还有Pieces。
-
-公元1400年左右，这个词开始用来表示“构成某一类别或群体的独立个体”。到了1560年代，它又被用来指代“标本、实例或例子”。在1580年代，它被用来专指“便携式火器”，而在此之前，它的意思是“火炮武器”（1540年代）。1560年代，这个词还被用来表示“国际象棋棋子”。公元14世纪初，它开始被用来表示“一段时间”；而在1610年代，它又被用来指代“一段距离”；1530年代时，它首次用于“文学作品”这一意义。
-
-短语Piece of (one's) mind（“直言不讳地表达意见”）出现在1570年代。Piece of work（“杰出的人”）则呼应了《哈姆雷特》。在英语中，Piece作为“硬币”的用法可以追溯到公元1400年左右，因此有了piece of eight这个旧称，指的是西班牙元（约公元1600年），其价值为8雷亚尔，并且上面刻有数字8。副词短语in one piece（“完整无损、毫发无伤”）出现在1580年代；而of a piece（“如同一个整体”）则始于1610年代。
+## piece(n.1)
+約於1200年， pece，意爲“固定數量，度量，部分”； 約於1300年，意爲“物體的碎片，整體的一部分，肉片； 分離的碎片，部分或一部分”，源自於古法語 piece，“部分，碎片，貨幣”（12世紀），來自於通俗拉丁語 \*pettia，可能源自於高盧語 \*pettsi（比較威爾士語 peth “事物”，布列塔尼語 pez “部分，一點點”），也許源自於古凱爾特語基礎 \*kwezd-i-，源自於 PIE 詞根 \*kwezd- “一部分，碎片”（同源於俄語 chast' “部分”）。相關詞彙： Pieces。
+意爲“組成類別或羣體的單獨文章”的含義約於1400年； 意爲“樣品，實例，例子”的含義約於1560年代。意爲“便攜式火器”的含義約於1580年代，早期指“火炮武器”（1540年代）。意爲“棋子”的含義約於1560年代。意爲“一段時間”的含義約於14世紀初； 意爲“一段距離的一部分”的含義約於1610年代； 意爲“文學作品”的含義可追溯至1530年代。
+Piece of (one's) mind 意爲“坦率表達某人的意見”，可追溯至1570年代。 Piece of work 意爲“傑出的人”，呼應了《哈姆雷特》。Piece 作爲“硬幣”的含義可追溯至約1400年，因此有 piece of eight，指西班牙元（約1600年），價值8個皇家，帶有數字8。副詞短語 in one piece 意爲“完整的，未分割的，沒有損失或傷害”，可追溯至1580年代； of a piece 意爲“作爲同一部分或整體”，可追溯至1610年代。
 
 ---
-## piece (related entry 1)
-### piece(v.)
-
-大约在公元1400年，pecen这个词出现，意思是“通过添加布片来修补衣物”，来源于[piece](https://www.etymonline.com/word/piece)（名词1）。到了15世纪晚期，这个词又引申出了“连接、团结或重新结合，再次拼凑在一起”的意思。相关词汇包括Pieced（已拼接）和piecing（拼接）。
+## piece(v.)
+約在1400年， pecen，意爲“通過添加碎片修補（衣服）”，源自於 [piece](https://www.etymonline.com/tw/word/piece)（n.1）。“連接、聯合或重新組合，再次拼湊”之意從15世紀後期開始出現。相關詞彙： Pieced； piecing。
 
 ---
-## piece (related entry 2)
-### piece(n.2)
-
-“一个人，一个个体”，大约公元1300年起源于 [piece](https://www.etymonline.com/word/piece)（名词1），但在现代用法中带有轻蔑意味，通常指女性；“被视为性对象的人”这一含义出现于1785年。可以与 piece of ass 在 [ass](https://www.etymonline.com/word/ass)（名词2）下比较；自1590年代起，人们口语中将人称为“肉块”。此外，还可以与拉丁语 scortum（意为“可供出售的女孩”或“皮肤”）进行比较。
+## piece(n.2)
+“人，個體”，公元1300年左右，源自 [piece](https://www.etymonline.com/tw/word/piece)（n.1），但現代用法帶有蔑視色彩，通常用於女性； “被視爲性對象的人”一詞始於1785年。參見 [ass](https://www.etymonline.com/tw/word/ass)（n.2）下的 piece of ass； 從1590年代起，人類在口語中被稱爲“一塊肉”； 還可參見拉丁語 scortum “傻瓜，任何可以出售的人”，字面意思是“皮膚”。
 
 > PIECE. A wench. A damned good or bad piece; a girl who is more or less active and skilful in the amorous congress. Hence the (Cambridge) toast, may we never have a PIECE (peace) that will injure the constitution. [Dictionary of Buckish Slang, University Wit and Pickpocket Eloquence, London, 1811]
 
-> PIECE。一个姑娘。一个非常出色或糟糕的姑娘；一个在爱情交往中表现得较为主动和熟练的女孩。因此，剑桥的祝酒词是：愿我们永远不会有一个会伤害宪法的PIECE（和平）。[《伦敦大学俚语词典：大学幽默与扒手口才》，1811年]
+> PIECE。一個女孩。一個非常好或非常壞的女孩； 一個在性交中更或少活躍和熟練的女孩。因此，（劍橋）祝酒詞是：願我們永遠沒有一個會損害憲法的 PIECE（和平）。[《浮華俚語詞典，大學機智和扒手口才，倫敦，1811年]
 
 ---

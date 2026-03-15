@@ -1,8 +1,6 @@
 # dreamt
 
-## Origin and history of dreamt
-### dreamt
-
-[dream](https://www.etymonline.com/word/dream)（动词）的另一种过去式和过去分词形式。
+## dreamt
+[dream](https://www.etymonline.com/tw/word/dream)（v.）的替代過去式和過去分詞。
 
 ---

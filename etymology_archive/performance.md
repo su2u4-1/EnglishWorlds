@@ -1,8 +1,6 @@
 # performance
 
-## Origin and history of performance
-### performance(n.)
-
-在15世纪末，“完成，成就”这个意思开始出现，源自 [perform](https://www.etymonline.com/word/perform)（执行，表演）和 [-ance](https://www.etymonline.com/word/-ance)（名词后缀）。到了1590年代，这个词的含义扩展为“已完成的事物，表演的内容”。1610年代，它又被用来指“表演一场戏剧等的行为”。而“公众娱乐活动”这一意义则出现在1709年。在中世纪英语中，早期的名词形式是 performing（14世纪末），意指“完成状态，行为的实现”。而 Performance art（行为艺术）这一概念则在1971年被确认。
+## performance(n.)
+15世紀後期，“完成，完成”（某事物），源自 [perform](https://www.etymonline.com/tw/word/perform) + [-ance](https://www.etymonline.com/tw/word/-ance)。意思是“已完成的事物，已執行的事物”，始於1590年代； “表演戲劇等的行動”始於1610年代； “公共娛樂”的意思始於1709年。中古英語中更早的名詞是 performing（14世紀後期）“完成狀態，完成行爲”。Performance art 自1971年得到證實。
 
 ---

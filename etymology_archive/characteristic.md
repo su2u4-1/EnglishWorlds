@@ -1,8 +1,6 @@
 # characteristic
 
-## Origin and history of characteristic
-### characteristic
-
-形容词（“与性格相关或指示性格”）和名词（“独特的特征；赋予或指示性格的东西”）都首次出现在1660年代，来源于[character](https://www.etymonline.com/word/character) + [-istic](https://www.etymonline.com/word/-istic)，模仿希腊语kharaktēristikos。在形容词用法中，早期形式为characteristical（1620年代）。相关词：Characteristically（1640年代）。Characteristics“独特的特征”也首次出现在1660年代。
+## characteristic
+形容詞（“與性格有關或表明性格的”）和名詞（“獨特的特徵； 表現或指示性格的事物”）都最早出現於1660年代，源自於 [character](https://www.etymonline.com/tw/word/character) 和希臘語 kharaktēristikos 的模式下的 [-istic](https://www.etymonline.com/tw/word/-istic)。在形容詞意義上更早的是 characteristical（1620年代）。相關詞彙： Characteristically（1640年代）。 Characteristics  “獨特的特徵”也出現於1660年代。
 
 ---

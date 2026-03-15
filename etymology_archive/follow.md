@@ -1,10 +1,7 @@
 # follow
 
-## Origin and history of follow
-### follow(v.)
-
-中古英语的 folwen 源自古英语的 folgian、fylgian、fylgan，意思是“陪伴（特别是作为弟子）、朝同一方向移动；跟随、追赶、在同一方向上移动”，还有“遵守（规则或法律）、服从、遵循；致力于（某种实践、职业或事业）”的意思。这些词的共同来源是原始日耳曼语的 \*fulgojanan（同源词还有古撒克逊语的 folgon、古弗里斯语的 folgia、中古荷兰语的 volghen、现代荷兰语的 volgen、古高地德语的 folgen、现代德语的 folgen、古诺尔斯语的 fylgja，均意为“跟随”）。这个词可能最初是一个复合词 \*full-gan，意为“全力前行”，后来逐渐演变为“服务，作为随行者陪伴”（可以与 [fulfill](https://www.etymonline.com/word/fulfill) 进行比较）。相关词汇包括 Followed 和 [following](https://www.etymonline.com/word/following)。
-
-在晚期古英语中，follow 开始有了“接受为领导或引导，服从或顺从”的含义。大约公元1200年，它又发展出“在时间上跟随”的意思；同时期，它还被用来表示“由……引起（作为结果）”。1690年代，这个词又被赋予了“在思维上跟上，理解”的新意义。作为不及物动词，表示“在后面跟随”这一用法出现在13世纪中期。follow one's nose（“直行”）这一表达首次出现在1590年代。“完整的说法是：‘顺着鼻子走，你一定会走直路。’”[Farmer]。儿童游戏 follow my leader（“跟随我的领导”）最早在1812年被记录下来（1896年以 follow the leader 的形式出现）。
+## follow(v.)
+中古英語 folwen，源自古英語 folgian 、fylgian 、fylgan，意爲“陪伴（尤其是作爲門徒），朝同一方向移動； 跟隨，追求，朝同一方向後退”，還有“遵守（規則或法律），遵循，按照行事； 致力於（一種實踐、行業或職業）”，源自原始日耳曼語 \*fulgojanan（源頭還包括古撒克遜語 folgon 、古弗裏西亞語 folgia 、中古荷蘭語 volghen 、荷蘭語 volgen 、古高地德語 folgen 、德語 folgen 、古諾爾斯語 fylgja “跟隨”）。可能最初是一個複合詞 \*full-gan，意爲“全力前進”，然後意義轉變爲“作爲隨從服務，陪同”（類比 [fulfill](https://www.etymonline.com/tw/word/fulfill)）。相關詞彙： Followed； [following](https://www.etymonline.com/tw/word/following)。
+“接受領袖或指導，服從或屈從於”這個意義在古英語晚期出現。意爲“在時間上緊隨其後”來自公元1200年左右； 意爲“由……引起”（作爲因果關係的結果）來自公元1200年左右。意爲“在心理上跟上，理解”來自1690年代。不及物動詞意爲“走在或走在後面”來自13世紀中葉。 follow one's nose 的意思是“筆直走”，最早見於1590年代。[法爾默]。兒童遊戲 follow my leader 自1812年以來就以這個名字出現（1896年以 follow the leader 的名字出現）。
 
 ---

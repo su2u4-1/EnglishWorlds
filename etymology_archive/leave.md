@@ -1,18 +1,13 @@
 # leave
 
-## Origin and history of leave
-### leave(v.)
-
-古英语中的 læfan 意思是“允许保持原状；让其存留，允许生存；（在提到继承人时）留下（已故之人的遗产）；遗赠（遗产）”。这个词源自原始日耳曼语的 \*laibjanan，与古弗里斯语的 leva（“离开”）、古萨克森语的 farlebid（“剩余”）同源。它是 \*liban 的使役形式，意为“留下，停留”，这个词在古英语中有类似的意思，但如今已不再使用。类似的用法在希腊语中也存在，如 lipares（“坚持不懈，纠缠不休”）。不过，这通常被视为从原始印欧语中“粘附，粘连”的基本意义发展而来（可以与立陶宛语的 lipti、古教会斯拉夫语的 lipet（“粘附”）、希腊语的 lipos（“油脂”）、梵语的 rip-/lip-（“涂抹，粘附”）等词进行对比）。
-
-最初，这个词是一个强变化动词（过去分词形式为 lifen），但很早就转变为弱变化动词。大约公元1200年起，它开始有了“离开，出发，离开某地；留下”的意思，这源于“遗留”的概念（例如 to leave the earth（“离开人世”）、to leave the field（“撤退”））。从公元1200年起，它还被用来表示“停止，结束；放弃，放手，不再与之相关；中止，结束”；同时也有“省略，忽视；抛弃，遗弃，抛弃；离婚”的意思；还可以表示“允许某人离开”。
-
-在口语中表示“让，允许”的用法出现在1840年，《牛津英语词典》称其主要为美式英语。这与名词 leave（“离开”）无关。leave out（“省略”）的用法出现在15世纪末。leave (something) alone（“不打扰某物”）约出现于公元1400年；leave (something) be（“让某物保持原状”）则出现在1825年。leave (something/nothing) to be desired（“某物令人不满意”）的用法始于1780年。leave it at that（“就这样算了”）则出现在1902年。Leave off（“停止，结束”）约在公元1400年作为及物动词出现；而作为不及物动词（“停止，结束”）则出现在15世纪初。
+## leave(v.)
+古英語 læfan “允許保持相同的狀態或條件； 讓其保持，允許存活； 留下（指已故的人，涉及繼承人等）； 遺贈（遺產）”，源自原始日耳曼語 \*laibjanan（也源自古弗里斯蘭語 leva “離開”，古撒克遜語 farlebid “剩餘”），是 \*liban “保持”的使役形式（源自古英語 belifan，德語 bleiben，哥特語 bileiban “保持”），源自 PIE 詞根 [*leip-](https://www.etymonline.com/tw/word/*leip-) “粘住，附着”。
+這個日耳曼語的詞根似乎只有“保持，繼續”的意思（在古英語中也有，但現已過時），這也是希臘語 lipares “堅持，糾纏”的意思。但這通常被認爲是從 PIE 詞根的原始意思“粘住，黏着”發展而來（比較立陶宛語 lipti，古教會斯拉夫語 lipet “附着”，希臘語 lipos “油脂”，梵語 rip-/lip- “塗抹，附着於”）。
+最初是一個強動詞（過去分詞 lifen），它很早就變成了一個弱動詞形式。意思是“離開，離去，離開； 留下”（約1200年）來自“留下”的概念（如 to leave the earth “去世”； to leave the field “撤退”）。從約1200年開始，意思是“停止，終止； 放棄，放手，戒除； 中止，結束”； 還有“省略，忽視； 拋棄，離棄，遺棄； 離婚”； 還有“允許（某人）離開”。
+1840年起，口語中用作“讓，允許”，據 OED 稱主要是美式英語。與名詞 leave 無關。leave out 的意思是“省略”，始於15世紀末。leave (something) alone 始於約1400年； leave (something) be 始於1825年。leave (something/nothing) to be desired 始於1780年。leave it at that 始於1902年。Leave off 始於約1400年，意爲“停止，停止”（及物動詞）； 15世紀初意爲“停止，結束”（不及物動詞）。
 
 ---
-## leave (related entry 1)
-### leave(n.)
-
-“许可，允许做某事的自由”，源自古英语 leafe，意为“允许，许可，特许”。这是 leaf 的宾格和与格形式，表示“许可”。它源自原始日耳曼语 \*laubo，与古诺尔斯语的 leyfi（“许可”）以及带前缀的古撒克逊语 orlof、古弗里斯语 orlof 和德语的 Urlaub（“休假”）同源。其更早的词根来自原始印欧语 [*leubh-](https://www.etymonline.com/word/*leubh-)，意为“关心，渴望，爱”，最初的含义是“因愉悦而产生的批准”。它是名词形式，与形容词 [lief](https://www.etymonline.com/word/lief)（“亲爱的”）相关联；同时可以与 [belief](https://www.etymonline.com/word/belief) 进行比较。在军事领域，这个词的使用可以追溯到1771年。
+## leave(n.)
+"允許，授權做某事"，古英語 leafe"離開，許可，執照"， leaf 的與格和賓格，意爲"許可"，源自原始日耳曼語 \*laubo（也指古諾爾斯語 leyfi"許可"，以及帶前綴的古撒克遜語 orlof，古弗里斯蘭語 orlof，德語 Urlaub"休假"），源自 PIE 詞根 [*leubh-](https://www.etymonline.com/tw/word/*leubh-) "關心，渴望，愛"，最初的想法是"由快樂產生的批准"。它是形容詞 [lief](https://www.etymonline.com/tw/word/lief)"親愛的" 的名詞形式； 並與 [belief](https://www.etymonline.com/tw/word/belief) 相似。在軍事意義上，它可追溯到1771年。
 
 ---

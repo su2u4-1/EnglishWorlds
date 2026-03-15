@@ -1,8 +1,6 @@
 # taken
 
-## Origin and history of taken
-### taken
-
-动词 [take](https://www.etymonline.com/word/take) 的过去分词形式。
+## taken
+[take](https://www.etymonline.com/tw/word/take)（v.）的過去分詞。
 
 ---

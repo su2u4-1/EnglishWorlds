@@ -1,10 +1,7 @@
 # apply
 
-## Origin and history of apply
-### apply(v.)
-
-这个词的起源可以追溯到14世纪晚期，最初的意思是“加入或结合（某物），附着（于某物），依附”。它源自古法语的 aploiier，意为“应用，使用，附着”（12世纪，现代法语为 appliquer），而古法语又来自拉丁语 applicare，意思是“附着于，连接，结合”。从字面上看，这个词的构成可以理解为“将事物带入接触”，而从比喻意义上，它还可以表示“致力于，关注某事”。这个比喻意义的形成是因为拉丁语的 ad（意为“向……”，可以参考 [ad-](https://www.etymonline.com/word/ad-)）与 plicare（意为“折叠”，源自原始印欧语根 [*plek-](https://www.etymonline.com/word/*plek-)，意为“编织”）的结合。
-
-在英语中，这个词大约从1400年起被用作“为某一特定目的使用或应用”某物。从15世纪初开始，它还专门用于指代某些药膏、敷料等，意为“与身体接触”，同时也可以指将个人的智力或能力“投入到某项任务或追求中”。而“通过提交申请来寻求工作”的含义则出现在1851年。1530年代，applicate 作为一种变体形式被记录下来。相关词汇包括 [Applied](https://www.etymonline.com/word/Applied)（已应用）和 applying（正在应用）。
+## apply(v.)
+14世紀晚期，“連接或組合（與）； 附加（到某物），粘附”，源自古法語 aploiier “應用，使用，附加”（12世紀，現代法語 appliquer），源自拉丁語 applicare “連接，連接； 比喻地，“致力於，關注”，源自 ad “到”（見 [ad-](https://www.etymonline.com/tw/word/ad-)) + plicare “摺疊”（來自 PIE 根 [*plek-](https://www.etymonline.com/tw/word/*plek-) “編織”）。
+詞源意義是“將物品接觸在一起”。在英語中，自約1400年以來，“使用或僱用”某物以達到某種目的。從15世紀初開始，涉及到洗液、石膏等，“與身體接觸”，還有指一個人的心智能力或能力，“在任務或追求中投入工作”。 “通過提交申請書尋求工作”的含義始於1851年。一個副本 applicate 記錄於1530年代。相關： [Applied](https://www.etymonline.com/tw/word/applied)； applying。
 
 ---

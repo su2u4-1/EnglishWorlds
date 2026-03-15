@@ -1,20 +1,16 @@
 # worse
 
-## Origin and history of worse
-### worse(adj.)
+## worse(adj.)
+這個詞是比較級，意指「更不幸或不理想」，也用來形容健康、財富等方面的狀況。它源自中古英語的 werse，而更早則是來自古英語的 wiersa 和 wyrsa，意思是「更邪惡、應受譴責、罪孽深重、不愉快」等，追溯至原始日耳曼語的 \*wers-izon-。
 
-这个词是个比较级，意思是“更不幸或不理想”，也可以用来形容健康、财富等方面的状况。它源自中古英语的 werse，而更早的形式是古英语的 wiersa 或 wyrsa，意指“更邪恶、更多罪责、更有罪、更不愉快”等等。这些词的起源可以追溯到原始日耳曼语的 \*wers-izon-。
+根據沃特金斯的重建，這個詞可能是從原始印歐語的 \*wers-（1）演變而來，原意是「混淆、攪擾」，這個詞根也出現在古高地德語的 werra（意為「爭鬥」）、古薩克斯語的 werran（意為「纏擾、混合」）中；參見 [war](https://www.etymonline.com/tw/word/war#etymonline_v_4825) (n.)。
 
-根据沃特金斯的重建，这个词可能是源自原始印欧语的 \*wers-（1），意思是“混淆、搅拌”，这也与古高地德语的 werra（“争斗”）、古撒克逊语的 werran（“纠缠、混合”）等词相关，具体可以参见 [war](https://www.etymonline.com/word/war) (n.)。
+這個詞也被用作 [bad](https://www.etymonline.com/tw/word/bad)、[evil](https://www.etymonline.com/tw/word/evil)、[ill](https://www.etymonline.com/tw/word/ill) 的比較級，或者作為 [better](https://www.etymonline.com/tw/word/better) 的反義詞。用來形容物品時，意思是「狀況不佳、價值或完美程度較低」，大約在公元1200年左右開始出現。
 
-这个词还可以用作 [bad](https://www.etymonline.com/word/bad)、[evil](https://www.etymonline.com/word/evil)、[ill](https://www.etymonline.com/word/ill) 的比较级，或者作为 [better](https://www.etymonline.com/word/better) 的反义词。用来形容事物时，表示“状况不佳、价值或完美程度较低”，大约在公元1200年左右开始出现。
-
-作为比较副词时，意思是“更邪恶、以较差或不理想的方式”，在古英语中是 wyrs。此外，还可以参考 [worse](https://www.etymonline.com/word/worse) (n.)。与其相关的日耳曼语词汇包括古诺尔斯语的 verri、瑞典语的 värre、古弗里西亚语的 wirra、古高地德语的 wirsiro、哥特语的 wairsiza，它们都表示“更糟糕”。
+作為比較副詞時，它的意思是「更邪惡地、以較差或不理想的方式」，古英語表達為 wyrs。還可以參考 [worse](https://www.etymonline.com/tw/word/worse#etymonline_v_56906) (n.)。這個詞在日耳曼語系中的同源詞包括古諾爾斯語的 verri、瑞典語的 värre、古弗里西語的 wirra、古高地德語的 wirsiro 和哥特語的 wairsiza，都意指「更糟糕」。
 
 ---
-## worse (related entry 1)
-### worse(n.)
-
-中英语 werse，意为“更邪恶或不太有德之物”，来源于古英语 wyrsa；意为“集体上不太有德或更邪恶的人”；参见 [worse](https://www.etymonline.com/word/worse)（形容词）。到14世纪早期，意为“更不愉快或质量更低劣的东西”。短语 for better or for worse 从14世纪晚期开始出现（for bet, for wers）；短语 for the worse 从约1400年起记录。
+## worse(n.)
+中古英語 werse，「更邪惡或較不道德之物」，來自古英語 wyrsa；「較不道德或較邪惡的人們總稱」；參見 [worse](https://www.etymonline.com/tw/word/worse)（形容詞）。到14世紀早期，意為「更不愉快或質量較差之物」。短語 for better or for worse 自14世紀晚期起被證實（for bet, for wers）；改變為 for the worse 自約1400年起被記錄。
 
 ---

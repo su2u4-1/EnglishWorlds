@@ -1,8 +1,6 @@
 # hierarchy
 
-## Origin and history of hierarchy
-### hierarchy(n.)
-
-14世纪晚期，jerarchie、ierarchie，意为“神圣秩序中的等级；九阶天使中的三大类之一”；广义上指“统治，支配”。这个词源于古法语的 ierarchie（14世纪，现代法语为 hiérarchie），再往上追溯到中世纪拉丁语的 hierarchia，意为“天使的等级划分”（源自狄奥尼修斯·亚雷俄巴吉特的体系），而这个词又源自希腊语的 hierarkhia，意思是“祭司的统治”。其中，hierarkhes 指的是“祭司长，神圣仪式的领导者”，而 ta hiera 则意为“神圣仪式”（是 hieros 的中性复数，意为“神圣的”；参见 [ire](https://www.etymonline.com/word/ire)）。arkhein 则意为“领导，统治”（参见 [archon](https://www.etymonline.com/word/archon)）。“有序组织”这一含义首次出现在1610年代，最初用于描述 clergy（神职人员），可能受到 higher 的影响。
+## hierarchy(n.)
+14世紀晚期， jerarchie， ierarchie，“神聖秩序中的等級； 九個天使序列的三個部分之一； ”寬泛地說，“統治，支配”，源自古法語 ierarchie（14世紀，現代法語 hiérarchie），源自中世紀拉丁語 hierarchia “天使的等級劃分”（在狄奧尼修斯·阿雷奧帕吉特的體系中），源自希臘語 hierarkhia “高祭司的統治”，源自 hierarkhes “高祭司，神聖儀式的領袖”，源自 ta hiera “神聖儀式”（中性複數 hieros “神聖的”； 參見 [ire](https://www.etymonline.com/tw/word/ire)）+ arkhein “領導，統治”（參見 [archon](https://www.etymonline.com/tw/word/archon)）。 “人或事物的等級組織”的意義最早記錄於1610年代，最初是指神職人員，意義可能受到 higher 的影響。
 
 ---

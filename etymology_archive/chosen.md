@@ -1,8 +1,6 @@
 # chosen
 
-## Origin and history of chosen
-### chosen(n.)
-
-“被选中的人，精英”，特别是指那些被上帝挑选的人，约公元1200年，源自动词 [choose](https://www.etymonline.com/word/choose) 的过去分词。Chosen people 指“犹太人”这一说法始见于1530年代。
+## chosen(n.)
+“被選中的人，精英”，尤指被上帝選中的人，公元1200年左右，來自 [choose](https://www.etymonline.com/tw/word/choose)（動詞）的過去分詞。 “Chosen people”用於指“猶太人”，記錄於1530年代。
 
 ---

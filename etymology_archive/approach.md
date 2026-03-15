@@ -1,14 +1,10 @@
 # approach
 
-## Origin and history of approach
-### approach(v.)
-
-大约公元1300年，“靠近”或“接近”的意思开始出现；到了14世纪晚期，这个词还被用来表示“在时间上接近”，以及“在质量或特征上接近、相似，变得相似”。这个词源于盎格鲁-法语的 approcher，古法语的 aprochier，意为“靠近”（12世纪，现代法语为 approcher）。它又源自晚期拉丁语的 appropiare 和 adpropiare，意思是“走近”，其中 ad 意为“向……”（参见 [ad-](https://www.etymonline.com/word/ad-)），而晚期拉丁语的 propiare 则意为“更靠近”，是拉丁语 prope（意为“近”）的比较级（参见 [propinquity](https://www.etymonline.com/word/propinquity)）。这个词取代了古英语的 neahlæcan。
+## approach(v.)
+約於1300年，指“在地點上靠近或接近”； 到14世紀末，指“在時間上接近”，也指“在品質或性格上接近，類似，變得相似”，來自盎格魯-法語 approcher，古法語 aprochier “靠近”（12世紀，現代法語 approcher），源自晚期拉丁語 appropiare， adpropiare “更靠近”，源自拉丁語 ad “到”（參見 [ad-](https://www.etymonline.com/tw/word/ad-)) + 晚期拉丁語 propiare “更靠近”，比較級爲拉丁語 prope “靠近”（參見 [propinquity](https://www.etymonline.com/tw/word/propinquity)）。取代了古英語 neahlæcan。
 
 ---
-## approach (related entry 1)
-### approach(n.)
-
-15世纪中期，[approach](https://www.etymonline.com/word/approach)（动词）意为“靠近、到达”的行为。到1630年代，这个词还引申出了“接近某物的方法或手段”的意思。1905年，它被用来比喻“处理问题等的手段”。而“飞机降落前的最后阶段”这一意义则出现在1930年。
+## approach(n.)
+15世紀中期，“接近，到達的行爲”，源自 [approach](https://www.etymonline.com/tw/word/approach)（動詞）。意思是“接近某物的方式或手段”始於1630年代。比喻意義上的“處理問題的手段”可追溯至1905年。飛機降落前的“最後階段”是在1930年代出現的。
 
 ---

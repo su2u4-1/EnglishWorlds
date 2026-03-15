@@ -1,8 +1,6 @@
 # tinct
 
-## Origin and history of tinct
-### tinct(n.)
-
-“颜色，色调，色泽，染色”，大约公元1600年起源于拉丁语 tinctus，意为“染色”，来自 tingere，意为“染色”（参见 [tincture](https://www.etymonline.com/word/tincture)，并比较 [tint](https://www.etymonline.com/word/tint) (n.)）。作为动词“上色，染色”则出现在15世纪初，形式有 tincten，teinten（比较 [taint](https://www.etymonline.com/word/taint)）。
+## tinct(n.)
+「顏色、色調、色相、染色」，大約在1600年出現，源自拉丁語 tinctus，意為「染色」，來自 tingere，意為「染色」（參見 [tincture](https://www.etymonline.com/tw/word/tincture)，並比較 [tint](https://www.etymonline.com/tw/word/tint#etymonline_v_13345) (n.)）。作為動詞「上色、染色」，出現於15世紀初，形式有 tincten、teinten（比較 [taint](https://www.etymonline.com/tw/word/taint)）。
 
 ---

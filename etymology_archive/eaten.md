@@ -1,8 +1,6 @@
 # eaten
 
-## Origin and history of eaten
-### eaten
-
-古英语中 eten 是 [eat](https://www.etymonline.com/word/eat) 的过去分词形式。
+## eaten
+古英語 eten， [eat](https://www.etymonline.com/tw/word/eat) 的過去分詞。
 
 ---

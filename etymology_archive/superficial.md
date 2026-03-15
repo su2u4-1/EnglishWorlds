@@ -1,12 +1,10 @@
 # superficial
 
-## Origin and history of superficial
-### superficial(adj.)
+## superficial(adj.)
+在14世紀末，這個詞在解剖學中被用來形容「位於或在皮膚表面，外部的，不深入的」。它源自古法語的 superficial 和 superficiel，直接來自晚期拉丁語的 superficialis，意指「與表面有關的」，而這又源自 superficies，即「表面、上側、頂部」，由 super（意為「在上方、超過」，參見 [super-](https://www.etymonline.com/tw/word/super-)）和 facies（意為「形狀、面貌」，參見 [face](https://www.etymonline.com/tw/word/face#etymonline_v_1056) (n.)，同時也可比較 [surface](https://www.etymonline.com/tw/word/surface#etymonline_v_22410) (n.)）組成。
 
-在14世纪晚期，superficial（或superficiel）这个词在解剖学中被用来描述“位于皮肤表面，外部的，而非深层的”概念。它源自古法语和晚期拉丁语的superficialis，意指“与表面相关的”，进一步追溯则来自于superficies，即“表面、上层、顶端”，而super（意为“在……之上”）和facies（意为“形状、面貌”）则分别构成了这个词的基础（参见[super-](https://www.etymonline.com/word/super-)和[face](https://www.etymonline.com/word/face) (n.)，同时也可对比[surface](https://www.etymonline.com/word/surface) (n.)）。
+到了15世紀初，這個詞的另一個意義出現了，即「缺乏深入理解，草率，只理解表面或明顯的事物」（主要用於描述感知、思考等）。這個意義的形成基於一種觀念，即不關心或不深入探究表面之下的內容（這在 superficially 中有所體現，意指「不徹底」）。
 
-到了15世纪初，这个词的意义扩展到了“缺乏深入理解，肤浅，仅仅理解表面或明显的事物”（通常用于描述感知、思考等）。这种用法反映了人们对表面现象的关注，而不愿深入探讨其本质（这一点在superficially中得以体现，意为“未深入”）。
-
-作为名词，中古英语中曾出现过superficie，意指“外部表面或外壳”（在几何学中出现于14世纪晚期，在解剖学中则为15世纪初），还有superfice，这是乔叟使用的形式。尽管这种用法在1700年后变得稀少，但几何学领域仍然保留了superfices这一词汇。
+作為名詞，中古英語中有 superficie，意指「外部服務或外表」（在幾何學中出現於14世紀末，在解剖學中則是15世紀初），還有 superfice，這是喬叟使用的形式。這個詞在1700年後變得較為罕見，但在幾何學中仍保留了 superfices。
 
 ---

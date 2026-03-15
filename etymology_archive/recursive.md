@@ -1,8 +1,6 @@
 # recursive
 
-## Origin and history of recursive
-### recursive(adj.)
-
-1790年，意为“定期出现的”，源自拉丁语 recurs-，是 recurrere 的词干，意为“返回”或“回跑”（参见 [recur](https://www.etymonline.com/word/recur)），加上后缀 [-ive](https://www.etymonline.com/word/-ive)。在数学中的意义始于1934年。相关词汇包括 Recursively（递归地）和 recursiveness（递归性）。
+## recursive(adj.)
+1790年，“週期性地再次發生”，源自拉丁語 recurs-， recurrere 的詞幹，意爲“回到原點”（參見 [recur](https://www.etymonline.com/tw/word/recur)）加上 [-ive](https://www.etymonline.com/tw/word/-ive)。數學意義始於1934年。相關詞彙： Recursively； recursiveness。
 
 ---

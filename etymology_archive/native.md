@@ -1,22 +1,16 @@
 # native
 
-## Origin and history of native
-### native(adj.)
-
-14世纪晚期，natif，意为“自然的，天生的，遗传的，以自然的方式与某物相关联”，源自古法语natif，意为“本地的，出生于此；未经加工的，未受损的”（14世纪），直接借自拉丁语nativus，意为“天生的，出生时就有的”，其词源来自natus，是动词nasci（古拉丁语gnasci）的过去分词，意为“出生”。这个词与gignere（意为“生育”）相关，源自原始印欧语词根[*gene-](https://www.etymonline.com/word/*gene-)，意为“生育，繁殖”，其衍生词多与繁殖及家庭、部落群体有关。
-
-从15世纪初起，该词开始用于指“出生于特定地点，具有本土起源或生长，不是外来或异域的”，也可表示“与某人出生地相关的”（如native land，意为“故乡”）。此外，15世纪初该词还有一个现已废弃的用法，意为“受束缚的；生来就处于奴役或农奴状态”。在描述金属、矿物等时，意为“在自然界中以纯净状态存在”，该用法出现于17世纪90年代。
-
-Native American（美洲原住民）这一称谓大约在1900年被记录，最初是一本专注于印第安人教育的期刊的名称。
+## native(adj.)
+14世紀末， natif，"自然的，天生的，遺傳的，與某物自然相關的"，源自14世紀的古法語 natif "本地的，出生的； 未經破壞的，原始的"，直接源自拉丁語 nativus "天生的，由出生產生的"，源自 natus 的過去分詞， nasci (古拉丁語 gnasci) "出生"，與 gignere "生育" 相關，源自 PIE 詞根 [*gene-](https://www.etymonline.com/tw/word/*gene-) "出生，生育"，帶有指涉繁殖、家族和部落羣體的派生詞。
+從15世紀初開始，也指"出生於特定地方，具有土著的起源或生長，非異國的或外來的"，還指"與出生有關的" (如 native land 中的意思)。也在15世紀初開始用於一個現已廢棄的意思，指"受束縛的； 出生於奴役或農奴制度"。關於金屬、礦物等，"在自然界中以純淨狀態存在"，可追溯到1690年代。
+Native American 指美洲土著民族，可追溯到約1900年，作爲一本"致力於印第安教育"的期刊的名稱。
 
 > In the early 1970s, ... activist Indians began calling themselves Native Americans (from the peyote-using Native American Church, incorporated in 1918 in Oklahoma and subsequently in other states). The newer term, aside from disassociating its users from the reservation life of the past, was a form of one-upsmanship, since it reminded whites just who was on the premises first. [Hugh Rawson, "Wicked Words"]
 
-> 在1970年代初，……一些印第安人活动家开始自称为美洲原住民（这一称谓源自使用佩约特仙人掌的美洲原住民教会，该教会于1918年在俄克拉荷马州成立，后来在其他州也注册）。这一新称谓不仅使其使用者与过去的保留地生活划清了界限，还带有一种优越感，因为它提醒白人们，谁才是真正的“第一居民”。[休·罗森，《邪恶的词语》]
+> 在20世紀70年代初，...活動家印第安人開始稱自己爲 Native Americans（源自1918年在俄克拉荷馬州成立並隨後在其他州成立的使用食神經 Native American Church 的組織）。這個較新的術語，除了將使用者與過去的保留地生活分離開來，還是一種優越感的表現，因爲它提醒白人誰是最早在這片土地上的。[Hugh Rawson，《邪惡的詞語》]
 
 ---
-## native (related entry 1)
-### native(n.)
-
-在15世纪中期，“出生在奴役中的人，出生为农奴或佃农的人”，这个意思现在已经不再使用。这个词源于形容词 [native](https://www.etymonline.com/word/native)，在某些用法中也来自中世纪拉丁语的 nativus，即 nativus（形容词）的名词用法。可以与古法语的 naif 相比较，后者也指“出生在奴隶制下的女性”。从1530年代起，这个词开始用来指“出生在某个特定地方或国家的人”。大约从1600年起，它被用来指那些在欧洲人掌握政治权力的非欧洲国家的原住民，例如美洲印第安人（大约在1630年代）。因此，从1800年起，这个词被用作对“当地人的”蔑称。相关词汇：Natives。
+## native(n.)
+15世紀中期，“出生在奴役中的人，出生爲農奴或佃農”，這個意義現在已經過時，來自於 [native](https://www.etymonline.com/tw/word/native)（形容詞），在某些用法中來自於中世紀拉丁語 nativus， nativus（形容詞）的名詞用法。與古法語 naif 相比，後者也意味着“出生在奴隸制度中的女性”。從1530年代開始，“出生在某個地方或國家的人”。應用於歐洲人掌握政治權力的非歐洲國家的原住民，例如美洲印第安人（從1630年代開始）； 因此，從1800年開始，被輕蔑地用於“當地人”。相關： Natives。
 
 ---

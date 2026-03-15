@@ -1,14 +1,10 @@
 # insert
 
-## Origin and history of insert
-### insert(v.)
-
-“插入，放置，安置”这个意思大约出现在1520年代，源自拉丁语 insertus，是 inserere 的过去分词，意为“嫁接，植入”。这个词又来自 in-，表示“在……之中”（源自原始印欧语词根 [*en](https://www.etymonline.com/word/*en)，意为“在……之中”），以及 serere，意为“连接在一起，排列，放成一排”，它来自另一个原始印欧语词根 [*ser-](https://www.etymonline.com/word/*ser-) (2)，意为“排列成行”。在中古英语中，有 inseren 这个词，意思是“安置，嫁接，或引入（思想中）”，大约出现在14世纪晚期，直接借自拉丁语动词。相关词汇包括 Inserted（已插入）和 inserting（正在插入）。
+## insert(v.)
+"放置，放入，安放"，1520年代，源自拉丁語 insertus，是 inserere 的過去分詞，意爲"嫁接，植入"，由 in-（源自 PIE 詞根 [*en](https://www.etymonline.com/tw/word/*en) "in"）和 serere "連接，排列，排成一行"（源自 PIE 詞根 [*ser-](https://www.etymonline.com/tw/word/*ser-)（2）"排列"）組成。中古英語中有 inseren "放置，嫁接，引入（思想）"（14世紀晚期），直接源自拉丁動詞。相關詞彙： Inserted； inserting。
 
 ---
-## insert (related entry 1)
-### insert(n.)
-
-“something inserted”，1893年特别指在报纸、杂志等的页面中夹入的纸张等物品，来源于 [insert](https://www.etymonline.com/word/insert) (v.)。
+## insert(n.)
+"插入的東西"，1893年，特別是指放置在報紙、雜誌等頁面之間的紙張等，源自於 [insert](https://www.etymonline.com/tw/word/insert)（動詞）。
 
 ---

@@ -1,8 +1,6 @@
 # occurrence
 
-## Origin and history of occurrence
-### occurrence(n.)
-
-“那种自然而然发生的事情，意外的事件”，这个词最早出现在1530年代，源自法语 occurrence，意为“意外发生的事情”，或者直接来自中世纪拉丁语 occurrentia，而其词根则是拉丁语 occurentem（主格 occurens），是动词 occurrere 的现在分词（参见 [occur](https://www.etymonline.com/word/occur)）。形容词 occurrent（意为“发生的，偶然的”）在15世纪中期出现，但现在已经不再使用。
+## occurrence(n.)
+"無設計或期望的出現或發生的事物"，來自1530年代的法語 occurrence "意外事件"或直接來自中世紀拉丁語 occurrentia，源自拉丁語 occurentem（主格 occurens），現在分詞 occurrere（見 [occur](https://www.etymonline.com/tw/word/occur)）。形容詞 occurrent "發生的，發生的，偶然的"（15世紀中期）已經過時。
 
 ---

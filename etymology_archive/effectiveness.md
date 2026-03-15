@@ -1,8 +1,6 @@
 # effectiveness
 
-## Origin and history of effectiveness
-### effectiveness(n.)
-
-大约在1600年，由 [effective](https://www.etymonline.com/word/effective)（有效的）和 [-ness](https://www.etymonline.com/word/-ness)（名词后缀）组合而成。
+## effectiveness(n.)
+大約1600年，來自 [effective](https://www.etymonline.com/tw/word/effective) 和 [-ness](https://www.etymonline.com/tw/word/-ness)。
 
 ---

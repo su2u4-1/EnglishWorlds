@@ -1,8 +1,6 @@
 # likewise
 
-## Origin and history of likewise
-### likewise(adv.)
-
-15世纪中期，这个词源自短语 in like wise，意为“以同样的方式”（15世纪中期），由 [like](https://www.etymonline.com/word/like)（形容词）和 [wise](https://www.etymonline.com/word/wise)（名词）组合而成。
+## likewise(adv.)
+15世紀中期，來自短語 in like wise，意爲“以同樣的方式”，源自於 [like](https://www.etymonline.com/tw/word/like)（形容詞）和 [wise](https://www.etymonline.com/tw/word/wise)（名詞）。
 
 ---

@@ -1,8 +1,6 @@
 # modification
 
-## Origin and history of modification
-### modification(n.)
-
-大约在1500年，这个词在哲学中被用来表示“通过某种方式或特性进行的决定”，源自14世纪法语的 modification，直接借自拉丁语的 modificationem（主格形式为 modificatio），意为“测量”，是由动词 modificare 的过去分词衍生而来的（参见 [modify](https://www.etymonline.com/word/modify)）。在1660年代，这个词被赋予了“变化或改动的结果”这一意义。1774年，它又被用来表示“改变特性、形式或功能的行为或过程”。
+## modification(n.)
+大約1500年，在哲學上，“由一種方式或品質確定”，源自14世紀的法語詞彙 modification，直接來自拉丁語詞彙 modificationem（提名 modificatio），指“測量”，動作名詞從 modificare 的過去分詞詞幹派生而來（參見 [modify](https://www.etymonline.com/tw/word/modify)）。表示“變化或改變的結果”於1660年代出現。指“在性質、形式或功能方面的改變的行爲或過程”起源於1774年。
 
 ---

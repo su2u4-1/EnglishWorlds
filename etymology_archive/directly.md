@@ -1,8 +1,6 @@
 # directly
 
-## Origin and history of directly
-### directly(adv.)
-
-14世纪晚期，表示“完全”；15世纪初，表示“直线地”，同时也用于比喻（在说话或写作中）表示“清晰地、毫不含糊地、明确地”。这个用法源自形容词 [direct](https://www.etymonline.com/word/direct) 加上副词后缀 [-ly](https://www.etymonline.com/word/-ly) (2)。大约在1600年，开始有了“立刻、马上、立即”的意思，这个意义源自早期“没有中间步骤”的表达（1520年代）。
+## directly(adv.)
+"完全地"，14世紀晚期； "筆直地"，也比喻（說話或寫作）"清晰地，明確地，明白地"，來自 [direct](https://www.etymonline.com/tw/word/direct)（形容詞）+ [-ly](https://www.etymonline.com/tw/word/-ly)（2）。"立刻，直接，立即"的意思（約1600年）源於"沒有中間步驟"的早期意義（1520年代）。
 
 ---

@@ -1,12 +1,12 @@
 # legal
 
-## Origin and history of legal
-### legal(adj.)
+## legal(adj.)
+15世紀中葉，“與法律有關的”，源自古法語 légal “法律的”（14世紀）或直接源自拉丁語 legalis “與法律有關的”，來自 lex（屬格 legis）“法令； 規定，原則，規則； 法律、動議、法案的正式提議； 合同、安排、策劃”。這可能與 legere “收集”有關，源自 PIE 詞根 [*leg-](https://www.etymonline.com/tw/word/*leg-)（1）“收集，聚集”，帶有“說話（挑選詞語）”的派生詞義。也許名詞是從動詞衍生而來，意思是“一套規則的集合”，但德·瓦恩似乎暗示演變是相反的：
 
-在15世纪中期，legal这个词的意思是“与法律相关的”，它来源于古法语légal（14世纪）或直接源自拉丁语legalis，意为“与法律有关”。这个词又源于lex（属格legis），意思是“法律条文；法令；规则；法律提案或合同”。这个词可能与legere（意为“收集”）有关，源自原始印欧语根[*leg-](https://www.etymonline.com/word/*leg-)（1），意为“收集，聚集”，其衍生词有“说话”（即“挑选词语”）的意思。也许名词最初是从动词演变而来的，表示“一系列规则的集合”，但de Vaan似乎暗示了相反的演变过程：
+> The verb legare and its compounds all have a meaning which involves a 'task, assignment,' and can therefore be interpreted as derivatives of lex 'law.' The [Proto-Italic] root noun \*leg- 'law' can be interpreted as a 'collection' of rules. Whether the root noun existed already in PIE is uncertain for lack of precise cognates.
 
-> 动词legare及其派生词都包含“任务，指派”的意思，因此可以解释为lex（法律）的衍生词。[原始意大利语]的名词\*leg-（法律）可以理解为“一系列规则的集合”。由于缺乏精确的同源词，尚不确定这个名词在原始印欧语中是否已经存在。
+> 動詞 legare 及其複合詞都有一個涉及“任務，工作”的意思，因此可以解釋爲 lex “法律”的派生詞。原始意大利語根名詞 \*leg- “法律”可以解釋爲一套規則的“集合”。由於缺乏確切的同源詞，PIE 時期是否已經存在這個根名詞尚不確定。
 
-“法律允许的”这一含义出现在1640年代。相关词：Legally。与[law](https://www.etymonline.com/word/law)（名词）没有词源上的关系，详见该词条。古法语中常见的形式是leial或loial（参见[leal](https://www.etymonline.com/word/leal)，[loyal](https://www.etymonline.com/word/loyal)）。Legal tender（法定货币）指“债权人依法必须接受的货币”，出现于1740年（参见[tender](https://www.etymonline.com/word/tender)（名词2））。Legal holiday（法定假日，1867年）是指通过法律或公告规定的假日，在此期间政府通常会暂停办公。
+“合法的”一詞的意義可追溯到1640年代。相關詞： Legally。與 [law](https://www.etymonline.com/tw/word/law)（名詞）無詞源關係，請參見相關詞條。通常的古法語形式是 leial， loial（參見 [leal](https://www.etymonline.com/tw/word/leal)， [loyal](https://www.etymonline.com/tw/word/loyal)）。Legal tender “債權人有法律義務接受的貨幣”源自1740年（參見 [tender](https://www.etymonline.com/tw/word/tender)（名詞2））。legal holiday（1867）是指由法令或公告設立的期間，在此期間通常暫停政府業務。
 
 ---

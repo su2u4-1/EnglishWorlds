@@ -1,8 +1,6 @@
 # expression
 
-## Origin and history of expression
-### expression(n.)
-
-15世纪初，expressioun，意为“挤压出来的动作”；后来又指“表达情感的动作”以及“用言语表达”（15世纪中期）。这个词源于晚期拉丁语的expressionem（主格为expressio），在古典拉丁语中意为“表达、鲜明的表现”，最初指“挤压出来、投射”的动作名词，来自于动词exprimere，意为“表现、描述”，字面意思是“压出”（参见[express](https://www.etymonline.com/word/express) (v.)）。“表达情感的动作或创作”这一意义出现在1620年代。关于面部表情的用法始于1774年。偶尔，这个词也被用来指“挤压出来的动作”。相关词汇：Expressional。
+## expression(n.)
+15世紀早期， expressioun，“擠壓的行動”； 後來，“表達感情的行動”； “用語言表達”（15世紀中期）； 源自於晚期拉丁語 expressionem（主格 expressio），意爲“表達，生動性”，在古典拉丁語中意爲“擠壓，投射”，是 exprimere 的動名詞形式，意爲“描繪，描述”，字面意思是“擠壓”（參見 [express](https://www.etymonline.com/tw/word/express)（v.））。指“表達感情的行爲或創作”始於1620年代。關於面部的用法始於1774年。偶爾，這個詞也被用於字面意義上的“擠壓的行動”。相關詞彙： Expressional。
 
 ---

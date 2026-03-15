@@ -1,8 +1,6 @@
 # received
 
-## Origin and history of received
-### received(adj.)
-
-“普遍被接受为真实或良好的”，大约15世纪中期，receyvyd，过去分词形容词，源自[receive](https://www.etymonline.com/word/receive)。关于观点的用法始于1600年左右；关于观念（idée reçue）的用法则始于1959年。托马斯·布朗称这些观念为receptaries（1646年）。
+## received(adj.)
+"普遍被認爲是真實或好的"，15世紀中期， receyvyd，過去分詞形容詞，來自 [receive](https://www.etymonline.com/tw/word/receive)。關於意見，始於約1600年； 關於思想（idée reçue），始於1959年。托馬斯·布朗稱這些觀念爲 receptaries（1646年）。
 
 ---

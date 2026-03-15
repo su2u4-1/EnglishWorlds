@@ -1,8 +1,6 @@
 # occur
 
-## Origin and history of occur
-### occur(v.)
-
-1520年代，意为“相遇，争论中相遇”，源自法语 occurrer，意为“意外发生”，或直接来自拉丁语 occurrere，意为“跑去迎接，碰撞，降临，出现”。这个词由 ob（意为“反对，朝向”，参见 [ob-](https://www.etymonline.com/word/ob-)）和 currere（意为“跑”，源自原始印欧词根 [*kers-](https://www.etymonline.com/word/*kers-)，意为“跑”）构成。其意义的发展历程是从“相遇”到“出现”再到“显现”，最终演变为“发生”（即“在事件中出现”）。表示“浮现在脑海中”的意思始于1620年代。相关词汇包括 Occurred（发生）和 occurring（正在发生）。
+## occur(v.)
+1520年代，“相遇，爭論”來自法語 occurrer “意外發生”或直接源自拉丁語 occurrere “奔跑相遇，迎面而來，降臨，出現”，由 ob “對着，朝着”（見 [ob-](https://www.etymonline.com/tw/word/ob-))和 currere “奔跑”（來自 PIE 詞根 [*kers-](https://www.etymonline.com/tw/word/*kers-) “奔跑”）組成。意義的發展是從“相遇”到“出現”到“顯現”到“發生”（“在事件的過程中出現”）。“進入某人的思想”意味着1620年代。相關： Occurred； occurring。
 
 ---

@@ -1,18 +1,12 @@
 # advance
 
-## Origin and history of advance
-### advance(v.)
-
-13世纪中期，avauncen（及物动词），意为“改善（某物），促进……的发展”，来源于古法语avancir, avancier，意为“向前移动，前进，推进”（12世纪，现代法语为avancer），来自俗拉丁语\*abanteare（意大利语avanzare，西班牙语avanzar的来源）。这是来自晚期拉丁语abante，意为“从前”，由ab“从”（参见[ab-](https://www.etymonline.com/word/ab-)）+ ante“在前，前面，反对”（来自原始印欧词根[*ant-](https://www.etymonline.com/word/*ant-)“前，前额”）构成。
-
-与法语avant“在前”（如[avant-garde](https://www.etymonline.com/word/avant-garde)）相 comparé，来源于同一个晚期拉丁词。英语中非词源性的-d-于16世纪插入，错误地认为首音节来自拉丁语ad-。
-
-从公元1300年起，作为“促进，提高到更高的等级”被证明。“向前移动，进一步向前移动”的不及物意义在14世纪中期出现；“在位置上向前推进，移动（某物）”的及物意义从公元1500年起出现。“在法律规定之前给予（钱等）”的意义在1670年代被证明。相关词：[Advanced](https://www.etymonline.com/word/Advanced)；advancing。形容词（如advance warning等）从1843年起被记录。
+## advance(v.)
+13世紀中期， avauncen（及物動詞），“改善（某事物），促進發展”，源自古法語 avancir， avancier “向前移動，前進，推進”（12世紀，現代法語 avancer），來自通俗拉丁語 \*abanteare（意爲意大利語 avanzare，西班牙語 avanzar 的來源）。這來自於晚期拉丁語 abante “從前”，由 ab “從”（見 [ab-](https://www.etymonline.com/tw/word/ab-)）和 ante “前面，對着”（來自 PIE 詞根 [*ant-](https://www.etymonline.com/tw/word/*ant-) “前面，前額”）組成。
+與法語 avant “之前”（如 [avant-garde](https://www.etymonline.com/tw/word/avant-garde)）相比，它來自同一晚期拉丁語單詞。英語中不符合詞源學的 -d- 是在16世紀插入的，因爲錯誤地認爲首音節來自拉丁語 ad-。
+它自14世紀中期起被證明是“促進，提升到更高的級別”。不及物動詞的意義是“向前移動，向前推進”，自14世紀中期起； 及物動詞的意義是“將（某物）向前移動”，自1500年起。“在法律到期前給予（金錢等）”的意義可追溯至1670年代。相關： [Advanced](https://www.etymonline.com/tw/word/advanced)； advancing。形容詞（如 advance warning 等）的記錄始於1843年。
 
 ---
-## advance (related entry 1)
-### advance(n.)
-
-约公元1300年，“吹嘘，炫耀”（现在的意义已过时），来自[advance](https://www.etymonline.com/word/advance)（动词）。从15世纪初起被证明为“在排名、财富等方面的提升；”1660年代起指“处于前面的状态”的物理意义；1670年代起指“向前或向前方的移动”。1680年代起商业意义上指“事先给予的东西”（早期在此意义上为advancement，1640年代）。“军事信号前进”的意义始于1849年。也指“接近的行为”（1670年代），因此advances“爱慕的表示”（1706年）。
+## advance(n.)
+約於1300年，指“吹噓，炫耀”（現已過時），源自 [advance](https://www.etymonline.com/tw/word/advance)（動詞）。自15世紀初以來，被證明爲“在等級、財富等方面的提升”； “處於前方狀態”的物理意義來自1660年代； “向前或向前移動”的意義來自1670年代。商業上的“預先給予的東西”來自1680年代（此前在這個意義上的詞是 advancement，在1640年代）。“軍事上的前進信號”是從1849年開始的。還有“接近的行爲”（1670年代），因此 advances “愛情的表白”（1706年）。
 
 ---

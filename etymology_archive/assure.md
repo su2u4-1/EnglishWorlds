@@ -1,8 +1,6 @@
 # assure
 
-## Origin and history of assure
-### assure(v.)
-
-大约在14世纪末，“使人安心，给予信心；确保安全，保护；通过承诺束缚，许诺或保证（做某事）”。这个词源于古法语 asseurer，意为“使人安心，平息，保护，确保安全”（12世纪，现代法语为 assurer）。它源自俗拉丁语 \*assecurar，而这个词又来自拉丁语 ad（意为“向……，朝……”，参见 [ad-](https://www.etymonline.com/word/ad-)）与 securus（意为“安全的，可靠的”，参见 [secure](https://www.etymonline.com/word/secure) (adj.)）的结合。相关词汇包括 [Assured](https://www.etymonline.com/word/Assured) 和 assuring。
+## assure(v.)
+14世紀晚期，“使安心，給予信心； 使安全或保護； 以誓言約束，給予承諾或保證（做某事）”，源自古法語 asseurer “使安心，平靜，保護，使確信”（12世紀，現代法語 assurer），源自通俗拉丁語 \*assecurar，來自拉丁語 ad “到”（參見 [ad-](https://www.etymonline.com/tw/word/ad-)) + securus “安全的，有保障的”（參見 [secure](https://www.etymonline.com/tw/word/secure)（形容詞））。相關： [Assured](https://www.etymonline.com/tw/word/assured)； assuring。
 
 ---

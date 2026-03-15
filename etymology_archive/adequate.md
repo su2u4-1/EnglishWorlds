@@ -1,10 +1,7 @@
 # adequate
 
-## Origin and history of adequate
-### adequate(adj.)
-
-这个词最早出现在1610年代，意思是“足够满足所需或期望的”，源自拉丁语 adaequatus，意为“被平等化”，是 adaequare 的过去分词，意思是“使平等，达到同等水平”。它由 ad（意为“向……，朝……”，参见 [ad-](https://www.etymonline.com/word/ad-)）和 aequare（意为“使平坦，平衡”，源自 aequus，意为“平等，均匀”，参见 [equal](https://www.etymonline.com/word/equal) (adj.)）组合而成。
-
-这个词的核心意思是“能够满足所需的标准”。它与 [enough](https://www.etymonline.com/word/enough) 有些重叠，但具体用法会根据上下文有所不同。在1900年左右，这个词开始带有一些贬义，指“平庸，仅仅足够好”。相关词汇还有 Adequateness。
+## adequate(adj.)
+1610年代，“與所需或所期望的相等，足夠的”，源自拉丁語 adaequatus “使相等”， adaequare 的過去分詞，“使相等，使平衡”，由 ad “到”（見 [ad-](https://www.etymonline.com/tw/word/ad-)）和 aequare “使平衡”組成，源自 aequus “相等的，平坦的”（見 [equal](https://www.etymonline.com/tw/word/equal)（形容詞））。
+其意思是“與所需相等”。它與 [enough](https://www.etymonline.com/tw/word/enough) 共同承擔職責，具體取決於主題。有些輕蔑的用法，“平庸的，剛好夠用的”，始於1900年。相關詞彙： Adequateness。
 
 ---

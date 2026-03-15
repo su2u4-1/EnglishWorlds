@@ -1,18 +1,14 @@
 # visit
 
-## Origin and history of visit
-### visit(v.)
+## visit(v.)
+在13世紀初，visiten這個詞的意思是「去看望某人或某物」（最初常指上帝）；也特別指「來探望（病人、囚犯）以安慰或幫助他們」。這個詞來自古法語的visiter，意為「拜訪；檢查，審視；折磨」（12世紀），而直接源自拉丁語的visitare，意思是「去看望，來檢查」。這其實是visere的頻繁形式，意為「看見，拜訪」（某人或某地），而visere本身則是由videre的過去分詞詞幹衍生而來，意為「看見，注意，觀察」（來自原始印歐語詞根[*weid-](https://www.etymonline.com/tw/word/*weid-)，意為「看」）。
 
-在13世纪初，visiten这个词的意思是“去看某人或某物”（最初常指上帝），也特别指“前往探望（病人、囚犯等），以安慰或帮助他们”。这个词来源于古法语的visiter，意为“拜访；检查，审视；折磨”（12世纪），直接源自拉丁语的visitare，意思是“去看，来检查”。它是visere的频繁形式，意为“看，拜访”（某人或某地），而visere又源自videre的过去分词词干，意思是“看，注意，观察”（来自原始印欧词根[*weid-](https://www.etymonline.com/word/*weid-)，意为“看”）。
-
-“来访，拜访”的一般意义出现在13世纪中期。到14世纪中期，这个词在英语中还发展出“遭遇，降临，折磨”（通常指疾病、惩罚等）的意思，最初是指上帝“施加神圣的惩罚”。相关词汇包括：Visited（已访问）；[visiting](https://www.etymonline.com/word/visiting)（正在访问）。
+「來訪或拜訪」的普遍意義出現在13世紀中期。到14世紀中期，這個詞在英語中還有了「降臨，襲擊，折磨」（通常指疾病、懲罰等）的意思，最初是指上帝的行為，意為「施加神聖的懲罰」。相關詞彙包括Visited和[visiting](https://www.etymonline.com/tw/word/visiting)。
 
 ---
-## visit (related entry 1)
-### visit(n.)
+## visit(n.)
+1620年代起，「友好或正式地拜訪某人」的意思，來自於 [visit](https://www.etymonline.com/tw/word/visit)（動詞）以及法語的 visite（名詞）。在這個意義上，[Visiting](https://www.etymonline.com/tw/word/visiting)（名詞）較早出現，早在14世紀初。
 
-1620年代，指“友好或正式地拜访某人”，来源于动词 [visit](https://www.etymonline.com/word/visit)，也受到法语 visite（名词）的影响。在这个意义上，[Visiting](https://www.etymonline.com/word/Visiting)（名词）更早出现，早在14世纪初。
-
-到1719年，这个词被用来指医生的专业拜访；到1884年，又专指去看医生或牙医的场合。从1800年起，它还用来表示“短暂或临时的旅行，观光游览”。与动词 pay（支付）结合使用始于1650年代。
+到1719年，這個詞開始用來指醫生的專業訪問；1884年則指去看醫生或牙醫的情況。自1800年起，它也被用來表示「短暫或臨時的旅行，觀光遊覽」。自1650年代以來，與 pay（動詞）結合使用。
 
 ---

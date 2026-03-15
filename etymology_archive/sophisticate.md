@@ -1,10 +1,7 @@
 # sophisticate
 
-## Origin and history of sophisticate
-### sophisticate(v.)
-
-大约在公元1400年，sophisticaten作为及物动词出现，意思是“通过混合使不纯，添加外来或劣质物质”。这个词源于中世纪拉丁语的sophisticatus，是sophisticare的过去分词，意为“掺假；欺骗；玩弄词语”（参见[sophistication](https://www.etymonline.com/word/sophistication)）。大约在1600年，这个词被用来表示“用谬论使模糊或腐败，通过诡辩欺骗他人”，到1796年则被用作“剥夺简单性”。相关词汇包括[Sophisticated](https://www.etymonline.com/word/Sophisticated)和sophisticating。
-
-作为名词，“世故的人”这一用法从1921年起被记录在案，根据《牛津英语词典》，这是从动词形式演变而来的。
+## sophisticate(v.)
+約於1400年，及物動詞 sophisticaten，意爲“通過混合使不純，添加外來或劣質物質”，源自中世紀拉丁語 sophisticatus 的過去分詞形式，該詞的原形爲 sophisticare，意爲“摻雜； 欺騙； 詭辯”（參見 [sophistication](https://www.etymonline.com/tw/word/sophistication)）。它在約1600年被證明爲“用謬誤使模糊或腐敗，通過詭辯欺騙”，並在1796年被證明爲“剝奪簡單性”。相關詞彙： [Sophisticated](https://www.etymonline.com/tw/word/sophisticated)； sophisticating。
+作爲名詞，“世故的人”，據 OED 稱其爲從動詞中反推出來的後綴。
 
 ---

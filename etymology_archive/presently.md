@@ -1,8 +1,6 @@
 # presently
 
-## Origin and history of presently
-### presently(adv.)
-
-14世纪晚期，表示“立即，当前时刻”，由 [present](https://www.etymonline.com/word/present)（形容词）+ [-ly](https://www.etymonline.com/word/-ly)（后缀2）构成。在15世纪中期到17世纪中期，这个词逐渐演变为“迟早，不久之后”。
+## presently(adv.)
+14世紀晚期，“立即，此時此刻”，來自 [present](https://www.etymonline.com/tw/word/present)（形容詞）+ [-ly](https://www.etymonline.com/tw/word/-ly)（2）。在15世紀中期到17世紀中期之間，它變得更加寬鬆，意爲“遲早，不久之後”。
 
 ---
