@@ -50,6 +50,9 @@ class EtymonlineWordScraper:
             if re.match(r"^(also from|同樣來自) .+$", line, re.IGNORECASE):
                 continue
 
+            if line.endswith("。"):
+                line += "\n"
+
             formatted_lines.append(line)
 
         return "\n".join(formatted_lines).strip()
