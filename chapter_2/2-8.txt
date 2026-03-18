@@ -70,3 +70,15 @@ cussed: 咒罵的、固執的
 capital: 首都、資本、大寫字母
 capitalization: 大寫、資本化
 capitalized: 大寫的、資本化的
+tree: 樹、樹狀結構
+say: 說、講
+included: 包含的、包括的
+in-: 向內、在...裡面、否定
+dis-: 否定、相反、分離
+triangle: 三角形、三角
+tri-: 三、三倍
+multi-: 多、複數
+group: 群體、組織
+concretely: 具體地、實際地
+binary: 二元的、雙重的
+ternary: 三元的、三重的

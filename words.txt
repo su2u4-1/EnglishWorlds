@@ -138,7 +138,7 @@ associate: 聯想、聯繫、關聯
 associated: 相關的、聯想的、聯繫的、關聯的
 associating: 聯想、聯繫
 association: 協會、聯合、聯繫
-associative: 結合的、聯想的
+associative: 結合的、聯想的、關聯的
 associativity: 結合性、聯繫性
 assume: 假設、認為
 assumption: 假設、前提
@@ -178,6 +178,7 @@ beside: 在旁邊、除...之外
 better: 更好
 between: 在...之間
 beyond: 在...之外、超越、超過
+binary: 二元的、雙重的
 binding: 約束、綁定
 blank: 空格、空白、空白的、空白處
 block: 區塊、塊
@@ -296,7 +297,8 @@ concentrate: 專注、集中
 concept: 概念
 concepts: 概念
 conclude: 總結
-concrete: 具體的、有形的
+concrete: 具體的、有形的、混凝土
+concretely: 具體地、實際地
 condition: 條件、狀況
 conditional: 假設的、條件的
 conflict: 矛盾、衝突
@@ -387,7 +389,7 @@ decided: 已決定的、決定的
 decides: 判斷、決定
 deciding: 判斷、決定
 decision: 決定、決策
-declaration: 宣告、聲明
+declaration: 宣告、宣言、聲明
 declarative: 聲明的、陳述的
 declare: 宣告、聲明
 decomposition: 分拆、分解
@@ -532,7 +534,7 @@ emit: 放出、發出、釋出
 emphasis: 強調、重點
 emphasize: 強調、著重、重視
 empirically: 實證地、經驗上的
-empty: 空白的、空的
+empty: 空洞的、空白的、空的
 encapsulation: 包裝、封裝
 enclose: 包圍、封入、封閉、附上
 enclosing: 包含、包含的、包圍、圍繞、圍繞的、封閉
@@ -572,7 +574,7 @@ examine: (= check)、審查、檢查、考察
 examining: 審查、檢查
 example: 例子、範例
 excellent: (= good)、優秀的
-except: 除了、除了...之外、除外
+except: 除...之外、除了、除了...之外、除外
 exception: 例外、異常
 excite: 使興奮、激發
 exclude: 不包含
@@ -705,6 +707,7 @@ greatest: 最大的
 greatly: 大大地
 ground: 地面、根據
 grounded: 基於
+group: 組織、群體
 grouped: 分組的
 grows: 增大、增長
 guarantee: 保證、確保
@@ -778,9 +781,10 @@ in place: 存在、就位
 in principle: 原則上
 in the future: 在未來
 inclose: 包含、圍住
-include: 包含
+include: 包含、包括
+included: 包含的、包括的
 inconsistencies: 不一致
-incorporate: 合併、納入
+incorporate: 包含、合併、納入
 incorporating: 合併、納入
 incorporation: Inc.、企業
 incorrect: 不正確的、錯誤的
@@ -965,7 +969,7 @@ minder: 監護人、看護者
 minimize: 最小化
 minimizing: 最小化
 minor: 次要的、輕微的
-minus: 減去、減少、負號
+minus: 減去、減少、減號、負號
 misbehave: 行為不當
 mismatch: 不一致、不匹配
 misnomer: 誤稱
@@ -990,7 +994,7 @@ motorola: 摩托羅拉
 much: 很多
 multicharacter: 多字元的、多字符的
 multiple: 多個、多樣的、多重的
-multiplication: 乘法、乘法運算、倍增
+multiplication: 乘法、乘法運算、倍增、增加
 multiply: 乘、乘以、增加
 multiprocessor: 多處理器
 multithreaded: 多線程的
@@ -1116,7 +1120,7 @@ permit: 允許、許可
 permits: 允許、許可
 personal: 個人的
 phase: (= stage)、(ph = f)、時期、階段
-phases: 階層、階段
+phases: 時期、階層、階段
 phenomenon: 現象
 philosophy: 哲學
 phrase: 片語、短語
@@ -1128,7 +1132,7 @@ pin: 大頭針、釘住
 pinpoint: 準確找出、精確位置
 placement: 安置、放置
 placing: 安置、放置
-plus: 加上、增加
+plus: 加上、加號、增加、正號
 policies: 政策
 policy: 政策、規則
 polymorphic: 多形的、多態的
@@ -1150,7 +1154,7 @@ pound sign: #、(= hash)、井號、磅號
 practical: 實用的、實際的
 practically: 實際上、幾乎
 practice: 實踐、實際上、練習
-precede: 先於、在...之前
+precede: 先於、在...之前、領先
 precedence: 優先、優先權、優先級、優先順序、前例
 precedes: 優先於、在...之前
 precisely: 準確地、精確地
@@ -1175,7 +1179,7 @@ prevalence: 流行
 prevalent: 流行的
 prevents: 防止、阻止
 previous: 以前的、先前的
-previously: 先前
+previously: 之前地、先前、先前地
 primarily: 主要地、首要地
 primary: 主要的、初級的、基本的
 principal: 主要的
@@ -1338,12 +1342,13 @@ routinely: 例行公事地、常規地
 routines: 例行、例行公事、公事、常規、程序
 rule: 規則、規律
 rules: 規則、規定
-said: 說、講
+said: 說、說了、講、講了
 salient: 突出的、顯著的
 same: 一樣的、相同的
 satisfied: 滿意的
 satisfy: 滿足、符合
 satisfying: 滿足
+say: 說、講
 scale: 規模
 scam: 詐騙、騙局
 scan: 掃描、掃描器、瀏覽
@@ -1410,7 +1415,7 @@ similar: 相似的、類似的
 similarly: 同樣地、相似地、類似地
 simple: 簡單的、簡易的
 simpler: 更簡單
-simplicity: 簡單、簡單性、簡易
+simplicity: 簡單、簡單性、簡易、簡潔
 simplification: 簡化、簡易化
 simplify: 使單純、使簡單、簡化
 simplifying: 使簡單、簡化
@@ -1443,7 +1448,7 @@ specific: 具體的、特定的
 specifically: 具體地、特別地
 specification: 規格、規範、說明書
 specified: 指定的、明確的
-specifies: 指定
+specifies: 指定、說明
 specify: 指定、明確、特定、說明
 specifying: 指定、說明
 spent: (spend - spent - spent)、花費的
@@ -1547,6 +1552,7 @@ terminal: 終端、終端的、終結的
 terminate: 終止、終結
 terminology: 術語
 terms: 條款、術語
+ternary: 三元的、三重的
 that is: 也就是說、換句話說
 their: 他們的、它們的
 therefore: 因此、所以
@@ -1585,8 +1591,10 @@ treat: 對待、治療、看待、處理
 treated: 對待、對待過的、處理、處理過的、被視為
 treating: 對待、治療
 treatment: 治療、看待、處理
+tree: 樹、樹狀結構
 trends: 趨勢
 trial: (= experiment)、審判、試驗
+triangle: 三角、三角形
 tribute: 敬意、貢獻
 trick: 技巧、欺騙、訣竅
 tricked: 欺騙
