@@ -82,3 +82,16 @@ group: 群體、組織
 concretely: 具體地、實際地
 binary: 二元的、雙重的
 ternary: 三元的、三重的
+relation: 關係、聯繫
+operators: 運算符、操作員
+under: 在...下面、在...之下
+coercion: 強制、強迫
+below: 在...下面、在...之下
+declared: 宣布的、聲明的
+encoded: 編碼的、加密的
+enforced: 強制的、執行的
+stored: 存儲的、儲存的
+denotes: 表示、指示
+compare: 比較、對比
+overloading: 重載的、過載的
+loading: 加載的、裝載的
