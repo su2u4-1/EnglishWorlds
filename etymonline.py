@@ -202,8 +202,20 @@ def load_words_from_text(file_path: str, target_list: list[str]) -> None:
                     target_list.append(word)
 
 
+def load_words_from_txt(file_path: str, target_list: list[str]) -> None:
+    if not os.path.exists(file_path):
+        return
+    with open(file_path, "r", encoding="utf-8") as f:
+        content: str = f.read()
+        words: list[str] = re.findall(r"\b[a-zA-Z-]+\b", content)
+        for word in words:
+            if word and word not in target_list:
+                target_list.append(word)
+
+
 test = False
 log: list[str] = []
+re_get_all = False
 
 if __name__ == "__main__":
     if test:
@@ -212,8 +224,11 @@ if __name__ == "__main__":
     else:
         target_list: list[str] = []
         base_path = "C:/Users/joey2/桌面/英文/"
-        for f_name in ["words.txt", "affix.txt"]:
-            load_words_from_text(os.path.join(base_path, f_name), target_list)
+        if re_get_all:
+            for f_name in ["words.txt", "affix.txt"]:
+                load_words_from_text(os.path.join(base_path, f_name), target_list)
+        else:
+            load_words_from_txt(os.path.join(base_path, "new.txt"), target_list)
         scraper = EtymonlineWordScraper(target_list, os.path.join(base_path, "etymology_archive"))
 
     asyncio.run(scraper.run())

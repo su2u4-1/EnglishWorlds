@@ -3,9 +3,7 @@
 ## super(adj.)
 「一流的，優秀的」，1837年，來自前綴，特別是在[superfine](https://www.etymonline.com/tw/word/superfine)中，表示任何商品的最高級別（該前綴來自拉丁語super「在上，超過，超越」；參見[super-](https://www.etymonline.com/tw/word/super-)）。
 
-
 作為一般認可的擴展用法，1895年在俚語中有證據，1967年在俚語中復甦或重新創造。押韻重疊形式super-duper1940年有證據。Super Glue1975年；作為動詞1983年。美國足球Super Bowl1966年有證據。
-
 
 > ... the superb owl who sat, folded in his feather cloak to the tips of his powerful claws, motionless, wearily disdainful but as wide-awake in his single self as all the fifteen hundred contemptible chits around him .... [The Spectator, Feb. 26, 1876]
 

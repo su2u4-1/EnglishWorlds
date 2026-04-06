@@ -5,7 +5,6 @@
 
 “工人的工具，行業的用具，工作所需的物品”的意義在1530年代出現。這些意義的潛在連接是“能夠滿足需求的任何東西，即填補需求的東西。”相關詞：Implemental；implements。
 
-
 > An
 >  implement is whatever may supply a want or a requisite to an end ; it is always regarded in reference to its particular use ; as,
 >  agricultural implements ;
