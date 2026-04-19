@@ -197,7 +197,7 @@ def load_words_from_txt(file_path: str, target_list: list[str]) -> None:
 
 
 test: bool = False
-re_get_all: bool = True
+re_get_all: bool = False
 base_path: str = "C:/Users/joey2/桌面/英文/"
 target_list: list[str] = []
 

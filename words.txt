@@ -244,7 +244,8 @@ childhood: 幼年、童年
 children: 兒童、孩子們
 china: 中國、瓷器
 choice: 選擇、選項
-chosen: (choose - chose - chosen)、挑選、選擇、選擇的
+choose: 挑選、選擇
+chosen: (choose - chose - chosen)、挑選、被選中的、選擇、選擇的
 circuit: 電路
 circumstance: 情況
 clare: 明確、清楚
@@ -755,6 +756,7 @@ hierarchies: 階層
 hierarchy: 等級制度、階層
 historical: 歷史性的、歷史的
 history: 歷史、歷史記錄
+how: 如何
 however: 然而
 hundreds: 數百
 hurt: 傷害
@@ -812,6 +814,7 @@ incrementally: 增量地、逐步地、逐漸地、遞增地
 incur: 招致
 independence: 獨立、自立
 independent: 獨立的、自立的
+index: 指數、索引
 indicate: 指出、指示、表明
 indicated: 指示的、表明的
 individual: 個別的、個體、獨立的
@@ -1071,6 +1074,7 @@ occurring: 發生
 occurs: 出現、發生
 offend: 冒犯、得罪
 offending: 冒犯的、得罪人的
+offset: 偏移、抵消
 offsetting: 抵消
 omit: 省略、遺漏
 omitted: 省略的、被忽略的、被省略的、遺漏的
@@ -1208,6 +1212,7 @@ previous: 以前的、先前的
 previously: 之前地、先前、先前地
 primarily: 主要地、首要地
 primary: 主要的、初級的、基本的
+prime: 主要的、質數的
 principal: 主要的
 principle: 原則、原理
 prior: 先前的
@@ -1264,7 +1269,7 @@ rapid: 快速的
 rather than: 而不是、而非
 rather: 寧可、寧願、相當、頗為
 raw: 原始的
-reach: 伸手、到達
+reach: 伸手、到達、達到
 reached: 抵達的、達到的
 reaches: 到達、抵達
 reader: 讀者、閱讀器
@@ -1529,7 +1534,7 @@ subtle: 微妙的、細微的
 subtraction: 減去、減少、減法、減法運算
 subtree: 子樹
 succeeds: 成功、繼任
-such as: 例如
+such as: 例如、像...這樣的
 suffer: 遭受
 suffice: 滿足、足夠
 suffices: 滿足、滿足需求、足夠
@@ -1697,9 +1702,15 @@ vulnerability: 易受攻擊
 vulnerable: 易受攻擊的
 ward: 守衛、病房
 well-suited: 非常適合的
+what: 什麼
+when: 何時
 whenever: 無論何時
+where: 哪裡
 whether: 是否
+which: 哪個
+who: 誰
 whole: 全部、整體
+why: 為什麼
 widely: 廣泛地、普遍地
 wish: 希望
 within: 在...之內

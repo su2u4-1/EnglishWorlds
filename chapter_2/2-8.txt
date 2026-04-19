@@ -124,3 +124,15 @@ sent: 發送、送達
 valued: 有價值的、重視的
 emitted: 發出、放出、釋出
 nonleaf: 非葉子、非終端
+where: 哪裡
+when: 何時
+who: 誰
+which: 哪個
+what: 什麼
+why: 為什麼
+how: 如何
+choose: 選擇、挑選
+offset: 偏移、抵消
+index: 索引、指數
+-ness: ...的狀態、性質，名詞後綴
+prime: 主要的、質數的
