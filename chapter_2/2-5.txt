@@ -86,7 +86,7 @@ salient: 顯著的、突出的
 delimiters: 界限符號、分隔符號
 signified: 意味著、表示
 significance: 重要性、意義
-parameters: 單例、單一
+parameters: 參數、界限
 communicate: 溝通、交流
 accessing: 存取、進入
 inequality: 不平等、不等式

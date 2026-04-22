@@ -1120,7 +1120,7 @@ parallel: 平行的
 parallelism: 並行性
 parameter: 參數、參量、變數、變量
 parameterized: 參數化的
-parameters: 單一、單例
+parameters: 參數、界限
 parent: 圓括號、括號、父母、父親
 parentheses: 圓括號、小括號、括號
 parenthesis: 圓括號、括號

@@ -59,8 +59,7 @@ class VocabularyTester:
                     line = line.strip()
                     if ": " in line:
                         parts = line.split(": ", 1)
-                        if not (parts[0].startswith("-") or parts[0].endswith("-")):
-                            vocabulary[parts[0]] = parts[1]
+                        vocabulary[parts[0]] = parts[1]
                 return vocabulary
         except FileNotFoundError:
             print(f"錯誤：找不到詞彙文件 '{self.vocabulary_file}'")
