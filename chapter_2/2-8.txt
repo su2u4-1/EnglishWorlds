@@ -136,3 +136,40 @@ offset: 偏移、抵消
 index: 索引、指數
 -ness: ...的狀態、性質，名詞後綴
 prime: 主要的、質數的
+bit: 位、少量
+safer: 更安全的、更可靠的
+debugging: 調試、除錯
+confusing: 令人困惑的、混亂的
+confuse: 使困惑、混淆
+find: 找到、發現
+found: 發現、創建
+make sense: 有道理、說得通
+mix: 混合、混淆
+remix: 混合、重新混合
+i.e: 也就是說、換句話說
+e.g: 例如、舉例來說
+sim-: 簡單、簡要
+once: 一次、一但
+tract: 拉、拖、牽引
+solute: 溶解、解決
+absolutely: 絕對地、完全地
+of course: 當然、自然
+course: 課程、過程
+splitting: 分割的、分裂的
+split: 分割、分裂、平分、分開
+organized: 組織的、有組織的、整齊的
+origin: 起源、來源
+original: 原始的、原本的
+messy: 混亂的、凌亂的
+mess: 混亂、麻煩
+feel like: 感覺、似乎
+boring: 無聊的、乏味的
+bore: 使厭煩、鑽孔
+miss: 錯過、想念
+void: 空的、無效的
+anyway: 無論如何、反正
+nor: 也不、既不
+neither ... nor ...: 既不...也不...
+either ... or ...: 要麼...要麼...
+so: 所以、因此、也是
+also: 也、同樣地

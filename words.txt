@@ -2,7 +2,8 @@ a variety of: (= various)、各式各樣的
 ability: 能力
 abnormal: 不正常的、異常的
 above: 上述的、以上、在...上面、在...之上
-absolute: 絕對的
+absolute: 完全的、絕對的
+absolutely: 完全地、絕對地
 abstract: 抽象的、摘要、摘要的
 abstraction: 抽象、抽象化
 accept: 接受
@@ -59,6 +60,7 @@ along with: 與...一起、連同
 along: 一起、沿著、隨著
 alphabet: 字母系統、字母表
 already: 已經、早已
+also: 也、同樣地
 alter: (= change)、改變
 alternate: 交替、輪流
 alternative: 另類的、可供選擇的、可選擇的、替代方案、替代的、選擇的
@@ -86,6 +88,7 @@ annotated: 註解、註釋
 another: 其他的、另一個
 anticipate: 預料、預期
 anticipating: 預料、預期
+anyway: 反正、無論如何
 apart: 分開、分離
 apostrophe: 撇號、省略號
 apparently: 明顯地、顯然地
@@ -161,7 +164,7 @@ auxiliary: 輔助的、附屬的
 availability: 可用性
 available: 可得到的、可獲得的、可用的
 average: 平均、平均的、普通的
-avoid: 避免、防止
+avoid: 躲避、避免、防止
 back end: 後端
 backtrack: 回溯、退回
 backward: 向後的
@@ -182,6 +185,7 @@ between: 在...之間
 beyond: 在...之外、超越、超過
 binary: 二元的、雙重的
 binding: 約束、綁定
+bit: 位、少量
 blank: 空格、空白、空白的、空白處
 block: 區塊、塊
 blood: 血液、血統
@@ -190,6 +194,8 @@ bodies: 物體、身體
 bold: 大膽的、粗體的
 boldface: 粗體、粗體字
 boolean: 布林、布林值
+bore: 使厭煩、鑽孔
+boring: 乏味的、無聊的
 both: 兩者皆可
 bound: 有界的
 brace: 大括號
@@ -309,6 +315,8 @@ condition: 條件、狀況
 conditional: 假設的、條件的
 conflict: 矛盾、衝突
 conform: 符合
+confuse: 使困惑、混淆
+confusing: 令人困惑的、混亂的
 congest: 堵塞、擁擠
 connected: 聯繫、連接
 consequence: 後果、結果
@@ -366,6 +374,7 @@ could: (can - could)、可以
 count: 數量、計數
 counter: 反對、櫃檯、計數器
 counterfeit: 仿冒的、偽造的
+course: 課程、過程
 cover: 涵蓋、覆蓋
 creating: 創建、創造
 creative: 創造性的、有創意的
@@ -391,6 +400,7 @@ deal with: 應付、應對、處理
 deal: 交易、處理
 deallocate: 解除配置、釋放
 dealt: 交易、處理
+debugging: 調試、除錯
 decade: 十年
 decades: 幾十年
 decide: 決定、決策、選擇
@@ -499,7 +509,7 @@ distributed memory: 分布式存儲
 distributed: 分布式
 distributing: 分發
 diversity: 多樣性
-divide: 分開、平分、拆分、除法
+divide: 分割、分開、平分、拆分、除以、除法
 division: 部門、除法、除法運算
 domination: 支配
 done: do的過去分詞、做了、做好的、做的、完成的
@@ -514,10 +524,11 @@ during: 在...時、在...期間、在...過程中
 dynamic: 動力的、動態的
 dynamically: 動態地
 e.g.: 例如、舉例來說
+e.g: 例如、舉例來說
 each: 各自的、每個
 earlier: 先前的、較早的
-easier: 更容易的
-easy: 容易的
+easier: 更容易的、更簡單的
+easy: 容易的、簡單的
 eat: 吃、食用
 eaten: 吃過的、食用過的
 economic: 經濟的
@@ -530,7 +541,8 @@ efficiency: 效率、效能
 efficient: 高效的
 efficiently: 有效率地、高效地
 effort: 努力、效益
-either: 任一、兩者之一
+either ... or ...: 要麼...要麼...
+either: 任一、兩者之一、要麼
 elegant: 優美的、優雅的
 element: 元素、成分
 elementary: 初級的、基本的
@@ -583,7 +595,7 @@ eventually: 最終
 evolution: 演化、演變
 evolve: 演變、發展
 evolving: 演變的
-exactly: 正好、準確地、確切地、精確地
+exactly: 正好、正是、準確地、確切地、精確地
 exam: 檢查、考試
 examine: (= check)、審查、檢查、考察
 examining: 審查、檢查
@@ -633,7 +645,7 @@ extension: 延伸、擴展
 extensive: 廣泛的、延展性
 extent: 程度、範圍
 external: 外部的
-extra: 附加的、額外的
+extra: 特別的、附加的、額外的
 extract: 抽取、提取
 extracted: 提取
 extraneous: 多餘的、無關的
@@ -658,6 +670,7 @@ fashionable: 時尚的、時髦的、流行的
 feature: 特性
 fed: 餵給、餵養(過去式)
 feed: 給、餵食、餵養
+feel like: 似乎、感覺
 fetch: 取來、拿來
 fetching: 吸引人的、迷人的
 fewer: 更少的
@@ -665,6 +678,7 @@ field: 場、欄位、田地、領域
 figure: (= example)、圖、圖形、形狀、數字、樣貌、範例
 figuring: 推斷、計算
 finally: 最後、最終地、終於
+find: 找到、發現
 finding: 發現
 fit on: 適合於
 fit: 合身、適合
@@ -692,6 +706,7 @@ formulating: 公式化
 formulation: 公式化
 fortunate: 僥倖的、幸運的
 fortunately: 幸好、幸運地
+found: 創建、發現
 foundation: 基礎
 fragment: 斷片、片段、碎片
 freed: 釋放
@@ -762,6 +777,7 @@ hundreds: 數百
 hurt: 傷害
 hybrid: 混合的
 i.e.: 也就是說、換句話說
+i.e: 也就是說、換句話說
 identifier: 標識符、識別符
 identify: 認出、識別、辨認
 ignore: 不理會、不顧、忽略
@@ -954,6 +970,7 @@ maintain: 保持、維持、維護
 maintenance: 維護
 major: 主要的、大的
 majority: 主要部分、大多數
+make sense: 有道理、說得通
 mama boy: 媽寶
 manageable: 可管理的、可處理的
 manageably: 可管理的、可處理的
@@ -978,6 +995,8 @@ mechanism: 機制、機構、機理
 mediate: 中間的、過渡的
 megabytes: MB、兆字節
 merging: 合併、融合
+mess: 混亂、麻煩
+messy: 凌亂的、混亂的
 methodology: 方法論
 micro-: 微小的
 mid: 中
@@ -994,8 +1013,10 @@ minus: 減去、減少、減號、負號
 misbehave: 行為不當
 mismatch: 不一致、不匹配
 misnomer: 誤稱
+miss: 想念、錯過
 mission: 任務
-mistake: 錯誤
+mistake: 失誤、錯誤
+mix: 混合、混淆
 mnemonic: 助記的
 mobile: 行動的
 model: 模型、模式、模擬
@@ -1029,7 +1050,8 @@ necessarily: 必然地、必需地、必須地
 necessary: 必要的、必需的
 needed: 必需的、需要的
 needless: 不必要的
-neither: 兩者皆不
+neither ... nor ...: 既不...也不...
+neither: 也不、兩者皆不、兩者都不
 nest: 嵌套、巢、巢狀物、巢穴
 nested: 內含的、內嵌的、嵌套的、巢狀的
 nesting: 層疊、嵌套
@@ -1044,6 +1066,7 @@ nonitalicized: 正常字體、非斜體
 nonleaf: 非終端、非葉子
 nonterminal: 非終端的、非終結的
 nontrivial: 非凡的
+nor: 也不、既不
 norm: 標準
 normal: 常態的、正常的
 notate: 標註、註解
@@ -1072,6 +1095,7 @@ occurrence: 出現、發生、發生次數
 occurrences: 出現、發生
 occurring: 發生
 occurs: 出現、發生
+of course: 當然、自然
 offend: 冒犯、得罪
 offending: 冒犯的、得罪人的
 offset: 偏移、抵消
@@ -1080,6 +1104,7 @@ omit: 省略、遺漏
 omitted: 省略的、被忽略的、被省略的、遺漏的
 on the other hand: 另一方面
 once and for all: 一勞永逸
+once: 一但、一次
 one and for all: 徹底地、永久地
 one of the kind: 獨一無二的
 one-after-the-other: 一個接一個地、依次地
@@ -1099,9 +1124,12 @@ optional: 可選的、非強制的
 order: 次序、順序
 ordering: 排序、次序、訂購、順序
 ordinary: 常規的、普通的
-organization: 組織
-organize: 安排、組織
+organization: 機構、組織
+organize: 安排、整理、組織
+organized: 整齊的、有組織的、組織的
 oriented: 取向的
+origin: 來源、起源
+original: 原始的、原本的
 originally: 原本地
 otherwise: 不然、否則、要不然
 out of: 出自於、沒有、源於、由於、缺少
@@ -1324,6 +1352,7 @@ remainder: 剩餘物、餘數
 remaining: 剩餘的、殘留的
 remind: 提示、提醒
 reminder: 提示、提醒
+remix: 混合、重新混合
 render: 使得、渲染
 reorders: 重新排序
 repeat: 反覆、重複
@@ -1374,6 +1403,7 @@ routinely: 例行公事地、常規地
 routines: 例行、例行公事、公事、常規、程序
 rule: 規則、規律
 rules: 規則、規定、規律
+safer: 更可靠的、更安全的
 said: 說、說了、說過的、講、講了
 salient: 突出的、顯著的
 same: 一樣的、相同的
@@ -1464,8 +1494,10 @@ smallest: 最小的、最少的
 snapshot: 快照、瞬間
 so far: 到目前為止、迄今為止
 so on: 等等
+so: 也是、因此、所以
 solely: 僅僅、唯一地
 solid: 堅固的
+solute: 溶解、解決
 solves: 解決、解答
 sometimes: 偶爾、有時候
 somewhat: 有點、稍微
@@ -1485,6 +1517,8 @@ specifies: 指定、明確說明、說明
 specify: 指定、明確、明確說明、特定、說明
 specifying: 指定、說明
 spent: (spend - spent - spent)、花費的
+split: 分割、分裂、分開、平分
+splitting: 分割的、分裂的
 spontaneous: 本能的、自然的、自發的
 spread: 傳播、散布
 spreadsheet: 試算表、電子表格
@@ -1500,7 +1534,7 @@ static: 不變的、靜態的、靜止的
 statically: 靜態地
 status: 狀態
 step: 步驟、階段
-still: 仍然
+still: 仍然、還是
 stimulated: 刺激
 storage: 儲存、存儲
 store: 儲存、商店
@@ -1613,6 +1647,7 @@ toward: 向、對於、朝向
 towards: 向、朝向
 track: 軌道、追蹤
 tracking: 跟踪
+tract: 拉、拖、牽引
 tradeoff: 折衷
 tradeoffs: 折衷
 transcribe: 抄寫、轉錄
@@ -1670,7 +1705,7 @@ unit: 單位、單元
 units: 單位、單元
 unless: 沒有...的、無...的
 unlike: 不像、不同於
-unnecessary: 不必要的
+unnecessary: 不必要的、多餘的
 unresolved: 未解決的、無法解決的
 unsound: 不正確的、無效的
 unsubscripted: 無下標的
@@ -1698,6 +1733,7 @@ vise: 夾具、鉗子
 visible: 可見的、明顯的
 visit: 參觀、訪問
 visual: 視覺的
+void: 無效的、空的
 vulnerability: 易受攻擊
 vulnerable: 易受攻擊的
 ward: 守衛、病房
