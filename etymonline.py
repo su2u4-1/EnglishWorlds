@@ -1,9 +1,10 @@
-import asyncio, re, html
+import asyncio, re, html, uuid
 import aiohttp
 from bs4 import BeautifulSoup, Tag
 from bs4.element import NavigableString, PageElement
 from os.path import join, exists
 from os import makedirs, listdir
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 
 class EtymonlineWordScraper:
@@ -12,8 +13,18 @@ class EtymonlineWordScraper:
         self.output_dir = output_dir
         self.base_url = "https://www.etymonline.com/tw/word/"
         self.log: list[str] = []
+        self.clear_cache()
         if not exists(self.output_dir):
             makedirs(self.output_dir)
+
+    def clear_cache(self) -> None:
+        self.cache_buster = uuid.uuid4().hex
+
+    def with_cache_bust(self, url: str) -> str:
+        parts = urlsplit(url)
+        query_params = dict(parse_qsl(parts.query, keep_blank_values=True))
+        query_params["_cb"] = self.cache_buster
+        return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query_params, doseq=True), parts.fragment))
 
     def clean_text(self, text: str) -> str:
         # 移除文字中的 > 與 #，並處理 HTML 轉義字元
@@ -89,7 +100,7 @@ class EtymonlineWordScraper:
         return (word, sections_data)
 
     async def fetch_html(self, session: aiohttp.ClientSession, url: str) -> str:
-        async with session.get(url) as response:
+        async with session.get(self.with_cache_bust(url)) as response:
             return await response.text()
 
     async def process_word(self, session: aiohttp.ClientSession, sem: asyncio.Semaphore, queue: asyncio.Queue[str], word: str) -> None:

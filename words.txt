@@ -55,7 +55,8 @@ alined: 對齊的、排列的
 allocate: 分配
 allocating: 分配
 allocation: 分配、安排
-almost: 幾乎
+almost near: 差不多、幾乎接近
+almost: 差不多、幾乎
 along with: 與...一起、連同
 along: 一起、沿著、隨著
 alphabet: 字母系統、字母表
@@ -185,7 +186,7 @@ between: 在...之間
 beyond: 在...之外、超越、超過
 binary: 二元的、雙重的
 binding: 約束、綁定
-bit: 位、少量
+bit: 一點、位、少量
 blank: 空格、空白、空白的、空白處
 block: 區塊、塊
 blood: 血液、血統
@@ -232,6 +233,7 @@ carries: 承載、攜帶、運送
 carry out: 執行、實施
 carry: 承載、攜帶、運送
 cast: 劇組、投、擲、演員陣容
+catalog: 分類、目錄
 catastrophic: 災難性的
 category: 類別
 cause: 原因、導致、引起
@@ -292,9 +294,9 @@ compatibility: 兼容性
 compilation: 彙編、彙總、編譯、編譯過程
 compiling: 編譯
 complementary: 互補的、補充的
-complete: 完全的、完成、完整的
+complete: 完全的、完成、完成的、完整的
 completely: 完全地
-complex: 綜合體、複雜的
+complex: 復雜的、綜合體、複雜的
 complicated: 複雜的
 component: 元件、成分、組件、零件
 components: 元件、組件、零件
@@ -706,6 +708,7 @@ formulating: 公式化
 formulation: 公式化
 fortunate: 僥倖的、幸運的
 fortunately: 幸好、幸運地
+forward: 前進的、向前的、轉發
 found: 創建、發現
 foundation: 基礎
 fragment: 斷片、片段、碎片
@@ -800,7 +803,7 @@ implementing: 執行、實施
 implements: 執行、實現
 implicit: 暗示的、隱含的
 implicitly: 含蓄地、暗示地
-import: 匯入
+import: 匯入、導入、進口
 important: 重大的、重要的
 impose: 強加、施加
 imposes: 執行、施加
@@ -956,8 +959,11 @@ linear-time: 線性時間
 linear: 直線的、線性的、線狀的
 literal: 字面的、文字的
 literally: 字面上、逐字地
+little: 小的、少量的、稍微
 loading: 加載的、裝載的
 locate: 定位、放置
+log: 日誌、記錄
+logical: 合理的、邏輯的
 lookahead: 前瞻、向前看、展望
 lookup: 搜尋、查找
 loop: 循環、迴圈
@@ -994,6 +1000,7 @@ mechanical: 機械性的、機械的
 mechanism: 機制、機構、機理
 mediate: 中間的、過渡的
 megabytes: MB、兆字節
+menu: 菜單、選單
 merging: 合併、融合
 mess: 混亂、麻煩
 messy: 凌亂的、混亂的
@@ -1035,7 +1042,7 @@ motion: 動作、運動
 motorola: 摩托羅拉
 much: 很多
 multicharacter: 多字元的、多字符的
-multiple: 多個、多樣的、多重的
+multiple: 多個、多個的、多樣的、多重的
 multiplication: 乘法、乘法運算、倍增、增加
 multiply: 乘、乘以、增加
 multiprocessor: 多處理器
@@ -1046,6 +1053,7 @@ native: 本地的
 natively: 本地地
 natural: 自然的
 naturally: 天生地、自然地
+near: 接近的、附近的
 necessarily: 必然地、必需地、必須地
 necessary: 必要的、必需的
 needed: 必需的、需要的
@@ -1200,7 +1208,7 @@ position: 位置、方位
 possibilities: 可能性、選擇
 possibility: 可能、可能性、潛力
 possible: 可能的、可行的、潛在的
-possibly: 可能地
+possibly: 可能地、或許
 postfix: 後綴、後置
 postorder: 後序
 postscript: 後記
@@ -1213,7 +1221,7 @@ practice: 實踐、實際上、練習
 precede: 先於、在...之前、領先
 precedence: 優先、優先權、優先級、優先順序、前例
 precedes: 優先於、在...之前
-precisely: 準確地、精確地
+precisely: 恰好地、準確地、精確地
 predate: 先於、早於
 predicate: 謂詞
 predict: 預測、預言
@@ -1233,6 +1241,7 @@ preserve: 保存、維護
 presumable: 可假定的、可推測的
 presumably: 可能、大概
 presume: 假定、推測
+pretty: 漂亮的、相當的、非常的
 prevalence: 流行
 prevalent: 流行的
 prevents: 防止、阻止
@@ -1258,6 +1267,8 @@ production: 生成、生產、產生、產量、製造
 productivity: 效率、生產力
 profiler: 分析器
 profitably: 有利地、獲利地
+program: 程序、程式
+programming: 程序設計、編程
 progressive: 進步的
 progressively: 漸進地、逐步地
 prominently: 突出地、顯著地
@@ -1289,7 +1300,7 @@ queries: 查詢
 query: 查詢
 quick: 快速的、迅速的
 quickly: 快速地
-quite: 相當、非常
+quite: 完全、相當、非常
 quotation: 引用、引號
 quote: 引用、引述
 rampant: 猖獗的
@@ -1490,6 +1501,7 @@ single: 單一的、單個的
 situation: 情境、情況
 sketched: 概述、草擬
 skipped: 跳過的
+slow: 慢的、緩慢的
 smallest: 最小的、最少的
 snapshot: 快照、瞬間
 so far: 到目前為止、迄今為止
@@ -1540,8 +1552,8 @@ storage: 儲存、存儲
 store: 儲存、商店
 stored: 儲存的、存儲的
 story: 故事、故事情節
-straight: 直
-straightforward: 直接的
+straight: 直、直接的、直的
+straightforward: 直接的、簡單的
 strict: 嚴格的、嚴謹的
 strictly: 嚴格地
 strip: 剝去、帶、條、脫去、脫掉
@@ -1672,6 +1684,7 @@ triangle: 三角、三角形
 tribute: 敬意、貢獻
 trick: 技巧、欺騙、訣竅
 tricked: 欺騙
+tricky: 棘手的、狡猾的、麻煩的
 trivial: 瑣碎的
 truly: 真正地、確實地
 tuple: 一組、元組、對偶

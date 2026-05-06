@@ -173,3 +173,16 @@ neither ... nor ...: 既不...也不...
 either ... or ...: 要麼...要麼...
 so: 所以、因此、也是
 also: 也、同樣地
+pretty: 漂亮的、相當的、非常的
+forward: 向前的、前進的、轉發
+tricky: 棘手的、麻煩的、狡猾的
+little: 小的、少量的、稍微
+menu: 菜單、選單
+catalog: 目錄、分類
+log: 日誌、記錄
+program: 程序、程式
+programming: 程序設計、編程
+logical: 邏輯的、合理的
+slow: 慢的、緩慢的
+near: 接近的、附近的
+almost near: 幾乎接近、差不多
