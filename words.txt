@@ -8,7 +8,7 @@ abstract: 抽象的、摘要、摘要的
 abstraction: 抽象、抽象化
 accept: 接受
 acceptable: 可接受的、合意的
-access: 存取、訪問、進入
+access: 存取、接近、訪問、進入
 accessed: 訪問
 accesses: 存取、訪問
 accessible: 可接近的、可訪問的、可進入的
@@ -122,7 +122,7 @@ arithmetic: 數學的、算數、算術、算術的、計算、運算
 arity: 元數、元運算元
 arrange: 佈置、安排、整理
 array: 排列、數組、陣列
-arrow: 指示、箭頭
+arrow: 指示、箭、箭頭
 artifact: 人造
 as ... as: 盡可能地
 as a result: 因此、結果
@@ -138,7 +138,7 @@ assertion: 主張、斷言
 assigned: 分配的、指定的
 assignment: 任務、作業、分配、指派
 assist: 協助
-associate: 聯想、聯繫、關聯
+associate: 夥伴、聯想、聯繫、關聯
 associated: 相關的、聯想的、聯繫的、關聯的
 associating: 聯想、聯繫
 association: 協會、聯合、聯繫
@@ -215,6 +215,7 @@ buffer: 緩衝區、緩衝物
 buffering: 緩衝、緩衝作用
 built: (build - built - built)、建造的
 by so doing: 藉此、這樣做
+calculate: 估算、計算
 calculation: 估計、計算
 callee: 被呼叫者、被調用者
 capabilities: 能力
@@ -240,6 +241,7 @@ cause: 原因、導致、引起
 caused: 引起
 certain: 某些、特定的、確定的
 chain: 鏈條、鏈結
+chained assignment: 連鎖賦值、鏈式賦值
 chained: 連鎖的、鏈結的
 challenging: 挑戰的
 changing: 改變、變化
@@ -303,12 +305,15 @@ components: 元件、組件、零件
 comprise: 包含、由...組成
 comprising: 包含、由...組成
 compromise: 危害、妥協
-compute: 計算、運算
+computation: 計算、運算
+compute: 估算、計算、運算
 computed: 估算、計算
+computing: 計算、運算
 concatenation: 並列、串聯、連接
 concentrate: 專注、集中
-concept: 概念
+concept: 概念、觀念
 concepts: 概念
+conceptual: 概念性的、概念的
 conclude: 總結
 concrete: 具體的、實在的、實際的、有形的、混凝土
 concretely: 具體地、實際地
@@ -417,7 +422,9 @@ declared: 宣布的、聲明的
 decomposition: 分拆、分解
 decrement: 減少、減量
 deduce: 推導、推斷、演繹
-defer: 尊崇、推遲
+defer: 尊崇、延期、推遲、服從
+deferent: 傳遞的、輸送的
+deferential: 尊重的、恭敬的
 define: 定義、確定、規定
 defined: 定義的、已定義的
 defines: 定義、規定
@@ -480,7 +487,7 @@ diagnostic: 診斷的
 dictate: 命令、規定
 dictionary: 字典、詞典
 differ: 不同、差異
-different: 不同的、有差異的
+different: 不同的、差異的、有差異的
 differently: 不同地、有差別地
 difficult: 困難的、艱難的
 digest: 消化、理解
@@ -583,6 +590,7 @@ equal: 平等的、相等的
 equality: 平等、等式
 equivalent: (= same)、同等的、相等的、等價的
 erroneous: 不正確的、錯誤的
+error: 誤差、錯誤
 especially: 尤其、特別地、特別是
 essence: 本質
 essential: 基本的、必要的
@@ -680,7 +688,7 @@ field: 場、欄位、田地、領域
 figure: (= example)、圖、圖形、形狀、數字、樣貌、範例
 figuring: 推斷、計算
 finally: 最後、最終地、終於
-find: 找到、發現
+find: 找到、發現、覺得
 finding: 發現
 fit on: 適合於
 fit: 合身、適合
@@ -761,9 +769,9 @@ hash: #、(= pound sign)、井號、哈希、雜湊
 head: 頂部、頭、頭部、首部
 hear: 聽、聽到
 held: 握住、舉行
-helper: 助手、幫手
+helper: 助手、幫助者、幫手
 helpers: 助手、輔助程式
-helpful: 有幫助的、有益的
+helpful: 有幫助的、有用的、有益的
 hence: 因此、所以
 henceforth: 今後、從此以後
 heuristic: 啟發式的
@@ -781,6 +789,7 @@ hurt: 傷害
 hybrid: 混合的
 i.e.: 也就是說、換句話說
 i.e: 也就是說、換句話說
+idea: 主意、想法
 identifier: 標識符、識別符
 identify: 認出、識別、辨認
 ignore: 不理會、不顧、忽略
@@ -963,6 +972,7 @@ little: 小的、少量的、稍微
 loading: 加載的、裝載的
 locate: 定位、放置
 log: 日誌、記錄
+logic: 邏輯、邏輯學
 logical: 合理的、邏輯的
 lookahead: 前瞻、向前看、展望
 lookup: 搜尋、查找
@@ -1108,6 +1118,7 @@ offend: 冒犯、得罪
 offending: 冒犯的、得罪人的
 offset: 偏移、抵消
 offsetting: 抵消
+often: 常常、經常
 omit: 省略、遺漏
 omitted: 省略的、被忽略的、被省略的、遺漏的
 on the other hand: 另一方面
@@ -1123,6 +1134,7 @@ operate: 操作、運作、運行
 operation: 操作、運算、運行
 operator: 操作員、操作符、運算子、運算符
 operators: 操作員、運算符
+opinion: 意見、看法
 opportunity: 時機、機會
 optimal: 最佳的
 optimization: 優化、最佳化
@@ -1182,6 +1194,7 @@ period: 句號、時期
 permit: 允許、許可
 permits: 允許、許可
 personal: 個人的
+perspective: 看法、觀點
 phase: (= stage)、(ph = f)、時期、階段
 phases: 時期、階層、階段
 phenomenon: 現象
@@ -1459,6 +1472,7 @@ sent: 發送、送達
 sentence: 判決、句子
 separate: 分開的、分離的、獨立的
 separated: 分開、分開的、分離、分離的
+separating: 分割的、分離的
 sequence: 序列、順序
 sequent: 後來的、隨後的
 sequential: 順序的
@@ -1540,7 +1554,7 @@ stand for: 代表、象徵
 stand: 立場、站立
 standing: 常駐的、站立的
 state-of-the-art: 最先進的
-state: 州、長期狀態、陳述
+state: 國家、州、狀態、長期狀態、陳述
 statement: (通常比單一句子長)、聲明、陳述
 static: 不變的、靜態的、靜止的
 statically: 靜態地
@@ -1650,6 +1664,7 @@ through: 穿過、通過
 throughout: 在整個過程中、貫穿、遍及
 throws: 投擲、拋出
 thus: 因此、如此、從而
+time: 倍數、時間、次數
 tinct: 特質、色彩
 toolkit: 工具包
 torn: 撕裂的、破碎的
@@ -1729,7 +1744,7 @@ upon: 在...上、在...之上、根據
 uppermost: 最上面的、最高的
 usability: 可用性
 usual: 通常的
-usually: 一般地、通常
+usually: 一般來說、一般地、通常
 validate: 驗證
 valued: 有價值的、重視的
 variable: 可變的、變量

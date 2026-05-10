@@ -186,3 +186,18 @@ logical: 邏輯的、合理的
 slow: 慢的、緩慢的
 near: 接近的、附近的
 almost near: 幾乎接近、差不多
+logic: 邏輯、邏輯學
+opinion: 意見、看法
+idea: 想法、主意
+perspective: 觀點、看法
+separating: 分離的、分割的
+conceptual: 概念的、概念性的
+deferent: 輸送的、傳遞的
+deferential: 恭敬的、尊重的
+error: 錯誤、誤差
+chained assignment: 鏈式賦值、連鎖賦值
+often: 經常、常常
+computation: 計算、運算
+computing: 計算、運算
+calculate: 計算、估算
+time: 時間、次數、倍數
