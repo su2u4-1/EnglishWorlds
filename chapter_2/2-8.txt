@@ -201,3 +201,15 @@ computation: 計算、運算
 computing: 計算、運算
 calculate: 計算、估算
 time: 時間、次數、倍數
+reply: 回覆、回答
+add: 加、增加
+subtract: 減去、扣除
+evaluated: 評估的、評價的
+permission: 許可、允許
+product: 產品、乘積
+make: 使、製造、做
+made: 製造、做了、使得
+taxi: 計程車、出租車
+argument: 參數、論點、爭論
+causes: 造成、導致、原因
+side-effect: 副作用、附帶效果

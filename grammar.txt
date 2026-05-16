@@ -1,0 +1,8 @@
+be + v-ed: 被動
+be + v-ing: 進行
+have + v-ed: 完成
+well + v: 將來
+would + v: 過去將來
+have + O + v: 使役
+make + O + v: 使役
+let + O + v: 使役

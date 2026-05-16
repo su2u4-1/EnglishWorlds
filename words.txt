@@ -30,6 +30,7 @@ actual: 實際的、真實的
 actually: 事實上、實際上
 ad hoc: 特別的、臨時的
 adapting: 改編、適應
+add: 加、增加
 addition to: 除此之外
 addition: 加法、加法運算
 additionally: 除此之外
@@ -116,6 +117,7 @@ arbitrary: 任意的、隨意的、隨機的
 architecture: 工程、建構、建築、架構
 areas: 領域
 arguably: 可以說
+argument: 參數、爭論、論點
 arise: 出現、產生
 arises: 出現、產生
 arithmetic: 數學的、算數、算術、算術的、計算、運算
@@ -237,8 +239,9 @@ cast: 劇組、投、擲、演員陣容
 catalog: 分類、目錄
 catastrophic: 災難性的
 category: 類別
-cause: 原因、導致、引起
+cause: 原因、導致、引起、造成
 caused: 引起
+causes: 原因、導致、造成
 certain: 某些、特定的、確定的
 chain: 鏈條、鏈結
 chained assignment: 連鎖賦值、鏈式賦值
@@ -339,7 +342,7 @@ consistent: 持續的
 consisting: 包含、構成、由...組成、組成、組成的
 consists: 包含、由...組成
 constant-time: 常數時間
-constant: 不變的、常數、恆定的
+constant: 不變的、常數、恆定的、持續的
 constituent: 成分、構成要素、組成
 constraint: 約束、限制
 construct: 建構、建造、構建、構築、構造
@@ -549,7 +552,7 @@ effectiveness: 有效性
 efficiency: 效率、效能
 efficient: 高效的
 efficiently: 有效率地、高效地
-effort: 努力、效益
+effort: 努力、效益、費力
 either ... or ...: 要麼...要麼...
 either: 任一、兩者之一、要麼
 elegant: 優美的、優雅的
@@ -599,6 +602,7 @@ established: 已建立的
 etc.: 等等、諸如此類
 etcetera: 其他、等等
 evaluate: 評估、評價
+evaluated: 評估的、評價的
 evaluating: 評估、評價
 evaluation: 估價、評估、評價
 eventually: 最終
@@ -981,12 +985,14 @@ lowermost: 最下面的、最低的
 lying: 位於...的、說謊、謊言、躺著的
 machine: 機器
 macro: 大量、巨集、指令
+made: 使得、做了、製造
 magnitude: 大小、數量、規模
 maintain: 保持、維持、維護
 maintenance: 維護
 major: 主要的、大的
 majority: 主要部分、大多數
 make sense: 有道理、說得通
+make: 使、做、製造
 mama boy: 媽寶
 manageable: 可管理的、可處理的
 manageably: 可管理的、可處理的
@@ -1026,7 +1032,7 @@ minder: 監護人、看護者
 minimize: 最小化
 minimizing: 最小化
 minor: 次要的、輕微的
-minus: 減去、減少、減號、負號
+minus: 減去、減少、減號、負的、負號
 misbehave: 行為不當
 mismatch: 不一致、不匹配
 misnomer: 誤稱
@@ -1191,6 +1197,7 @@ performance: 表現
 performed: 執行、實行、表演
 perhaps: 也許、可能
 period: 句號、時期
+permission: 允許、許可
 permit: 允許、許可
 permits: 允許、許可
 personal: 個人的
@@ -1276,6 +1283,7 @@ processed: 處理過的
 processes: 處理、過程
 processor: 處理器
 produce: 生成、生產、產生、製造
+product: 乘積、產品
 production: 生成、生產、產生、產量、製造
 productivity: 效率、生產力
 profiler: 分析器
@@ -1383,6 +1391,7 @@ repeat: 反覆、重複
 repeated: 反覆的、重複的
 repeatedly: 一再地、反覆地
 replace: 取代、替換
+reply: 回答、回覆
 report: 報告、報導
 reported: 報告、報告的、報導、報導的
 represent: 代表、表現、表示
@@ -1491,6 +1500,7 @@ shortly: 不久、很快、立刻、簡短地
 shown: (被動)、展示的、顯示、顯示的
 sibling: 兄弟姐妹、同胞
 siblings: 兄弟姐妹
+side-effect: 副作用、附帶效果
 sign: 標誌、符號
 signature: 特徵、簽名
 significance: 意義、重要性
@@ -1591,6 +1601,7 @@ substantial: 大量的
 substituted: 取代的、替代的
 subtitle: 副標題、字幕
 subtle: 微妙的、細微的
+subtract: 扣除、減去
 subtraction: 減去、減少、減法、減法運算
 subtree: 子樹
 succeeds: 成功、繼任
@@ -1636,6 +1647,7 @@ taken: 取、拿、採取
 taking: 取、拿、採取
 talk: (talk - talked - talked)、說
 task: 任務
+taxi: 出租車、計程車
 tearing: 撕裂、撕開
 technically: 技術上
 technique: 技巧、技術
