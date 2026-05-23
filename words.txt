@@ -1,5 +1,5 @@
 a variety of: (= various)、各式各樣的
-ability: 能力
+ability: 才能、能力
 abnormal: 不正常的、異常的
 above: 上述的、以上、在...上面、在...之上
 absolute: 完全的、絕對的
@@ -40,7 +40,7 @@ adjacent: 相鄰的
 adjust: 調整
 advance: 前進、提前、提升、進步、預付
 advances: 前進、發展
-advantage: 優勢、優點
+advantage: 優勢、優點、好處
 affect: 影響
 against: 反對、對抗
 aggregate: 總計、聚合
@@ -48,7 +48,7 @@ ahead: 在前面、提前
 aid: 幫助、援助
 alarms: 警報
 alert: 警告、警報
-algorithm: 演算法
+algorithm: 演算法、算法
 alias: 別名、別稱
 aliasing: 別名、化名
 align: 對齊、排列
@@ -140,7 +140,7 @@ assertion: 主張、斷言
 assigned: 分配的、指定的
 assignment: 任務、作業、分配、指派
 assist: 協助
-associate: 夥伴、聯想、聯繫、關聯
+associate: 同事、夥伴、聯想、聯繫、關聯
 associated: 相關的、聯想的、聯繫的、關聯的
 associating: 聯想、聯繫
 association: 協會、聯合、聯繫
@@ -209,6 +209,7 @@ branch: 分支、部門
 branches: 分支、枝條
 branching: 分叉的、分支的
 breach: 破壞、違反
+break down: 分解、崩潰
 break up: 分解、拆分
 break: 打破、拆開、破裂
 brevity: 簡潔、簡練
@@ -268,7 +269,7 @@ classes: 班級、類別
 classification: 分類
 classified: 分類的
 clause: 子句、條款
-clearly: 明確地
+clearly: 明確地、清楚地
 close to: 接近、靠近
 close: 接近的、關閉的
 closely: 密切地、緊密地
@@ -302,6 +303,7 @@ complementary: 互補的、補充的
 complete: 完全的、完成、完成的、完整的
 completely: 完全地
 complex: 復雜的、綜合體、複雜的
+complexity: 複雜性、難度
 complicated: 複雜的
 component: 元件、成分、組件、零件
 components: 元件、組件、零件
@@ -371,7 +373,7 @@ convert: 轉換
 copied: copy p.p.、抄襲的、複製的
 cord: 線索、繩子
 corporate: 公司的、團體的
-correct: 合適的、正確的
+correct: 合適的、正確的、糾正
 corrective: 正確的、糾正的
 correctly: 正確地
 correctness: 正確性
@@ -510,6 +512,7 @@ discussed: 商量、討論、討論的、討論過的、談論、談論的
 discussing: 商討、討論
 discussion: 討論、談話、談論
 disjoint: 不相交的、互斥的
+disorder: 失調、混亂
 distance: 距離、遠距
 distinct: 不同的、明顯的、獨特的
 distinction: 區分、區別、差別、差異
@@ -631,7 +634,7 @@ exist: 存在、實際上有
 existence: 存在
 exists: 存在、有
 exit: 出口、退出、離開
-expand: 擴展
+expand: 擴大、擴展
 expansion: 擴展、膨脹
 expect: 期待、預期
 expected: 期望的、預料的、預期的
@@ -644,8 +647,9 @@ explained: 解釋的、說明的
 explanation: 解釋、說明
 explicit: 明確的、清楚的
 explicitly: 明確地、清楚地
-exploit: 利用、解釋
+exploit: 利用、剝削、解釋
 exploiting: 利用、開發
+explore: 探究、探索
 exponential-time: 指數時間
 exponentiation: 冪運算、指數運算
 expose: 暴露
@@ -658,6 +662,7 @@ extending: 延伸、擴展
 extension: 延伸、擴展
 extensive: 廣泛的、延展性
 extent: 程度、範圍
+exterminate: 根除、消滅
 external: 外部的
 extra: 特別的、附加的、額外的
 extract: 抽取、提取
@@ -721,6 +726,7 @@ formulation: 公式化
 fortunate: 僥倖的、幸運的
 fortunately: 幸好、幸運地
 forward: 前進的、向前的、轉發
+fossil: 化石、化石燃料
 found: 創建、發現
 foundation: 基礎
 fragment: 斷片、片段、碎片
@@ -728,6 +734,7 @@ freed: 釋放
 frequently: 頻繁地
 front end: 前端
 front: 前線、前面
+fuel: 燃料、燃油
 fundamental: 基本的、根本的
 furious: 激烈的、狂怒的
 further: 更多的、更遠的、進一步的
@@ -794,8 +801,10 @@ hybrid: 混合的
 i.e.: 也就是說、換句話說
 i.e: 也就是說、換句話說
 idea: 主意、想法
+ident: 認出、識別
 identifier: 標識符、識別符
 identify: 認出、識別、辨認
+identity: 同一性、身份
 ignore: 不理會、不顧、忽略
 ignoring: 不顧、忽略
 ill: 不好的、壞的
@@ -821,7 +830,7 @@ important: 重大的、重要的
 impose: 強加、施加
 imposes: 執行、施加
 impossible: 不可能的、無法實現的
-improve: 改善
+improve: 提高、改善
 in addition to: 另外、除了...之外
 in addition: 另外、此外
 in effect: 事實上、實際上
@@ -844,6 +853,7 @@ increasing: 增加的、增長的
 increment: 增加、增量
 incrementally: 增量地、逐步地、逐漸地、遞增地
 incur: 招致
+indent: 縮排、縮進
 independence: 獨立、自立
 independent: 獨立的、自立的
 index: 指數、索引
@@ -862,6 +872,8 @@ informal: 隨意的、非正式地、非正式的
 informally: 隨便地、非正式地、非正式的
 information: 信息、資料
 informative: 提供資訊的、有信息量的、有教育意義的
+infuse: 注入、浸泡、輸液
+infusion: 注入、浸泡、輸液
 inherit: 繼承、遺傳
 inheritance: 繼承
 inherited: 繼承、遺傳
@@ -869,7 +881,7 @@ initial: 初始的
 initialize: 初始化、前面的、名字開頭的、最初的、簽名的、起動、起始設定
 initializing: 初始化
 initially: 最初、最初地、起初
-inner: 內在的、內部的
+inner: 內在的、內心的、內部的
 innermost: 最內層的、最裡面的
 innovation: 創新、革新
 innovative: 創新的
@@ -893,7 +905,7 @@ intensive: 密集的
 intent: 意圖、目的
 intention: 意圖
 inter-: 中間、之間
-inter: 互相、交叉、介於...之間
+inter: 互相、交叉、交錯、介於...之間、國際的、在...之間
 interact: 互動
 interaction: 互動
 interest: 興趣
@@ -903,7 +915,7 @@ interior: 內部、內部的、室內的、裡面
 interleaved: 交織的、交錯的
 intermediate: 中級的、中間的、過渡的
 internal: 內在的、內部的
-international: 國際的
+international: 國際性的、國際的
 internet: 網際網路
 interpret: 翻譯、解釋
 interpretation: 解釋、詮釋
@@ -1000,6 +1012,7 @@ managed: 管理的
 management: 管理
 manipulate: 操作、操縱、處理
 manner: 態度、方式、方法、禮節、舉止、風格
+manual: 手冊、手動的
 maps: 地圖、映射
 massively: 大量地
 match: 匹配、比賽、相配
@@ -1049,6 +1062,7 @@ modify: 修改、更改
 module: 單元、模塊、模組
 modules: 模組
 moment: 片刻、瞬間
+more: 更、更多的
 moreover: 此外、而且
 morpheme: 詞素、語素
 most-closely: 最接近地
@@ -1065,6 +1079,8 @@ multiprocessor: 多處理器
 multithreaded: 多線程的
 named: 命名的、有名字的
 namely: 也就是說、即、換句話說
+nation: 國家、民族
+national: 國家的、民族的
 native: 本地的
 natively: 本地地
 natural: 自然的
@@ -1125,6 +1141,7 @@ offending: 冒犯的、得罪人的
 offset: 偏移、抵消
 offsetting: 抵消
 often: 常常、經常
+oil: 油、石油
 omit: 省略、遺漏
 omitted: 省略的、被忽略的、被省略的、遺漏的
 on the other hand: 另一方面
@@ -1133,6 +1150,7 @@ once: 一但、一次
 one and for all: 徹底地、永久地
 one of the kind: 獨一無二的
 one-after-the-other: 一個接一個地、依次地
+onion: 洋蔥、洋蔥頭
 only: 僅僅、只有、才
 open-ended: 開放式的
 operand: 操作數、運算元
@@ -1147,7 +1165,7 @@ optimization: 優化、最佳化
 optimize: 優化
 optimizer: 優化器
 optional: 可選的、非強制的
-order: 次序、順序
+order: 命令、次序、順序
 ordering: 排序、次序、訂購、順序
 ordinary: 常規的、普通的
 organization: 機構、組織
@@ -1159,7 +1177,8 @@ original: 原始的、原本的
 originally: 原本地
 otherwise: 不然、否則、要不然
 out of: 出自於、沒有、源於、由於、缺少
-outer: 外在的、外部的
+outer: 外在的、外層的、外部的、外面的
+outermost: 最外層的、最外面的
 outline: (= overview)、(= summary)、概述
 outmost: 最外層的、最外面的
 overemphasize: 過度強調
@@ -1332,8 +1351,11 @@ raw: 原始的
 reach: 伸手、到達、達到
 reached: 抵達的、達到的
 reaches: 到達、抵達
+readability: 可讀性、易讀性
 reader: 讀者、閱讀器
 reading: 讀取、閱讀
+real: 現實的、真實的
+realize: 實現、意識到
 really: 實際上、真的
 rearrange: 重新排列
 reason: 原因、理由
@@ -1379,7 +1401,7 @@ relies: 依賴、依靠
 relocatable: 可重定位的
 relocate: 重新定位
 rely: 依賴、依靠
-remain: 保持
+remain: 保持、剩下、餘數
 remainder: 剩餘物、餘數
 remaining: 剩餘的、殘留的
 remind: 提示、提醒
@@ -1440,6 +1462,7 @@ safer: 更可靠的、更安全的
 said: 說、說了、說過的、講、講了
 salient: 突出的、顯著的
 same: 一樣的、相同的
+sandbox: 沙箱、測試環境
 satisfied: 滿意的
 satisfy: 滿足、符合
 satisfying: 滿足
@@ -1498,6 +1521,7 @@ short: 短的、簡短的
 shorthand: 簡寫、速記
 shortly: 不久、很快、立刻、簡短地
 shown: (被動)、展示的、顯示、顯示的
+shunting: 分流的、轉接的
 sibling: 兄弟姐妹、同胞
 siblings: 兄弟姐妹
 side-effect: 副作用、附帶效果
@@ -1578,6 +1602,7 @@ stored: 儲存的、存儲的
 story: 故事、故事情節
 straight: 直、直接的、直的
 straightforward: 直接的、簡單的
+strategy: 戰略、策略
 strict: 嚴格的、嚴謹的
 strictly: 嚴格地
 strip: 剝去、帶、條、脫去、脫掉
@@ -1740,6 +1765,7 @@ unfamiliar: 不熟悉的、生疏的
 unfortunately: 不幸的是
 unification: 合一、統一
 unintuitive: 不易理解的、不直觀的
+union: 工會、聯盟
 unique: 唯一的、獨特的
 unit: 單位、單元
 units: 單位、單元
@@ -1795,6 +1821,7 @@ worse still: 更糟
 worse: 更糟
 worth: 值得、值得的、有價值的
 written: write p.p.、寫、寫的、書寫、書面的
+yard: 碼、院子
 yet have never: 但從沒講過的是
 yet: 但是、然而
 yield: 放棄、產生、良率

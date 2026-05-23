@@ -1,6 +1,0 @@
-[side] 開始處理單字
-[effect] 開始處理單字
-[affect] 開始處理單字
-[effect] 存檔完成: C:/Users/joey2/桌面/英文/etymology_archive\effect.md
-[affect] 存檔完成: C:/Users/joey2/桌面/英文/etymology_archive\affect.md
-[side] 存檔完成: C:/Users/joey2/桌面/英文/etymology_archive\side.md
