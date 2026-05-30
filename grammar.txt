@@ -6,3 +6,7 @@ would + v: 過去將來
 have + O + v: 使役
 make + O + v: 使役
 let + O + v: 使役
+as + adj + as: 和...一樣
+as + adv + as: 和...一樣
+-er + than: 比...更
+more + adj + than: 比...更

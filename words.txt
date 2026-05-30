@@ -106,7 +106,7 @@ applied: 實用的、應用、應用的、申請、適用的
 applies: 應用、適用
 apply: 使用、應用、申請、適用
 applying: 使用、應用、申請、適用
-approach: 接近、方法、途徑
+approach: 接近、方法、途徑、靠近
 approaches: 方法、途徑
 appropriate: 合適的、恰當的、適當的
 approx: 大約、近似
@@ -178,12 +178,13 @@ become: 成為、變成
 beginning: 起初、開始
 behave: 舉止、行為
 behavior: 行為
+believe: 相信、認為
 belong: 屬於、歸屬
 belonging: 屬於、歸屬、關於
 below: 在...下面、在...之下
 benefit: (= advantage)、(= pros)、利益、好處
 beside: 在旁邊、除...之外
-better: 更好
+better: 更好、更好地、更好的
 between: 在...之間
 beyond: 在...之外、超越、超過
 binary: 二元的、雙重的
@@ -211,9 +212,10 @@ branching: 分叉的、分支的
 breach: 破壞、違反
 break down: 分解、崩潰
 break up: 分解、拆分
-break: 打破、拆開、破裂
+break: 休息、打破、拆開、破碎、破裂
 brevity: 簡潔、簡練
 brief: 簡潔的、簡短的
+broken: 損壞的、破碎的
 buffer: 緩衝區、緩衝物
 buffering: 緩衝、緩衝作用
 built: (build - built - built)、建造的
@@ -376,7 +378,7 @@ corporate: 公司的、團體的
 correct: 合適的、正確的、糾正
 corrective: 正確的、糾正的
 correctly: 正確地
-correctness: 正確性
+correctness: 正确性、正確性
 correspond: 一致、呼應、回應、回答、對應、符合
 corresponding: 對應的、相應的
 correspondingly: 相應地
@@ -388,6 +390,7 @@ counter: 反對、櫃檯、計數器
 counterfeit: 仿冒的、偽造的
 course: 課程、過程
 cover: 涵蓋、覆蓋
+crease: 摺痕、皺褶
 creating: 創建、創造
 creative: 創造性的、有創意的
 crete: 創建、建造
@@ -400,7 +403,7 @@ curly brace: 大括號、花括號
 curly braces: 大括號、花括號
 curly brackets: 花括號
 curly: 大括號的、捲曲的、捲毛的
-current: 當前的、目前的
+current: 現在的、當前的、目前的
 currently: 現在、當前、目前
 cursive: 手寫的、草寫的、連筆的
 cussed: 咒罵的、固執的
@@ -425,6 +428,7 @@ declarative: 聲明的、陳述的
 declare: 宣告、聲明
 declared: 宣布的、聲明的
 decomposition: 分拆、分解
+decrease: 減少、降低
 decrement: 減少、減量
 deduce: 推導、推斷、演繹
 defer: 尊崇、延期、推遲、服從
@@ -553,7 +557,7 @@ effective: 實際的、有效的
 effectively: 實際上、有效地
 effectiveness: 有效性
 efficiency: 效率、效能
-efficient: 高效的
+efficient: 有效的、高效的
 efficiently: 有效率地、高效地
 effort: 努力、效益、費力
 either ... or ...: 要麼...要麼...
@@ -561,10 +565,10 @@ either: 任一、兩者之一、要麼
 elegant: 優美的、優雅的
 element: 元素、成分
 elementary: 初級的、基本的
-eliminate: 剔除、排除、消除
+eliminate: 剔除、排除、消除、淘汰
 eliminated: 排除、消除
 eliminating: (= delete)、排除、消除
-elimination: 排除、消除
+elimination: 排除、消除、淘汰
 embed: 嵌入
 embedded: 內嵌的、嵌入的
 emission: 排放、發射
@@ -749,7 +753,7 @@ generalizing: 推廣、概括
 generally: 一般地、通常地
 generate: 生成、產生
 generated: 生成的、產生的
-generating: 生成、產生
+generating: 生成、生成的、產生、產生的
 generation: 代、生成、產生
 gest: 帶來、產生
 gigabytes: GB、千兆字節
@@ -785,6 +789,7 @@ helpers: 助手、輔助程式
 helpful: 有幫助的、有用的、有益的
 hence: 因此、所以
 henceforth: 今後、從此以後
+here: 在這裡、這裡
 heuristic: 啟發式的
 hidden: 隱蔽的、隱藏的
 hides: 隱藏
@@ -848,7 +853,7 @@ incorporate: 包含、合併、納入
 incorporating: 合併、納入
 incorporation: Inc.、企業
 incorrect: 不正確的、錯誤的
-increase: 增加
+increase: 增加、提高
 increasing: 增加的、增長的
 increment: 增加、增量
 incrementally: 增量地、逐步地、逐漸地、遞增地
@@ -863,6 +868,7 @@ individual: 個別的、個體、獨立的
 induce: 導致、引起
 inductively: 歸納地
 inefficiency: 低效率
+inefficient: 低效的、無效率的
 inequality: 不平等、不等式
 infinite: 無限的
 infix: 中綴、內嵌、插入
@@ -960,6 +966,7 @@ later: 以後、後來、後來的、較晚的
 latter: 後期、後者
 layout: 佈局、布局
 lead to: 導致、引起
+lead: 導致、引導、領導
 leaf: 樹葉、葉子
 least: 最少、至少
 leave: 留下、遺留、離開
@@ -969,7 +976,9 @@ leftmost: 最左邊的
 legacy: 初期、遺產
 legal: 合法的、法律的
 legalize: 使合法、合法化
+lesson: 教訓、課程
 letter: 信件、字元、字母
+level: 水平、等級、級別
 leverage: 槓桿
 lexeme: 詞位、詞根、詞素、語素
 lexical: 詞典的、詞彙的、詞法的、語彙的、語言的
@@ -993,6 +1002,7 @@ logical: 合理的、邏輯的
 lookahead: 前瞻、向前看、展望
 lookup: 搜尋、查找
 loop: 循環、迴圈
+lord: 上帝、主人、貴族、領主
 lowermost: 最下面的、最低的
 lying: 位於...的、說謊、謊言、躺著的
 machine: 機器
@@ -1021,9 +1031,10 @@ matrices: 矩陣
 matter: 事情、物質
 maximal: 最大的
 may: (可能性較大)、可能
-mean: 意味著、意思是
+mean: 平均值、意味著、意思、意思是、粗魯的
 meaning: 含義、意思、意義
 meaningful: 有價值的、有意義的
+means: 意思、手段、方法
 meanwhile: 其間、同時
 mechanical: 機械性的、機械的
 mechanism: 機制、機構、機理
@@ -1086,8 +1097,9 @@ natively: 本地地
 natural: 自然的
 naturally: 天生地、自然地
 near: 接近的、附近的
-necessarily: 必然地、必需地、必須地
+necessarily: 必定地、必然地、必需地、必須地
 necessary: 必要的、必需的
+necessity: 必要性、必需品
 needed: 必需的、需要的
 needless: 不必要的
 neither ... nor ...: 既不...也不...
@@ -1159,6 +1171,7 @@ operation: 操作、運算、運行
 operator: 操作員、操作符、運算子、運算符
 operators: 操作員、運算符
 opinion: 意見、看法
+opinionated: 主觀的、固執己見的
 opportunity: 時機、機會
 optimal: 最佳的
 optimization: 優化、最佳化
@@ -1456,6 +1469,7 @@ round brackets: 圓括號、小括號
 routine: 例行、例行公事、公事、慣例
 routinely: 例行公事地、常規地
 routines: 例行、例行公事、公事、常規、程序
+ruin: 廢墟、毀壞、破壞
 rule: 規則、規律
 rules: 規則、規定、規律
 safer: 更可靠的、更安全的
@@ -1546,9 +1560,11 @@ simulated: 模擬
 simultaneously: 同時地
 since: 因為、自從
 single: 單一的、單個的
-situation: 情境、情況
+situ: 位置、情境
+situation: 形勢、情境、情況
 sketched: 概述、草擬
 skipped: 跳過的
+sleep: 睡眠、睡覺
 slow: 慢的、緩慢的
 smallest: 最小的、最少的
 snapshot: 快照、瞬間
@@ -1564,6 +1580,7 @@ somewhat: 有點、稍微
 sophisticate: 複雜的
 sophisticated: 精密的、複雜的
 sort: 分類、類型
+speak: 說、講
 speaking: 說
 spec: 規格
 special: 專門的、特別的、特殊的
@@ -1584,6 +1601,7 @@ spread: 傳播、散布
 spreadsheet: 試算表、電子表格
 spurred: 促進、刺激
 square brackets: 中括號、方括號
+stance: 姿勢、立場、距離
 stand for: 代表、象徵
 stand: 立場、站立
 standing: 常駐的、站立的
@@ -1593,6 +1611,7 @@ statement: (通常比單一句子長)、聲明、陳述
 static: 不變的、靜態的、靜止的
 statically: 靜態地
 status: 狀態
+stead: 代替、位置、好處
 step: 步驟、階段
 still: 仍然、還是
 stimulated: 刺激
@@ -1638,6 +1657,7 @@ sufficient: 足夠的
 suffix: 後綴、後置
 suggest: 建議、暗示
 suggested: 建議的、推薦的
+suggesting: 建議的、暗示的
 suggestive: 啟發性的、暗示的
 suit: 合身、適合
 suitable: 合適的、適合的、適當的
@@ -1703,6 +1723,7 @@ throws: 投擲、拋出
 thus: 因此、如此、從而
 time: 倍數、時間、次數
 tinct: 特質、色彩
+tomorrow: 明天、明日
 toolkit: 工具包
 torn: 撕裂的、破碎的
 touches: 觸及
