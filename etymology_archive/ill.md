@@ -11,3 +11,7 @@
 約於1200年，“惡意地； 懷有敵意地”，來自 [ill](https://www.etymonline.com/tw/word/ill)（形容詞）。意思“不好，糟糕”的含義也來自於約1200年。它通常沒有像形容詞那樣轉移到身體疾病的領域。 Ill-fated 記錄於1710年； ill-informed 記錄於1824年； ill-tempered 約於1600年； ill-starred 約於1600年。通常與 well 形成對比，因此有用但現在已過時或不爲人知的詞彙有 illcome（1570年代）， illfare（約於1300年）和 [illth](https://www.etymonline.com/tw/word/illth)。  
 
 ---
+## ill (n.)
+mid-13c., ille, "evil, wrong, wickedness, depravity," c. 1300, "misfortune, calamity," from [ill](https://www.etymonline.com/tw/word/illetymonline_v_1509) (adj.).  
+
+---

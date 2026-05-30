@@ -200,10 +200,10 @@ def load_words_from_txt(file_path: str, target_list: list[str]) -> None:
     if not exists(file_path):
         return
     with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
-        words = re.findall(r"\b[a-zA-Z-]+\b", content)
+        words = f.readlines()
         for word in words:
-            if word and word not in target_list:
+            word = word.strip()
+            if word and "*" not in word and word not in target_list:
                 target_list.append(word)
 
 

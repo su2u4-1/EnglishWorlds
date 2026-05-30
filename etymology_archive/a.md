@@ -1,4 +1,4 @@
-# a
+# A
 ## A 
 “Alpha”是羅馬字母表中的第一個字母，源自希臘文“alpha”（見 [alpha](https://www.etymonline.com/tw/word/alpha) ）。音樂術語中自約1600年起被用作自然音階的第六個音符的名稱。它是由一個固定音高的樂器（通常是雙簧管或管風琴）演奏的音調，所有樂器都調整其音調以適應它。在血型中，“A”指代凝集原。雙面唱片的“A side”（自1962年起，見於 [side](https://www.etymonline.com/tw/word/side)）包含了所選用於宣傳的素材。 “A-bomb”，縮寫爲 atom bomb，自1945年8月8日起出現在報紙頭條中。  
 
