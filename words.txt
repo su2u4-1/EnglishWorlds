@@ -714,6 +714,7 @@ fold: 折疊、摺疊
 follow: 跟隨、遵循
 followed: 接著的、跟隨的
 following: 以下的、接著的
+fond: 喜歡的、愛好的
 font: 字型、字體
 forced: 強迫的、被迫的
 form: 形式、形狀、格式、組成、結構、表格
@@ -914,7 +915,8 @@ inter-: 中間、之間
 inter: 互相、交叉、交錯、介於...之間、國際的、在...之間
 interact: 互動
 interaction: 互動
-interest: 興趣
+interest: 利息、興趣
+interested: 感興趣的、關心的
 interesting: 引人入勝的、有趣的
 interface: 介面、界面
 interior: 內部、內部的、室內的、裡面
@@ -1385,9 +1387,11 @@ recursion: 反覆、遞歸、遞迴
 recursive: 反覆的、循環的、遞歸的
 recursively: 反覆地、遞歸地、遞迴地
 redeclare: 重新宣告
+redound: 回響、帶來、產生
 reduce: 減少、降低
+reducing: 減少的、降低的
 redundancies: 冗餘
-redundant: 冗餘的
+redundant: 冗余的、冗餘的、多餘的
 reexamine: 重新檢查、重新考察
 refer: 參考、引用、提到、提及
 reference: 參考、提及
@@ -1414,7 +1418,7 @@ relies: 依賴、依靠
 relocatable: 可重定位的
 relocate: 重新定位
 rely: 依賴、依靠
-remain: 保持、剩下、餘數
+remain: 仍然、保持、剩下、餘數
 remainder: 剩餘物、餘數
 remaining: 剩餘的、殘留的
 remind: 提示、提醒
@@ -1440,7 +1444,7 @@ requires: 要求、需要
 research: 研究、調查
 resemble: 相似、類似
 reserve: 保留、預約、預訂
-reserved: 保留的、預訂的
+reserved: 保留的、內向的、預訂的
 reside: 居住
 resolve: (= solve)、解決、解釋、解除
 resource: 資源
@@ -1469,6 +1473,8 @@ round brackets: 圓括號、小括號
 routine: 例行、例行公事、公事、慣例
 routinely: 例行公事地、常規地
 routines: 例行、例行公事、公事、常規、程序
+rubin: 魯賓
+ruby: 紅寶石
 ruin: 廢墟、毀壞、破壞
 rule: 規則、規律
 rules: 規則、規定、規律
@@ -1594,6 +1600,7 @@ specifies: 指定、明確說明、說明
 specify: 指定、明確、明確說明、特定、說明
 specifying: 指定、說明
 spent: (spend - spent - spent)、花費的
+spicy: 刺激的、辛辣的
 split: 分割、分裂、分開、平分
 splitting: 分割的、分裂的
 spontaneous: 本能的、自然的、自發的
@@ -1694,8 +1701,9 @@ talk: (talk - talked - talked)、說
 task: 任務
 taxi: 出租車、計程車
 tearing: 撕裂、撕開
+technical: 專業的、技術的
 technically: 技術上
-technique: 技巧、技術
+technique: 技巧、技術、方法
 technology: 科技
 tedious: 乏味的、冗長的
 tell: (tell - told - told)、告訴
@@ -1812,6 +1820,7 @@ variation: 不同、變化
 variations: 變化、變異
 variety: many kinds
 various: 不同的、各種的、多樣的
+vera: 真實的、真正的
 versus: 對、對抗、對比、與...相對
 viable: 可行的、能活下去的
 violating: 違反

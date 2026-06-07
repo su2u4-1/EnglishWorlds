@@ -263,3 +263,13 @@ decrease: 減少、降低
 crease: 皺褶、摺痕
 stance: 距離、立場、姿勢
 stead: 代替、位置、好處
+technical: 技術的、專業的
+vera: 真實的、真正的
+rubin: 魯賓
+ruby: 紅寶石
+reducing: 減少的、降低的
+-ment: ...的行為、過程、結果，名詞後綴
+redound: 產生、帶來、回響
+fond: 喜歡的、愛好的
+interested: 感興趣的、關心的
+spicy: 辛辣的、刺激的
